@@ -1,3 +1,41 @@
-baseURL = "http://example.org/"
+baseURL = "https://chiefhustler.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "The Chief's Blog"
+theme = "yinyang"
+DefaultContentLanguage = "en"
+
+googlefonts = "http://fonts.googleapis.com/css?family=Itim|Limelight"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    guessSyntax = true
+    noClasses = true
+    style = "bw"
+    tabWidth = 2
+
+[author]
+  name = "chiefhustlr"
+  homepage = "https://twitter.com/chiefhustlr"
+
+[languages]
+  [languages.en]
+    contentDir = "content"
+    languageName = "English"
+    weight = 1
+  
+
+[params]
+mainSections = ["posts"]
+headTitle = "Chief Hustler"
+#disqus = "chiefhustler" # disqus account name
+extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
+[[params.socials]]
+name = "Twitter"
+link = "https://twitter.com/chiefhustlr"
+postHeaderContent = ""
+postFooterContent = "<br/><br/><p>Subscribe to：<a target='_blank' href='https://mailchi.mp/a1a0d59e7a19/joway'>Joway's Blog</a></p>"
+# extraCSSFiles = ["css/foo.css", "css/bar.css"]
+extraCSSFiles = ["css/custom_style.css"]
