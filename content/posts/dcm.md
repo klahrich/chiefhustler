@@ -24,7 +24,7 @@ On the other hand, there was a reversal in the gross profit margin in 2020, as a
 
 ### New Markets
 
-In the summer of 2018, the company began serving an emerging new market, providing speciality label solutions to the cannabis market. DCM provides dynamic labeling services to 8 of the top 10 cannabis licensed producers, helping them keep up with the evolving Health Canada regulations anc compliance requirements.
+In the summer of 2018, the company began serving an emerging new market, providing speciality label solutions to the cannabis market. DCM provides dynamic labeling services to 8 of the top 10 cannabis licensed producers, helping them keep up with the evolving Health Canada regulations and compliance requirements.
 
 As of 2021Q1, this segment represents about 5% of the total revenues and has a higher gross margin (~35%).
 
@@ -77,7 +77,7 @@ For 2021, CAPEX is expected to be around $3M ($1.5M for plant maintenance and $1
 
 Working capital improvements should add about $5M to cash flow in 2021, but we will assume neutral impact after that.
 
-Finally, the depreciation tax shield should yield another $1M to free cash flow.
+Finally, the depreciation tax shield should yield another $1M to free cash flow per year.
 
 All in all, we can expect free cash flow to the firm of ~$23M in 2021.
 
