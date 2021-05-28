@@ -40,8 +40,11 @@ In Februray of 2021, the company announced that Michael Coté, President of DCM,
 In March of 2021, the company announced the departures of 4 seniors managers: 
 
 - Chris Lund, who joined in 2018 as Chief Innovation Officer, in connection with DCM's acquisition of Perennial
+
 - Kevin Lund, Chief Brand Officer, also coming from Perennial
-- Ralph Misale, Chief Operations Officer, who joined DCM following the acquisition of Eclipse.
+
+- Ralph Misale, Chief Operations Officer, who joined DCM following the acquisition of Eclipse
+
 - Edwina Fund, SVP Finance
 
 ### ERP
