@@ -6,7 +6,7 @@
     <description>Recent content on The Chief&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 May 2021 10:54:30 -0400</lastBuildDate><atom:link href="https://chiefhustler.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 May 2021 13:14:42 -0400</lastBuildDate><atom:link href="https://chiefhustler.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://chiefhustler.com/about/</link>
@@ -17,13 +17,25 @@
     </item>
     
     <item>
+      <title>I know</title>
+      <link>https://chiefhustler.com/posts/iknow/</link>
+      <pubDate>Sun, 30 May 2021 13:14:42 -0400</pubDate>
+      
+      <guid>https://chiefhustler.com/posts/iknow/</guid>
+      <description>What do you know? Today, I had this exchange with a fellow fintwitter:
+The highlighted statement reminds me of someone who once told me: &amp;ldquo;I know that Jesus will come back&amp;rdquo;
+I guess people like to use the word &amp;ldquo;know&amp;rdquo; to make their convictions sound like certainties.
+As of today, although it&amp;rsquo;s likely that Bitcoin will play some kind of role in the future, there is nothing knowable about what that role will be.</description>
+    </item>
+    
+    <item>
       <title>Data Communications Management</title>
       <link>https://chiefhustler.com/posts/dcm/</link>
       <pubDate>Tue, 18 May 2021 10:54:30 -0400</pubDate>
       
       <guid>https://chiefhustler.com/posts/dcm/</guid>
-      <description>DCM: Dunder Canada Mifflin? Data Communications Management is a 60 years old commercial printing services company, with added marketing and brand management solutions. Their core business is facing obvious secular challenges and is slowly declining.
-The company caters to big enterprise clients in multiple industries: banking, retail, healthcare, energy, cannabis, etc. According to the 2020 MD&amp;amp;A, the company provides services and products to 70 of the 100 largest corporations and government entities in Canada.</description>
+      <description>BLUF I am not taking a position in DCM as of today. While the stock is cheap in terms of multiples, the company is in the declining printing business and they need a mini-miracle to expand out of it into digital. I do not see a clear path towards a 10 bagger in 5 years.
+The cannabis labeling business represents only 5% of their revenues despite their market leader position in Canada.</description>
     </item>
     
   </channel>

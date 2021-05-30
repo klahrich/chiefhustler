@@ -5,6 +5,12 @@ draft: false
 categories: ["stocks"]
 ---
 
+# BLUF
+
+I am not taking a position in DCM as of today. While the stock is cheap in terms of multiples, the company is in the declining printing business and they need a mini-miracle to expand out of it into digital. I do not see a clear path towards a 10 bagger in 5 years. 
+
+The cannabis labeling business represents only 5% of their revenues despite their market leader position in Canada. In the US, they have yet to score a client and they are facing established competitors.
+
 # DCM: Dunder Canada Mifflin?
 
 ![dunder](/images/dunder.jpeg)
@@ -13,12 +19,12 @@ Data Communications Management is a 60 years old commercial printing services co
 
 The company caters to big enterprise clients in multiple industries: banking, retail, healthcare, energy, cannabis, etc. According to the 2020 MD&A, the company provides services and products to 70 of the 100 largest corporations and government entities in Canada. Renewal rate on existing businesses was 95% as of 2021Q1. 
 
-Unsurprisingly, the business is declining, losing ~$6.5M of revenues per year.
+Unsurprisingly, the printing business is declining, and the company's revenues are declining at the pace of ~$6.5M of revenues per year.
 
 ![dcm-revenues](/images/dcm-revenues.png)
 
 
-On the other hand, there was a reversal in the gross profit margin in 2020, as a result of better product mix, improved pricing, temporary layoffs during the pandemic and restructuring efforts started in 2019.
+On the other hand, there was a reversal in the gross margin in 2020, as a result of better product mix, improved pricing, temporary layoffs during the pandemic and restructuring efforts started in 2019.
 
 # Recent Developments
 
@@ -47,6 +53,8 @@ In March of 2021, the company announced the departures of 4 seniors managers:
 
 - Edwina Fund, SVP Finance
 
+All of these departures were probably not voluntary.
+
 ### ERP
 
 On June 3 2019, DCM launched a new ERP system across its core DCM business. DCM experienced numerous operational challenges in connection with the implementation of the ERP system, which led to a decline in production levels (and, as a result, lower revenue recognized) and shipments, and negatively impacted the processing of accurate and timely billings to customers. The lag in the issuance of invoices resulted in constraints on DCM’s working capital and financial liquidity. These challenges also required DCM to obtain from its senior lenders a number of waivers, amendments and related consents under the terms of its existing credit facilities.
@@ -67,7 +75,7 @@ As of 2021Q1, the total debt, including credit facilities and promissory notes, 
 
 # The Thesis
 
-2021 revenue should tick higher because of the pandemic ending and the reopening of businesses. The linear trend shows expected revenues around $280M (vs $260M in 2020) and a $6.5M yearly decrease in revenues.
+2021 revenue should tick higher because of the pandemic ending and the reopening of businesses, although that is not guarantee. The linear trend shows expected revenues around $280M (vs $260M in 2020) and a $6.5M yearly decrease in revenues.
 
 In 2020, the company achieved Adjusted EBITDA (excluding pandemic-related government grant and restructuring costs) of $19M, or $14M after tax, representing 7.5% of revenues. This is the pre IFRS-16 figure, i.e. after deduction of the lease payments. This is much higher than the previous years average, and according to management, is the result of a better mix of products, improved pricing, temporary layoffs and restructuring efforts started in 2019.
 
@@ -85,10 +93,8 @@ Finally, the depreciation tax shield should yield another $1M to free cash flow 
 
 All in all, we can expect free cash flow to the firm of ~$23M in 2021.
 
-The current market cap is $40M.
+The current market cap is $39M.
 
-With a WACC of 14% (estimated by the company), debt of $40M and a conservative 5% yearly decline in FCF starting at $23M:
+With a WACC of 14% (estimated by the company), debt of $48.3M and a conservative 5% yearly decline in FCF starting at $23M, if the company remains in business for 10 years and exits with $22.9M terminal value (implied growth rate -5%), present value of equity is $18.5M.
 
-- if the company remains in business for 10 years and exits with $0 terminal value, present value of equity is $61.5M
-
-- if the company remains in business for 5 years and exits with a $20M terminal value (half the current market cap), we break even (present value of equity ~ $42M)
+![dcm-fcf](/images/dcm-fcf.png)
