@@ -2,9 +2,10 @@
 title: "Portfolio Update - May 2021"
 date: 2021-06-02T14:33:36-04:00
 draft: false
+categories: ["portfolio"]
 ---
 
-# Protfolio value: CA$805,673
+# Portfolio value: CA$805,673
 
 Below is the portfolio's performance YTD (time-weighted cumulative return). The month's performances assume cashflows occured mid-month. USD holdings are excluded but quite small at the moment.
 
