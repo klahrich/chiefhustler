@@ -11,6 +11,9 @@ I am not taking a position in DCM as of today. While the stock is cheap in terms
 
 The cannabis labeling business represents only 5% of their revenues despite their market leader position in Canada. In the US, they have yet to score a client and they are facing established competitors.
 
+_Update (2021-06-01): <br/>
+Of course, a few days after I published this, the stock runs up 16%. Great_ :triumph:.
+
 # DCM: Dunder Canada Mifflin?
 
 ![dunder](/images/dunder.jpeg)

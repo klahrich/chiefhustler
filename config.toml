@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "The Chief's Blog"
 theme = "yinyang"
 DefaultContentLanguage = "en"
+enableEmoji = true
 
 googlefonts = "http://fonts.googleapis.com/css?family=Itim|Limelight"
 
