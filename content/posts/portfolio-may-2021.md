@@ -17,10 +17,11 @@ The positions as of May 31st 2021 are as follows:
 
 **XX.V** and **AEP.V** are new additions. They are both roll-ups in a boring industry. The stocks are cheap.
 
-**NUR.V** has been a drag. In hindsight, it was an over-sized and ill-timed bet. 
+**NUR.V** has been a drag. In hindsight, it was an over-sized and rushed bet. 
 
 While I'm comfortable with my **WELL.TO** and **CTS.TO** positions, I will most likely trim them a bit and add to the two cheaper ones mentioned above.
 
 **MKO.V** is an undervalued cashflowing gold miner.
+
 
 
