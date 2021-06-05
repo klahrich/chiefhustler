@@ -17,7 +17,7 @@ The positions as of May 31st 2021 are as follows:
 
 ![positions-may-2021](/images/positions-may-2021.png)
 
-**XX.V** and **AEP.V** are new additions. They are both roll-ups in a boring industry. The stocks are cheap.
+**XX.V** and **AEP.V** are new additions. They are both roll-ups in a boring industry. The stocks are cheap. I spoke on the phone with the CEO of **AEP.V**. I like him.
 
 **NUR.V** has been a drag. In hindsight, it was an over-sized and rushed bet. 
 
