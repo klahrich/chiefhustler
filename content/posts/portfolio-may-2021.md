@@ -5,13 +5,11 @@ draft: false
 categories: ["portfolio"]
 ---
 
-# Portfolio value: CA$805,673
-
 Below is the portfolio's performance YTD (time-weighted cumulative return). The month's performances assume cashflows occured mid-month. USD holdings are excluded but quite small at the moment.
 
 ![tracker-may2021](/images/tracker-may2021.png)
 
-The positive performance was driven mainly by **CTS.TO** (+$46K) which has been a great holding so far (up more than 100% since first purchase), and **NUR.CN** (+$13K) which is down around 30% since first purchase but made a nice comeback this month. The big losers were **PBX.V** (-$5K), **JTR.V** (-$4K) and **NEWU.V** (-$2K).
+The positive performance was driven mainly by **CTS.TO** which has been a great holding so far (up more than 100% since first purchase), and **NUR.CN** which is down around 30% since first purchase but made a nice comeback this month. The big losers were **PBX.V**, **JTR.V** and **NEWU.V**.
 
 **PBX.V** was trimmed significantly this month in expectation of the shares and warrants that will become free-trading on June 10th, on top of the uncertainty around used cars availability during the month of May. If the stock goes lower in June, I will re-enter. The CEO Kelly Jennings has been buying relentlessly in the open market as of late.
 
