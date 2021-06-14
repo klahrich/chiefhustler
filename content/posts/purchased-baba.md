@@ -7,7 +7,7 @@ categories: ["stocks"]
 
 ### Thesis Summary
 
-Charlie Munger bought some (19% of The Daily Journal's portfolio). The last time he bought something was in 2014. The current price is lower than when he bought. 
+Charlie Munger bought some (19% of The Daily Journal's portfolio). The last time he bought something was in 2014. The current price is lower than when he bought. Sentiment on the stock is probably near peak pessimism.
 
 ### Details
 
@@ -25,7 +25,7 @@ Another comment I keep reading is about the shady Chinese accounting standards. 
 
 Finally, there has been mention of the impeding demographic cliff in China. However in my view, this applies to western countries as well.
 
-The stock has been hit with a triple-whammy: the tech sector sell-off, negative sentiment towards chinese stocks, and Jack Ma's misplaced bravado. I would not be surprised by a 25%+ upwards correction when sentiment changes.
+The stock has been hit with a quadruple-whammy: the tech sector sell-off, negative sentiment towards chinese stocks, delisting fears, and Jack Ma's misplaced bravado. I would not be surprised by a 25%+ upwards correction when sentiment changes.
 
 I have a ~1% position. I'm happy to double down if the stock keeps dipping.
 
