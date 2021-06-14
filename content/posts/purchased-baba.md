@@ -15,7 +15,7 @@ Charlie Munger bought some (19% of The Daily Journal's portfolio). The last time
 
 ![baba-pe](/images/baba_pe.png)
 
-**Alibaba is a cashflow monster with tremendous survivability and optionality**. Daniel Zhang, Alibaba's CEO and Chairman, explains in [this video](https://www.youtube.com/watch?v=IGabqBY0qmo&t=638s) that Alibaba is in fact an _infrastructure service provider_, including e-commerce, logistics and cloud computing to all their business partners who want to achieve a digital transformation. This goes back to the original mission of the company, which is to make it easy to do business anywhere.
+**Alibaba is a cashflow monster with tremendous survivability and optionality**. Daniel Zhang, Alibaba's CEO and Chairman, explains in [this video](https://www.youtube.com/watch?v=IGabqBY0qmo&t=638s) that Alibaba is in fact an _infrastructure service provider_ (including e-commerce, logistics and cloud computing) to all their business partners who want to achieve a digital transformation. This goes back to the original mission of the company, which is to make it easy to do business anywhere.
 
 The company was recently slapped with a one-time $2.8B anti-monopoly fine (4% of revenue), not long after Jack Ma publicly criticized Chinese regulators. Ant Group's IPO was cancelled as well. 
 
