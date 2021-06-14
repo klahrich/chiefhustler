@@ -7,7 +7,7 @@ categories: ["stocks"]
 
 ### Thesis Summary
 
-Charlie Munger bought some. The last time he bought something was in 2014. The current price is lower than when he bought. 
+Charlie Munger bought some (19% of The Daily Journal's portfolio). The last time he bought something was in 2014. The current price is lower than when he bought. 
 
 ### Details
 
