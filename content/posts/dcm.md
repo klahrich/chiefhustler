@@ -1,11 +1,11 @@
 ---
-title: "Data Communications Management"
+title: "$DCM - buying opportunity?"
 date: 2021-05-18T10:54:30-04:00
 draft: false
 categories: ["stocks"]
 ---
 
-# BLUF
+# Bottom line up front
 
 I am not taking a position in DCM as of today. While the stock is cheap in terms of multiples, the company is in the declining printing business and they need a mini-miracle to expand out of it into digital. I do not see a clear path towards a 10 bagger in 5 years. 
 
