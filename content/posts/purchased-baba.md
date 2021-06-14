@@ -7,7 +7,7 @@ categories: ["stocks"]
 
 ### Thesis Summary
 
-Charlie Munger bought some. The last time he bought something was in 2014. The current price is lower than when he bought.
+Charlie Munger bought some. The last time he bought something was in 2014. The current price is lower than when he bought. Even at 97 years old, I trust Charlie's judgement and integroty more than 99.99% of humans alive.
 
 ### Details
 
