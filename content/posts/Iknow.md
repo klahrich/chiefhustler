@@ -13,7 +13,7 @@ Today, I had this exchange with a fellow fintwitter:
 
 ![Iknow](/images/iknow.png)
 
-The highlighted statement reminds me of someone who once told me: <div style="text-align:center; font-family:'Tahoma'; color:gray"> "I know that Jesus will come back"</div></br>
+The highlighted statement reminds sounds to me like: <div style="text-align:center; font-family:'Tahoma'; color:gray"> "I know that Jesus will come back"</div></br>
 
 I guess people like to use the word "know" to make their convictions sound like certainties. 
 
