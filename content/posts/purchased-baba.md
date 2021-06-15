@@ -31,9 +31,11 @@ Charlie Munger bought some (19% of The Daily Journal's portfolio). The last time
 
 ### My take
 
-The stock has been hit with a quadruple-whammy: the tech sector sell-off, negative sentiment towards chinese stocks, delisting fears, and Jack Ma's misplaced bravado. I would not be surprised by a 25%+ upwards correction when sentiment changes.
+The stock has been hit with a quadruple-whammy: the tech sector sell-off, negative sentiment towards chinese stocks, delisting fears, and Jack Ma's misplaced bravado. 
 
 Of the risks enumerated above, the one that bothers me the most is the delisting threat. I don't think that my shitty Canadian broker would allow me to salvage anything if it came to materialize. 
+
+On the other hand, the biggest and most unfair advantage that I see for Alibaba is that it is now entrenched in the Chinese economy in a way that few other companies are, in China or elsewhere. And contrary to many, I see the relationship with the Chinese regulators as a symbiotic one and an additional moat, not a threat.
 
 I have a ~1.5% position. 
 
