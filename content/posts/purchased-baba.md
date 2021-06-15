@@ -33,8 +33,10 @@ _P.S. While I respect anyone who is able to do fundamental valuation on this com
 
 ---
 
-Some [quotes](https://www.youtube.com/watch?v=mRXS7tByziI) from Charlie Munger on China and investing:
+Some [quotes](https://www.youtube.com/watch?v=mRXS7tByziI) from Charlie Munger on China and investing (2018):
 
 "I anticipate the China securities market and investing practices will get better and better for a long, long time."
 
 "You buy the best companies in China or the best companies in the United States, I think at the current prices the best companies in China are selling cheaper".
+
+"If you're a better person, you're likely to be a better investor. And if you're a wiser person, you're likely to be a better investor."
