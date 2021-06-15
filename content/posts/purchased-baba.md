@@ -30,3 +30,11 @@ The stock has been hit with a quadruple-whammy: the tech sector sell-off, negati
 I have a ~1% position. I'm happy to double down if the stock keeps dipping.
 
 _P.S. While I respect anyone who is able to do fundamental valuation on this company based on normalized steady-state cashflow, ROIIC, cost of capital, future growth expectations, and what-not...I think this opportunity is a good example of "you don't have to be a stock market genius"._
+
+---
+
+Some [quotes](https://www.youtube.com/watch?v=mRXS7tByziI) from Charlie Munger on China and investing:
+
+"I anticipate the China securities market and investing practices will get better and better for a long, long time."
+
+"You buy the best companies in China or the best companies in the United States, I think at the current prices the best companies in China are selling cheaper".
