@@ -23,7 +23,7 @@ Compare to AMZN (similar growth) trading at:
 - ~58 EV/EBIT(ltm)
 - ~53 EV/FCF(ltm)
 
-Notice the discrepancy between the comparisons of EBITDA on one hand and EBIT or FCF on the other, which reflect the asset-light nature of Alibaba's business. 
+The discrepancy between the comparisons of EBITDA on one hand and EBIT or FCF on the other reflects the asset-light nature of Alibaba's business. 
 
 The company has positive net cash.
 
