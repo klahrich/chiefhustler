@@ -11,7 +11,7 @@ Charlie Munger bought some (19% of The Daily Journal's portfolio). The last time
 
 ### Quantitative
 
-**$BABA** is trading at near all-time lows of ~28 EV/EBITDA(ltm), ~40 EV/EBIT(ltm) and ~17 EV/FCF(ltm) while growth is around 30% YoY. Compare to AMZN at ~30 EV/EBITDA(ltm), ~58 EV/EBIT(ltm) and ~53 EV/FCF(ltm) with similar growth. Notice the discrepancy between the comparisons of EBITDA on one hand and EBIT or FCF on the other, which reflect the asset-light nature of Alibaba's business. Balance sheet is looking sexy as well with tons of net cash on hand.
+**$BABA** is trading at near all-time lows of ~28 EV/EBITDA(ltm), ~40 EV/EBIT(ltm) and ~17 EV/FCF(ltm) while growth is around 30% YoY. Compare to AMZN at ~30 EV/EBITDA(ltm), ~58 EV/EBIT(ltm) and ~53 EV/FCF(ltm) with similar growth. Notice the discrepancy between the comparisons of EBITDA on one hand and EBIT or FCF on the other, which reflect the asset-light nature of Alibaba's business. The company has positive net cash.
 
 ![baba-pe](/images/baba_pe.png)
 
