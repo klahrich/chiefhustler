@@ -25,6 +25,8 @@ _We plan to invest all of our incremental profits in this coming year into core 
 
 The martket didn't seem to like this. I do.
 
+[Monish Pabrai on Alibaba](https://www.youtube.com/watch?v=K4mggdrMHVo) (at 38:39): _"If I'm buying it, I must like it."_
+
 ### Risks
 
 - At the end of Donald Trump's tenure, there was a lot of political tension with China. Delisting of Chinese public companies from the NYSE seemed like a serious possibility. 
