@@ -57,7 +57,7 @@ The stock has been hit with a quadruple-whammy: the tech sector sell-off, negati
 
 Of the risks enumerated above, the one that bothers me the most is the delisting threat. I don't think that my shitty Canadian broker would allow me to salvage anything if it came to materialize. 
 
-On the other hand, the biggest and most unfair advantage that I see for Alibaba is that it is now entrenched in the Chinese economy in a way that few other companies are, in China or elsewhere. 
+On the other hand, the biggest and most unfair advantage I see for Alibaba is that it is now entrenched in the Chinese economy in a way that few other companies are, in China or elsewhere. 
 
 I have a ~1.5% position. 
 
