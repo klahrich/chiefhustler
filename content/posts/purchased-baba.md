@@ -52,3 +52,5 @@ Some [quotes](https://www.youtube.com/watch?v=mRXS7tByziI) from Charlie Munger o
 - [Old school value: Alibaba Is A No Brainer](https://www.oldschoolvalue.com/stock-analysis/alibaba-no-brainer/)
 
 - [Seeking Alpha: Alibaba: What To Watch For](https://seekingalpha.com/article/4434693-why-i-think-baba-is-about-to-rally)
+
+- [Seeking Alpha: Beware Of The Risks In Buying Alibaba](https://seekingalpha.com/article/4434615-beware-of-the-risks-in-buying-alibaba)
