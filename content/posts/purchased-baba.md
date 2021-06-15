@@ -11,7 +11,7 @@ Charlie Munger bought some (19% of The Daily Journal's portfolio). The last time
 
 ### Details
 
-**$BABA** is trading at ~ 20 ntm P/E while growing at 20%+ YoY (~ 16x FCF), a near all-time low (comparions point: AMZN ~ 58 ntm P/E). Balance sheet looking sexy as well with tons of net cash on hand.
+**$BABA** is trading at ~ 20 ntm P/E (~ 16x FCF), a near all-time low (compare to AMZN ~ 58 ntm P/E), while growth is steadily above 20% YoY. Balance sheet is looking sexy as well with tons of net cash on hand.
 
 ![baba-pe](/images/baba_pe.png)
 
