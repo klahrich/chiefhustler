@@ -51,9 +51,9 @@ I have a ~1.5% position.
 
 Some [quotes](https://www.youtube.com/watch?v=mRXS7tByziI) from Charlie Munger on China and investing (2018):
 
-"I anticipate the China securities market and investing practices will get better and better for a long, long time."
+_"I anticipate the China securities market and investing practices will get better and better for a long, long time."_
 
-"You buy the best companies in China or the best companies in the United States, I think at the current prices the best companies in China are selling cheaper".
+_"You buy the best companies in China or the best companies in the United States, I think at the current prices the best companies in China are selling cheaper"._
 
 **Other perspectives:**
 
