@@ -19,6 +19,12 @@ Charlie Munger bought some (19% of The Daily Journal's portfolio). The last time
 
 **Alibaba is a cashflow monster with tremendous survivability and optionality**. Daniel Zhang, Alibaba's CEO and Chairman, explains in [this video](https://www.youtube.com/watch?v=IGabqBY0qmo&t=638s) that Alibaba is in fact an _infrastructure service provider_ (including e-commerce, logistics and cloud computing) to all their business partners who want to achieve a digital transformation. This goes back to the original mission of the company, which is to _make it easy to do business anywhere_. The cloud business of Alibaba in particular is just getting started.
 
+In Alibaba's last [earnings call](https://seekingalpha.com/article/4434615-beware-of-the-risks-in-buying-alibaba), the CEO said this regarding the use of future profits:
+
+_We plan to invest all of our incremental profits in this coming year into core strategic areas such as technology innovation, support programs for merchants to lower their operating costs, user acquisition and experience enhancement, merchandising and supply chain capabilities, infrastructure development, and new business initiatives._
+
+The martket didn't seem to like this. I do.
+
 ### Risks
 
 - At the end of Donald Trump's tenure, there was a lot of political tension with China. Delisting of Chinese public companies from the NYSE seemed like a serious possibility. 
