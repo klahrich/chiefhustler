@@ -55,7 +55,7 @@ Some [quotes](https://www.youtube.com/watch?v=mRXS7tByziI) from Charlie Munger o
 
 "You buy the best companies in China or the best companies in the United States, I think at the current prices the best companies in China are selling cheaper".
 
-**Some links:**
+**Other perspectives:**
 
 - [Old school value: Alibaba Is A No Brainer](https://www.oldschoolvalue.com/stock-analysis/alibaba-no-brainer/)
 
