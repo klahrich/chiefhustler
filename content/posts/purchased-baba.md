@@ -29,7 +29,7 @@ Finally, there has been mention of the impeding demographic cliff in China. Howe
 
 I have a ~1% position. I'm happy to double down if the stock keeps dipping.
 
-Of the risks I enumerated above, the one that bothers me the most is the delisting threat, because I don't think that my shitty Canadian broker would allow me to salvage anything. If it wasn't for this risk, I would make this a much bigger position.
+Of the risks enumerated above, the one that bothers me the most is the delisting threat, because I don't think that my shitty Canadian broker would allow me to salvage anything if it came to materialize. If it wasn't for this risk, I would make this a much bigger position.
 
 _P.S. While I respect anyone who is able to do fundamental valuation on this company based on normalized steady-state cashflow, ROIIC, cost of capital, future growth expectations, and what-not...I think this opportunity is a good example of "you don't have to be a stock market genius"._
 
