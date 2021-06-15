@@ -18,6 +18,7 @@ Charlie Munger bought some (19% of The Daily Journal's portfolio). The last time
 - ~17 EV/FCF(ltm)
 
 Compare to AMZN (similar growth) trading at:
+
 - ~30 EV/EBITDA(ltm)
 - ~58 EV/EBIT(ltm)
 - ~53 EV/FCF(ltm)
