@@ -37,8 +37,6 @@ Of the risks enumerated above, the one that bothers me the most is the delisting
 
 I have a ~1% position. I'm happy to double down if the stock keeps dipping.
 
-_P.S. While I respect anyone who is able to do fundamental valuation on this company based on normalized steady-state cashflow, ROIIC, cost of capital, future growth expectations, and what-not...I think this opportunity is a good example of "you don't have to be a stock market genius"._
-
 ---
 
 Some [quotes](https://www.youtube.com/watch?v=mRXS7tByziI) from Charlie Munger on China and investing (2018):
