@@ -35,7 +35,7 @@ The stock has been hit with a quadruple-whammy: the tech sector sell-off, negati
 
 Of the risks enumerated above, the one that bothers me the most is the delisting threat. I don't think that my shitty Canadian broker would allow me to salvage anything if it came to materialize. 
 
-I have a ~1% position. I'm happy to double down if the stock keeps dipping.
+I have a ~1.5% position. 
 
 ---
 
