@@ -1,5 +1,5 @@
 ---
-title: "New position: $BABA"
+title: "Investment thesis: $BABA"
 date: 2021-06-13T12:24:29-04:00
 draft: false
 categories: ["stocks"]
