@@ -27,7 +27,7 @@ Charlie Munger bought some (19% of The Daily Journal's portfolio). The last time
 
 - The Chinese have a reputation for shady accounting standards. 
 
-- The impeding demographic cliff in China due to the one-child policy, which could impede GDP growth if not mitigated by higher productivity. 
+- There is an impeding demographic cliff in China due to the one-child policy, which could impede GDP growth if not mitigated by higher productivity. 
 
 ### My take
 
