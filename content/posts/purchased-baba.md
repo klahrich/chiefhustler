@@ -9,27 +9,33 @@ categories: ["stocks"]
 
 Charlie Munger bought some (19% of The Daily Journal's portfolio). The last time he bought something was in 2014. The current price is lower than when he bought. Sentiment on the stock is probably near peak pessimism. Valuation is cheap. Growth, optionality, FCF and balance sheet are very strong.
 
-### Details
+### Quantitative
 
-**$BABA** is trading at ~ 20 ntm P/E (~ 16x FCF), a near all-time low (compare to AMZN ~ 58 ntm P/E), while growth is steadily above 20% YoY. Balance sheet is looking sexy as well with tons of net cash on hand.
+**$BABA** is trading at near all-time lows ~28 EV/EBITDA(ltm), ~40 EV/EBIT(ltm) and ~17 EV/FCF(ltm) while growth is around 30% YoY. Compare to AMZN at ~30 EV/EBITDA(ltm), ~58 EV/EBIT(ltm) and ~53 EV/FCF(ltm) with similar growth. Notice the discrepancy between the comparisons of EBITDA on one hand and EBIT or FCF on the other, which reflect the asset-light nature of Alibaba's business. Balance sheet is looking sexy as well with tons of net cash on hand.
 
 ![baba-pe](/images/baba_pe.png)
 
+### Qualitative
+
 **Alibaba is a cashflow monster with tremendous survivability and optionality**. Daniel Zhang, Alibaba's CEO and Chairman, explains in [this video](https://www.youtube.com/watch?v=IGabqBY0qmo&t=638s) that Alibaba is in fact an _infrastructure service provider_ (including e-commerce, logistics and cloud computing) to all their business partners who want to achieve a digital transformation. This goes back to the original mission of the company, which is to **make it easy to do business anywhere**.
 
-The company was recently slapped with a one-time $2.8B anti-monopoly fine (4% of revenue), not long after Jack Ma publicly criticized Chinese regulators. Ant Group's IPO was cancelled as well. 
+### Risks
 
-Basically, Jack Ma had momentarily forgotten the rules of the game, and the CCP gently reminded him. I'm not overly worried about this. The CCP has a symbiotic relationship with big corporations and everyone has an incentive to keep this relationship healthy.
+- At the end of Donald Trump's tenure, there was a lot of political tension with China. Delisting of Chinese public companies from the NYSE seemed like a serious possibility. 
 
-Another comment I keep reading is about the shady Chinese accounting standards. Yes, that's a source of risk. While I would never trust my money with a Chinese small-cap, I don't think it's a significant risk in the case of Alibaba. 
+- The company was recently slapped with a one-time $2.8B anti-monopoly fine (4% of revenue), not long after Jack Ma publicly criticized Chinese regulators. Ant Group's IPO was cancelled as well. Jack Ma had momentarily forgotten the rules of the game, and the CCP reminded him. 
 
-Finally, there has been mention of the impeding demographic cliff in China. However in my view, this applies to western countries as well.
+- The Chinese have a reputation for shady accounting standards. 
 
-**The stock has been hit with a quadruple-whammy: the tech sector sell-off, negative sentiment towards chinese stocks, delisting fears, and Jack Ma's misplaced bravado. I would not be surprised by a 25%+ upwards correction when sentiment changes.**
+- The impeding demographic cliff in China due to the one-child policy, which could impede GDP growth if not mitigated by higher productivity. 
+
+### My take
+
+The stock has been hit with a quadruple-whammy: the tech sector sell-off, negative sentiment towards chinese stocks, delisting fears, and Jack Ma's misplaced bravado. I would not be surprised by a 25%+ upwards correction when sentiment changes.
+
+Of the risks enumerated above, the one that bothers me the most is the delisting threat. I don't think that my shitty Canadian broker would allow me to salvage anything if it came to materialize. 
 
 I have a ~1% position. I'm happy to double down if the stock keeps dipping.
-
-Of the risks enumerated above, the one that bothers me the most is the delisting threat, because I don't think that my shitty Canadian broker would allow me to salvage anything if it came to materialize. If it wasn't for this risk, I would make this a much bigger position.
 
 _P.S. While I respect anyone who is able to do fundamental valuation on this company based on normalized steady-state cashflow, ROIIC, cost of capital, future growth expectations, and what-not...I think this opportunity is a good example of "you don't have to be a stock market genius"._
 
