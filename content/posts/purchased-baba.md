@@ -29,6 +29,10 @@ The company has positive net cash.
 
 ![baba-pe](/images/baba_pe.png)
 
+I use an ultra-simple [DCF template](https://drive.google.com/file/d/18KAj4J1ndalSJ8_fb1SqX7LTxa2rauv4/view?usp=sharing) to get a ball-park idea of what a company could be worth. My template has 3 phases: growth, sustain and decay. The length of each period is a parameter, as well as the growth rate and the discount factor.
+
+In the case of **$BABA**, using a starting FCF of $27B, a growth period of 10 years at 20% growth rate, a sustain period of 20 years, a decay period of 10 years and a discount rate of 15%, I get an Enterprise Value of $636B. This gives a 15% margin of safety above the current EV of $544B.
+
 ### Qualitative
 
 **Alibaba is a cashflow monster with tremendous survivability and optionality**. Daniel Zhang, Alibaba's CEO and Chairman, explains in [this video](https://www.youtube.com/watch?v=IGabqBY0qmo&t=638s) that Alibaba is in fact an _infrastructure service provider_ (including e-commerce, logistics and cloud computing) to all their business partners who want to achieve a digital transformation. This goes back to the original mission of the company, which is to _make it easy to do business anywhere_. The cloud business of Alibaba in particular is just getting started.
@@ -37,7 +41,7 @@ In Alibaba's last [earnings call](https://seekingalpha.com/article/4434615-bewar
 
 _We plan to invest all of our incremental profits in this coming year into core strategic areas such as technology innovation, support programs for merchants to lower their operating costs, user acquisition and experience enhancement, merchandising and supply chain capabilities, infrastructure development, and new business initiatives._
 
-The martket didn't seem to like this. I do.
+The market didn't seem to like this. I do.
 
 [Monish Pabrai on Alibaba](https://www.youtube.com/watch?v=K4mggdrMHVo) (at 38:39): _"If I'm buying it, I must like it."_
 
