@@ -35,7 +35,7 @@ In the case of **$BABA**, using a starting unlevered FCF of $27B, a growth perio
 
 ### Qualitative
 
-**Alibaba is a cashflow monster with tremendous survivability and optionality**. Daniel Zhang, Alibaba's CEO and Chairman, explains in [this video](https://www.youtube.com/watch?v=IGabqBY0qmo&t=638s) that Alibaba is in fact an _infrastructure service provider_ (including e-commerce, logistics and cloud computing) to all their business partners who want to achieve a digital transformation. This goes back to the original mission of the company, which is to _make it easy to do business anywhere_. The cloud business of Alibaba in particular is just getting started.
+**Alibaba is a cashflow monster with tremendous survivability and optionality**. Daniel Zhang, Alibaba's CEO and Chairman, explains in [this video](https://www.youtube.com/watch?v=IGabqBY0qmo&t=638s) that Alibaba is in fact an _infrastructure service provider_ (including e-commerce, logistics and cloud computing) to all their business partners who want to achieve a digital transformation. This goes back to the original mission of the company, which is to _make it easy to do business anywhere_. The cloud business of Alibaba in particular is just getting started and similarly to Amazon/AWS, they can use their core e-commerce business to feed and improve their cloud business.
 
 In Alibaba's last [earnings call](https://seekingalpha.com/article/4434615-beware-of-the-risks-in-buying-alibaba), the CEO said this regarding the use of future profits:
 
