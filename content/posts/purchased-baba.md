@@ -29,7 +29,7 @@ The company has positive $46B net cash.
 
 ![baba-pe](/images/baba_pe.png)
 
-I use an ultra-simple [DCF template](https://drive.google.com/file/d/18KAj4J1ndalSJ8_fb1SqX7LTxa2rauv4/view?usp=sharing) to get a ballpark idea of what a company could be worth. My template has 3 phases: growth, sustain (0% growth) and decay. The length of each period is a parameter, as well as the growth rate and the discount factor.
+I use an ultra-simple [DCF template](https://drive.google.com/file/d/18KAj4J1ndalSJ8_fb1SqX7LTxa2rauv4/view?usp=sharing) to get a ballpark idea of what a company could be worth. My template has 3 phases: growth, sustain (0% growth) and decay. The length of each period is a parameter, as well as the growth rate and the discount factor. I assume the company dies at the end of the decay period.
 
 In the case of **$BABA**, using a starting unlevered FCF of $27B, a growth period of 10 years at 20% growth rate, a sustain period of 20 years, a decay period of 10 years and a discount rate of 15%, I get an enterprise value of $636B. This gives me a 15% margin of safety above the current EV of $544B.
 
