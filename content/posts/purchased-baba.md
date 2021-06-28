@@ -7,7 +7,7 @@ categories: ["stocks"]
 
 ### Thesis Summary
 
-Charlie Munger bought some (19% of The Daily Journal's portfolio). The last time he bought something was in 2014. The current price is lower than when he bought. Sentiment on the stock is probably near peak pessimism. Valuation is cheap. Growth, optionality, FCF and balance sheet are very strong.
+Charlie Munger bought some (19% of The Daily Journal's portfolio). The last time he bought something was in 2014. Mohnish Pabrai has bought as well. The current price is lower than when they bought. Sentiment on the stock is probably near peak pessimism. Valuation is cheap. Growth, optionality, FCF and balance sheet are very strong.
 
 ### Quantitative
 
