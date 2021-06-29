@@ -7,7 +7,7 @@ categories: ["stocks"]
 
 ### Thesis Summary
 
-Charlie Munger bought some (19% of The Daily Journal's portfolio). The last time he bought something was in 2014. Mohnish Pabrai has bought as well. The current price is lower than when they bought. Sentiment on the stock is probably near peak pessimism. Valuation is cheap. Growth, optionality, FCF and balance sheet are very strong.
+Charlie Munger bought some (19% of The Daily Journal's portfolio). The last time he bought something was in 2014. Mohnish Pabrai is partaking. The current price is lower than when either of them bought. Sentiment on the stock is probably near peak pessimism. Valuation is cheap. Growth, optionality, FCF and balance sheet are very strong.
 
 ### Quantitative
 
@@ -64,6 +64,8 @@ Of the risks enumerated above, the one that bothers me the most is the delisting
 On the other hand, the biggest and most unfair advantage I see for Alibaba is that it is now entrenched in the Chinese economy in a way that few other companies are, in China or elsewhere. 
 
 I have a ~1.5% position. 
+
+Update (June 28): Between the shares and the LEAP calls, $BABA is ~5% of my portfolio.
 
 ---
 
