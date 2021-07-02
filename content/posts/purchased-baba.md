@@ -5,7 +5,7 @@ draft: false
 categories: ["stocks"]
 ---
 
-### Thesis Summary
+## Thesis Summary
 
 Charlie Munger bought some (19% of The Daily Journal's portfolio). The last time he bought something was in 2014. Mohnish Pabrai is partaking. The current price is lower than when either of them bought. Sentiment on the stock is probably near peak pessimism. Valuation is cheap. Growth, optionality, FCF and balance sheet are very strong.
 
@@ -33,7 +33,7 @@ I use an ultra-simple [DCF template](https://drive.google.com/file/d/18KAj4J1nda
 
 In the case of **$BABA**, using a starting unlevered FCF of $27B, a growth period of 10 years at 20% growth rate, a sustain period of 20 years, a decay period of 10 years and a discount rate of 15%, I get an enterprise value of $636B. This gives me a 15% margin of safety above the current EV of $544B.
 
-### Qualitative
+## Qualitative
 
 **Alibaba is a cashflow monster with tremendous survivability and optionality**. Daniel Zhang, Alibaba's CEO and Chairman, explains in [this video](https://www.youtube.com/watch?v=IGabqBY0qmo&t=638s) that Alibaba is in fact an _infrastructure service provider_ (including e-commerce, logistics and cloud computing) to all their business partners who want to achieve a digital transformation. This goes back to the original mission of the company, which is to _make it easy to do business anywhere_. The cloud business of Alibaba in particular is just getting started and similarly to Amazon/AWS, they can use their core e-commerce business to feed and improve their cloud business.
 
@@ -45,7 +45,7 @@ The market didn't seem to like this. I do.
 
 [Monish Pabrai on Alibaba](https://www.youtube.com/watch?v=K4mggdrMHVo) (at 38:39): _"If I'm buying it, I must like it."_
 
-### Risks
+## Risks
 
 - At the end of Donald Trump's tenure, there was a lot of political tension with China. Delisting of Chinese public companies from the NYSE seemed like a serious possibility. 
 
@@ -55,7 +55,7 @@ The market didn't seem to like this. I do.
 
 - There is a demographic cliff coming in China due to the one-child policy, which could impede GDP growth if not mitigated by higher productivity. 
 
-### My take
+## My take
 
 The stock has been hit with a quadruple-whammy: the tech sector sell-off, negative sentiment towards chinese stocks, delisting fears, and Jack Ma's misplaced bravado. 
 
