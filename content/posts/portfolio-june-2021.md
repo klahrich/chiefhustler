@@ -71,5 +71,7 @@ The recent private placement increases my confidence in this position as an inve
 
 I expect we can reach $50M revenues in 2023 based on the Orange contract alone, with 50% EBITDA margin (according to management). A $5 share price in 3 years does seem achievable, giving me a reasonable 27% IRR from my $2.40 cost basis.
 
+I haven't mentioned other potential contracts in Africa. I want to remain conservative. Additional contracts would certainly be more than welcome at this stage.
+
 Despite the potential upside, the size of this bet makes no sense. When I made it in February, the market was looking gloomy and I overreacted, thinking this was my way out. <u>I massively underestimated the future cost of opportunity</u>. My ability to source ideas has drastically increased since then (especially since I've started invested south of the border) but I find myself short on cash. A big chunk of my capital is now tied in this one position and I don't think it is enough of a solid bet to warrant such a commitment.
 
