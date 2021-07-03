@@ -11,6 +11,6 @@ I saw this today on twitter:
 
 ![think](/images/think.png)
 
-While I agree that market dislocations (between price and value) would naturally occur more frequently in the micro and small cap universe, they can also be found with large caps. $BABA would be a good recent example.
+While I agree that market dislocations (between price and value) naturally occur more frequently in the micro and small cap universe, they can also be found with large caps. **$BABA** would be a good recent example.
 
 But more importantly, whether I agree with the point or not, the argument (highlighted in the screenshot) does not by itself support the conclusion. It's a weak attempt at inductive reasoning.
