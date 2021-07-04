@@ -25,7 +25,7 @@ Recent cloning examples are:
 
 After having cloned an investment decision, I can put in the work and improve my understanding of the business, which is necessary to be able to withstand periods of high volatility. 
 
-In other words, cloning someone who knows what they're doing allows me to acquire a small position which I would not have been able to otherwise. Then I can try and stretch my circle of competence to get it closer to the new holding. The better I have vetted those that I clone, the more protected my downside will be, and the more work I put in after the cloning decision, the more value I'll be able to extract from it.
+In other words, cloning someone who knows what they're doing allows me to acquire a small position which I would not have been able to otherwise. Then I can try and stretch my circle of competence to get it closer to the new holding. The better I have vetted those that I clone, the more protected my downside will be, and the more work I put in after the cloning decision, the more value I'll be able to extract from it. As of today, my cloning positions don't exceed ~5% initial allocation.
 
 
 
