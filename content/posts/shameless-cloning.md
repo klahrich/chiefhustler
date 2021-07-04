@@ -13,7 +13,7 @@ This is squarely in contradiction with the circle of competence precept. How can
 
 Mohnish Pabrai is a super investor that encourages cloning (even shameless cloning). He said that if one had simply cloned Warren Buffet, even with a 45 day delay, they would've gotten great results. Mohnish views cloning as an extra-layer of security. He describes it as "bowling with bumpers".
 
-I am a huge fan of almost-shameless-cloning. I added the _almost_ part, because I do require to understand and like something about the stock I'm cloning. I don't have to understand all of it or understand it in depth, and I don't have to like everything about it. A little bit is enough, I just need to get a feel, an intuition for why this could be a great investment. And I don't just clone super investors: anybody who is succesful at they do is fair game. The more succesful and knowledgeable they are, the easier it is for me to clone them.
+I am a huge fan of almost-shameless-cloning. I added the _almost_ part, because ideally, I'd prefer to understand and like something about the business I'm buying. I don't have to understand all of it or in depth, and I don't have to like everything about it. A little bit is enough, I just need to get a feel, an intuition for why this could be a great investment. And I don't just clone super investors: anybody who is succesful at they do is fair game. The more succesful and knowledgeable they are, the easier it is for me to clone them.
 
 Recent cloning examples are:
 
@@ -23,9 +23,9 @@ Recent cloning examples are:
 
 - **$BABA** a no brainer after I learned that Mohnish bought stock (probably inspired by Charlie Munger)
 
-The reason why it is important for me to like or understand something about the company at the outset is because it will make it easier to put in the work and improve my understanding of the business _after_ my initial purchase, which is necessary to be able to withstand periods of high volatility. 
+After having cloned an investment decision, I can put in the work and improve my understanding of the business, which is necessary to be able to withstand periods of high volatility. 
 
-In other words, cloning someone who knows what they're doing allows me to acquire a small position which I would not have been able to otherwise and then, as much as possible, stretch my circle of competence to get it closer to the new holding. The better I have vetted those that I clone, the more protected my downside will be, and the more work I put in after the cloning decision, the more value I'll be able to extract from it.
+In other words, cloning someone who knows what they're doing allows me to acquire a small position which I would not have been able to otherwise. Then I can try and stretch my circle of competence to get it closer to the new holding. The better I have vetted those that I clone, the more protected my downside will be, and the more work I put in after the cloning decision, the more value I'll be able to extract from it.
 
 
 
