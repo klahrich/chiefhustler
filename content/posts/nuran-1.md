@@ -1,5 +1,5 @@
 ---
-title: "Nuran 1"
+title: "Nuran - part 1"
 date: 2021-07-04T21:42:47-04:00
 draft: false
 categories: ["investing"]
