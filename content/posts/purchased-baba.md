@@ -69,11 +69,11 @@ Update (June 28): Between the shares and the LEAP calls, $BABA is ~5% of my port
 
 ## Update (2021-07-06): more color
 
-Today I am very happy and excited. I suddently realized that I do treat the stock market (at least partly) as a game. I realized this thanks to my investment in **$BABA**, because what matters to me here is the quality of the decision, not the outcome. This is a case where we all have access to the same information. And I am convinced that this bet is a very profitable one, despite the fact that I'm in general much more attracted to small caps. 
+Today I realized that I do treat the stock market (at least partly) as a game. I realized this thanks to my investment in **$BABA**, because what matters to me here is the quality of the decision, not the outcome. This is a case where we all have access to the same information. And I am convinced that this bet is a very profitable one, despite the fact that I'm in general much more attracted to small caps. 
 
 For this to be a bad bet, first C. Munger would have to be wrong. Possible? Yes. Unlikely. Very much. But then, M. Pabrai would have to be either wrong or lazy. Now we're getting in the realm of infinitesimal odds. And then, there's my perception of the american market's perception of China and the CCP. I think they think that the Chinese government could lose their marbles and destroy the value of Alibaba in the blink of an eye, out of principle or anger. I think that's BS. The CCP has shown their teeth and the market believed them, but I'm calling the bluff. China needs Alibaba as much as Alibaba needs China. As a shareholder, I believe the CCP is my ally, not my ennemy. They are a moat around my investment. 
 
-Going back to why I'm excited to see investing partly as a game, it's because I know that the best out there do too. I want to make optimal decisions and beautiful moves for my own inner score card. 
+I'm happy to see investing partly as a game, it's because I know that the best out there do too. I want to make optimal decisions and beautiful moves for my own inner score card. 
 
 ---
 
