@@ -31,7 +31,7 @@ While I hope to get rid of these ugly feelings, I know that I can't just snap my
 
 There's something else. I am currently reading Guy Spier's magnificent book, _The Education of a Value Investor_, and in several chapters he emphasized the importance of being immersed in the right environment in order to make rational and optimal decisions. And this reminded me that I have possibly the worst environment imaginable. We live in a small 3 bedroom appartment. My wife and I sleep in one bedroom, our two daughters in the another, and I work from the third one. My wife is a stay-at-home mother, and neither of my daughters goes to kindergarten or school (they are 2 and 4 years old). This means that I am constantly distracted and disturbed, by any one of them three. I can hardly get a full hour without one of them entering in my "office", the little girls for no particular reason at all, my wife to tell me something or ask me something. I never realized it until now, but this puts extra-pressure on me to make decisions fast, before I get interrupted. This might have compounded the problem.
 
-I can't help but think of Charlie Munger's lollapalooza effect: how powerful can be the simultaneous occurrence of multiple events pushing in the same direction (whether good or bad). I might have been right in the center of a lollapalooza effect.
+I can't help but think of Charlie Munger's lollapalooza effect: how powerful the simultaneous occurrence of multiple events pushing in the same direction can be. I might have been right in the center of a lollapalooza effect.
 
 ### Back to $NUR
 
