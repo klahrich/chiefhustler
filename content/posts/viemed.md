@@ -7,7 +7,7 @@ categories: ["stocks"]
 
 ### Why I'm exiting
 
-I had a small position in Viemed because it's company with strong growth, a strong moat and a deep runway.
+I had a small position in Viemed because it's a company with strong growth, a strong moat and a deep runway.
 
 I decided to sell because, for one, I don't want to be in that space anymore, i.e. selling services to dying people. 
 
