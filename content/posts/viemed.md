@@ -23,6 +23,8 @@ _"Good analysis. I would add that, when looking at VMD's fully-diluted equity ca
 
 ![viemed](/images/viemed.png)
 
+I don't have to be in a company where I don't like the space and the management, even if I think it's currently undervalued. There are tons of other choices.
+
 ### Links
 
 - [Viemed Healthcare: A Cheap, High-Quality Spinoff Following The Greenblatt Playbook](https://seekingalpha.com/article/4138875-viemed-healthcare-cheap-high-quality-spinoff-following-greenblatt-playbook)
