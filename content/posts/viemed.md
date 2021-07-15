@@ -1,5 +1,5 @@
 ---
-title: "Viemed"
+title: "Sold Viemed"
 date: 2021-07-09T11:33:39-04:00
 draft: false
 categories: ["stocks"]
