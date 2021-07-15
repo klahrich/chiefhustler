@@ -11,7 +11,7 @@ I had a small position in Viemed because it's a company with strong growth, a st
 
 I decided to sell because, for one, I don't want to be in that space anymore, i.e. selling services to dying people. 
 
-But more importantly I initially had overlooked the compensation of top executives. Top-5 executives compensation was 7.4% of revenues in 2019. I don't like it.
+But more importantly, I initially had overlooked the compensation of top executives. Top-5 executives compensation was 7.4% of revenues in 2019. I don't like it.
 
 I found this commentary to be spot on (from [seeking alpha](https://seekingalpha.com/article/4138875-viemed-healthcare-cheap-high-quality-spinoff-following-greenblatt-playbook)).
 
