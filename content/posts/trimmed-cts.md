@@ -38,3 +38,5 @@ I wonder how much I was swayed by the desire to be active, the thrill of the act
 I also wonder whether I was trigger-happy and moved too soon, before having any sort of confirmation of my doubts. In other words, I don't know for sure that there are problems ahead for **$CTS.TO**, far from that. Maybe I should have waited for the problems to manifest themselves before taking such drastic actions.
 
 Ian Cassel said: "The great ones always make you regret selling.". I hope I didn't sell a great one.
+
+p.s. I kept a micro position just to keep an eye on future developments
