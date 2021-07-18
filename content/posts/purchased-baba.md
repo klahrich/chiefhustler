@@ -7,6 +7,12 @@ categories: ["stocks"]
 
 ## Thesis Summary
 
+_Updated version:_ 
+
+The cloud. The cloud. The cloud.
+
+_Previous version:_
+
 Charlie Munger bought some (19% of The Daily Journal's portfolio). The last time he bought something was in 2014. Mohnish Pabrai is partaking. The current price is lower than when either of them bought. Sentiment on the stock is probably near peak pessimism. Valuation is cheap. Growth, optionality, FCF and balance sheet are very strong.
 
 ### Quantitative
