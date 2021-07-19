@@ -2,18 +2,22 @@
 title: "Personality of Success"
 date: 2021-07-19T11:16:01-04:00
 draft: false
-category: [success]
+categories: [success]
 ---
 
-This is a summary of a truly [fantastic episode](https://www.youtube.com/watch?v=6wokvWHtz6w) of the "Grit Happens" podcast, featuring Glenn Stearns, founder and CEO of [Kind Lending](https://www.kindlending.com/). This episode was shared to me by [Sean Iddings](https://www.thewoodshedd.com/) as it pertains to **$EXPI** and [SUCCESS Lending](https://www.globenewswire.com/news-release/2021/07/15/2263870/0/en/eXp-World-Holdings-and-Kind-Lending-Unite-to-Launch-SUCCESS-Lending-LLC-a-New-Residential-Lending-Platform.html), a joint venture between eXp World Holdings and Kind Lending. In other words, this is the baby of not one but two [intelligent fanatics](https://www.amazon.ca/Intelligent-Fanatics-Project-Sustainable-Businesses-ebook/dp/B01HLCUA7M).
+This is a summary of a truly fantastic episode of the "Grit Happens" podcast, featuring Glenn Stearns, founder and CEO of Kind Lending. 
 
-Below are my takeaways from that episode, as I find it easier to retain inforrmation when I read/write it than when I just hear it. Please note that most of it is just me paraphrasing what Glenn or Mindy said.
+{{<youtube 6wokvWHtz6w>}}
 
-### Key to success
+This episode was shared to me by [Sean Iddings](https://www.thewoodshedd.com/) as it pertains to **$EXPI** and [SUCCESS Lending](https://www.globenewswire.com/news-release/2021/07/15/2263870/0/en/eXp-World-Holdings-and-Kind-Lending-Unite-to-Launch-SUCCESS-Lending-LLC-a-New-Residential-Lending-Platform.html), a joint venture between eXp World Holdings and Kind Lending. In other words, this is the baby of not one but two [intelligent fanatics](https://www.amazon.ca/Intelligent-Fanatics-Project-Sustainable-Businesses-ebook/dp/B01HLCUA7M).
 
-Play above your surroundings. Do better than what is expected. Do different from everyone else.
+Below are my takeaways from that episode, as I find it easier to retain inforrmation when I read/write it than when I hear it. Please note that most of it is just me paraphrasing what Glenn or Mindy said.
 
-### Resilience
+### Build Resilience
+
+If you're going to attempt to be succesful at anything, you need to have thick, thick skin. People will knock you down, there's gonna be issues left ad right and problems that you don't foresee. That's just the nature of the game.
+
+How do you get resilience? You earn it. You have to take some beatings. After a while, you build thicker skin.
 
 Focus on the sun beyond the clouds, even when you can't find happyness anywhere.
 
@@ -39,7 +43,7 @@ _"When the world says: give up!,_
 
 _Hope whispers: try it one more time"_
 
-### Integrity
+### Prioritize Integrity
 
 Keep your word. Do what you say you're going to do. Make it the cornerstone of your success.
 
@@ -61,7 +65,7 @@ Because you will either walk in bright light and good luck and great karma, or y
 
 People don't have dark clouds over their head by accident or because of bad luck. It's because they cut corners and they don't live to the letter of the internal law.
 
-### Positivity
+### Stay Positive
 
 Richard Branson was having dinner at Glenn Stearns' house. They had a lot of wine together. He gets ready to leave around 1am.
 
@@ -73,7 +77,9 @@ Glenn is super curious to see what happens and starts circling around to watch t
 
 When asked about his past failures, Richard Branson says he has none. He just learned a ton.
 
+### Bonus: Go Beyond
 
+Play above your surroundings. Do better than what is expected. Do different from everyone else.
 
 
 
