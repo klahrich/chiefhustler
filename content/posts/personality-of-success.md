@@ -13,7 +13,7 @@ This episode was shared to me by [Sean Iddings](https://www.thewoodshedd.com/) a
 
 Below are my takeaways from that episode, as I find it easier to retain inforrmation when I read/write it than when I hear it. Please note that most of it is just me paraphrasing what Glenn or Mindy said.
 
-### Build Resilience
+### Resilience
 
 If you're going to attempt to be succesful at anything, you need to have thick, thick skin. People will knock you down, there's gonna be issues left ad right and problems that you don't foresee. That's just the nature of the game.
 
@@ -43,7 +43,7 @@ _"When the world says: give up!,_
 
 _Hope whispers: try it one more time"_
 
-### Prioritize Integrity
+### Integrity
 
 Keep your word. Do what you say you're going to do. Make it the cornerstone of your success.
 
@@ -65,7 +65,7 @@ Because you will either walk in bright light and good luck and great karma, or y
 
 People don't have dark clouds over their head by accident or because of bad luck. It's because they cut corners and they don't live to the letter of the internal law.
 
-### Stay Positive
+### Positivity
 
 Richard Branson was having dinner at Glenn Stearns' house. They had a lot of wine together. He gets ready to leave around 1am.
 
