@@ -77,7 +77,7 @@ Glenn is super curious to see what happens and starts circling around to watch t
 
 When asked about his past failures, Richard Branson says he has none. He just learned a ton.
 
-### Bonus Key to Success: Go Beyond
+### Bonus Key to Success: Going Beyond
 
 Play above your surroundings. Do better than what is expected. Do different from everyone else.
 
