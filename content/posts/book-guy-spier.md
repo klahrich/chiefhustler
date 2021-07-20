@@ -19,3 +19,18 @@ An environment is a collection of games. You only get to play the games that you
 
 Some (very rare) people play a simple game and that's the one they communicate. Those are the people you want to learn from / hang around with.
 
+### Ch 2: Inner vs outer score card
+
+Schools typically impose an outer scorecard on you: please the teachers; pass the exams; be accepted by your peers.
+
+This will potentially cause a mislignment with your inner scorecard: what YOU want to do; what YOU're interested in.
+
+You can use your instinct and unconscious mind to detect these misalignments. They will send you signals.
+
+So be careful what you optimize for. Are you optimizing for the long-term or the short-term avoidance of pain?
+
+Be careful with knowlesge as well: it can blind you. You can refuse to see the facts because they contradict the theories you know. They say that science advances one funeral at a time. Because the theory ends up consuming your identity, especially when it feeds your ego.
+
+Knowledge is not wisdom. Knowledge is useful but only when used wisely. Knolwedge does not give moral courage.
+
+
