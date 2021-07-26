@@ -2,6 +2,7 @@
 title: "Nuran - part 3"
 date: 2021-07-26T17:50:55-04:00
 draft: false
+categories: ["stocks"]
 ---
 
 Like I said in the previous NuRAN posts [here]({{<relref "nuran-1.md">}} "Nuran part-1") and [here]({{<relref "nuran-2.md">}} "Nuran part-2"), **$NUR.CN** started as an oversized speculative bet.

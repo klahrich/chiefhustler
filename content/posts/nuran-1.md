@@ -2,7 +2,7 @@
 title: "Nuran - part 1"
 date: 2021-07-04T21:42:47-04:00
 draft: false
-categories: ["investing"]
+categories: ["stocks"]
 ---
 
 I need to flush out everything I can about the Nuran thing. Rub my nose in it. And then hopefully come out cleaner on the other side. 

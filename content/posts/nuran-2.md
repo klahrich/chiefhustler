@@ -2,7 +2,7 @@
 title: "Nuran - part 2"
 date: 2021-07-06T15:08:38-04:00
 draft: false
-categories: ["investing"]
+categories: ["stocks"]
 ---
 
 In my first post about Nuran, I talked a lot about my internal and external environment, internal being my feelings (frustration, envy, greed), and external being my work setting, the information I expose myself to, etc.
