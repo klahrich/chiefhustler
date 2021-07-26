@@ -5,6 +5,14 @@ draft: false
 categories: ["investing"]
 ---
 
+### In a nutshell
+
+Connor Haley (Alta Fox Capital) made a presentation ([video](https://www.youtube.com/watch?v=D7mSv0G2ZzA) and [slides](https://static1.squarespace.com/static/5aaacb57506fbe4636414126/t/5f85c428b4bac16b20450df0/1602602051503/Conclusion+Deck-+Makings+of+a+MultiBagger+-+FINAL-compressed.pdf)) about multi-baggers.
+
+It turns out two thirds of the performance of multi-baggers comes from multiple expansion, and one third from EBITDA growth.
+
+In the case of **$CTS.TO** I've extracted as much as I can reasonably expect from multiple expansion, and I see risk on the EBITDA front going forward.
+
 ### Risk vs uncertainty
 
 I sold ~most~ all of my **$CTS.TO** position. This has been a 3x bagger for me in about one year.
