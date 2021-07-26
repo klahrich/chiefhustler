@@ -9,7 +9,7 @@ categories: ["stocks"]
 
 _Updated version:_ 
 
-The cloud. The cloud. The cloud.
+The cloud. 60% growth. Population just coming online. Businesses will go straight to the cloud. Invisible in the earnings as of today. High margins (AWS ~ 30% operating margin).
 
 _Previous version:_
 

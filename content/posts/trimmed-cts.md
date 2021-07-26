@@ -1,5 +1,5 @@
 ---
-title: "Sold (most of) $CTS.TO"
+title: "Sold $CTS.TO"
 date: 2021-07-08T17:46:28-04:00
 draft: false
 categories: ["investing"]
@@ -7,7 +7,7 @@ categories: ["investing"]
 
 ### Risk vs uncertainty
 
-I sold most of my **$CTS.TO** position. This has been a 3x bagger for me in about one year.
+I sold ~most~ all of my **$CTS.TO** position. This has been a 3x bagger for me in about one year.
 
 On one side, I can imagine Ian Cassel reading this and shaking his head while saying: "LEAVE YOUR WINERS ALONE!".
 
