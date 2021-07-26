@@ -1,5 +1,5 @@
 ---
-title: "Sold $CTS.TO"
+title: "Sold Converge Technologies"
 date: 2021-07-08T17:46:28-04:00
 draft: false
 categories: ["investing"]
