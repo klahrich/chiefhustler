@@ -5,7 +5,7 @@ draft: false
 categories: ["investing"]
 ---
 
-This is my personal summary of Guy Spier's wonderful book. I take the liberty oh mixing snippets from the book with my own thoughts. 
+This is my personal summary of Guy Spier's wonderful book. I take the liberty of mixing snippets from the book with my own thoughts. 
 
 ### Ch 1: Different games
 
