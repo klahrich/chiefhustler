@@ -7,6 +7,8 @@ categories: ["investing"]
 
 This is my personal summary of Guy Spier's wonderful book. I take the liberty of mixing snippets from the book with my own thoughts. 
 
+If you're interested in getting the book, here's the [amazon link](https://www.amazon.ca/Education-Value-Investor-Transformative-Enlightenment/dp/1137278811).
+
 ### Ch 1: Different games
 
 Everyone is playing a different game. 
@@ -50,3 +52,25 @@ Choose to have certain people in your life (however tangentially) who embody the
 Our minds have a way of moving towards what we focus on. So think positive
 
 Creating the right environment or network helps to tilt the playing field subtly in the right direction so that you become far more likely to succeed.
+
+### Ch4: 
+
+Its always easier to go with the crowd than to go against it. Following the "standard" gives a sense of false comfort.
+
+Tiny mistakes in judgement can add up to to big differences in return over time. There's a huge benefit to getting the seemingly minor details right from the start.
+
+Don't fool urself into thinking that you rise above your environment (through force of intellect or force of will). The environment is much stronger.
+
+As investors, we all have shortcomings; the key is to accept who we are, understand our differences and limitations, and figure out ways to work around them.
+
+Be careful of notoriety. It can be a mixed blessing. All kinds of people will want a piece of you. You will be dangerously flattered.  Your competitive juices and testosterone fueled macho desires will be stimulated. Envy and greed will creep in. The need for size and status. Don't stay in a environment where there are always people doing better than you.
+
+Envy: a typical investor sees their friend make a killing off tech stocks that are crazy overvalued, and they plunge in right before the bubble bursts.
+
+"Who is strong? He who masters his passions."
+
+One of the best decisions Guy Spier made: he surrounded himself with a "mastermind" group of investors who would become life-long friends and trusted sounding boards. It's difficult, if not impossible, to become successful on your own.
+
+Others can help us uncover our own blind spots. So often, we focus our analytical efforts in the wrong direction and miss something vital.
+
+When management is either unable or unwilling to answer probing questions, that's not a good sign. If they seem offended: run for the hills.
