@@ -9,7 +9,7 @@ This is my personal summary of Guy Spier's wonderful book. I take the liberty of
 
 If you're interested in getting the book, here's the [amazon link](https://www.amazon.ca/Education-Value-Investor-Transformative-Enlightenment/dp/1137278811). I couldn't recommend it enough.
 
-### Ch 1: Different games
+### Ch 1: Know what game you (and others) are playing
 
 Everyone is playing a different game. 
 
@@ -23,7 +23,7 @@ An environment is a collection of games. You only get to play the games that you
 
 Some (very rare) people play a simple game and that's the one they communicate. Those are the people you want to learn from / hang around with.
 
-### Ch 2: Inner vs outer score card
+### Ch 2: Keep an inner score card
 
 Schools typically impose an outer scorecard on you: please the teachers; pass the exams; be accepted by your peers.
 
@@ -37,7 +37,7 @@ Be careful with knowlesge as well: it can blind you. You can refuse to see the f
 
 Knowledge is not wisdom. Knowledge is useful but only when used wisely. Knolwedge does not give moral courage.
 
-### Ch3: Positive alignment
+### Ch3: Align your thoughts and your environment
 
 When you find your path and align yourself with you core values and with like-minded people, good things can start happening, seemingly out of nowhere.
 
@@ -53,7 +53,7 @@ Our minds have a way of moving towards what we focus on. So think positive
 
 Creating the right environment or network helps to tilt the playing field subtly in the right direction so that you become far more likely to succeed.
 
-### Ch4: 
+### Ch4: Master your passion
 
 Its always easier to go with the crowd than to go against it. Following the "standard" gives a sense of false comfort.
 
