@@ -7,7 +7,7 @@ categories: ["investing"]
 
 This is my personal summary of Guy Spier's wonderful book. I take the liberty of mixing snippets from the book with my own thoughts. 
 
-If you're interested in getting the book, here's the [amazon link](https://www.amazon.ca/Education-Value-Investor-Transformative-Enlightenment/dp/1137278811).
+If you're interested in getting the book, here's the [amazon link](https://www.amazon.ca/Education-Value-Investor-Transformative-Enlightenment/dp/1137278811). I couldn't recommend it enough.
 
 ### Ch 1: Different games
 
