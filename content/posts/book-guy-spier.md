@@ -5,6 +5,8 @@ draft: false
 categories: ["investing"]
 ---
 
+This is my personal summary of Guy Spier's wonderful book. I take the liberty oh mixing snippets from the book with my own thoughts. 
+
 ### Ch 1: Different games
 
 Everyone is playing a different game. 
@@ -33,4 +35,18 @@ Be careful with knowlesge as well: it can blind you. You can refuse to see the f
 
 Knowledge is not wisdom. Knowledge is useful but only when used wisely. Knolwedge does not give moral courage.
 
+### Ch3: Positive alignment
 
+When you find your path and align yourself with you core values and with like-minded people, good things can start happening, seemingly out of nowhere.
+
+The ability to mimic is a natural human instinct. 
+
+So start studying and mimicking your heroes. Get to work. But above all: believe in the possibility of living your dream life and immerse yourself in positive thinking.
+
+Ask yourself: "What would HE do if he were in my shoes?". Sit down at your desk and actively imagine you are HIM. Its called modeling your heroes. Be as precise as possible. Picture them with as much detail as you can. Match the way they move, breathe and talk. You will start to feel like them and think like them.
+
+Choose to have certain people in your life (however tangentially) who embody the values you admire.
+
+Our minds have a way of moving towards what we focus on. So think positive
+
+Creating the right environment or network helps to tilt the playing field subtly in the right direction so that you become far more likely to succeed.
