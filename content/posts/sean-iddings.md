@@ -11,3 +11,7 @@ In 2019, Sean was looking for a source of cashflow. His wife had just become a r
 Sean has built a very strong sense of pattern recognition through time. It's a big mosaic. He took from many different sources until he was able to paint in his mind the image of what a great business is. There are so many tiny details that make up the overall picture, it's very hard to put it into words. While the leader of a business is important, what they build is even more.: the system and **the culture**. Their ability to empower the whole team to generate value. A leader is the architect that builds the greenhouse where the plants flourish (metaphor from [Tony Hsieh](https://www.inc.com/allison-fass/tony-hsieh-zappos-growth-strategies.html), CEO of Zappos).
 
 Hottake: the insider ownership is but a teeny tiny factor in predicting the success of a business. After all, all small businesses people have a big stake of their personal equity tied to their business, but most of them will not do extraordinarly well.
+
+### About XPEL
+
+XPEL's leadership has managed through their incentive structure (very low base pay + lots of execution-linked upside) to make everybody within the organization think like owners of the business, driving them to work as a team to get better results together. Even the installers were incentivized to think like owners, with control over their little P&L.

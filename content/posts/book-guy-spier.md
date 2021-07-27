@@ -53,7 +53,7 @@ Our minds have a way of moving towards what we focus on. So think positive
 
 Creating the right environment or network helps to tilt the playing field subtly in the right direction so that you become far more likely to succeed.
 
-### Ch4: Master your passion
+### Ch4: Master your passions
 
 Its always easier to go with the crowd than to go against it. Following the "standard" gives a sense of false comfort.
 
