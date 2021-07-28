@@ -16,6 +16,7 @@ The group is adding “advanced technology equipment” to its business, and it 
 ZyTech's decision to focus on its Alberta and US assets marks the departure of a local industry competitor and also yields an opportunity to bolster our Vancouver Island and Lower Mainland facilities.
 ZyTech’s equipment will be installed at the group’s Novum and Atlas Building Systems locations in the first quarter of 2021, ready for the peak building season. In addition to acquiring the equipment, Atlas Engineered will be “completing several supply contracts” for ZyTech’s clients, noted the company.
 
+Dec 16, 2019: Announces PP 
 Feb 10, 2020: Closing of PP.
 Proceeds of Over $4.5 million.
 Price of $0.40 per Unit. Unit = 1 share + 1 warrant @ $0.60 (2 years).
