@@ -1,5 +1,5 @@
 ---
-title: "Sold Converge Technologies"
+title: "Converge Technologies"
 date: 2021-07-08T17:46:28-04:00
 draft: false
 categories: ["stocks"]

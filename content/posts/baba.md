@@ -1,5 +1,5 @@
 ---
-title: "Investment thesis: $BABA"
+title: "Alibaba"
 date: 2021-06-13T12:24:29-04:00
 draft: false
 categories: ["stocks"]
@@ -13,7 +13,7 @@ The cloud. 60% growth. Population just coming online. Businesses will go straigh
 
 _Previous version:_
 
-Charlie Munger bought some (19% of The Daily Journal's portfolio). The last time he bought something was in 2014. Mohnish Pabrai is partaking. The current price is lower than when either of them bought. Sentiment on the stock is probably near peak pessimism. Valuation is cheap. Growth, optionality, FCF and balance sheet are very strong.
+Charlie Munger bought some (19% of The Daily Journal's portfolio). The last time he bought something was in 2014. Mohnish Pabrai is partaking. The current price is lower than when either of them bought. Sentiment on the stock is probably near peak pessimism _(EDIT: I was wrong on this; pessimism deepened afterwards)_. Valuation is cheap. Growth, optionality, FCF and balance sheet are very strong.
 
 ### Quantitative
 

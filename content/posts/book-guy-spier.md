@@ -1,5 +1,5 @@
 ---
-title: "Book Takeaways: The Education of a Value Investor (Guy Spier)"
+title: "Guy Spier: The Education of a Value Investor"
 date: 2021-07-18T11:18:47-04:00
 draft: false
 categories: ["investing"]
