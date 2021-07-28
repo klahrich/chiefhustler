@@ -7,7 +7,7 @@ categories: ["stocks"]
 
 ### Bottom-line upfront
 
-At $3, seems cheap to me. Almost free option on the upside? What do I know...
+At $3, seems cheap to me. Almost free option on the upside...
 
 ### Some details
 
