@@ -1,7 +1,7 @@
 ---
 title: "Axiom #1"
 date: 2021-05-31T20:10:10-04:00
-draft: false
+draft: true
 categories: ["investing"]
 ---
 
