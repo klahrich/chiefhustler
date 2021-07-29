@@ -5,7 +5,7 @@ draft: false
 categories: ["stocks"]
 ---
 
-_Full credits to [@Plum_Capital](https://plumcapital.substack.com/)._
+_Full credits to [@Plum_Capital](https://plumcapital.substack.com/)_
 
 **Share price**: $13
 
