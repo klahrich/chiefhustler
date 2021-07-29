@@ -5,6 +5,8 @@ draft: false
 categories: ["stocks"]
 ---
 
+_Full credits to [@Plum_Capital](https://plumcapital.substack.com/)._
+
 **Share price**: $13
 
 ![jakk1](/images/jakk1.png)
@@ -13,7 +15,7 @@ categories: ["stocks"]
 
 6.4M shares outstanding (as of May 10, 2021) + 3.35M shares in convertibles + 195K shares converted as per June 3rd PR = 10M shares (source: [seekingalpha](https://seekingalpha.com/article/4434007-jakks-pacific-refi-in-hand-get-ready-for-another-leg-up)).
 
-==> MC (fully dilute) = $130M
+==> MC (fully diluted) = $130M
 
 ### Cash
 
