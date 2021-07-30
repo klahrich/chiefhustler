@@ -115,7 +115,7 @@ This is called B.A.M. (Be A Man) because in football Joe had 250+ men to lead be
 
 Joe's definition of love is the "**commitment** to the well-being of others". You can witness it in sports teams where the players care for each other; it can also happen in businesses, in the military and of course in primrily in the family. 
 
-Leadership, in that sense, is not about how cool or smart YOU are. It's about your people. How do you take care of your them: your family, your colleagues, your employees, or your shareholders.
+Leadership, in that sense, is not about how cool or smart YOU are. It's about your people and how you take care of them: your family, your colleagues, your employees, or your shareholders.
 
 A few personal examples.
 
