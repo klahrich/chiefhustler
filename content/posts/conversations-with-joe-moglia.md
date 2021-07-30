@@ -158,3 +158,4 @@ So despite loving his father, one of the things that Joe learned from him, besid
 So much of the leader that Joe has become, he learned from his father, in terms of what not to do.
 
 
+_Disclaimer: I am a shareholder of **$OPFI**_
