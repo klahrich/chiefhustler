@@ -1,7 +1,8 @@
 ---
 title: "Joe Moglia"
 date: 2021-07-30T13:19:05-04:00
-draft: true
+draft: false
+categories: ["success"]
 ---
 
 These are my notes from [this episode](https://open.spotify.com/episode/2BySJDEOvc85NvJwMETFHh) of the CO/nversations podcast featuring Joe Moglia.
