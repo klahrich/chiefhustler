@@ -30,7 +30,7 @@ His mom was an Irish immigrant, never had more than a 10th grade education. She 
 
 They lived in a gang area of New York City and Joe was the oldest of 5. The seven of them lived in a 2-bedroom, 1 bathroom apartment.
 
-Two of his very best friends got killed in high school. One from a drug overdose, the other got killed by the police while robbing a liquor store. Joe's done a lot of bad things: been drinking since he was 10 (!), stole, was in fights all the time...but he never did drugs.
+Two of his very best friends got killed in high school. One from a drug overdose, and the other killed by the police while robbing a liquor store. Joe's done a lot of bad things: been drinking since he was 10 (!), stole, was in fights all the time...but he never did drugs.
 
 However, had it not been for high-school football, he would 100% have been robbing the liquor store with his best friend (the one who got shot and killed by the police). That was a wake-up call for Joe.
 
