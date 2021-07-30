@@ -1,5 +1,5 @@
 ---
-title: "Glenn Stearns - Personality of Success"
+title: "Glenn Stearns"
 date: 2021-07-19T11:16:01-04:00
 draft: false
 categories: [success]
