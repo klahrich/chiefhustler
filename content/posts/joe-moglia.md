@@ -5,7 +5,7 @@ draft: false
 categories: ["success"]
 ---
 
-These are my notes from [this episode](https://open.spotify.com/episode/2BySJDEOvc85NvJwMETFHh) of the CO/nversations podcast featuring Joe Moglia.
+These are my notes from [this episode](https://open.spotify.com/episode/2BySJDEOvc85NvJwMETFHh) of the [Co/Investor Club](https://twitter.com/CoInvestorClub1) podcast featuring Joe Moglia.
 
 ![joe-moglia](/images/joe-moglia.jfif)
 
