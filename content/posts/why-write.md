@@ -15,7 +15,7 @@ I am reminded of this movie called _Revolver_ by Guy Ritchie, the director of _L
 
 The movie is a kind of complicated metaphor about the invisible power of the ego. I didn't understand it all. But while it wasn't a commercial success, there were some interesting ideas.
 
-One of the main ideas, if not the main one, is that ultimately the only opponent you have is - you guessed it: yourself. But that is not exactly precise either. Rather, the ennemy is something hiding _within_ yourself: that thing we call the ego.
+One of the main ideas, if not the main one, is that ultimately the only opponent you have is - you guessed it: yourself. Yet that is not exactly precise either. Rather, the ennemy is something hiding _within_ yourself: that thing we call the ego.
 
 Enough with the movie. The point I'm trying to make is this. I believe my ego is the most powerful driver of my choices and decisions, as it is for every other human being.
 
