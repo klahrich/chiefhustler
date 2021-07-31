@@ -25,9 +25,9 @@ What I want is easy: a good life for me and my family.
 
 Then the question is: what does my ego want? Easy as well; the same thing yours: to feel important. 
 
-That's why I write and publish these random thoughts online. It's the sole reason. It makes me someone who writes stuff online. It's like a candy for my ego. A little nutrition.
+That's why I write and publish these random thoughts online. It's the sole reason. It makes me someone who writes stuff online. It's like a candy for my ego; a little nutrition.
 
-And it turns out, I don't need to give it much more. It doesn't even need to know that anybody is reading what we write. It's happy to know that someone eventually _could_. 
+As it turns out, I don't need to give it much more. It doesn't even need to know that anybody is reading what _we_ write. It's happy to know that someone eventually could. 
 
 I, on the other hand, don't need it to be anymore than that. I want my objective to be clear: to make money from investing. Writing helps me unclutter my mind and forces me to go deeper in the subjects I'm interested in. Publishing online also gives me easier access to what I wrote at anytime, from anywhere.
 
