@@ -39,7 +39,7 @@ So this is the deal I struck with my ego. It's a delicate balance. Sometimes I c
 
 So far, we're both happy with the deal.
 
-_Update: I should work instead on my sense of humor as a self-defense mechanism! Humor is the enemy of the devil._
+_Update: I should work on my sense of humor as a self-defense mechanism! Humor is the enemy of the devil._
 
 
 
