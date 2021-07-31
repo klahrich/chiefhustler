@@ -29,7 +29,9 @@ That's why I write and publish these random thoughts online. It's the sole reaso
 
 As it turns out, I don't need to give it much more. It doesn't even need to know that anybody is reading what _we_ write. It's happy to know that someone eventually could. 
 
-I, on the other hand, am careful to not give it much more than that. I want my objective to be clear: to make money from investing. Writing helps me unclutter my mind and forces me to go deeper in the subjects I'm interested in. Publishing online also gives me easier access to what I wrote at anytime, from anywhere.
+I, on the other hand, am careful to not give it much more than that. 
+
+I want my objective to be clear: to make money from investing. Writing helps me unclutter my mind and forces me to go deeper in the subjects I'm interested in. Publishing online also gives me easier access to these subjects at anytime, from anywhere.
 
 Putting just enough effort in my writing, but no more, assures me that my incentive is aligned with my goal. Having readers would introduce misalignment. Having or trying to get paid readers would aggravate the misalignment.
 
