@@ -7,6 +7,10 @@ categories: ["stocks"]
 
 ## Thesis Summary
 
+_Final version (LOL):_
+
+Listen. I'm not gonna pretend I understand Alibaba's business and the risks involved. I don't. But here's how I think aout this. If someone I consider a true master says this is a good move, and from a price perspective, the move only gets MORE attractive, then I have no problem putting some money here. If it turns out that it was not a good move, I honestly will have no bad feelings about it; for the simple reason that if the master got it wrong, then anybody else would have as well.
+
 _Updated version:_ 
 
 The cloud. 50% growth. Population just coming online. Businesses will go straight to the cloud (no on premise). Invisible in the earnings as of today. High margins (AWS ~ 30% operating margin).
@@ -47,7 +51,7 @@ In Alibaba's last [earnings call](https://seekingalpha.com/article/4434615-bewar
 
 _We plan to invest all of our incremental profits in this coming year into core strategic areas such as technology innovation, support programs for merchants to lower their operating costs, user acquisition and experience enhancement, merchandising and supply chain capabilities, infrastructure development, and new business initiatives._
 
-The market didn't seem to like this. I do.
+The market didn't seem to like this. I do. 
 
 [Monish Pabrai on Alibaba](https://www.youtube.com/watch?v=K4mggdrMHVo) (at 38:39): _"If I'm buying it, I must like it."_
 
