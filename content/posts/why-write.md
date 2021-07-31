@@ -23,7 +23,7 @@ I can't beat my ego. And if ignore it, it will take too much control. So what's 
 
 What I want is easy: a good life for me and my family.
 
-Then the question is: what does my ego want? Easy as well; the same thing yours want: to feel important. 
+Then the question is: what does my ego want? Easy as well; the same thing yours: to feel important. 
 
 That's why I write and publish these random thoughts online. It's the sole reason. It makes me someone who writes stuff online. It's like a candy for my ego. A little nutrition.
 
