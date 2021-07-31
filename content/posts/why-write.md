@@ -33,7 +33,7 @@ I, on the other hand, am careful to not give it much more than that.
 
 I want my objective to be clear: to make money from investing. Writing helps me unclutter my mind and forces me to go deeper in the subjects I'm interested in. Publishing online also gives me easy access to these subjects at anytime, from anywhere.
 
-Putting just enough effort in my writing, but no more, assures me that my incentive is aligned with my goal. Having readers would introduce misalignment. Trying to get paid readers would aggravate the misalignment, at least at my current stage of maturity.
+Putting just enough effort in my writing, but no more, assures me that my incentive is aligned with my goal. Having readers would introduce misalignment. Trying to get paid readers would aggravate the misalignment, at least in my current stage of maturity.
 
 So this is the deal I struck with my ego. It's a delicate balance. Sometimes I can feel it getting the upper hand and pushing me to to try and be more visible. Other times I rein it in and ease off the social media interactions. 
 
