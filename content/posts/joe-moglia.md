@@ -5,6 +5,8 @@ draft: false
 categories: ["success"]
 ---
 
+_Disclaimer: I am a shareholder of **$OPFI**. That's how I first heard of coach Joe Moglia._
+
 These are my notes from [this episode](https://open.spotify.com/episode/2BySJDEOvc85NvJwMETFHh) of the [Co/Investor Club](https://twitter.com/CoInvestorClub1) podcast featuring Joe Moglia.
 
 ![joe-moglia](/images/joe-moglia.jfif)
@@ -157,6 +159,3 @@ But contrary to his mom, his dad's glass was always half-empty. And any problem 
 So despite loving his father, one of the things that Joe learned from him, besides work ethic, being the best you can be and taking care of your family, was how to manage people and even more importantly: taking responsibility. The opposite of what his father did.
 
 So much of the leader that Joe has become, he learned from his father, in terms of what not to do.
-
-
-_Disclaimer: I am a shareholder of **$OPFI**_
