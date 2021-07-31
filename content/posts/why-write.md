@@ -15,7 +15,7 @@ I am reminded of this movie called _Revolver_ by Guy Ritchie, the director of _L
 
 The movie is a kind of complicated metaphor about the invisible power of the ego. I didn't understand it all. But while it wasn't a commercial success, there were some interesting ideas.
 
-One of the main ideas, if not the main one, is that ultimately the only opponent you have is - you guessed it: yourself. Yet that is not exactly precise either. Rather, the ennemy is something hiding _within_ yourself: that thing we call the ego.
+One of the main ideas, if not the main one, is that ultimately the only opponent you have is - you guessed it: yourself. Yet that is not exactly precise either. Rather, the enemy is something hiding _within_ yourself: that thing we call the ego.
 
 Enough with the movie. The point I'm trying to make is this: I believe my ego to be the most powerful driver behind my choices and decisions, as it is for every other human being.
 
@@ -25,17 +25,17 @@ What I want is easy: a good life for me and my family.
 
 Then the question is: what does my ego want? Easy as well; the same thing yours: to feel important. 
 
-That's why I write and publish these random thoughts online. It's the sole reason. It makes me someone who writes stuff online. It's like a candy for my ego; a little nutrition.
+That's why I write and publish these random thoughts online. It's the sole reason. It makes me someone who writes stuff online. It's like candy for my ego; a little nutrition.
 
 As it turns out, I don't need to give it much more. It doesn't even need to know that anybody is reading what _we_ write. It's happy to know that someone eventually could. 
 
 I, on the other hand, am careful to not give it much more than that. 
 
-I want my objective to be clear: to make money from investing. Writing helps me unclutter my mind and forces me to go deeper in the subjects I'm interested in. Publishing online also gives me easy access to these subjects at anytime, from anywhere.
+I want my objective to be clear: to make money from investing. Writing helps me unclutter my mind and forces me to go deeper into the subjects I'm interested in. Publishing online also gives me easy access to these subjects at any time, from anywhere.
 
 Putting just enough effort in my writing, but no more, assures me that my incentive is aligned with my goal. Having readers would introduce misalignment. Trying to get paid readers would aggravate the misalignment, at least in my current stage of maturity.
 
-So this is the deal I struck with my ego. It's a delicate balance. Sometimes I can feel it getting the upper hand and pushing me to to try and be more visible. Other times I rein it in and ease off the social media interactions. 
+So this is the deal I struck with my ego. It's a delicate balance. Sometimes I can feel it getting the upper hand and pushing me to try and be more visible. Other times I rein it in and ease off the social media interactions. 
 
 So far, we're both happy with the deal.
 
