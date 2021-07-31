@@ -9,7 +9,7 @@ categories: ["stocks"]
 
 _Final version (LOL):_
 
-Listen. I'm not gonna pretend I understand Alibaba's business and the risks involved. I don't. But here's how I think aout this. If someone I consider a true master says this is a good move, and from a price perspective, the move only gets MORE attractive, then I have no problem putting some money here. If it turns out that it was not a good move, I honestly will have no bad feelings about it; for the simple reason that if the master got it wrong, then anybody else would have as well.
+Listen. I'm not gonna pretend I understand Alibaba's business and the risks involved. I don't. But here's how I think about it. If someone I consider a true master says this is a good move, and from a price perspective, the move only gets MORE attractive, then I have no problem putting some money here. If it turns out that it was not a good move, I honestly will have no bad feelings about it; for the simple reason that if the master got it wrong, then anybody else would have as well.
 
 _Updated version:_ 
 
