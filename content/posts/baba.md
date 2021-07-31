@@ -13,7 +13,7 @@ Listen. I'm not gonna pretend I understand Alibaba's business and the risks invo
 
 _Updated version:_ 
 
-The cloud. 50% growth. Population just coming online. Businesses will go straight to the cloud (no on premise). Invisible in the earnings as of today. High margins (AWS ~ 30% operating margin).
+The cloud. 50% growth. Population just coming online. Businesses will go straight to the cloud (no on-premise). Invisible in the earnings as of today. High margins (AWS ~ 30% operating margin).
 
 _Previous version:_
 
