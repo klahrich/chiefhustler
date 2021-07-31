@@ -19,7 +19,7 @@ One of the main ideas, if not the main one, is that ultimately the only opponent
 
 Enough with the movie. The point I'm trying to make is this: I believe my ego to be the most powerful driver behind my choices and decisions, as it is for every other human being.
 
-I can't beat my ego. And if ignore it, It will take too much control. So what's the third option? I can collaborate with it. Give it a little bit of what it wants so that I can get a little bit of what I want.
+I can't beat my ego. And if ignore it, it will take too much control. So what's the third option? I can collaborate with it. Give it a little bit of what it wants so that I can get a little bit of what I want.
 
 What I want is easy: a good life for me and my family.
 
