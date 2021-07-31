@@ -13,7 +13,7 @@ I think the answer is: **ego**.
 
 I am reminded of this movie called _Revolver_ by Guy Ritchie, the director of _Lock, Stock and Two Smoking Barrels_ and _Snatch_, among others.
 
-The movie is a kind of complicated metaphor about the invisible power of the ego. To be honest, I didn't really understand the metaphor. The movie wasn't a commercial success. But there were some interesting ideas, and visually speaking it was a masterpiece.
+The movie is a kind of complicated metaphor about the invisible power of the ego. I'm not sure I understood it all. And while it wasn't a commercial success, there were some interesting ideas, and visually speaking it is a masterpiece.
 
 One of the main ideas, if not the main one, is that ultimately the only opponent you have is - you guessed it: yourself. But that is not exactly precise either. Rather, the ennemy is something hiding _within_ yourself: that thing we call the ego.
 

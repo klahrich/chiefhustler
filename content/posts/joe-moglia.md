@@ -2,7 +2,7 @@
 title: "Joe Moglia"
 date: 2021-07-30T13:19:05-04:00
 draft: false
-categories: ["success"]
+categories: ["leadership"]
 ---
 
 _Disclaimer: I am a shareholder of **$OPFI**. That's how I first heard of coach Joe Moglia._
