@@ -11,7 +11,7 @@ categories: ["portfolio"]
 
 $NUR.CN is still weighing heavily on the portfolio and underperforming and is $BABA down as well. 
 
-This month I had my 1st experience with rights ($GFP-RT.V). I bought as much as I felt comfortable buying, which I think was 71,500 rights, converting at $1.50 into $GFP.V shares. $GFP.V closed the month at $2.63. I'm waiting to receive the shares in my account.
+This month I had my first experience with rights ($GFP-RT.V). I bought as much as I felt comfortable buying, which I think was 71,500 rights plus a tiny bit of oversubscription just for practice. They convert at $1.50 per $GFP.V share. $GFP.V closed the month at $2.63. I'm waiting to receive the shares in my account.
 
 This opportunity has taught me the importance of having cash available to be able to hit hard when the fat pitch shows up.
 
@@ -25,7 +25,7 @@ _But in all cases, I require the valuation to be attractive._
 
 This is different from last year, when I was buying growth and momentum without looking too much at the price.
 
-Note: I don't compare my performance to any index anymore. It's not relevant for me, since I'm not trying to attract external money. Moreover, it's only been a short time since I've started tracking my results seriously. I might revisit and check the comparison after a few years.
+Note: I don't compare my performance to any index anymore. It's not relevant for me, since I'm not trying to attract external money. Moreover, it's only been a short time since I've started tracking my results seriously (I started in 2020 but am not including those results for now as I think I got massively lucky). I might revisit and do the comparison after a few years.
 
 ### Exited
 
