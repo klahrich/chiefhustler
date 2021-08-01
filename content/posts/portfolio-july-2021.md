@@ -25,7 +25,7 @@ _But in all cases, I require the valuation to be attractive._
 
 This is different from last year, when I was buying growth and momentum without looking too much at the price.
 
-Note: I don't compare my performance to any index anymore. I don't think it's relevant for me, since I'm not trying to attract external money. Moreover, it's been a very short time since I've started tracking my results seriously. I might revisit and do the comparison after a few years.
+Note: I don't compare my performance to any index anymore. It's not relevant for me, since I'm not trying to attract external money. Moreover, it's only been a short time since I've started tracking my results seriously. I might revisit and check the comparison after a few years.
 
 ### Exited
 

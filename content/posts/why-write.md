@@ -7,7 +7,7 @@ categories: ["random"]
 
 Why do I write, and why do I publish on this lame page that nobody knows about?
 
-Let me try to explain. I'm hoping that writing this piece will help me understand why I write in general.
+Let's see if I can explain. I'm hoping that writing this piece will help me understand why I write in general.
 
 I think the answer is: **ego**.
 
@@ -23,7 +23,7 @@ I can't beat my ego. And if ignore it, it will take too much control. So what's 
 
 What I want is easy: a good life for me and my family.
 
-Then the question is: what does my ego want? Easy as well; the same thing yours: to feel important. 
+Then the question is: what does my ego want? Easy as well; the same thing as yours: to feel important. 
 
 That's why I write and publish these random thoughts online. It's the sole reason. It makes me someone who writes stuff online. It's like candy for my ego; a little nutrition.
 
@@ -39,7 +39,8 @@ So this is the deal I struck with my ego. It's a delicate balance. Sometimes I c
 
 So far, we're both happy with the deal.
 
-_Update: I should work on my sense of humor as a self-defense mechanism! Humor is the enemy of the devil..._
+_P.S. I should work on my sense of humor as a better self-defense mechanism! Humor is the enemy of the devil..._
+
 
 
 
