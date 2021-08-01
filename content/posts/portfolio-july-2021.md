@@ -1,7 +1,8 @@
 ---
 title: "Portfolio July 2021"
 date: 2021-08-01T10:22:04-04:00
-draft: true
+draft: false
+categories: ["portfolio"]
 ---
 
 ![portfolio-july-2021](/images/portfolio-july-2021.png)
