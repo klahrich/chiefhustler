@@ -42,3 +42,9 @@ $BABA, $MKO
 ### Trimmed
 
 $NUR.CN, $WELL.TO, $PNG.V, $AEP.V
+
+### Disclaimer
+
+I'm not married to any of these stocks. They don't care about me and I don't care about them. 
+
+I am very scared of commitment bias and hope to be able to change my position on a dime if the facts change.
