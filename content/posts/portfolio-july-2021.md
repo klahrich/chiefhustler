@@ -25,7 +25,7 @@ _But in all cases, I require the valuation to be attractive._
 
 This is different from last year, when I was buying growth and momentum without looking too much at the price.
 
-Another lesson I am slowly digesting is that nothing in this life is black or white, and investing is no exception. We want to be lifetime holders of the best businesses out there and have "diamond hands", but at the same time we want to be agile enough to adapt to changing return profiles and avoid commitment bias. Then again, we want to avoid imaptience and chasing every new shiny object, yet when an opportunity shows up, we want to snap into action with the speed of [Dracula Ant's jaw](https://www.smithsonianmag.com/smart-news/dracula-ants-snapping-jaws-are-fastest-known-appendage-any-animal-180971061/).
+Another lesson I am slowly starting to digest is that nothing in this life is black or white, and investing is no exception. We want to be lifetime holders of the best businesses out there and have "diamond hands", but at the same time we want to be agile enough to adapt to changing return profiles and avoid commitment bias. Then again, we want to avoid imaptience and chasing every new shiny object, yet when an opportunity shows up, we want to snap into action with the speed of [Dracula Ant's jaw](https://www.smithsonianmag.com/smart-news/dracula-ants-snapping-jaws-are-fastest-known-appendage-any-animal-180971061/).
 
 You get the picture. It's a balance; a delicate dance. But you can dance like [this](https://www.youtube.com/watch?v=LUcxixlOiVM) or you can look like [that](https://www.youtube.com/watch?v=lAkuJXGldrM).
 
@@ -41,15 +41,15 @@ $CTS.TO (reasons [here]({{<relref "cts.md">}} "CTS"))
 
 ### Entered
 
-$OPFI, $EXPI, $JAKK, $GFP.V, $PIRS
+$OPFI $EXPI $JAKK $GFP.V $PIRS
 
 ### Added
 
-$BABA, $MKO
+$BABA $MKO
 
 ### Trimmed
 
-$NUR.CN, $WELL.TO, $PNG.V, $AEP.V
+$NUR.CN $WELL.TO $PNG.V $AEP.V
 
 ### Disclaimer
 
