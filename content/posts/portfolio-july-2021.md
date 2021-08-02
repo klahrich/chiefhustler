@@ -45,4 +45,4 @@ $NUR.CN, $WELL.TO, $PNG.V, $AEP.V
 
 ### Disclaimer
 
-I'm not married to any of these stocks. They don't care about me and I only care about them as long as the underlying business remains an attractive investment.
+_I'm not married to any of these stocks. They don't care about me and I only care about them as long as the underlying business remains an attractive investment._
