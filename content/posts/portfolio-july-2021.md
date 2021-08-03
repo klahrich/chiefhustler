@@ -9,7 +9,9 @@ categories: ["portfolio"]
 
 ### Comments
 
-$NUR.CN is still weighing heavily on the portfolio and underperforming and is $BABA down as well. 
+US-listed stocks (including $BABA) now represent 22% of the portfolio.
+
+$NUR.CN is still weighing heavily on the performance. All the US stocks are down as wello, except for the small position in $JAKK.
 
 This month I had my first experience with rights ($GFP-RT.V). I bought as much as I felt comfortable buying, which I think was 71,500 rights plus a tiny bit of oversubscription just for practice. They convert at $1.50 per $GFP.V share. $GFP.V closed the month at $2.63. I'm waiting to receive the shares in my account.
 
