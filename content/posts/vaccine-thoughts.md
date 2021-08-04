@@ -78,3 +78,9 @@ Moreover, while I know some people who have decided to live their life as if the
 
 This is a weak argument, I will admit. I had a hard time coming up with a third one. But still, it is true that NOT being on the side of the majority has a cost, at least psychologically, and sometimes economically. You can be asked to justify yourself, you can be ostracized, etc. Being on the side of the majority is usually the more comfortable choice.
 
+#### Alternative reason 3: I'm just scared of needles
+
+There is a non-zero chance that all this mumbo-jumbo only serves to mask my fear of needles. Which obviously is NOT a valid reason to avoid the vaccine. But I think it does play a role in my decision.
+
+I'm an idiot.
+
