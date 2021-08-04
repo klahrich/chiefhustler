@@ -25,6 +25,7 @@ The first reason is that, based on the data available as of today, it doesn't se
 
 The data I'm using comes from the [Government of Canada](https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html#a7). The data covers 1,427,313 cases of COVID-19 across Canada, of which 442,702 were between 30 and 49 years old. We have hospitalization status for 70.1% of the 1,427,313 cases. I will apply the same percentage for my age group, meaning that I will assume that we have hospitalization status for 310,334 cases between ages 30 and 49 (I'm right in the middle). 
 Out of these:
+
 - 11,944 (3.8%) have been hospitalized
 - 2,277 (0.7%) have been admitted to an intensive care unit
 - 485 (0.15%) have died
