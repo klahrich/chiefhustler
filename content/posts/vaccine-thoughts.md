@@ -70,7 +70,7 @@ Whether the researches linked to above are right or not, life is about to get ha
 
 Getting the vaccine would make it easier for me to continue to enjoy life.
 
-Things _could_ get even more complicated, e.g. some workplaces could start requiring their office employees to get vaccinated. In fact, it looks like Microsoft has [done just that](https://www.cnn.com/2021/08/03/success/microsoft-vaccine-requirement-reopening-delay/index.html), and they're not the first either.
+Things _could_ get even more complicated, e.g. some workplaces could start requiring their office employees to get vaccinated. In fact, it looks like Microsoft has [done just that](https://www.cnn.com/2021/08/03/success/microsoft-vaccine-requirement-reopening-delay/index.html). They're not the first company to enforce such requirements and probably not the last either.
 
 #### Reason 3: to be with the majority
 
