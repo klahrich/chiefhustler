@@ -30,7 +30,7 @@ Out of these:
 - 2,277 (0.7%) have been admitted to an intensive care unit
 - 485 (0.15%) have died
 
-Note there have been 378K cases reported in QC so far, out of a 20+ population of 6,721M, representing ~5.6%.
+Note: there have been 378K cases reported in QC so far, out of a 20+ population of 6,721M, representing ~5.6%.
 
 #### Reason 2: the virus will evolve to escape the current vaccines
 
