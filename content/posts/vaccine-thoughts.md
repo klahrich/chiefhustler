@@ -66,11 +66,9 @@ This is pretty much the point of the vaccine. No explanation is needed here.
 
 Whether the researches linked to above are right or not, life is about to get harder for the non-vaccinated population: travel restrictions, vaccine passport, etc.
 
-Getting the vaccine would allow me to continue to enjoy life.
+Getting the vaccine would make it easier for me to continue to enjoy life.
 
 #### Reason 3: to be with the majority
 
-This is a weak argument, I will admit. I had a hard time coming up with a third one. However, it is true that NOT being on the side of the majority has a cost, at least psychologically, and sometimes economically.
-
-You have to justify yourself, you can be ostracized, etc.
+This is a weak argument, I will admit. I had a hard time coming up with a third one. However, it is true that NOT being on the side of the majority has a cost, at least psychologically, and sometimes economically. You have to justify yourself, you can be ostracized, etc. Being on the side of the majority is usually the more comfortable choice.
 
