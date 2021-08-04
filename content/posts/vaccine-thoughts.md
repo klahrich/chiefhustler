@@ -13,7 +13,7 @@ Here's an example coming from a very smart person:
 
 ![paulg](/images/vaccine-paul-graham.png)
 
-I want to try and protect myself from such biased stances and make my decisions after considering both sides of the issue. Unfortunately I feel that I won't be able to reach perfect rationality because of my natural stubbornness, but forcing myself to write can compensate a little bit for that.
+I want to try and avoid such biased and extreme stances, and make my decisions while considering both sides of any issue. Unfortunately I feel that I won't be able to reach perfect rationality because of my natural stubbornness, but forcing myself to write can compensate a little bit for that.
 
 So without further ado, here are my 3 reasons for not taking the vaccine (as of today; I reserve the right to change my mind if the data or my circumpstances change).
 
