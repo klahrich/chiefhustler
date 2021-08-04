@@ -60,13 +60,17 @@ In the spirit of trying to remain as rational as possible, I decided to write do
 
 #### Reason 1: to drastically reduce the risk of dying or getting severly ill
 
-This is pretty much the point of the vaccine. No explanation is needed here.
+This is pretty much the point of the vaccine. Not much explanation is needed here: I don't want to die.
+
+Also, while the current vaccines are not perfect, it has been widely reported that covid infections in the vaccinated are in general much less severe than in the non-vaccinated.
 
 #### Reason 2: to move on with my life
 
 Whether the researches linked to above are right or not, life is about to get harder for the non-vaccinated population: travel restrictions, vaccine passport, etc.
 
 Getting the vaccine would make it easier for me to continue to enjoy life.
+
+Things _could_ get even more complicated, e.g. some workplaces could start requiring their office employees to get vaccinated. In fact, it looks like Microsoft has [done just that](https://www.cnn.com/2021/08/03/success/microsoft-vaccine-requirement-reopening-delay/index.html), and they're not the first either.
 
 #### Reason 3: to be with the majority
 
