@@ -48,9 +48,11 @@ The consequence of this is that the current vaccines will soon be quite ineffect
 
 #### Reason 3: erosion of the will
 
-With the first two reasons in mind, and given the social pressure we are subjected to (or that we subject ourselves to), I feel like taking that vaccine shot would immediately erode my will, my ability to think for myself, and my ability to say "no". This is related to the [foot-in-the-door technique](https://atroche.tumblr.com/post/61633164818/how-china-brainwashed-american-pows-using-a-classic).
+With the first two reasons in mind, and given the social pressure we are subjected to (or that we subject ourselves to), I feel that taking the vaccine shot would erode my will, my ability to think for myself, and my ability to say "no". This is related to the [foot-in-the-door technique](https://atroche.tumblr.com/post/61633164818/how-china-brainwashed-american-pows-using-a-classic).
 
 My ability to think independently is very important to me, and I'd rather not jeopardize it unless I have no choice.
+
+However I do recognize that I might just be having a bit of a macho attitude here. If that's the case, then so be it.
 
 ## 3 reasons for
 
