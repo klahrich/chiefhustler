@@ -70,7 +70,7 @@ Whether the researches linked to above are right or not, life is about to get ha
 
 Getting the vaccine would make it easier for me to continue to enjoy life.
 
-Things _could_ get even more complicated, e.g. some workplaces could start requiring their office employees to get vaccinated. In fact, it looks like Microsoft has [done just that](https://www.cnn.com/2021/08/03/success/microsoft-vaccine-requirement-reopening-delay/index.html). They're not the first company to enforce such requirements and probably not the last either.
+Things _could_ get even more complicated, e.g. some workplaces could start requiring their office employees to get vaccinated. In fact, it looks like Microsoft has [done just that](https://www.cnn.com/2021/08/03/success/microsoft-vaccine-requirement-reopening-delay/index.html). They're not the first company to enforce such requirements and probably not the last either. I wonder what the people who are allergic to components of the vaccine are supposed to do...maybe have a certificate that proves their allergy?
 
 Moreover, while I know some people who have decided to live their life as if the virus didn't exist (within the law), that's not an approach I feel comfortable with. I feel like that would a sort of denial of reality. For me, the reality is that there is a highly transmissible virus out there, and I'd rather at least diminish my exposure to it in order to keep my defenses healthy. Which means that I cannot live my life exactly the same as it was pre-pandemic.
 
