@@ -80,7 +80,9 @@ This is a weak argument, I will admit. I had a hard time coming up with a third 
 
 #### Alternative reason 3: I'm just scared of needles
 
-There is a non-zero chance that all this mumbo-jumbo only serves to mask my fear of needles. Which obviously is NOT a valid reason to avoid the vaccine. But I think it does play a role in my decision.
+There is a non-zero chance that all this mumbo-jumbo only serves to mask my fear of needles. Which is obviously NOT a valid reason to avoid the vaccine. But I think it does play a small role in my decision.
 
 I'm an idiot.
+
+Now that I think about it, if I'm an idiot, then in a life or death situation, I _should_ follow the majority.
 
