@@ -13,7 +13,7 @@ Here's an example coming from a very smart person:
 
 ![paulg](/images/vaccine-paul-graham.png)
 
-I want to try and protect myself from these emotionally-driven stances and make my decisions as rationally as I possibly can. Unfortunately I feel that I won't be able to reach perfect rationality because of my natural stubbornness, but forcing myself to write can compensate a little bit for that.
+I want to try and protect myself from such emotionally driven stances and make my decisions as rationally as I possibly can. Unfortunately I feel that I won't be able to reach perfect rationality because of my natural stubbornness, but forcing myself to write can compensate a little bit for that.
 
 So without further ado, here are my 3 reasons for not taking the vaccine, as of today at least.
 
