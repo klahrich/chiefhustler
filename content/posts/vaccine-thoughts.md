@@ -2,7 +2,7 @@
 title: "Thoughts on the pandemic and the vaccine"
 date: 2021-08-03T19:48:12-04:00
 draft: false
-categorties: ["Random"]
+categories: ["random"]
 ---
 
 My goal in this post is to write down my reasons for not taking the vaccine (as of today).
