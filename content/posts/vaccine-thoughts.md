@@ -5,9 +5,39 @@ draft: false
 categories: ["random"]
 ---
 
-My goal in this post is to write down my reasons for not taking the vaccine (as of today).
+**Update (2021-08-05)**
 
-This is a heated conversation currently, and I'm seeing a lot of people being unnecessarily extreme in their comments on the subject.
+I honestly don't know what the right thing to do is. 
+
+I don't believe that taking the vaccine comes with any significant individual risk at all, on the contrary. 
+
+But at the same time, I have found hints [here](https://www.newsweek.com/lambda-covid-variant-1000-cases-us-shows-vaccine-resistance-1615668) and [there](https://reliefweb.int/report/world/two-thirds-epidemiologists-warn-mutations-could-render-current-covid-vaccines) that the vaccine could have limited power to fight mutated versions of the virus a year or so from now, in which case I'd rather trust my body to do what the human body has been doing forever: adapt and survive. 
+
+On the other hand, [some scientists have argued](https://www.scientificamerican.com/article/the-coronavirus-variants-dont-seem-to-be-highly-variable-so-far/) that there are only so many dangerous mutations possible in the spike protein of the virus. In other words, there isn't as high a chance as we might think of immune escape.
+
+It appears there is no consensus on the subject among the scientific community. 
+
+This is a high-pressure situation where the information is incomplete and blurry. I don't have time to gather enough expertise to make the picture clearer. So I have to make a call now, like everybody else.
+
+If I take the vaccine, the known risk is extremely small. I will be fairly well protected against the known variants. 
+
+If I don't take the vaccine, the known risk is not as minuscule, but it's still very small. 
+
+On the other hand, I feel that the unknown risk from the vaccine is much bigger. 
+
+Moreoever, there is no ethical dilemna at play, since contrary to what many seem to believe, vaccinated people can also shed the virus and transmit it to others.
+
+Finally, whether I get the vaccine or not, I still intend to practice social distancing and avoid crowds and indoors as much as I can. I want to get back to normal life as much as the next guy. But you know what, I'm sure the English people also wanted to go back to normal life when Hitler was bombarding them on a daily basis. Sometimes you just have to wait it out.
+
+So in this situation, and as stupid as it may seem, my decision is to wait and see.
+
+----
+
+_Original post:_
+
+My goal here is to write down my reasons for not taking the vaccine (as of today).
+
+This is a heated topic currently, and I'm seeing a lot of people being unnecessarily extreme in their comments on the matter.
 
 Here's an example coming from a very smart person:
 
@@ -36,15 +66,14 @@ Note: there have been 378K cases reported in QC so far, out of a 20+ population 
 
 There are many researchers who have tried to explain this, but their voices are inaudible in the current politically charged environment.
 
-I don't understand all of it yet, but in a nutshell, mass vaccination in the middle of a pandemic promotes virus mutants that can escape the vaccines.
+I don't understand all of it, but in a nutshell, it looks like mass vaccination that leaves the vaccinated with sub-optimal protection for some time in the middle of a pandemic promotes virus mutants that can escape the vaccines.
 
 Here are some links to understand this concept (I'm still going through them):
 
-- [leaky vaccines can produce stronger versions of viruses](https://www.healthline.com/health-news/leaky-vaccines-can-produce-stronger-versions-of-viruses-072715)
+- [Leaky vaccines can produce stronger versions of viruses](https://www.healthline.com/health-news/leaky-vaccines-can-produce-stronger-versions-of-viruses-072715)
 - [Asymptomatic infection fuels spread of more infectious SARS-CoV-2 variants](https://www.youtube.com/watch?v=gLQwblQ-lZs)
-- [Lambda COVID Variant, Behind 1,000 Cases in U.S., Shows Vaccine Resistance](https://www.newsweek.com/lambda-covid-variant-1000-cases-us-shows-vaccine-resistance-1615668)
 
-The consequence of this is that the current vaccines will soon be quite ineffective against the new virus variants that are sure to come.
+The consequence of this is that the current vaccines will at some point become ineffective against new virus variants.
 
 #### Reason 3: erosion of the will
 
@@ -85,4 +114,6 @@ There is a non-zero chance that all this mumbo-jumbo only serves to mask my fear
 I'm an idiot.
 
 Now that I think about it, if I'm an idiot, then in a life or death situation, I _should_ follow the majority.
+
+
 
