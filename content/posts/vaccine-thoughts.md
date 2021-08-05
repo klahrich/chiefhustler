@@ -9,7 +9,7 @@ categories: ["random"]
 
 While thinking about what I wrote yesterday, I realized that what I'm looking for, more than the decision itself, is a framework I could reuse in any situation where I have to make decisions under pressure and with incomplete information.
 
-But before I detail my framework, I just want to clarify something. It's the idea that non-vaccinated people represent a danger to their community in a way that vaccinated poeple are not. That idea, which is causing some extreme positions, is simply not supported by the facts. The current vaccines are not perfect. While they reduce both the incidence and severity of the virus, vaccinated people can still transport and shed the virus just like the non-vaccinated.
+But before I detail my framework, I just want to clarify something. It's the idea that non-vaccinated people represent a danger to their community in a way that vaccinated poeple are not. That idea, which is causing some extreme positions (especially among the vaccinated, which is weird), is simply not supported by the facts. The current vaccines are not perfect. While they reduce both the incidence and severity of the virus, vaccinated people can still transport and shed the virus just like the non-vaccinated.
 
 With that out of the way, here's the three-pronged high-level framework that I'm using to make my decision in this case, and I'm hoping it'll be useful beyond the context of the pandemic.
 
