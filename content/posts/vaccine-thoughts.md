@@ -14,7 +14,7 @@ But before I detail my framework, I just want to clarify something. It's the ide
 With that out of the way, here's the three-pronged high-level framework that I'm using to make my decision in this case, and I'm hoping it'll be useful beyond the context of the pandemic.
 
 - **Known vs unknown risk:** in the case of the virus, known risk is small whether I vaccinate or not. But unknown risk is much bigger with the vaccine.
-- **Baysian thinking:** assuming that both sides are equally-likely to be wrong _a priori_, and given the incentives and emotions at play, which side is more likely to be wrong _a posteriori_? Seeing how the vaccine side has basically turned into an angry mob with the politics behind them, I think they are more likely to make a judgement error (consciously or not).
+- **Bayesian thinking:** assuming that both sides are equally-likely to be wrong _a priori_, and given the incentives and emotions at play, which side is more likely to be wrong _a posteriori_? Seeing how the vaccine side has basically turned into an angry mob with the politics behind them, I think they are more likely to make a judgement error (consciously or not).
 - **Irreversible actions:** is one of the two choices irreversible? Yes, taking the vaccine is irreversible. Waiting is not.
 
 While everything written below is very specific to the current context, I think the criteria above are reusable for any decision that invovles risk.
