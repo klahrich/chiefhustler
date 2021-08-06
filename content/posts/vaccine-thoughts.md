@@ -5,7 +5,6 @@ draft: false
 categories: ["random"]
 ---
 
-
 My goal here is to write down my reasons for not taking the vaccine (as of today).
 
 This is a heated topic currently, and I'm seeing a lot of people being unnecessarily extreme in their comments on the matter.
@@ -86,7 +85,7 @@ I'm an idiot.
 
 Now that I think about it, if I'm an idiot, then in a life or death situation, I _should_ follow the majority.
 
-**Update (2021-08-04)**
+## Update (2021-08-04)
 
 I honestly don't know what the right thing to do is. 
 
@@ -112,7 +111,7 @@ Finally, whether I get the vaccine or not, I still intend to practice social dis
 
 So in this situation, and as stupid as it may seem, my decision is to wait and see.
 
-**Update (2021-08-05)**
+## Update (2021-08-05)
 
 While thinking about what I wrote yesterday, I realized that what I'm looking for, more than the decision itself, is a framework that I could reuse in any situation where I have to make decisions under pressure and with incomplete information.
 
