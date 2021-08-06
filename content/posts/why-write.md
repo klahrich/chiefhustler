@@ -5,6 +5,8 @@ draft: false
 categories: ["random"]
 ---
 
+## Satisfying my ego
+
 Why do I write, and why do I publish on this lame page that nobody knows about?
 
 Let's see if I can explain. I'm hoping that writing this piece will help me understand why I write in general.
@@ -40,6 +42,20 @@ So this is the deal I struck with my ego. It's a delicate balance. Sometimes I c
 So far, we're both happy with the deal.
 
 _P.S. I should work on my sense of humor as a better self-defense mechanism! Humor is the enemy of the devil..._
+
+## Externalizing my thoughts
+
+While writing down my [thoughts about the decision to vaccinate or not]({{<relref "vaccine-thoughts.md">}} "To vaccinate or not"), I stumbled upon another benefit of writing.
+
+What I realized after typing down my thoughts is that, on top of the obvious benefit of forcing me to structure them a little bit, it almost felt like my thoughts were leaving my brain to be crystallized on this external medium. 
+
+When I reread my thoughts later, I could recognize them because I had just written them the day prior, but somehow they didn't feel like mine, at least not in the same way as where they were only in my brain. It was as if I was reading somebod else's opinion who I happened to agree with.
+
+The freedom this gives me is unbelievable: I am free to disagree with myself!
+
+I can read the sentences on the screen, consider the argument, and if there is a flaw in the logic, I can spot it the same way I would if I was reading any article or blog post online. This pushes me to either refine my thoughts or change my mind if the logic simply doesn't hold.
+
+I never felt this distance when rereading old journal entries on a physical notebook, maybe because it's too easy to recognize my own hand writing.
 
 
 
