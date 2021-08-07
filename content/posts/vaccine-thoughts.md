@@ -127,7 +127,7 @@ On the other hand, [some scientists have argued](https://www.scientificamerican.
 
 It appears there is no consensus on the subject among the scientific community. 
 
-This is a high-pressure situation where the information is incomplete and blurry. I don't have time to gather enough expertise to make the picture clearer. So I have to make a call now, like everybody else.
+This is a high-pressure situation where the information is incomplete and blurry. I don't have time to gather enough expertise to make the picture clearer. 
 
 If I take the vaccine, the known risk is extremely small. I will be fairly well protected against the known variants. 
 
@@ -135,7 +135,7 @@ If I don't take the vaccine, the known risk is not as minuscule, but it's still 
 
 On the other hand, I feel that the unknown risk from the vaccine is much bigger. 
 
-Moreoever, there is no ethical dilemna at play, since contrary to what many seem to believe, vaccinated people can also shed the virus and transmit it to others.
+Moreoever, there is no ethical dilemna at play, since contrary to what many seem to believe, vaccinated people can also shed the virus and transmit it to others. Therefore they don't "protect their community" anymore than the unvaccinated.
 
 Finally, whether I get the vaccine or not, I still intend to practice social distancing and avoid crowds and indoors as much as I can. I want to get back to normal life as much as the next guy. But you know what, I'm sure the English people also wanted to go back to normal life when Hitler was bombarding them on a daily basis. Sometimes you just have to wait it out.
 
@@ -145,9 +145,7 @@ So in this situation, and as stupid as it may seem, my decision is to wait and s
 
 While thinking about what I wrote yesterday, I realized that what I'm looking for, maybe even more than the decision itself (this too shall pass), is a framework that I could reuse in any situation where I have to make decisions under pressure and with incomplete information.
 
-But before I detail my framework, I just want to clarify something. It's the idea that non-vaccinated people represent a danger to their community in a way that vaccinated poeple do not. That idea, which is causing some extreme positions (especially among the vaccinated, which is weird), is simply not supported by the facts. The current vaccines are not perfect. While they reduce both the incidence and severity of the virus, vaccinated people can still transport and shed the virus just like the non-vaccinated.
-
-With that out of the way, here's the three-pronged high-level framework that I'm using to make my decision in this case, and I'm hoping it'll be useful beyond the context of the pandemic.
+Here's the three-pronged high-level framework I'm using to make my decision in this case, and I'm hoping it'll be useful beyond the context of the pandemic.
 
 - **Known vs unknown risk:** in the case of the virus, known risk is small whether I vaccinate or not. But unknown risk is much bigger with the vaccine.
 
