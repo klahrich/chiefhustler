@@ -45,7 +45,7 @@ _P.S. I should work on my sense of humor as a better self-defense mechanism! Hum
 
 ## Externalizing my thoughts
 
-While writing down my [thoughts about the decision to vaccinate or not]({{<relref "vaccine-thoughts.md">}} "To vaccinate or not"), I stumbled upon another benefit of writing.
+While writing my [thoughts about the decision to vaccinate or not]({{<relref "vaccine-thoughts.md">}} "To vaccinate or not"), I stumbled upon another benefit of writing.
 
 What I realized after typing down my thoughts is that, on top of the obvious benefit of forcing me to structure them a little bit, it almost felt like my thoughts were leaving my brain to be crystallized on this external medium. 
 
