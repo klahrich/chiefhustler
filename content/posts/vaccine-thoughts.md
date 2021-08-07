@@ -43,6 +43,10 @@ But if it's possible and if it happens, not only does it make the current vaccin
 
 In a way, it would be as if we had mounted a formidable defense against land invasion, but the ennemy attacked from the air (ring any bells?).
 
+Here's a screenshot that might give some credibility to what I'm saying:
+
+![pic](/images/israel.png)
+
 Anyway, I'm not an expert. In fact I know close to nothing on the subject. I'm just trying to think this through because I don't know what else to do. I understand we all hope for all this to go away as fast as possible. But as they say, hope is not a strategy. 
 
 Without further ado, here are, as of today, 3 reasons why I would not take the vaccine, and 3 reasons wy I should.
