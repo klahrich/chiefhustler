@@ -15,7 +15,7 @@ Here's an example coming from a very smart person:
 
 I want to try and avoid such biased and extreme stances, and make my decisions while considering both sides of the issue. Unfortunately I feel that I won't be able to reach perfect rationality because of my natural stubbornness, but forcing myself to write can compensate a little bit for that.
 
-The virus is the ennemy, yet we have somehow managed to fight among ourselves. Part of the reason might be that we are all so tired of the isolation and we have put so much hope in the vaccines that even considering they might not win the war is too painful.
+The virus is the ennemy, yet we have somehow managed to fight among ourselves. Part of the reason might be that we are all so tired of the isolation and we have put so much hope in the vaccines that even considering that they might not win the war is too painful.
 
 If the vaccines were effective at killing the virus, and not just protecting the vaccinated from its effects, or if we had vaccinated the population during the lockdown periods, I wouldn't be writing this post. I would have been first in line to take them.
 
