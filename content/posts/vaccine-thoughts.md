@@ -5,7 +5,19 @@ draft: false
 categories: ["random"]
 ---
 
-My goal here is to write down my thoughts around pandemix and the vaccine.
+---
+
+_A few preliminary notes._
+
+First, I am not trying to write about what I think is the best strategy to drive the COVID19 virus extinct. I have no opinion, expertise or influence on the matter. I am only wondering what is the best decision for me, a 40 year-old husband and father. 
+
+Second, I am a very solitary person by temperament. I only have a few friends which I see rarely and my extended family is in another country. I intend to continue to limit my real-life social interactions for the foreseeable future, and avoid indoor or crowded spaces as much as I can. I also don't have any problem wearing a mask when I have to be indoors. 
+
+Third, while I'm still pondering what to do, my wife did get the vaccine. I am not an anti-vaxxer and I'm not advising anyone against the vaccine. 
+
+---
+
+My goal here is to write down my thoughts around the vaccine.
 
 This is a heated topic currently, and I'm seeing a lot of people being unnecessarily extreme in their comments on the matter.
 
@@ -77,15 +89,15 @@ Here are some links to understand this concept (I'm still going through them):
 - [Leaky vaccines can produce stronger versions of viruses](https://www.healthline.com/health-news/leaky-vaccines-can-produce-stronger-versions-of-viruses-072715)
 - [Asymptomatic infection fuels spread of more infectious SARS-CoV-2 variants](https://www.youtube.com/watch?v=gLQwblQ-lZs)
 
-The consequence of this is that the current vaccines will at some point become ineffective against new virus variants.
+The consequence of this is that the current vaccines could at some point become ineffective against new virus variants. I don't know whar the likelihood of that happening is. I just know it's not zero.
 
 #### Erosion of the will
 
-With the first two reasons in mind, and given the social pressure we are subjected to (or that we subject ourselves to), I feel that taking the vaccine shot would erode my will, my ability to think for myself, and my ability to say "no". This is related to the [foot-in-the-door technique](https://atroche.tumblr.com/post/61633164818/how-china-brainwashed-american-pows-using-a-classic).
+With the first two reasons in mind, and given the social pressure we are subjected to (or that we subject ourselves to), I feel that taking the vaccine shot would erode my will, my ability to think for myself, and rely on myself. 
 
-My ability to think independently is very important to me, and I'd rather not jeopardize it unless I have no choice.
+These are very important to me, and I'd rather not jeopardize it unless I have no choice.
 
-However I do recognize that I might just be having a bit of a macho attitude here. If that's the case, then so be it.
+While I recognize that I might be having a bit of a macho attitude here. that's OK with me. 
 
 ## 3 Reasons For
 
@@ -99,9 +111,7 @@ Also, while the current vaccines are not perfect, it has been widely reported th
 
 #### To move on with my life
 
-Whether the researches linked to above are right or not, life is about to get harder for the non-vaccinated population: travel restrictions, vaccine passport, etc.
-
-Getting the vaccine would make it easier for me to continue to enjoy life.
+Whether the researches linked to above are right or not, life is about to get harder for the non-vaccinated population: travel restrictions, vaccine passport, etc. **I think this is one of the main reasons young healthy people decide to take the vaccine.**
 
 Things _could_ get even more complicated, e.g. some workplaces could start requiring their office employees to get vaccinated. In fact, it looks like Microsoft has [done just that](https://www.cnn.com/2021/08/03/success/microsoft-vaccine-requirement-reopening-delay/index.html). They're not the first company to enforce such requirements and probably not the last either. I wonder what the people who are allergic to components of the vaccine are supposed to do...maybe have a certificate that proves their allergy?
 
@@ -118,6 +128,10 @@ There is a non-zero chance that all this mumbo-jumbo only serves to mask my fear
 I'm an idiot.
 
 Now that I think about it, if I'm an idiot, then in a life or death situation, I _should_ follow the majority.
+
+Here's a thought experiment: what if the vaccine was delivered through a pill? Would I rush to take it then?
+
+I think I'd be slightly more likely to take it, but as I imagine that scenario, I still have the same question pop in my head: "How much do we not know?"
 
 ## More rambling (added on 2021-08-04)
 
