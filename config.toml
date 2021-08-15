@@ -37,6 +37,6 @@ extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=G-GR
 name = "Twitter"
 link = "https://twitter.com/chiefhustlr"
 postHeaderContent = ""
-postFooterContent = "<br/><br/><p>Subscribe to：<a target='_blank' href='https://mailchi.mp/a1a0d59e7a19/joway'>Joway's Blog</a></p>"
+postFooterContent = "<br/><br/><p>Connect with me on [twitter](https://twitter.com/chiefhustlr)</p>"
 # extraCSSFiles = ["css/foo.css", "css/bar.css"]
 extraCSSFiles = ["css/custom_style.css"]
