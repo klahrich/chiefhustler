@@ -100,3 +100,5 @@ _"You buy the best companies in China or the best companies in the United States
 - [Seeking Alpha: Alibaba: What To Watch For](https://seekingalpha.com/article/4434693-why-i-think-baba-is-about-to-rally)
 
 - [Seeking Alpha: Beware Of The Risks In Buying Alibaba](https://seekingalpha.com/article/4434615-beware-of-the-risks-in-buying-alibaba)
+
+- [Alibaba's 2022Q1 Earnings Digest, by @BuyandHold](https://theglobalinvestor.substack.com/p/alibabas-2022q1-earnings-digest)

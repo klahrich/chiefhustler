@@ -2,7 +2,7 @@
 title: "Glenn Stearns"
 date: 2021-07-19T11:16:01-04:00
 draft: false
-categories: [leadership]
+categories: ["the greats"]
 ---
 
 This is a summary of a truly fantastic episode of the "Grit Happens" podcast, featuring Glenn Stearns, founder and CEO of Kind Lending. 
