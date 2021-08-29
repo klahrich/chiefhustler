@@ -5,6 +5,18 @@ draft: false
 categories: ["random"]
 ---
 
+UPDATE (2021-08-29): I had my first jab today. I finally caved, for one reason mainly; while I don't care about not being able to go to coffee shops or restaurants, I do care about my ability to travel. In particular, I want to take the family to visit BC before the end of the year, and [apparently](https://www.theglobeandmail.com/politics/article-trudeau-says-people-who-are-not-fully-vaccinated-will-not-be-able-to/) I'll have to be vaccinated to have the right to board on a plane. 
+
+My wife and I haven't see our parents for two years now, and while there was a chance that her parents were going to come visit us this year, that plan was cancelled. So I didn't have the heart to cancel BC on her as well. 
+
+Also, we are strongly considering moving to another province. My oldest daughter is 4 years old next year and since we are currently renting, so if we are to move, next year would be the best timing. We've visted Alberta last year, and while we loved the lakes and the mountains, we didn't fall in love with Calgary. BC is the other option. Probably more expensive than Quebec, but maybe not by much, considering the lower taxes? I'll have to compare the cost of living in detail, but in any case, before deciding, we want to visit first, and October seems like a good time to do it: not yet winter time, the 4th wave should have receded, and it would give us enough time to search for an appartment if we decide to go for it.
+
+So, I'm just in time to get the two jabs (4 weeks apart) and be able to board on a plane without worrying about whether I'll be able to come back.
+
+As of today, I'm not feeling great about my decision, but what's done is done. Millions of others have take the vaccine and are fine, so I'm making a fuss for nothing. However, I know we (and our current political leaders more than anyone) are overreacting to this 4th wave. I also know Trudeau might be bluffing with his threat to block the unvaccinated from boarding trains and planes. But unfortunately, if I wait to find out, I might impact my family's morale, hwich is pretty low already. I had to make the best out of the available information. And as they say, happy wife, happy life.
+
+Below are my thoughts, prior to taking the vaccine.
+
 ---
 
 _A few preliminary notes._

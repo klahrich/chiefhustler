@@ -33,6 +33,7 @@ mainSections = ["posts"]
 headTitle = "Chief Hustler"
 #disqus = "chiefhustler" # disqus account name
 extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=G-GRYWMWK702"></script>'
+
 [[params.socials]]
 name = "Twitter"
 link = "https://twitter.com/chiefhustlr"

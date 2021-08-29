@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Update June 2021"
+title: "Update - June 2021"
 date: 2021-07-01T10:49:45-04:00
 draft: false
 categories: ["portfolio"]
