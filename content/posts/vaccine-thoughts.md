@@ -13,7 +13,7 @@ Also, we are strongly considering moving to another province. My oldest daughter
 
 So, I'm just in time to get the two jabs (4 weeks apart) and be able to board on a plane without worrying about whether I'll be able to come back.
 
-As of today, I'm not feeling great about my decision, but what's done is done. Millions of others have take the vaccine and are fine, so I'm making a fuss for nothing. However, I know we (and our current political leaders more than anyone) are overreacting to this 4th wave. I also know Trudeau might be bluffing with his threat to block the unvaccinated from boarding trains and planes. But unfortunately, if I wait to find out, I might impact my family's morale, hwich is pretty low already. I had to make the best out of the available information. And as they say, happy wife, happy life.
+As of today, I'm not feeling great about my decision, but what's done is done, and you know what, I don't think it's one of those cases where there isn't one decision that is obviously better than the other. Millions of others have take the vaccine and are fine, so I'm making a fuss for nothing and I was probably flustered by the ease with which the population of a modern developped country has accepted totalitarian measures. I also know we (and our current political leaders more than anyone) are overreacting to this 4th wave, and that Trudeau might be bluffing with his threat to block the unvaccinated from boarding trains and planes. But unfortunately, if I wait to find out, I might impact my family's morale, which is pretty low already. I had to make the best out of the available information. And as they say, happy wife, happy life.
 
 Below are my thoughts, prior to taking the vaccine.
 
