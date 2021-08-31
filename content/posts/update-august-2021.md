@@ -11,7 +11,7 @@ categories: ["portfolio"]
 
 US-listed stocks now represent 22.9% of the portfolio, up from 22% the previous month. Although there are certainly some good opportunities in the US market, I have no appetite to get more $USD exposure at the moment.
 
-As I wrote last month, I have a sizeable position in $GFP.V subscription receipts. Those should convert into shares tomorrow. The stock price has dipped significantly in the last month ($1.88 today vs $2.63 a month ago), and what looked initially like a juicy arbitrage has turned into an OK-ish investment. I tend to keep my $GFP.V throughout 2021Q3-Q4 and 2022Q1 at least. Lumber prices seem to be holding steady around $500 for now, which I'm OK with. Should demand overcome supply, things could get interesting.
+As I wrote [last month]({{<relref "update-july-2021.md">}} "Last month"), I have a sizeable position in $GFP.V subscription receipts. Those should convert into shares tomorrow. The stock price has dipped significantly in the last month ($1.88 today vs $2.63 a month ago), and what looked initially like a juicy arbitrage has turned into an OK-ish investment. I tend to keep my $GFP.V throughout 2021Q3-Q4 and 2022Q1 at least. Lumber prices seem to be holding steady around $500 for now, which I'm OK with. Should demand overcome supply, things could get interesting.
 
 I am currently overweight on $BABA. The stock price is still in the toilet, but at least it's floating around the $160 levels, like a big turd. Could be worse. That being said, my risk management is clearly lacking. There was no need for me to go this big on this one position. I believe my cost of opportunity is high. 
 
