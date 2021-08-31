@@ -2,6 +2,7 @@
 title: "Investing Approach"
 date: 2021-08-26T03:12:22-04:00
 draft: false
+categories: ["investing"]
 ---
 
 ### My investing approach

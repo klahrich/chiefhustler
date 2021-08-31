@@ -2,6 +2,7 @@
 title: "Update August 2021"
 date: 2021-08-31T16:11:31-04:00
 draft: false
+categories: ["portfolio"]
 ---
 
 ![portfolio-aug-2021](/images/portfolio-aug-2021.png)
