@@ -37,7 +37,7 @@ extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=G-GR
 [[params.socials]]
 name = "Twitter"
 link = "https://twitter.com/chiefhustlr"
-postHeaderContent = ""
+postHeaderContent = "<!-- Global site tag (gtag.js) - Google Analytics --> <script async src='https://www.googletagmanager.com/gtag/js?id=G-GRYWMWK702'></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-GRYWMWK702');</script>"
 postFooterContent = "<br/><br/><p>Connect with me on [twitter](https://twitter.com/chiefhustlr)</p>"
 # extraCSSFiles = ["css/foo.css", "css/bar.css"]
 # extraCSSFiles = ["css/custom_style.css"]
