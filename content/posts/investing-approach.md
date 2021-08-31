@@ -60,7 +60,7 @@ My main edge is that I am unconstrained. I'm not using any leverage, and I don't
 
 Moreover, I have also no constraints in the types of investments I can consider, and I don't have to justify them to anyone. I can invest in nanocaps and large caps. I can take ESG and DEI into consideration or not. And I can buy stocks that all of Wallstreet hates. I can look everywhere.
 
-This part of my edge is in the search portion of the process. I have zero edge (I even assume a negative edge) in the valuation of businesses, and close to neutral in the review and risk diversification aspects, although I think I'm slowly getting better at those.
+So I can have an edge in the search phase of the process. I have zero edge (I even assume a negative edge) in the valuation of businesses, and close to neutral in the review and risk diversification aspects, although I think I'm slowly getting better at those.
 
 #### Closing words
 
