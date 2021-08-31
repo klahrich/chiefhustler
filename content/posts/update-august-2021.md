@@ -21,7 +21,7 @@ I sold $PIRS because I had no clue about anything that company is doing. Of cour
 
 Still overweight on $NUR.CN. Every month, I get reverse-fomo and post-pone selling in case it decides to run up out of the blue. To be fair, the company has made decent progress, just nothing spectacular yet. I wouldn't be in this situation to begin with if I just didn't speculate. I'm hoping the stock will have a strong Q3-Q4 (LOL).
 
-I've slightly increased my exposure to gold through $MKO.V. I like the CEO, and I believe the company will be gushing free cashflow in the very near future. Maybe one day I'll understand something about mining, until then, I'm bowling with bumpers alongside [@BrownMarubozu](https://twitter.com/BrownMarubozu). 
+I've slightly increased my exposure to gold through $MKO.V. I like the CEO, and I believe the company will be gushing free cashflow in the very near future. Maybe one day I'll understand something about mining; until then, I'm bowling with bumpers alongside [@BrownMarubozu](https://twitter.com/BrownMarubozu). 
 
 I've also increased my cash position to about 8%, and I have some cash coming in soon. I'll invest it if I see some incredible opportunities on the Canadian markets, but I'm in no rush. I'd rather have some cash to sleep on (not sure that's a legit english expression but I like it).
 
