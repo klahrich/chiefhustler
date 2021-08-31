@@ -23,6 +23,6 @@ Still overweight on $NUR.CN. Every month, I get reverse-fomo and post-pone selli
 
 I've slightly increased my exposure to gold through $MKO.V. I like the CEO, and I believe the company will be gushing free cashflow in the very near future. Maybe one day I'll understand something about mining, until then, I'm bowling with bumpers alongside [@BrownMarubozu](https://twitter.com/BrownMarubozu). 
 
-I've also increased my cash position to about 8%, and I have some cash coming in soon. I'll invest it if I see some incredible opportunities on the Canadian markets, but I'm in no rush. I'd rather never be fully invested again, it just helps me be much calmer.
+I've also increased my cash position to about 8%, and I have some cash coming in soon. I'll invest it if I see some incredible opportunities on the Canadian markets, but I'm in no rush. I'd rather have some cash to sleep on (not sure that's a legit english expression but I like it).
 
 Finally, I spent a lot of time this month thinking about my investing approach. [Here's]({{<relref "investing-approach.md">}} "My investing approach") what I came up with. Hopefully I can revisit it in a few months and get a good laugh at how noob I was.
