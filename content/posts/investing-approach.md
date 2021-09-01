@@ -55,6 +55,8 @@ I have to admit, these are my favorite types of setup; when there's extreme fear
 
 In an nutshell, I want to smell blood on the street; anguish, anger, desperation and  fear. Those are the feelings I'm attracted to. 
 
+This means that the overused adage "Time in the market > Timing the market" is utter horse shit. Timing is SUPER important, as least for picking individual stock entry points.
+
 #### My edge
 
 When it comes to investing, I'm not trying to reinvent the wheel. Everything I've said above is just a rehashed version of Buffet's and others' wisdom. The same is true for what I believe to be my edge. 
