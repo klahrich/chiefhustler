@@ -71,7 +71,7 @@ So I can have an edge in the search phase of the process. I have zero edge (I ev
 
 Whether I'm buying a wonderful business at a fair price or a shitty business at a deeply discounted price, the investment opportunity needs to be completely obvious. I shouldn't have to come up with some smart arguments as to why the buying opportunity is interesting. It should stare me in the face. If it's hard and complicated, it's not for me. 
 
-To be clear: yes, I am looking for a free lunch, or a $20 bill on the ground. And yes, I'm willing to wait and do nothing otherwise. 
+To be clear: yes, I am looking for a free lunch, or a $20 bill on the ground. And yes, I'm willing to wait and do nothing otherwise. As Mohnish Pabrai says, I will be unreasonably demanding.
 
 I will not rely on the quality of my projections. In fact, I'd rather not make any. I want the market to hand me a golden opportunity, without me having to force anything. I am confident that the market does, from time to time, present such opportunities, out of its own volition. I just have to be looking. I will put much more energy into the search part than the valuation part. I will do a review of every opportunity with a simple but thorough checklist, and will remain cautious with the risk I'm taking.
 
