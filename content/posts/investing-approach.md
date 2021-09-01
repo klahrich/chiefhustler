@@ -53,6 +53,8 @@ This only happens after a lollapalooza situation, where the business or the mark
 
 I have to admit, these are my favorite types of setup; when there's extreme fear or disgust. Those feelings are easy enough to spot, and since they tend to spread like wildfire, they make for beautiful entry points. Two recent examples that come to mind are Peloton and Alibaba, although the events that hit Peloton were not close enough in time to one another and the stock didn't not suffer enough for me to consider it cheap. 
 
+In an nutshell, I want to smell blood on the street; anguish, anger, desperation and  fear. Those are the feelings I'm attracted to. 
+
 #### My edge
 
 When it comes to investing, I'm not trying to reinvent the wheel. Everything I've said above is just a rehashed version of Buffet's and others' wisdom. The same is true for what I believe to be my edge. 
@@ -63,7 +65,7 @@ Moreover, I have also no constraints in the types of investments I can consider,
 
 So I can have an edge in the search phase of the process. I have zero edge (I even assume a negative edge) in the valuation of businesses, and close to neutral in the review and risk diversification aspects, although I think I'm slowly getting better at those.
 
-#### Closing words
+#### Looking for a free lunch
 
 Whether I'm buying a wonderful business at a fair price or a shitty business at a deeply discounted price, the investment opportunity needs to be completely obvious. I shouldn't have to come up with some smart arguments as to why the buying opportunity is interesting. It should stare me in the face. If it's hard and complicated, it's not for me. 
 
