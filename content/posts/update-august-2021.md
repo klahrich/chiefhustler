@@ -17,12 +17,12 @@ I am currently overweight on $BABA. The stock price is still in the toilet, but 
 
 I exited $OPFI just before the massive price crash. It has now recouped most of the loss. At the bottom, just above $6, it was a very nice buying opportunity, had I not wasted all my ammo on $BABA.
 
-I sold $PIRS because I had no clue about anything that company is doing. Of course, the stock price rised significantly since. I removed it from my watchlist; just not in my wheelhouse.
+I sold $PIRS because I had no clue about anything that company is doing. Of course, the stock price has risen significantly since. I removed it from my watchlist; just not in my wheelhouse.
 
-Still overweight on $NUR.CN. Every month, I get reverse-fomo and post-pone selling in case it decides to run up out of the blue. To be fair, the company has made decent progress, just nothing spectacular yet. I wouldn't be in this situation to begin with if I just didn't speculate. I'm hoping the stock will have a strong Q3-Q4 (LOL).
+Still overweight on $NUR.CN. Every month, I get reverse FOMO and postpone selling in case it decides to run up out of the blue. To be fair, the company has made decent progress, just nothing spectacular yet. I wouldn't be in this situation to begin with if I just didn't speculate. I'm hoping the stock will have a strong Q3-Q4 (LOL).
 
-I've slightly increased my exposure to gold through $MKO.V. I like the CEO, and I believe the company will be gushing free cashflow in the very near future. Maybe one day I'll understand something about mining; until then, I'm bowling with bumpers alongside [@BrownMarubozu](https://twitter.com/BrownMarubozu). 
+I've slightly increased my exposure to gold through $MKO.V. I like the CEO, and I believe the company will be gushing free cash flow in the near future. Maybe one day I'll understand something about mining; until then, I'm bowling with bumpers alongside [@BrownMarubozu](https://twitter.com/BrownMarubozu). 
 
-I've also increased my cash position to about 8%, and I have some cash coming in soon. I'll invest it if I see some incredible opportunities on the Canadian markets, but I'm in no rush. I'd rather have some cash to sleep on (not sure that's a legit english expression but I like it).
+I've also increased my cash position to about 8%, and I have some cash coming in soon. I'll invest it if I see some incredible opportunities on the Canadian markets, but I'm in no rush. I'd rather have some cash to sleep on (not sure that's a legit English expression but I like it).
 
-Finally, I spent a lot of time this month thinking about my investing approach. [Here's]({{<relref "investing-approach.md">}} "My investing approach") what I came up with. Hopefully I can revisit it in a few months and get a good laugh at how noob I was.
+Finally, I spent a lot of time this month thinking about my investing approach. [Here's]({{<relref "investing-approach.md">}} "My investing approach") what I came up with. Hopefully, I can revisit it in a few months and get a good laugh at how noob I was.
