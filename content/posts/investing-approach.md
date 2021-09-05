@@ -5,6 +5,14 @@ draft: false
 categories: ["investing"]
 ---
 
+### Foreword
+
+I really struggle to figure out how or why I would have an edge investing in the market. To some degree, and as far as comparing myself to the market, it doesn't matter that much. In the sense that I don't mind underperforming any given index, as long as I'm learning and having fun.
+
+But I feel that the only way I can learn efficiently is by leaning on my strengths, and that's why I think about what my edge could be.
+
+There's a lot of hubris and confidence in what I wrote below, but the truth is I'm constantly questioning whether I have any clue at all. So take what you read here with a grain of salt. It's basically me cheering myself up to keep trying.
+
 ### My investing approach
 
 My approach to investing stems from the fundamental assumption that everyone out there is objectively more experienced and smarter than me. By everyone out there, I mean everyone that is allocating capital in a serious way. I exclude the gamblers and meme speculators. 
