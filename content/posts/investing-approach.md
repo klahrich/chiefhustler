@@ -5,6 +5,30 @@ draft: false
 categories: ["investing"]
 ---
 
+### Update (2021-09-08)
+
+I was trying a bit too hard when writing this post. In a sense, that's to be expected when one is still trying to find their style.
+
+I want to share a beautiful post that resonated strongly with me and that explains much better the ideas that I tried to convey here. The post's title is **Peak Quality?**, and you can read it [here](https://www.albertbridgecapital.com/post/peak-quality?s=09).
+
+Here's my favorite quote from that post:
+
+_Our view is that the intersection of quality and value is where things get interesting.  That could mean owning an extremely high quality company that the consensus investor only believes to be good quality, or owning the mediocre quality company that Mr. Market has left for dead._
+
+Moreover, when it comes to style, there's another idea that I find compelling. It was most eloquently expressed by Bruce Lee in [The Lost Interview](https://www.youtube.com/watch?v=0yCeduVJW9s). He says: 
+
+_Styles tend to separate men, because they have their own doctrines, and then doctrines become the gospel truth that you cannot change. Style is a cristallisation. Instead, seek a process of continuing growth._
+
+And the [highlight](https://www.youtube.com/watch?v=cJMwBwFj5nQ) of that interview is even more powerful:
+
+_Be formless, shapeless, like water. You put water into a cup, it becomes the cup; you put it into a bottle, it becomes the bottle; you put it into a teapot, it becomes the teapot. Now water can flow, or it can crash. Be water my friend._
+
+Here's the full interview if you're interested:
+
+{{<youtube qLXYFEa0q58>}}
+
+So in a nutshell, while I stand behind everything I wrote below, I find it too limiting and stiff. And the truth it, I allow myself to deviate from it and experiment, as long as it doesn't put my portfolio at too much risk. After all, a big part of the appeal of this game is the opportunity to experiment and learn.
+
 ### Foreword
 
 I really struggle to figure out how or why I would have an edge investing in the market. To some degree, and as far as comparing myself to the market, it doesn't matter that much. In the sense that I don't mind underperforming any given index, as long as I'm learning and having fun.
