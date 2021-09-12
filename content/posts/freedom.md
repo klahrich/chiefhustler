@@ -5,13 +5,15 @@ draft: false
 categories: ["life"]
 ---
 
+![free](/images/free.png)
+
 I, unfortunately, started caring about money very, very late. Until the age of about 33, I was a mildly depressive, lonely, and lost soul. I would go to work, come home to play some online games, watch some porn, eat whatever I managed to fix myself, go to sleep and repeat the same pattern the next day.
 
 Somehow, I survived without succumbing to drugs or alcohol. 
 
-Until one day I decided that I needed to take some responsibility and build something in this life. I always loved kids and I thought I'd love to have a family of my own. I met my wife after watching a DVD of my cousin's wedding. I saw her dancing in the video. Asked for her number, we met the next day and six months later we were engaged. Fast forward a few years, we now have two beautiful little girls and I'm happier than I ever thought possible.
+Until one day I decided that I decided to take some responsibility and build something in this life. I always loved kids and I thought I'd love to have a family of my own. I met my wife after watching a DVD of my cousin's wedding. I saw her dancing in the video. Asked for her number, we met the next day and six months later we were engaged. Fast forward a few years, we now have two beautiful little girls and I'm happier than I ever thought possible.
 
-But I want to be free. I want to wake up every day and do whatever I feel like doing. And if I don't feel like doing anything, then I'd like to spend the day not doing anything. Of course, I'll always have the wife and the kids to take care of, but still, not having to work for a living is what I mean.
+Now I don't really care about being rich, but I want to be free. I want to wake up every day and do whatever I feel like doing. And if I don't feel like doing anything, then I'd like to spend the day not doing anything. Of course, I'll always have the wife and the kids to take care of, but still, not having to work for a living is what I mean.
 
 I recently found the blog of [MrMoneyMustache](https://www.mrmoneymustache.com/) thanks to [@LibertyRPF](https://twitter.com/LibertyRPF), which inspired me to write this post. He achieved freedom at 30 years old, after 10 years of working as a software engineer while diligently saving as much money as he could (him and his wife).
 
