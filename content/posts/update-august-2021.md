@@ -15,14 +15,14 @@ As I wrote [last month]({{<relref "update-july-2021.md">}} "Last month"), I have
 
 I am currently overweight on $BABA. The stock price is still in the toilet, but at least it's floating around the $160 levels, like a big turd. Could be worse. That being said, my risk management is clearly lacking. There was no need for me to go big on this one position. I believe my cost of opportunity is high. 
 
-I exited $OPFI just before the massive price crash. It has now recouped most of the loss. At the bottom, just above $6, it was a very nice buying opportunity, had I not spent all my ammo on $BABA!
+I exited $OPFI just before the massive price crash. It has now recouped most of the loss. At the bottom, just above $6, it was a very nice buying opportunity, which I would have gladly taken advantage of, had I not spent all my ammo on $BABA!
 
 I sold $PIRS because I had no clue about anything that company is doing. Of course, the stock price has risen significantly since. I removed it from my watchlist; just not in my wheelhouse.
 
-Still overweight on $NUR.CN. Every month, I get reverse FOMO and postpone selling in case it decides to run up out of the blue (really bad psychological weakness). To be fair, the company has made some decent progress recently, just nothing spectacular yet. I wouldn't be in this situation to begin with if I just didn't speculate. I'm hoping the stock will have a strong Q3-Q4 (LOL).
+Still overweight on $NUR.CN. Every month, I get reverse FOMO and postpone selling in case it decides to run up out of the blue (really bad psychological weakness). To be fair, the company has made some progress recently, just nothing concrete yet. I wouldn't be in this situation to begin with if I didn't speculate. I'm hoping the stock will have a strong Q3-Q4 (LOL).
 
 I've slightly increased my exposure to gold through $MKO.V. I like the CEO, and I believe the company will be gushing free cash flow in the near future. Maybe one day I'll understand something about mining; until then, I'm bowling with bumpers alongside [@BrownMarubozu](https://twitter.com/BrownMarubozu). 
 
 I've also increased my cash position to about 8%, and I have some cash coming in soon. I'm aiming for about ~10%. I'll use the cash if I see some incredible opportunities on the Canadian markets, but I'm in no rush. I like having a little bit of cash put aside.
 
-Finally, I spent a lot of time this month thinking about my investing approach. [Here's]({{<relref "investing-approach.md">}} "My investing approach") what I came up with. Hopefully, I can revisit it in a few months and get a good laugh at how noob I was.
+Finally, I spent some time this month thinking about my investing approach. [Here's]({{<relref "investing-approach.md">}} "My investing approach") what I came up with. Not super happy with the outcome as it seems forced and regurgitated, but hopefully, I can revisit it in a few months and get a good laugh at how noob I was.
