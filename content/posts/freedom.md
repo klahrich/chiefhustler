@@ -29,6 +29,6 @@ Based on this spreadsheet, if I manage to compound my money at a real IRR of 6%,
 
 So the goal seems achievable. 
 
-The main risks I see are not being able to compound at 6% or not being able to maintain my current salary level. There's also a hidden risk of being too conservative in my bets to avoid volatility but given my natural gambling tendencies, that's probably a hidden benefit!
+The main risks I see are not being able to compound at 6% or not being able to maintain my current income level. There's also a hidden risk of being too conservative in my bets to avoid volatility but given my natural gambling tendencies, that's probably a hidden benefit!
 
 On the other hand, there is potential upside if I manage to beat the 6% inflation-adjusted hurdle rate, if the family income increases, or if we decrease out expense ratio.
