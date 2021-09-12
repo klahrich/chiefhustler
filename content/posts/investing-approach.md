@@ -15,7 +15,7 @@ Here's my favorite quote from that post:
 
 _Our view is that the intersection of quality and value is where things get interesting.  That could mean owning an extremely high quality company that the consensus investor only believes to be good quality, or owning the mediocre quality company that Mr. Market has left for dead._
 
-Moreover, when it comes to style, there's another idea that I find compelling. It was most eloquently expressed by Bruce Lee in [The Lost Interview](https://www.youtube.com/watch?v=0yCeduVJW9s). He says: 
+Moreover, when it comes to style, there's another idea that I find compelling. It was most eloquently expressed by Bruce Lee in [The Lost Interview](https://www.youtube.com/watch?v=uk1lzkH-e4U). He says: 
 
 _Styles tend to separate men, because they have their own doctrines, and then doctrines become the gospel truth that you cannot change. Style is a cristallisation. Instead, seek a process of continuing growth._
 
