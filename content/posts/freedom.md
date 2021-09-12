@@ -31,4 +31,8 @@ So the goal seems achievable.
 
 The main risks I see are not being able to compound at 6% or not being able to maintain my current income level. There's also a hidden risk of being too conservative in my bets to avoid volatility but given my natural gambling tendencies, that's probably a hidden benefit!
 
-On the other hand, there is potential upside if I manage to beat the 6% inflation-adjusted hurdle rate, if the family income increases, or if we decrease our expense ratio.
+In fact, I just finished reading the 1st chapter of [Richer, Wiser, Happier](https://www.amazon.ca/Richer-Wiser-Happier-Greatest-Investors/dp/1501164856) and it made me realize that I'm taking all this shit way too fucking seriously. I need to lighten up and remember that I'm also here to have fun!
+
+So I'm switching my mindset and my frame of reference to consider this nothing but a game, one that I'd like to play well. Along the way I'd like to accumulate some coins and avoid the traps, like Super Mario Bros. 
+
+So while the end result will be financial independance, the journey itself will be a game.
