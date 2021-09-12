@@ -29,4 +29,4 @@ So the goal seems ambitious but realistic.
 
 The main risks I see are not being able to compound at 6% or not being able to maintain my current salary level. 
 
-There is on the other potential upside if I manage to beat the 6% inflation-adjusted hurdle rate, if the family income increases, or if we decrease out expense ratio.
+On the other hand, there is potential upside if I manage to beat the 6% inflation-adjusted hurdle rate, if the family income increases, or if we decrease out expense ratio.
