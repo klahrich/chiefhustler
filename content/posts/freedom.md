@@ -9,7 +9,7 @@ categories: ["life"]
 
 <p><br/></p>
 
-I, unfortunately, started caring about money very, very late. Until the age of about 33, I was a mildly depressive miserable soul. I would go to work, come home to play online games and do whatever other meaningless things lonely people do on their computer, fix myself a shitty meal, go to sleep and repeat the same pattern the following day.
+I started caring about money very, very late. Until the age of about 33, I was a mildly depressive miserable soul. I would go to work, come home to play online games and do whatever other meaningless things lonely people do on their computer, fix myself a shitty meal, go to sleep and repeat the same pattern the following day.
 
 Somehow, I survived without succumbing to drugs or alcohol. 
 
