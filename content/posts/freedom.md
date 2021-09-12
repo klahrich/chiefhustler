@@ -19,7 +19,7 @@ I recently found the blog of [MrMoneyMustache](https://www.mrmoneymustache.com/)
 
 I'm starting rather late (I'm 40), it's just me (my wife doesn't work currently), and I already have 2 kids. But I did get my share of dumb luck in 2020, which thankfully boosted my savings from around $200K to more than $900K now.
 
-My goal is to retire 10 years from now. By retire, I mean being able to afford the same expenses as today (adjusting for 2% annual inflation) from my passive investment income only.
+My goal is to retire 10 years from now. By retire, I mean be able to afford the same expenses as today (adjusting for 2% annual inflation) from my passive investment income only.
 
 I made a [simple spreadsheet](https://docs.google.com/spreadsheets/d/16kqaywKaysYlm5DdLk_dpDJ71moQtbqu/edit?usp=sharing&ouid=116309796777863581135&rtpof=true&sd=true) to do the calculation. 
 
