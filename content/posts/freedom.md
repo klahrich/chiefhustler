@@ -25,7 +25,7 @@ I made a [simple spreadsheet](https://docs.google.com/spreadsheets/d/16kqaywKays
 
 ![freedom](/images/freedom.png)
 
-Based on this spreadsheet, if I manage to compound my money at a real IRR of 6%, I'll have a passive net income of $67,630 in 10 years, which is just slightly above my current yearly expenses.
+Based on this spreadsheet, if I manage to compound my money at a real IRR of 6%, I'll have a passive net income of $67,630 in 10 years, which is slightly above my current yearly expenses.
 
 So the goal seems achievable. 
 
