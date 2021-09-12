@@ -7,11 +7,11 @@ categories: ["life"]
 
 ![free](/images/free.jpg)
 
-I, unfortunately, started caring about money very, very late. Until the age of about 33, I was a mildly depressive miserable soul. I would go to work, come home to play online games and do whatever other meaningless things lonely people do on their computer, fix myself a shitty meal, go to sleep and repeat the same pattern the next day.
+I, unfortunately, started caring about money very, very late. Until the age of about 33, I was a mildly depressive miserable soul. I would go to work, come home to play online games and do whatever other meaningless things lonely people do on their computer, fix myself a shitty meal, go to sleep and repeat the same pattern the following day.
 
 Somehow, I survived without succumbing to drugs or alcohol. 
 
-Until one day I decided that I decided to take some responsibility and build something in this life. I always loved kids and I thought I'd love to have a family of my own. I met my wife after watching a DVD of my cousin's wedding. I saw her dancing in the video. Asked for her number, we met the next day for a coffee and six months later we were engaged. Fast forward a few years, we now have two beautiful little girls and I'm happier than I ever thought possible.
+Until one day I decided to take some responsibility and build something in this life. I always loved kids and I thought I'd love to have a family of my own. I met my wife after watching a DVD of my cousin's wedding. I saw her dancing in the video. Asked for her number, we met the next day for a coffee and six months later we were engaged. Fast forward a few years, we now have two beautiful little girls and I'm happier than I ever thought possible.
 
 Now I don't really care about being rich, but I want to be free. I want to wake up every day and do whatever I feel like doing. And if I don't feel like doing anything, then I'd like to spend the day not doing anything. More importantly, I'd like to be as available as I possibly can for my daughters, and have plenty of good times with them.
 
