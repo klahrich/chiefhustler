@@ -5,9 +5,9 @@ draft: false
 categories: ["life"]
 ---
 
-![free](/images/free.png)
+![free](/images/free.jpg)
 
-I, unfortunately, started caring about money very, very late. Until the age of about 33, I was a mildly depressive, lonely, and miserable soul. I would go to work, come home to play some online games, watch some porn, eat whatever I managed to fix myself, go to sleep and repeat the same pattern the next day.
+I, unfortunately, started caring about money very, very late. Until the age of about 33, I was a mildly depressive miserable soul. I would go to work, come home to play online games and do whatever other meaningless things lonely people do on their computer, fix myself a shitty meal, go to sleep and repeat the same pattern the next day.
 
 Somehow, I survived without succumbing to drugs or alcohol. 
 
