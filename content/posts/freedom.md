@@ -11,7 +11,7 @@ I, unfortunately, started caring about money very, very late. Until the age of a
 
 Somehow, I survived without succumbing to drugs or alcohol. 
 
-Until one day I decided that I decided to take some responsibility and build something in this life. I always loved kids and I thought I'd love to have a family of my own. I met my wife after watching a DVD of my cousin's wedding. I saw her dancing in the video. Asked for her number, we met the next day and six months later we were engaged. Fast forward a few years, we now have two beautiful little girls and I'm happier than I ever thought possible.
+Until one day I decided that I decided to take some responsibility and build something in this life. I always loved kids and I thought I'd love to have a family of my own. I met my wife after watching a DVD of my cousin's wedding. I saw her dancing in the video. Asked for her number, we met the next day for a coffee and six months later we were engaged. Fast forward a few years, we now have two beautiful little girls and I'm happier than I ever thought possible.
 
 Now I don't really care about being rich, but I want to be free. I want to wake up every day and do whatever I feel like doing. And if I don't feel like doing anything, then I'd like to spend the day not doing anything. Of course, I'll always have the wife and the kids to take care of, but still, not having to work for a living is what I mean.
 
