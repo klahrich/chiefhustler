@@ -15,7 +15,7 @@ But I want to be free. I want to wake up every day and do whatever I feel like d
 
 I recently found the blog of [MrMoneyMustache](https://www.mrmoneymustache.com/) thanks to [@LibertyRPF](https://twitter.com/LibertyRPF), which inspired me to write this post. He achieved freedom at 30 years old, after 10 years of working as a software engineer while diligently saving as much money as he could (him and his wife).
 
-I'm starting much later (I'm 40), and it's just me (my wife doesn't work for now), and I already have 2 kids. But that's OK, what matters is what's ahead. On the other, I'm not starting from zero, as I do have some savings and was lucky with my stock investments in 2020.
+I'm starting much later (I'm 40), and it's just me (my wife doesn't work currently), and I already have 2 kids. But I did get my share of dumb luck in 2020, which boosted my savings from around $200K to more than $900K now.
 
 My goal is to retire 10 years from now. By retire, I mean precisely being able to afford the same expenses as today (adjusting for 2% annual inflation) from my passive investment income only.
 
