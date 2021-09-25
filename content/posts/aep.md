@@ -1,113 +1,53 @@
 ---
-title: "Aep"
+title: "Atlas Engineering Products $AEP.V - Some numbers"
 date: 2021-06-17T21:53:01-04:00
-draft: true
+draft: false
 ---
 
-Timeline:
+Here is a summary of the company's financials:
 
-Feb 2021: Dirk Maritz (CEO) resigns.
-Hadi Abassi as AEP's Chief Executive Officer and President.
-Atlas now has 7 facilities in 3 provinces.
+![aep-fins](/images/aep-fins.png)
 
-Jan 2021: to acquire the bulk of ZyTech's manufacturing assets
-from its former Langley location in the Lower Mainland of British Columbia.
-The group is adding “advanced technology equipment” to its business, and it will improve the company’s “profitability at several locations".
-ZyTech's decision to focus on its Alberta and US assets marks the departure of a local industry competitor and also yields an opportunity to bolster our Vancouver Island and Lower Mainland facilities.
-ZyTech’s equipment will be installed at the group’s Novum and Atlas Building Systems locations in the first quarter of 2021, ready for the peak building season. In addition to acquiring the equipment, Atlas Engineered will be “completing several supply contracts” for ZyTech’s clients, noted the company.
+A few comments on the calculations:
 
-Dec 16, 2019: Announces PP 
-Feb 10, 2020: Closing of PP.
-Proceeds of Over $4.5 million.
-Price of $0.40 per Unit. Unit = 1 share + 1 warrant @ $0.60 (2 years).
+- Normalized EBITDA means excluding one-time costs. It also doesn't account for share-based compensation. That's why I substract it back when calculating free cash flow.
 
-May 2019: CFO William Woods resigns. 
-Hadi Abassi named EVP of strategic business development.
-Brittany Ray-Wilks named EVP of organizational development (HR, IT, legal, marketing, communications).
-Lindsay Boeve VP of operational excellence with a focus on increasing plant productivity.
-Gurmit Dhaliwal, who served as operations manager at the company’s Nanaimo subsidiary, became VP of operations.
-Melissa MacRae is stepping into the role of interim CFO. She has severed as group comptroller since the company went public in 2017. Before that, she worked for Atlas Building Systems, an AEP company.
+- The EBITDA figure also excludes lease-related expenses. Therefore I include them in the debt calculations below.
 
-Nov 2018: newly appointed  CEO Dirk Maritz
+- CapEx means investments in equipment. It doesn't include cash used for acquisitions.
 
+- I haven't included changes in working capital. TBD.
 
+The conversion from EBITDA to FCF hovers between 50% and 80%, except for a few outliers.
 
+The revenues per segment for the three and six months ended June 30, 2021 are as follows:
 
-Subsidiaries (100% owned):
+![aep-revenues](/images/aep-revenues.png)
 
-### Clinton Roof Truss Ltd 
+The growth in the Engineered Wood Products segment is nice to see, and should continue in the coming quarters as per [this announcement](https://www.newswire.ca/news-releases/atlas-engineered-products-announces-product-line-expansion-at-novum-building-components-875537316.html) of product line expansion at Novum.
 
-Feb 21, 2018. South Western Ontario. Acquisition cost: $2.60M. Roof and floor trusses. 
+On the other hand, it's surprising to see almost no sales in the windows segment during 2021Q2, versus around $300K in 2020Q2 and 2019Q2. That segment was weak in 2021Q1 as well ($79K vs $700K in 2020). I have no idea why that is. I've sent an email to the company enquiring about it.
 
-Feb to Dec 2018: Sales = $4.33M, Earnings = $589K.
+Here's the calculation of the Enterprise Value and the EV/EBITDA ratio. 
 
-### Alberta Truebeam Ltd.
+Note that:
 
-March 07, 2018. Not described in MD&A. Northern Alberta.
+- I use the fully diluted share count at a share price of $0.60 since we're almost there, and I assume all warrants are exercised (goes to the cash balance).
 
-### New CFO
+- If you compare my EV number with the one from Yahoo Finance, Koyfin or Tikr, they show $37.7M because they use the outstanding shares (not fully diluted).
 
-April 16, 2018. Appointment of M. William (Bill) Woods as Chief Financial Officer (CFO). He previously held the positions of CFO and COO of Athabasca Minerals, CFO of Cardio-Metabolics, CFO of Liberty Mines.
+![aep-ev](/images/aep-ev.png)
 
-For investor relations please contact:
-Rob Gamley
-Phone: 1-604-689-7422
-Email: rob@contactfinancial.com
+Revenue per share for the 6 months ended June 30th, 2021 have increased 57% compared to 2020 and 23% compared to 2019.
 
-### Satellite Truss Limited
+Tangible book value per share (currently at $0.11) is trending in the right direction and recovering from 2018-2019 downturn:
 
-August 1, 2018. South Eastern Ontario. Acquisition cost: $1.29M. Roof and floor trusses. 
+![aep-bv](/images/aep-tbv.png)
 
-Aug to Dec 2018: Sales = $1.15M, Earnings = $2.3K.
+According to Koyfin, current price to book ratio is 2.05x, up from 1.70x as of Jun 30th, 2021 (a 20% increase). 
 
-### Coastal Windows Ltd
+The company is also sporting a decent (albeit not mind-blowing) and improving ROIC profile (11.7% as of 2021Q2):
 
-October 1, 2018. Nanaimo, British Columbia. Acquisition cost: $650K. Highquality windows.
+![aep-roic](/images/aep-roic.png)
 
-Oct to Dec 2018: Sales = $288K, Earnings = -$16K.
-
-### Pacer & Tandelle
-
-November 19, 2018. Ontario. Acquisition cost = $9.45M.
-
-Includes DMH Holding Corp, Tandelle Specialty Products, 2022013 Ontario Ltd. Roof and floor trusses. 
-
-Nov to Dec 2018: Sales = $1.43M, Earnings = $120K.
-
-### Selkirk Truss Ltd
-
-Upon completion of due diligence and negotiations it has been determined that there will be no deal to acquire Selkirk as of Dec 2018.
-
-As of Nov 2017 (RTO):
-
-Carmen Amezquita Hernandez
-CFO
-
-Dawn Wattie
-Corporate Secretary
-
----
-
-As of July 2018:
-
-Roy Dondale
-Vice President Operations
-
-Kent Flint
-Vice President Strategy, People,
-and Culture
-
-Bart Boos
-Vice President Sales
-
-Don Hubbard
-Board Chair
-
-Greg Smith
-Director
-
-
-
-
-
-
+All in all, I like what I'm seeing here and still see some upside going into the last quarters of 2021, given the current [construction activity in Canada](https://thoughtleadership.rbc.com/home-builders-are-tackling-canadas-housing-supply-shortage/?utm_medium=email&utm_source=salesforce&utm_campaign=Housing).
