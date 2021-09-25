@@ -2,6 +2,7 @@
 title: "Atlas Engineering Products $AEP.V - Some numbers"
 date: 2021-06-17T21:53:01-04:00
 draft: false
+categories: ["stocks"]
 ---
 
 Here is a summary of the company's financials:
