@@ -5,6 +5,8 @@ draft: false
 categories: ["stocks"]
 ---
 
+_Disclaimer: I am long this stock._
+
 The stock ticker is $AEP.V. The company builds and sells manufactured roof trusses and other engineered building products. Here is a summary of the company's financials:
 
 ![aep-fins](/images/aep-fins.png)
