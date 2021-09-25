@@ -17,7 +17,7 @@ A few comments on the calculations:
 
 - CapEx means investments in equipment. It doesn't include cash used for acquisitions.
 
-- I haven't included changes in working capital. TBD.
+- I haven't included changes in working capital in FCF calculation, out of laziness. TBD.
 
 The conversion from EBITDA to FCF hovers between 50% and 80%, except for a few outliers.
 
