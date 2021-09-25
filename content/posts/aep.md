@@ -27,7 +27,7 @@ The revenues per segment for the three and six months ended June 30, 2021 are as
 
 The growth in the Engineered Wood Products segment is nice to see, and should continue in the coming quarters as per [this announcement](https://www.newswire.ca/news-releases/atlas-engineered-products-announces-product-line-expansion-at-novum-building-components-875537316.html) of product line expansion at Novum.
 
-On the other hand, it's surprising to see almost no sales in the windows segment during 2021Q2, versus around $300K in 2020Q2 and 2019Q2. That segment was weak in 2021Q1 as well ($79K vs $700K in 2020). I have no idea why that is. I've sent an email to the company enquiring about it.
+On the other hand, it's surprising to see almost no sales in the windows segment during 2021Q2, versus around $300K in 2020Q2 and 2019Q2. That segment was weak all year ($79K in 2021 YTD vs $700K in 2020). I have no idea why that is. I've sent an email to the company enquiring about it.
 
 Here's the calculation of the Enterprise Value and the EV/EBITDA ratio. 
 
@@ -41,14 +41,12 @@ Note that:
 
 Revenue per share for the 6 months ended June 30th, 2021 have increased 57% compared to 2020 and 23% compared to 2019.
 
-Tangible book value per share (currently at $0.11) is trending in the right direction and recovering from 2018-2019 downturn:
-
-![aep-bv](/images/aep-tbv.png)
-
 According to Koyfin, current price to book ratio is 2.05x, up from 1.70x as of Jun 30th, 2021 (a 20% increase). 
 
-The company is also sporting a decent (albeit not mind-blowing) and improving ROIC profile (11.7% as of 2021Q2):
+The company is also sporting a decent ROIC profile (11.7% as of 2021Q2 and increasing):
 
 ![aep-roic](/images/aep-roic.png)
 
 All in all, I like what I'm seeing here and still see some upside going into the last quarters of 2021, given the current [construction activity in Canada](https://thoughtleadership.rbc.com/home-builders-are-tackling-canadas-housing-supply-shortage/?utm_medium=email&utm_source=salesforce&utm_campaign=Housing).
+
+Future acquisitions will important to watch. My feeling is that the CEO/founder will be disciplined and that he doesn't like to overpay. Let's see what happens!
