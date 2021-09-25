@@ -43,7 +43,7 @@ Note that:
 
 ![aep-ev](/images/aep-ev.png)
 
-Revenue per share for the 6 months ended June 30th, 2021 have increased 57% compared to 2020 and 23% compared to 2019.
+To put this ratio in perspective, revenue per share for the 6 months ended June 30th, 2021 have increased 57% compared to 2020 and 23% compared to 2019.
 
 According to Koyfin, current price to book ratio is 2.05x, up from 1.70x as of Jun 30th, 2021 (a 20% increase). 
 
