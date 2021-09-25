@@ -6,7 +6,19 @@
     <description>Recent content in stocks on The Chief&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jul 2021 21:35:46 -0400</lastBuildDate><atom:link href="https://chiefhustler.com/categories/stocks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Sep 2021 21:53:01 -0400</lastBuildDate><atom:link href="https://chiefhustler.com/categories/stocks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atlas Engineering Products</title>
+      <link>https://chiefhustler.com/posts/aep/</link>
+      <pubDate>Fri, 24 Sep 2021 21:53:01 -0400</pubDate>
+      
+      <guid>https://chiefhustler.com/posts/aep/</guid>
+      <description>The stock ticker is $AEP.V. The company builds and sells manufactured roof trusses and other engineered building products. Here is a summary of the company&amp;rsquo;s financials:
+A few comments on the calculations:
+  Normalized EBITDA means excluding one-time costs. It also doesn&amp;rsquo;t account for share-based compensation. That&amp;rsquo;s why I substract it back when calculating free cash flow.
+  The EBITDA figure also excludes lease-related expenses. Therefore I include them in the debt calculations below.</description>
+    </item>
+    
     <item>
       <title>Jakks</title>
       <link>https://chiefhustler.com/posts/jakks/</link>
@@ -96,19 +108,6 @@ Commitment bias The first one is the danger that comes with publicly sharing you
 This is the first post. I don&amp;rsquo;t think it&amp;rsquo;s the last one.
 What happened I don&amp;rsquo;t remember much about the day when I bought the bulk of my Nuran position.
 But I do remember the moment when I was buying. It felt like nothing else existed except for me and this stock I desired so much.</description>
-    </item>
-    
-    <item>
-      <title>Atlas Engineering Products $AEP.V - Some numbers</title>
-      <link>https://chiefhustler.com/posts/aep/</link>
-      <pubDate>Thu, 17 Jun 2021 21:53:01 -0400</pubDate>
-      
-      <guid>https://chiefhustler.com/posts/aep/</guid>
-      <description>Here is a summary of the company&amp;rsquo;s financials:
-A few comments on the calculations:
-  Normalized EBITDA means excluding one-time costs. It also doesn&amp;rsquo;t account for share-based compensation. That&amp;rsquo;s why I substract it back when calculating free cash flow.
-  The EBITDA figure also excludes lease-related expenses. Therefore I include them in the debt calculations below.
-  CapEx means investments in equipment. It doesn&amp;rsquo;t include cash used for acquisitions.</description>
     </item>
     
     <item>

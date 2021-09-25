@@ -1,11 +1,11 @@
 ---
-title: "Atlas Engineering Products $AEP.V - Some numbers"
-date: 2021-06-17T21:53:01-04:00
+title: "Atlas Engineering Products"
+date: 2021-09-24T21:53:01-04:00
 draft: false
 categories: ["stocks"]
 ---
 
-Here is a summary of the company's financials:
+The stock ticker is $AEP.V. The company builds and sells manufactured roof trusses and other engineered building products. Here is a summary of the company's financials:
 
 ![aep-fins](/images/aep-fins.png)
 
