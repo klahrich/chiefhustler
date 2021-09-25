@@ -5,7 +5,7 @@ draft: false
 categories: ["stocks"]
 ---
 
-_Disclaimer: As of the date of writing this post, I am long the stock discussed here. This is not investment advice, and is intended for education purposes only. Please do your own due diligence._
+_Disclaimer: As of the date of writing this post, I am long the stock discussed here. This is not investment advice, and is intended for informational purposes only. Please do your own due diligence._
 
 The stock ticker is $AEP.V. The company builds and sells manufactured roof trusses and other engineered building products. Here is a summary of the company's financials:
 
