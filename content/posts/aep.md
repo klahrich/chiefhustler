@@ -47,7 +47,7 @@ To put this ratio in perspective, revenue per share for the 6 months ended June 
 
 According to Koyfin, current price to book ratio is 2.05x, up from 1.70x as of Jun 30th, 2021 (a 20% increase). 
 
-The company is also sporting a decent ROIC profile (11.7% as of 2021Q2 and increasing):
+The company is also showing a decent ROIC profile (11.7% as of 2021Q2 and increasing):
 
 ![aep-roic](/images/aep-roic.png)
 
