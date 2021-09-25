@@ -31,7 +31,7 @@ The core of the business are the trusses, and the growth there is fantastic.
 
 The growth in the Engineered Wood Products segment is nice to see, and should continue in the coming quarters as per [this announcement](https://www.newswire.ca/news-releases/atlas-engineered-products-announces-product-line-expansion-at-novum-building-components-875537316.html) of product line expansion at Novum.
 
-On the other hand, it's surprising to see almost no sales in the windows segment during 2021Q2, versus around $300K in 2020Q2 and 2019Q2. That segment was weak all year ($79K in 2021 YTD vs $700K in 2020). I have no idea why that is. I've sent an email to the company enquiring about it.
+On the other hand, it's surprising to see almost no sales in the windows segment during 2021Q2, versus around $300K in 2020Q2 and 2019Q2. That segment was weak all year ($79K in 2021 YTD vs $700K in 2020). I have no idea why that is. Not a huge deal to be honest, but I've sent an email to the company enquiring about it.
 
 Here's the calculation of the Enterprise Value and the EV/EBITDA ratio. 
 
