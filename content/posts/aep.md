@@ -49,4 +49,6 @@ The company is also sporting a decent ROIC profile (11.7% as of 2021Q2 and incre
 
 All in all, I like what I'm seeing here and still see some upside going into the last quarters of 2021, given the current [construction activity in Canada](https://thoughtleadership.rbc.com/home-builders-are-tackling-canadas-housing-supply-shortage/?utm_medium=email&utm_source=salesforce&utm_campaign=Housing).
 
-Future acquisitions will important to watch. My feeling is that the CEO/founder will be disciplined and that he doesn't like to overpay. Let's see what happens!
+Future acquisitions will important to watch. My feeling is that the CEO/founder will be disciplined and that he doesn't like to overpay. Paul Andreola being on the board is also good. 
+
+Let's see what happens!
