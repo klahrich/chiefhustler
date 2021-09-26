@@ -7,6 +7,8 @@ categories: ["stocks"]
 
 _Disclaimer: As of the date of writing this post, I am long the stock discussed here. This is not investment advice, and is intended for informational purposes only. Please do your own due diligence._
 
+This is a quickly written overview of the stock & the business. For a more detailed write-up, check it out [this post](https://whopayswins.substack.com/p/atlas-engineered-products-paying) from Luc Nadeau.
+
 The stock ticker is $AEP.V. The company builds and sells manufactured roof trusses and other engineered building products. 
 
 The company owns 6 plants, with AEP Building Systems ("Atlas", formerly Coastal Windows) being the first one and the flagship plant.
@@ -70,7 +72,5 @@ I also like to keep an eye on option grants. In 2021 YTD, options granted were 4
 All in all, I like what I'm seeing here and still see some upside going into the last quarters of 2021, given the current [construction activity in Canada](https://thoughtleadership.rbc.com/home-builders-are-tackling-canadas-housing-supply-shortage/?utm_medium=email&utm_source=salesforce&utm_campaign=Housing).
 
 Future acquisitions will important to watch. My feeling is that the CEO/founder will be disciplined and that he doesn't like to overpay. Paul Andreola being on the board is also a good thing, he's familiar with the roll-up playbook. 
-
-Finally, I'd like to mention a more detailed write-up done by a fellow shareholder, Luc Nadeau. Check it out [here](https://whopayswins.substack.com/p/atlas-engineered-products-paying).
 
 Let's see what happens!
