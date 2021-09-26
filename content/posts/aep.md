@@ -69,6 +69,6 @@ The company is also showing a decent ROIC profile (11.7% as of 2021Q2 and increa
 
 I also like to keep an eye on option grants. In 2021 YTD, options granted were 450K (100K @ $0.49 and 350K @ $0.29). No options granted in 2020. 1.39M were granted in 2019.
 
-Future acquisitions will be important to watch. My feeling is that the CEO/founder will be disciplined and that he doesn't like to overpay. Paul Andreola being on the board is also a good thing, he's familiar with the roll-up playbook. Hadi owns 7.6M shares (~13% of the shares outstanding), 695K options and 62.5K warrants. Paul holds (in total, including his wife and his company) 1.5M shares, 100K options and 125K warrants.
+Future acquisitions will be important to watch. My feeling is that the CEO/founder will be disciplined and that he doesn't like to overpay. Paul Andreola being on the board is also a good thing, he's familiar with the roll-up playbook. Hadi owns 7.6M shares (~13% of the shares outstanding), 695K options and 62.5K warrants. Paul holds (in total, including his wife and his company) 1.5M shares, 100K options and 125K warrants - but he has also been purchasing in the open market recently.
 
 All in all, I like what I'm seeing here and still see some upside going into the last quarters of 2021, given the current [construction activity in Canada](https://thoughtleadership.rbc.com/home-builders-are-tackling-canadas-housing-supply-shortage/?utm_medium=email&utm_source=salesforce&utm_campaign=Housing).
