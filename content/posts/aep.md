@@ -63,7 +63,7 @@ The company is also showing a decent ROIC profile (11.7% as of 2021Q2 and increa
 
 ![aep-roic](/images/aep-roic.png)
 
-I also like to keep an eye on option grants, this being a small and all. In 2021 YTD, options granted were 450K (100K @ $0.49 and 350K @ $0.29). No options granted in 2020. 1.39M were granted in 2019.
+I also like to keep an eye on option grants. In 2021 YTD, options granted were 450K (100K @ $0.49 and 350K @ $0.29). No options granted in 2020. 1.39M were granted in 2019.
 
 All in all, I like what I'm seeing here and still see some upside going into the last quarters of 2021, given the current [construction activity in Canada](https://thoughtleadership.rbc.com/home-builders-are-tackling-canadas-housing-supply-shortage/?utm_medium=email&utm_source=salesforce&utm_campaign=Housing).
 
