@@ -78,6 +78,25 @@ Nov to Dec 2018: Sales = $1.43M, Earnings = $120K.
 
 Upon completion of due diligence and negotiations it has been determined that there will be no deal to acquire Selkirk as of Dec 2018.
 
+### South Central Building Systems
+
+March 5, 2019. Manitoba. Acquisition cost = $3,400,000.
+
+$2,500,000 payable on closing in the form of cash and assumption of debt, 1,000,000 common shares of Atlas valued at an agreed upon price of $0.40 per share, and $500,000 payable in five equal monthly installments
+
+"South Central has a solid track record of aggressive double-digit revenue growths over the last number of years, and most recently in fiscal 2018 revenues grew 35% over 2017 to $3.5 million, delivering an impressive 23% EBITDA margin".
+
+### Novum Building Components Ltd
+
+July 14, 2020. Lower Mainland BC.  Acquisition cost = $350,000
+
+AEP has identified under-utilized manufacturing assets across the group and will be refurbishing and upgrading them for installation at Novum in addition to the assets acquired from Trusstem. Once completed, the revamped factory with its upgraded equipment will be able to supply similar volumes to AEP's flagship Nanaimo operations.
+
+### ZyTech Building Systems
+
+January 18, 2021. Langle, Lower Mainland, BC. Acquisition cost = $958,160
+
+
 As of Nov 2017 (RTO):
 
 Carmen Amezquita Hernandez
