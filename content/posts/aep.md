@@ -45,6 +45,8 @@ The growth in the Engineered Wood Products segment is nice to see, and should co
 
 On the other hand, it's surprising to see almost no sales in the windows segment during 2021Q2, versus around $300K in 2020Q2 and 2019Q2. That segment was weak all year ($79K in 2021 YTD vs $700K in 2020). I have no idea why that is. Not a huge deal to be honest, but I've sent an email to the company enquiring about it.
 
+For the rest of 2021, the company has [recently announced](https://www.newswire.ca/news-releases/atlas-engineered-products-announces-quarter-3-2021-performance-update-866056247.html) that they expect to generate $50M revenues for the year. Applying the average ttm EBITDA ratio of 15%, that should translate into $7.5M of EBITDA. With a fully diluted EV of $44M, that's less than a 6x ratio of EV/EBITDA.
+
 Here's the calculation of the Enterprise Value and the EV/EBITDA ratio. 
 
 Note that:
@@ -68,5 +70,7 @@ I also like to keep an eye on option grants. In 2021 YTD, options granted were 4
 All in all, I like what I'm seeing here and still see some upside going into the last quarters of 2021, given the current [construction activity in Canada](https://thoughtleadership.rbc.com/home-builders-are-tackling-canadas-housing-supply-shortage/?utm_medium=email&utm_source=salesforce&utm_campaign=Housing).
 
 Future acquisitions will important to watch. My feeling is that the CEO/founder will be disciplined and that he doesn't like to overpay. Paul Andreola being on the board is also a good thing, he's familiar with the roll-up playbook. 
+
+Finally, I'd like to mention a more detailed write-up done by a fellow shareholder, Luc Nadeau. Check it out [here](https://whopayswins.substack.com/p/atlas-engineered-products-paying).
 
 Let's see what happens!
