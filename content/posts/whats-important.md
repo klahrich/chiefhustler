@@ -27,7 +27,7 @@ My family is important. Good health is important. If you lose those, they can't 
 
 It also triggered some more thoughts about investing and the seriousness that can be found around it. Investing is NOT important, and it is NOT a serious activity. I'm sorry if I'm hurting your feelings, but I'm not  sorry (it's just a Canadian thing that we say). 
 
-Investing is a game. I love this game, and hopefully, I can get good at it one day, but it's just a game. If I get rich, I hope that I'll be good enough of a man to put that money into something productive and help others whose circumstances are less fortunate than mine. I would like to help do something for children in Africa if I have the means, either in schooling or health.
+Investing is a game. I love this game, and hopefully, I can get good at it one day, but it's just a game. If I get rich, I hope that I'll be good enough of a man to put that money into something productive and help others whose circumstances are less fortunate than mine. 
 
 If you also have a family, I suggest you spend some quality time with them, every day.
 
