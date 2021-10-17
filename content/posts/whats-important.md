@@ -5,7 +5,7 @@ draft: true
 categories: ["life"]
 ---
 
-So it was the last day of our vacation in BC, and we decided to visit North Vancouver, just as an excuse to take the SeaBus. So the bus took us across Vancouver Harbor to Lonsdale Quale Market, where we had a little stroll with the girls. They were super excited, running around as there were people and nice colors everywhere.
+It was the last day of our vacation in BC, and we decided to visit North Vancouver, just as an excuse to take the SeaBus. The bus took us across Vancouver Harbor to Lonsdale Quale Market, where we had a little stroll with the girls. They were super excited, running around as there were people and nice colors everywhere.
 
 At some point, I don't remember if I heard a loud noise or if it was my wife screaming, all I remember is that I turned around and saw my 2-year old's face covered in blood, her mother kneeling to grab her. Turns out she ran headfirst at full speed into a sharp black metal pole that she didn't see, and she had a big hole in her forehead, from which blood was pouring.
 
