@@ -1,7 +1,7 @@
 ---
 title: "What's Important"
 date: 2021-10-17T17:03:54-04:00
-draft: true
+draft: false
 categories: ["life"]
 ---
 
