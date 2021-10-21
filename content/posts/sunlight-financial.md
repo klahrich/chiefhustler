@@ -284,9 +284,11 @@ during the period from June 30, 2020 to June 30, 2021, respectively. If this cap
 
 If Sunlight were to receive such an advance notice of termination, then Sunlight would use this period to develop alternate funding plans by utilizing existing relationships and exploring possible new capital provider relationships. While Sunlight believes that it would be able to identify and implement alternative arrangements during this period, Sunlight cannot guarantee that it would be able to do so at all or on equivalent or favorable terms. Sunlight believes that a failure to arrange alternative loan funding on equivalent terms would have less of an impact on Sunlight’s funded loan volume, as capital for the solar loan industry has historically been readily available. Rather, Sunlight believes that such failure would be more likely to have a greater negative impact on the amount of platform fees that Sunlight earns, and therefore could impact revenue.
 
-### Other
+### Bonus
 
 **Compensation**
+
+Executive management's compensation seems very reasonable.
 
 ![sunl8](/images/sunl8.png)
 
@@ -311,6 +313,14 @@ Barclays initiated coverage on shares of Sunlight Financial in a report on Wedne
 Analysts expect that Sunlight Financial Holdings Inc (NYSE:SUNL) will report earnings per share (EPS) of $0.05 for the current fiscal quarter, Zacks Investment Research reports. Two analysts have made estimates for Sunlight Financial’s earnings, with estimates ranging from $0.02 to $0.07. The business is scheduled to announce its next quarterly earnings results on Monday, November 15th.
 
 On average, analysts expect that Sunlight Financial will report full year earnings of $0.26 per share for the current financial year, with EPS estimates ranging from $0.24 to $0.28. For the next fiscal year, analysts anticipate that the business will report earnings of $0.27 per share, with EPS estimates ranging from $0.12 to $0.38. 
+
+**CEO**
+
+I think the CEO has the right values. If you want to know more about him, take a listen to [this podcast interview](https://www.youtube.com/watch?v=YOTRbxcNazc) (only 43 views so far, and at least 2 of them are me :p)
+
+**Short-squeeze potential**
+
+There seems to be a high % of short interest in this stock, but I wasn't able to pinpoint the size of the float, so I'm not relying too much on short-squeeze, although I wouldn't mind it!
 
 ### My Take
 
