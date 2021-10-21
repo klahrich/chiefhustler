@@ -1,7 +1,8 @@
 ---
 title: "Sunlight Financial"
 date: 2021-10-21T07:53:52-04:00
-draft: true
+draft: false
+categories: ["stocks"]
 ---
 
 ### Backers
