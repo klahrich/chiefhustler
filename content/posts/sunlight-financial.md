@@ -30,13 +30,15 @@ transaction.
 
 The private investment has given the group about 19 percent ownership of the combined company, compared to about 50 percent for Sunlight’s existing equity owners and a stake of about 26 percent for Spartan stockholders. The SPAC merger valued Sunlight’s equity at $1.3 billion.
 
-### Company
+### Company Overview
 
 Sunlight is a business-to-business-to-consumer, technology-enabled point-of-sale (“POS”) financing platform
 that provides residential solar and home improvement contractors the ability to offer seamless POS financing to
 their customers when purchasing residential solar systems or other home improvements. The resulting loans are
 funded by Sunlight’s network of capital providers who, by partnering with Sunlight, gain access to a difficult-toreach loan market, best-in-class consumer credit underwriting and attractive risk adjusted returns. These loans are facilitated by Sunlight’s proprietary technology platform, Orange (the “Sunlight Platform” or “Orange ”), through which Sunlight offers instant credit decisions to homeowners nationwide at the POS on behalf of
 Sunlight’s various capital providers.
+
+Think Affirm, for the solar panel and home improvement verticals.
 
 Sunlight’s core business is facilitating loans made by Sunlight’s various capital providers to the consumer
 customers of residential solar contractors. Sales of Sunlight-facilitated loan products are made by contractors in the context of selling residential solar systems to consumers, allowing homeowners to go solar with no money down,
@@ -99,10 +101,7 @@ Here's the split of loans by channel:
 For solar system loans, platform fees are generally earned by Sunlight in the direct channel when the direct channel capital provider funds a particular loan and in the indirect channel generally when an indirect channel capital provider purchases a particular loan from Sunlight’s bank partner. 
 
 For solar system loans, platform fees are generally earned by Sunlight in the direct channel when the direct channel capital provider funds a particular loan and in the indirect channel generally when an indirect channel capital provider purchases a particular loan from Sunlight’s bank partner. The contract between Sunlight and its bank partner for home improvement loans is considered a derivative for GAAP purposes, whereas the contract between Sunlight and its bank partner for solar loans is not. For home
-improvement loans, Sunlight records a “realized gain on contract derivative (net)” (included in Other Income) in lieu of a platform fee
-generally when the loans are purchased by Sunlight’s indirect capital provider from Sunlight’s bank partner, and
-Sunlight is paid. As such, Sunlight excludes from its revenue any platform fee associated with a home
-improvement loan under Sunlight’s related home improvement agreement.
+improvement loans, Sunlight records a “realized gain on contract derivative (net)” (included in Other Income) in lieu of a platform fee generally when the loans are purchased by Sunlight’s indirect capital provider from Sunlight’s bank partner, and Sunlight is paid. As such, Sunlight excludes from its revenue any platform fee associated with a home improvement loan under Sunlight’s related home improvement agreement.
 
 
 ### Growth
@@ -206,14 +205,7 @@ _Competitors_
 
 ### Industry Trends
 
-Specifically, future results of operations may be impacted by the potential discontinuation or material
-reduction or other change in the federal solar tax credit (the “ITC”). The ITC currently allows a qualifying
-homeowner to deduct 26% of the cost of installing residential solar systems from their U.S. federal income taxes,
-thereby returning a material portion of the purchase price of the residential solar system to homeowners. Congress
-has extended the ITC expiration date multiple times including, most recently, in December 2020. Under the terms
-of the current extension, the ITC will remain at 26% through the end of 2022, reduce to 22% for 2023, and further
-reduce to 0.0% after the end of 2023 for residential solar systems, unless it is extended before that time. Although
-the ITC has been extended several times, there is no guarantee that it will be extended beyond 2023.
+The ITC (Investment Tax Credit) currently allows a qualifying homeowner to deduct 26% of the cost of installing residential solar systems from their U.S. federal income taxes, thereby returning a material portion of the purchase price of the residential solar system to homeowners. Congress has extended the ITC expiration date multiple times including, most recently, in December 2020. Under the terms of the current extension, the ITC will remain at 26% through the end of 2022, reduce to 22% for 2023, and further reduce to 0.0% after the end of 2023 for residential solar systems, unless it is extended before that time. Although the ITC has been extended several times, there is no guarantee that it will be extended beyond 2023.
 
 - **Residential annual solar installations have been steadily increasing**
 
@@ -318,3 +310,8 @@ Analysts expect that Sunlight Financial Holdings Inc (NYSE:SUNL) will report ear
 
 On average, analysts expect that Sunlight Financial will report full year earnings of $0.26 per share for the current financial year, with EPS estimates ranging from $0.24 to $0.28. For the next fiscal year, analysts anticipate that the business will report earnings of $0.27 per share, with EPS estimates ranging from $0.12 to $0.38. 
 
+### My Take
+
+I find the valuation attractive for a company growing at 20%-30% with high operating leverage, high EBITDA to FCF conversion and optionality to expand into other verticals. On the other hand, I don't see a strong moat around the business.
+
+With this mind, I have a small position (3700 shares).
