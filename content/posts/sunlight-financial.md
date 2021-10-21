@@ -203,6 +203,8 @@ In the second quarter 2021, the company has revised guidance downwards for the y
 
 _Competitors_
 
+While Sunlight is not the only solar financing player in the game, most of the competition seems to be hybrid (manufacturer with lending facilities on top), and more richly valued. See for example [SunRun](https://app.tikr.com/stock/multiples?cid=44576381&tid=280431427&ref=lclr1f) or [SunPower](https://app.tikr.com/stock/multiples?cid=11420997&tid=143092166&ref=lclr1f).
+
 ### Industry Trends
 
 The ITC (Investment Tax Credit) currently allows a qualifying homeowner to deduct 26% of the cost of installing residential solar systems from their U.S. federal income taxes, thereby returning a material portion of the purchase price of the residential solar system to homeowners. Congress has extended the ITC expiration date multiple times including, most recently, in December 2020. Under the terms of the current extension, the ITC will remain at 26% through the end of 2022, reduce to 22% for 2023, and further reduce to 0.0% after the end of 2023 for residential solar systems, unless it is extended before that time. Although the ITC has been extended several times, there is no guarantee that it will be extended beyond 2023.
