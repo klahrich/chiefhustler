@@ -100,9 +100,9 @@ Here's the split of loans by channel:
 
 For solar system loans, platform fees are generally earned by Sunlight in the direct channel when the direct channel capital provider funds a particular loan and in the indirect channel generally when an indirect channel capital provider purchases a particular loan from Sunlight’s bank partner. 
 
-For solar system loans, platform fees are generally earned by Sunlight in the direct channel when the direct channel capital provider funds a particular loan and in the indirect channel generally when an indirect channel capital provider purchases a particular loan from Sunlight’s bank partner. The contract between Sunlight and its bank partner for home improvement loans is considered a derivative for GAAP purposes, whereas the contract between Sunlight and its bank partner for solar loans is not. For home
-improvement loans, Sunlight records a “realized gain on contract derivative (net)” (included in Other Income) in lieu of a platform fee generally when the loans are purchased by Sunlight’s indirect capital provider from Sunlight’s bank partner, and Sunlight is paid. As such, Sunlight excludes from its revenue any platform fee associated with a home improvement loan under Sunlight’s related home improvement agreement.
+For solar system loans, platform fees are generally earned by Sunlight in the direct channel when the direct channel capital provider funds a particular loan and in the indirect channel generally when an indirect channel capital provider purchases a particular loan from Sunlight’s bank partner. The contract between Sunlight and its bank partner for home improvement loans is considered a derivative for GAAP purposes, whereas the contract between Sunlight and its bank partner for solar loans is not. For home improvement loans, Sunlight records a “realized gain on contract derivative (net)” (included in Other Income) in lieu of a platform fee generally when the loans are purchased by Sunlight’s indirect capital provider from Sunlight’s bank partner, and Sunlight is paid. As such, Sunlight excludes from its revenue any platform fee associated with a home improvement loan under Sunlight’s related home improvement agreement.
 
+As of June 30, 2021, Sunlight had a cumulative funded loan total of $4.8 billion, and is poised to surpass $5 billion in cumulative funded loans in the third quarter of 2021.
 
 ### Growth
 
@@ -206,6 +206,8 @@ _Competitors_
 While Sunlight is not the only solar financing player in the game, most of the competition seems to be hybrid (manufacturer with lending facilities on top), and more richly valued. See for example [SunRun](https://app.tikr.com/stock/multiples?cid=44576381&tid=280431427&ref=lclr1f) or [SunPower](https://app.tikr.com/stock/multiples?cid=11420997&tid=143092166&ref=lclr1f).
 
 The sector is heating up however, which is to be expected given the free cashflow margins and growth runway. For example,  Rocket Companies (NYSE:RKT) announced in August 2021 a move into the solar energy market, with the intention of giving homeowners the ability to consolidate any solar panel loan with their mortgage for one low interest rate. Rocket's solar offerings will start testing phase in Q4, and is expected to be available to the public in early 2022.
+
+Another name that was planned to IP this year at a potential $10B valuation is [Loanpal](https://seekingalpha.com/news/3680216-solar-financier-loanpal-is-said-to-plan-ipo-as-soon-as-this-year). Loanpal, led by two former SolarCity Corp. executives including its chief executive officer, Hayes Barnard, has previously worked with firms including Blackstone Group Inc.’s credit arm as well as Goldman Sachs. The lender has said it provided more than $6 billion of capital for solar and other sustainable home improvement products since 2018.
 
 ### Industry Trends
 
