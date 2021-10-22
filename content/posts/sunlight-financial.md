@@ -133,7 +133,7 @@ The company expects revenue growth in the 20% to 30% range for 2022 and 2023.
 
 There seems to be a long runway for this growth:
 
-- The penetration rate of solar panels in the US is 3% (compare to mid-teens for the Californa state or 20% for a Eurepean country like Germany)
+- The penetration rate of solar panels in the US is 4% (2.6 million of a possible 66 million homes in the U.S). Compare to mid-teens for the Californa state or 20% for a Eurepean country like Germany
 
 - There are ~20K solar contractors in the US (of which only 600 are clients of Sunlight)
 
@@ -203,11 +203,11 @@ In the second quarter 2021, the company has revised guidance downwards for the y
 
 _Competitors_
 
-While Sunlight is not the only solar financing player in the game, most of the competition seems to be hybrid (manufacturer with lending facilities on top), and more richly valued. See for example [SunRun](https://app.tikr.com/stock/multiples?cid=44576381&tid=280431427&ref=lclr1f) or [SunPower](https://app.tikr.com/stock/multiples?cid=11420997&tid=143092166&ref=lclr1f).
+While Sunlight is not the only solar financing player in the game, most of the competition seems to be hybrid (manufacturer with lending facilities on top), historically focused on leasing rather than loans, and more richly valued. See for example [SunRun](https://app.tikr.com/stock/multiples?cid=44576381&tid=280431427&ref=lclr1f) or [SunPower](https://app.tikr.com/stock/multiples?cid=11420997&tid=143092166&ref=lclr1f).
 
 The sector is heating up however, which is to be expected given the free cashflow margins and growth runway. For example,  Rocket Companies (NYSE:RKT) announced in August 2021 a move into the solar energy market, with the intention of giving homeowners the ability to consolidate any solar panel loan with their mortgage for one low interest rate. Rocket's solar offerings will start testing phase in Q4, and is expected to be available to the public in early 2022.
 
-Another name that was planned to IP this year at a potential $10B valuation is [Loanpal](https://seekingalpha.com/news/3680216-solar-financier-loanpal-is-said-to-plan-ipo-as-soon-as-this-year). Loanpal, led by two former SolarCity Corp. executives including its chief executive officer, Hayes Barnard, has previously worked with firms including Blackstone Group Inc.’s credit arm as well as Goldman Sachs. The lender has said it provided more than $6 billion of capital for solar and other sustainable home improvement products since 2018.
+Another name that was planned to IP this year with a potential $10B valuation is [Loanpal](https://seekingalpha.com/news/3680216-solar-financier-loanpal-is-said-to-plan-ipo-as-soon-as-this-year), the market leader for solar panel financing (41%, vs 15% for Sunlight Financial). Loanpal, led by two former SolarCity Corp. executives including its chief executive officer, Hayes Barnard, has previously worked with firms including Blackstone Group Inc.’s credit arm as well as Goldman Sachs. The lender [has said](https://www.cnbc.com/2021/01/27/hayes-barnard-turns-loanpal-into-billion-dollar-lender-after-solarcity.html) it provided more than $6 billion of capital for solar and other sustainable home improvement products since 2018. Revenue for the year 2020 doubled to $361 million, he said, and the company’s lending increased about the same amount to $400 million a month. Note however that Loanpal’s cumulative losses from its 2019 securitizations are between 2.3% and 2.9% — notably higher than losses from the same time period for rivals Sunlight and Mosaic, according to Kroll Bond Rating Agency. 
 
 ### Industry Trends
 
@@ -332,6 +332,6 @@ There seems to be a high % of short interest in this stock, but I wasn't able to
 
 I find the valuation attractive for a company growing at 20%-30% with high operating leverage, high EBITDA to FCF conversion and optionality to expand into other verticals. 
 
-With this mind, I have a small position (3700 shares), for what seems (to me at least) like an easy swing play, targetting a 25%-30% short-term ROI, as the stock is just too cheap given the growth profile, and I expect momentum to reverse in the next quarters given the overall context of rising energy prices and the interest in alternative solutions, as well as a potential stabilization of Sunlight's EBITDA margin. 
+With this mind, I have a small position (3700 shares), for what seems (to me at least) like an easy swing play, targetting a 25%-30% short-term ROI, as the stock is just too cheap given the growth profile, and I expect momentum to reverse in the next quarters given the overall context of rising energy prices as part of the population continues to work form home and the interest in alternative solutions, as well as a potential stabilization of Sunlight's EBITDA margin. 
 
 Longer-term, I'm not too sure. I don't see a strong moat around the business at the moment and I worry that a hightened competition and/or a tightening of the credit supply might significantly impact the business.
