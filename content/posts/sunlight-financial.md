@@ -5,7 +5,7 @@ draft: false
 categories: ["stocks"]
 ---
 
-### Backers
+### The SPACK and the Backers
 
 Spartan Acquisition Corp. II, a publicly-traded special purpose acquisition company (“Spartan”) (NYSE: SPRQ), announced on July 8, 2021 the business combination (the “Business Combination”) between Spartan and Sunlight Financial (“Sunlight”).
 
@@ -207,7 +207,7 @@ While Sunlight is not the only solar financing player in the game, most of the c
 
 The sector is heating up however, which is to be expected given the free cashflow margins and growth runway. For example,  Rocket Companies (NYSE:RKT) announced in August 2021 a move into the solar energy market, with the intention of giving homeowners the ability to consolidate any solar panel loan with their mortgage for one low interest rate. Rocket's solar offerings will start testing phase in Q4, and is expected to be available to the public in early 2022.
 
-Another name that was planned to IP this year with a potential $10B valuation is [Loanpal](https://seekingalpha.com/news/3680216-solar-financier-loanpal-is-said-to-plan-ipo-as-soon-as-this-year), the market leader for solar panel financing (41%, vs 15% for Sunlight Financial). Loanpal, led by two former SolarCity Corp. executives including its chief executive officer, Hayes Barnard, has previously worked with firms including Blackstone Group Inc.’s credit arm as well as Goldman Sachs. The lender [has said](https://www.cnbc.com/2021/01/27/hayes-barnard-turns-loanpal-into-billion-dollar-lender-after-solarcity.html) it provided more than $6 billion of capital for solar and other sustainable home improvement products since 2018. Revenue for the year 2020 doubled to $361 million, he said, and the company’s lending increased about the same amount to $400 million a month. Note however that Loanpal’s cumulative losses from its 2019 securitizations are between 2.3% and 2.9% — notably higher than losses from the same time period for rivals Sunlight and Mosaic, according to Kroll Bond Rating Agency. 
+Another name that was planned to IPO this year with a potential $10B valuation is [Loanpal](https://seekingalpha.com/news/3680216-solar-financier-loanpal-is-said-to-plan-ipo-as-soon-as-this-year), the market leader for solar panel financing (41%, vs 15% for Sunlight Financial). Loanpal, led by two former SolarCity Corp. executives including its chief executive officer, Hayes Barnard, has previously worked with firms including Blackstone Group Inc.’s credit arm as well as Goldman Sachs. The lender [has said](https://www.cnbc.com/2021/01/27/hayes-barnard-turns-loanpal-into-billion-dollar-lender-after-solarcity.html) it provided more than $6 billion of capital for solar and other sustainable home improvement products since 2018. Revenue for the year 2020 doubled to $361 million, he said, and the company’s lending increased about the same amount to $400 million a month. Note however that Loanpal’s cumulative losses from its 2019 securitizations are between 2.3% and 2.9% — notably higher than losses from the same time period for rivals Sunlight and Mosaic, according to Kroll Bond Rating Agency. 
 
 ### Industry Trends
 
