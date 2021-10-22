@@ -332,6 +332,6 @@ There seems to be a high % of short interest in this stock, but I wasn't able to
 
 I find the valuation attractive for a company growing at 20%-30% with high operating leverage, high EBITDA to FCF conversion and optionality to expand into other verticals. 
 
-With this mind, I have a small position (3700 shares), which I will use for a short-term swing play, targetting a 25%-30% short-term ROI, as I expect momentum to reverse in the next quarters given the overall context of rising energy prices, as well as a potential stabilization of Sunlight's EBITDA margin. 
+With this mind, I have a small position (3700 shares), for what seems (to me at least) like an easy swing play, targetting a 25%-30% short-term ROI, as the stock is just too cheap given the growth profile, and I expect momentum to reverse in the next quarters given the overall context of rising energy prices and the interest in alternative solutions, as well as a potential stabilization of Sunlight's EBITDA margin. 
 
-Longer-term, I'm not too sure. I don't see a strong moat around the business at the moment and I worry that a tightening of the credit supply might impact all of the point of sales lenders, if only from an investor sentiment perspective.
+Longer-term, I'm not too sure. I don't see a strong moat around the business at the moment and I worry that a hightened competition and/or a tightening of the credit supply might significantly impact the business.
