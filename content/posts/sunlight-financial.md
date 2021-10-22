@@ -263,6 +263,8 @@ Note that expected 2021 total revenue is $117M (mid-point of the range), leading
 
 **EBITDA and FCF breakdown**
 
+This is my favorite part of the business: it prints cash!
+
 ![sunl5](/images/sunl5.png)
 
 ![sunl6](/images/sunl6.png)
