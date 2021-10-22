@@ -5,7 +5,7 @@ draft: false
 categories: ["stocks"]
 ---
 
-### The SPACK and the Backers
+### The SPAC and the Backers
 
 Spartan Acquisition Corp. II, a publicly-traded special purpose acquisition company (“Spartan”) (NYSE: SPRQ), announced on July 8, 2021 the business combination (the “Business Combination”) between Spartan and Sunlight Financial (“Sunlight”).
 
