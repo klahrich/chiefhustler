@@ -19,7 +19,7 @@ The warrants, on the other hand, went from $0.50 to $60, before settling at $29 
 
 When I see things like this, I can't help but be overwhelmed with envy and anger.
 
-Envy because the last time any of my investments multiplied by 60 was...never. Let alone in two days.
+Envy because the last time any of my investments multiplied by 60 was...never. Let alone in two days. I'm we're talking about litterally getting rich in two days!
 
 Anger because it doesn't make ANY sense. No one deserved to make money here. It's insane: all Trump had to do was announce he'd create a social media platform, and voila! He and his accolytes made hundreds of millions of dollars based on an announcement. There is no company, no product. And yet the retail frenzy swarmed on this stock like it was the most precious thing of all time. The greed has reached such stupid levels that nothing makes sense anymore.
 
