@@ -5,31 +5,6 @@ draft: false
 categories: ["stocks"]
 ---
 
-### The SPAC and the Backers
-
-Spartan Acquisition Corp. II, a publicly-traded special purpose acquisition company (“Spartan”) (NYSE: SPRQ), announced on July 8, 2021 the business combination (the “Business Combination”) between Spartan and Sunlight Financial (“Sunlight”).
-
-Spartan is a special purpose acquisition entity focused on the energy value chain in North America incorporated in Delaware on August 17, 2020 (inception). The registration statement for the IPO was declared effective on
-November 24, 2020. On November 30, 2020, Spartan consummated its IPO of 34,500,000 units, including the
-issuance of 4,500,000 units as a result of the underwriter’s exercise in full of its over-allotment option, at $10.00 per unit, generating gross proceeds of approximately $345.0 million. Simultaneously with the closing of the IPO,
-Spartan consummated the private placement of 9,900,000 Spartan Warrants, at a price of $1.00 per Spartan
-Warrant to the Sponsor, generating proceeds of $9.9 million. Each Spartan Warrant is exercisable to purchase for
-$11.50 one share of Class A Common Stock. As of June 30, 2021, there was approximately $345.0 million held in
-the Trust Account.
-
-Spartan is sponsored by Spartan Acquisition Sponsor II LLC, which is owned by a private investment fund managed by an affiliate of Apollo Global Management, Inc. (NYSE: APO).
-
-Tiger Infrastructure, Sunlight's original institutional shareholder, has worked closely with Sunlight since the beginning of its high growth journey. Tiger Infrastructure remains the largest investor following the merger.
-
-Emil W. Henry, Jr, CEO of Tiger Infrastructure and Chairman of the Board of Sunlight, said: "Prior to our investment in Sunlight, Tiger was attracted to the solar energy market given the strong industry tailwinds and the prospects for continued US growth and penetration. After much research, we saw the best return potential, consistent with our growth infrastructure focus, in Sunlight's simple yet robust business model which creates steady, reliable long-term cash flows from the loans it provides to high quality counterparties. Matt and his team have executed with great skill to make Sunlight a leading player in their core solar markets, and they have demonstrated the ability to ably penetrate adjacent markets such as batteries and home improvements."
-
-FTV Capital, Sunlight's most recent equityholder, is a leading financial services growth investor, with a track record in specialty finance and scaling innovative, high-growth companies. 
-
-Investors led by Chamath Palihapitiya, hedge fund firm Coatue, funds and accounts managed by BlackRock, Franklin Templeton and accounts advised by Neuberger Berman Investment Advisers LLC have committed to invest $250 million in a private purchase of Spartan’s Class A Common Stock at $10.00 per share immediately prior to the closing of the
-transaction. 
-
-The private investment has given the group about 19 percent ownership of the combined company, compared to about 50 percent for Sunlight’s existing equity owners and a stake of about 26 percent for Spartan stockholders. The SPAC merger valued Sunlight’s equity at $1.3 billion.
-
 ### Company Overview
 
 Sunlight [(NYSE:SUNL)](https://finance.yahoo.com/quote/SUNL?p=SUNL&.tsrc=fin-srch) is a business-to-business-to-consumer, technology-enabled point-of-sale (“POS”) financing platform
