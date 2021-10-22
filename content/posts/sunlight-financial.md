@@ -133,33 +133,6 @@ charged), consumer credit approval rates, variety of loan products to address sh
 market conditions, ease of loan application and completion process (platform) and other services to facilitate the
 contractor’s business).
 
-Sunlight believes that the following factors, among others, are key to Sunlight’s success in acquiring and
-maintaining contractor relationships:
-
-- Superior value proposition for contractors. Sunlight’s large array of loan products and flexibility in offering
-new and additional products stem from the depth, diversity and attractively-priced funding of Sunlight’s
-capital providers. Sunlight loan products allow contractors to capture additional purchase opportunities from
-consumers that do not want to or are not able to pay cash for solar system installation or do not want to lease
-a system from a third party and forego the benefits of ownership. Sunlight’s attractive loan products and
-competitive contractor fees allow contractors to choose products that fit their business needs and the
-financing needs of their customers. The broad range of products offered by Sunlight improves the
-contractor’s chances of meeting its customers’ financing needs and completing a sale.
-
-- Easy-to-use technology-enabled POS financing platform, instant credit decisioning. Orange is easy to use
-and provides instant credit decisions for homeowners interested in financing the purchase of a residential
-solar system or home improvement. Access to prompt credit decisions and the ability to close financing
-transactions through an intuitive and easy process through the execution of loan agreements in one encounter with a potential customer provides significant additional sale opportunities for contractors. Orange may be accessed via the Orange web address, directly from certain contractor’s own website via a flexible application programming interface, or API, and via Sunlight’s mobile App. Besides instant credit decisioning, Orange includes automated loan stipulation, secure document upload, esign capacity and other features that facilitate efficient loan transactions and provide contractors with the ability to grow their businesses
-
-- Additional features and services offered by Sunlight further support the growth of contractor businesses,
-attract new contractors to Sunlight’s network and build contractor loyalty. Sunlight prioritizes innovation in
-Orange and services that support growth in the businesses of its existing network of contractors, attract new
-contractors and build contractor loyalty. Examples of such innovations include Sunlight’s short-term
-advance program, Sunlight’s launch of Spanish-language loan products and Sunlight Rewards™. Sunlight
-believes that it has innovated more quickly than its competitors and offers contractors a greater array of
-valuable services that drive their determination to offer their customers Sunlight-offered loan products over
-those of Sunlight’s competitors and that Sunlight will continue to be able to innovate quickly to meet the
-needs of its contractor network.
-
 _Competition to Acquire Capital to Fund Loans_
 
 The solar system and home improvement loan markets are relatively fragmented. Facilitating the aggregation
@@ -167,13 +140,6 @@ of loan volume from these markets is a highly competitive sector of these broade
 competition from a diverse landscape of consumer lenders, including traditional banks, credit unions, and
 specialized solar system lenders and lease providers. Sunlight’s competitors source capital from a mix of
 alternative sources, including depository capital and/or other alternatives that rely on the capital markets.
-
-Sunlight believes that it offers capital providers an attractive value proposition due to its industry-leading
-consumer credit underwriting, attractive risk-adjusted returns earned by its capital providers relative to other asset classes, the access that Sunlight’s Platform provides to a unique and growing asset class that may reduce volatility in the ability to deploy capital, and the ability to access new customers for very little cost. Sunlight has successfully added capital providers and grown commitments from existing capital providers since inception. As its contractor network has grown, Sunlight has consistently diversified its capital provider base to ensure that it has sufficient capital to fund the demand for Sunlight facilitated loans and that it is able to offer an evolving competitive mix of loan products to meet contractor and consumer demand. Capital providers have actively participated in this success and Sunlight has not experienced any capital provider attrition since inception, although one capital provider recently provided notice to Sunlight that it had exceeded its internal asset concentration levels for solar loans and, accordingly, such capital provider terminated their program agreement with Sunlight as of April 2021. This capital provider purchased an immaterial portion (less than 2.2%) of Sunlight’s total facilitated solar loans in 2020.
-
-Sunlight believes that there are many institutions seeking to deploy capital into solar and home improvement loan
-assets, but Sunlight intends to continue to be selective about adding capital provider partners. Sunlight values
-diversification but will specifically focus on partnering with potential capital providers that can enable Sunlight to meet strategic goals, including access to the most attractive pricing and access to capacity for a growing suite of loan products, among others.
 
 In the second quarter 2021, the company has revised guidance downwards for the year due to increased competition and margin compression. During the earnings call, the CFO Barry Edinburg reassured investors that proactive steps had been taken by the company to negociate pricing improvements with certain capital providers, which would help improve margins over the second half of the year.
 
