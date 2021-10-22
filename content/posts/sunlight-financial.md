@@ -1,5 +1,5 @@
 ---
-title: "Sunlight Financial"
+title: "Sunlight Financial $SUNL"
 date: 2021-10-21T07:53:52-04:00
 draft: false
 categories: ["stocks"]
@@ -32,7 +32,7 @@ The private investment has given the group about 19 percent ownership of the com
 
 ### Company Overview
 
-Sunlight is a business-to-business-to-consumer, technology-enabled point-of-sale (“POS”) financing platform
+Sunlight [(NYSE:SUNL)](https://finance.yahoo.com/quote/SUNL?p=SUNL&.tsrc=fin-srch) is a business-to-business-to-consumer, technology-enabled point-of-sale (“POS”) financing platform
 that provides residential solar and home improvement contractors the ability to offer seamless POS financing to
 their customers when purchasing residential solar systems or other home improvements. The resulting loans are
 funded by Sunlight’s network of capital providers who, by partnering with Sunlight, gain access to a difficult-toreach loan market, best-in-class consumer credit underwriting and attractive risk adjusted returns. These loans are facilitated by Sunlight’s proprietary technology platform, Orange (the “Sunlight Platform” or “Orange ”), through which Sunlight offers instant credit decisions to homeowners nationwide at the POS on behalf of
