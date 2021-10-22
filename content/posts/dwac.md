@@ -33,3 +33,16 @@ I made a judgement, and I didn't think twice about it.
 
 Who's the idiot now?
 
+When something like this happens, when I make a mistake of omission and miss such a huge opportunity that was in my radar, I go on an emotional twister. It affects me, and it can last several days. 
+
+It's a very dangerous spot for me, as it pushes me to be 10x more reckless than usual, because I feel that I was so close to massive gains. I can't let it go. I've made big mistakes in the past when I was in this state, following a similar missed opportunity (namely $GME). 
+
+Charlie Munger has said some stuff on envy, now would probably a good time for me to revisit that. I wish this stuff just didn't get to me, but I can't control it. It pisses me off. 
+
+Here's what I'm going to do. I'm gonna have a big red square on the wall in front of my desk, like the flag they put up when the sea is dangerous. The flag will stay RED until I feel I more at peace, then I'll transition to YELLOW, and when I feel positive, calm and strong again, I'll put a GREEN square. 
+
+The RED square will mean, "DANGER - DON'T GO IN THE WATER - DO NOT MAKE A SINGLE TRADE". 
+
+The YELLOW one will mean, "CAREFUL - IF YOU GO IN THE WATER, BE EXTRA CAUTIOUS, AND DON'T GO DEEP - ONLY SMALL INFREQUENT TRADES ALLOWED".
+
+The GREEN one will mean, "HAVE FUN - WATER IS GOOD FOR SWIMMING - BIG TRADES ALLOWED".
