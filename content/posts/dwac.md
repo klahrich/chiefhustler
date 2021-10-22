@@ -1,0 +1,35 @@
+---
+title: "DWAC, Trump's Social Media Company"
+date: 2021-10-22T16:46:49-04:00
+draft: false
+categories: ["stocks"]
+---
+
+Trump announced this Wednesday October 20th that his new company called Trump Media & Technology Group (TMTG) would merge with a SPAC called Digital World Acquisition Company (DWAC), with the purpose of creating a new social media (similar to Twitter) called "Truth".
+
+I saw this news early on Thursday morning, on Twitter. Some people also shared on Twitter how shitty the whole thing looks, whether is it the CEO of Digital World Patrick Orlando, who also happens to be CEO of Yunhong International, another SPAC located in an office building in Wuhan, China. The same address happens to be shared by Yunhong Group, which sells an array of supplements such as "Natural Brain Booster Capsules" and "Bitter Gourd Peptides".
+
+There were also reports that TRUTH Social is using open source platform Mastadon's code base without credit. Add to this the fun fact that DWAC disclosed that it has no full-time employees (not even the CEO or CFO).
+
+So I saw all of this, and decided, "Meh...this looks idiotic. Not worth my time".
+
+Then this shit-ball flew to the sky, more than quadrupling on the first day, and then some more on the second day.
+
+The warrants, on the other hand, went from $0.50 to $60, before settling at $29 at the end of Friday. So a 60-bagger in two days.
+
+When I see things like this, I can't help but be overwhelmed with envy and anger.
+
+Envy because the last time any of my investments multiplied by 60 was...never. Let alone in two days.
+
+Anger because it doesn't make ANY sense. No one deserved to make money here. It's insane: all Trump had to do was announce he'd create a social media platform, and voila! He and his accolytes made hundreds of millions of dollars based on an announcement. There is no company, no product. And yet the retail frenzy swarmed on this stock like it was the most precious thing of all time. The greed has reached such stupid levels that nothing makes sense anymore.
+
+Of course I wish I took part in it. I wish I was dumb enough (or smart enough) to think that it would fly just because Trump's name is associated with it, and that it would become a meme stock. But I didn't. I missed the opportunity. I was asleep at the wheel. 
+
+At the very least, I could have monitored it. I could have reacted, if I wasn't able to predict it.
+
+But I didn't. 
+
+I made a judgement, and I didn't think twice about it.
+
+Who's the idiot now?
+
