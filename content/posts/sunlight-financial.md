@@ -22,8 +22,9 @@ Sunlight’s various capital providers.
 Think Affirm, for the solar panel (and recently the home improvement) vertical.  With the important distinction that we're not talking about e-commerce here. The sales usually take place at the kitchen table of the end consumer, with Sunlight's platform on a tablet or laptop providing access to different loan products.
 
 Sales of Sunlight-facilitated loan products are made by contractors in the context of selling residential solar systems to consumers, allowing homeowners to go solar with no money down,
-and in most cases, immediately saving money on their utility bills and often saving a significant amount of money
-over the life of their solar system. Sunlight’s revenue is primarily from platform fees earned on each solar and
+and in most cases, immediately saving money on their utility bills and often saving a significant amount of money over the life of their solar system. 
+
+Sunlight’s revenue is primarily from platform fees earned on each solar and
 home improvement loan facilitated through Orange . The platform fee is generally equal to the margin between
 the dealer fee charged to the contractor by Sunlight for each loan facilitated through Orange and the discount at
 which Sunlight’s capital provider either funds or purchases such loan.
