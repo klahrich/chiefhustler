@@ -5,6 +5,12 @@ draft: false
 categories: ["stocks"]
 ---
 
+### How did I hear about this company?
+
+Someone on [CommonStock](https://commonstock.com/post/a87bc4bf-fc03-4d6d-9fcd-417de86f7191) shared that he was down 60% on the stock. I looked at the chart and holy moly, that's a brutal beatdown!
+
+![sunl-chart](/images/sunl-chart.png)
+
 ### Company Overview
 
 Sunlight [(NYSE:SUNL)](https://finance.yahoo.com/quote/SUNL?p=SUNL&.tsrc=fin-srch) is a business-to-business-to-consumer, technology-enabled point-of-sale (“POS”) financing platform
