@@ -13,10 +13,9 @@ their customers when purchasing residential solar systems or other home improvem
 funded by Sunlight’s network of capital providers who, by partnering with Sunlight, gain access to a difficult-toreach loan market, best-in-class consumer credit underwriting and attractive risk adjusted returns. These loans are facilitated by Sunlight’s proprietary technology platform, Orange (the “Sunlight Platform” or “Orange ”), through which Sunlight offers instant credit decisions to homeowners nationwide at the POS on behalf of
 Sunlight’s various capital providers.
 
-Think Affirm, for the solar panel and home improvement verticals.
+Think Affirm, for the solar panel (and recently the home improvement) vertical.
 
-Sunlight’s core business is facilitating loans made by Sunlight’s various capital providers to the consumer
-customers of residential solar contractors. Sales of Sunlight-facilitated loan products are made by contractors in the context of selling residential solar systems to consumers, allowing homeowners to go solar with no money down,
+Sales of Sunlight-facilitated loan products are made by contractors in the context of selling residential solar systems to consumers, allowing homeowners to go solar with no money down,
 and in most cases, immediately saving money on their utility bills and often saving a significant amount of money
 over the life of their solar system. Sunlight’s revenue is primarily from platform fees earned on each solar and
 home improvement loan facilitated through Orange . The platform fee is generally equal to the margin between
@@ -32,7 +31,7 @@ While only approximately 20% of residential solar system sales were financed wit
 Solar loans made to finance residential solar systems through Sunlight’s Platform are made exclusively to
 homeowners. Sunlight believes that homeowners generally have better credit characteristics than other consumer
 groups. As of June 30, 2021, the average FICO score of all solar borrowers financed through Sunlight’s Platform
-is 747. Both the generally strong credit profile of solar loan borrowers and attractive risk-adjusted returns on solar loans to capital providers have enabled Sunlight to build a diversified network of capital providers to fund the solar loans facilitated by Sunlight’s Platform.
+is 747. <span style="background-color: #99FF99;">Both the generally strong credit profile of solar loan borrowers and attractive risk-adjusted returns on solar loans to capital providers have enabled Sunlight to build a diversified network of capital providers to fund the solar loans facilitated by Sunlight’s Platform.</span>
 
 Loan providers in the residential solar industry compete primarily on process (customer and contractor
 experience), pricing and products. Orange offers contractors robust tools to sell more solar systems and home
@@ -76,9 +75,10 @@ Here's the split of loans by channel:
 
 For solar system loans, platform fees are generally earned by Sunlight in the direct channel when the direct channel capital provider funds a particular loan and in the indirect channel generally when an indirect channel capital provider purchases a particular loan from Sunlight’s bank partner. 
 
-The contract between Sunlight and its bank partner for home improvement loans is considered a derivative for GAAP purposes, whereas the contract between Sunlight and its bank partner for solar loans is not. For home improvement loans, Sunlight records a “realized gain on contract derivative (net)” (included in Other Income) in lieu of a platform fee generally when the loans are purchased by Sunlight’s indirect capital provider from Sunlight’s bank partner, and Sunlight is paid. As such, Sunlight excludes from its revenue any platform fee associated with a home improvement loan under Sunlight’s related home improvement agreement.
 
-As of June 30, 2021, Sunlight had a cumulative funded loan total of $4.8 billion, and is poised to surpass $5 billion in cumulative funded loans in the third quarter of 2021.
+For home improvement loans, the contract between Sunlight and its bank partner is considered a derivative for GAAP purposes. For these loans, Sunlight records a “realized gain on contract derivative (net)” (included in Other Income) in lieu of a platform fee generally when the loans are purchased by Sunlight’s indirect capital provider from Sunlight’s bank partner, and Sunlight is paid. As such, Sunlight excludes from its revenue any platform fee associated with a home improvement loan under Sunlight’s related home improvement agreement.
+
+As of June 30, 2021, Sunlight had a cumulative total funded loan total of $4.8 billion, and is poised to surpass $5 billion in cumulative funded loans in the third quarter of 2021.
 
 ### Growth
 
@@ -88,7 +88,7 @@ Both the number of active solar contractors and the average funded volume per co
 
 ![sunl3](/images/sunl3.png)
 
-This has led to strong revenue growth over time, accompanied by high operating leverage:
+This has led to <span style="background-color: #99FF99;">strong revenue growth over time, accompanied by high operating leverage</span>:
 
 ![sunl15](/images/sunl15.png)
 
@@ -113,9 +113,13 @@ There seems to be a long runway for this growth:
 
 - There are ~20K solar contractors in the US (of which only 600 are clients of Sunlight)
 
-The company doesn't seem to be sacrificing quality for growth, sporting the best credit profile in the industry, which isn't all that surprising given the CEO's deep 20 years of exeperience in consumer finance. 
+<span style="background-color: #99FF99;">The company doesn't seem to be sacrificing quality for growth, sporting the best credit profile in the industry</span>, which isn't all that surprising given the CEO's deep 20 years of exeperience in consumer finance. 
 
 ![sunl16](/images/sunl16.png)
+
+_For comparison, Affirm's net chargeoffs at 24 months for the most recent (2020) cohort look like they'll converge towards ~2%._
+
+![affirm](/images/affirm.png)
 
 Moreoever Sunlight has a capital light model that requires very little capital for incremental growth:
 
@@ -126,8 +130,8 @@ Moreoever Sunlight has a capital light model that requires very little capital f
 _Competition to Acquire and Maintain Contractor Relationships_
 
 Competition to obtain contractor relationships is significant. Contractors generally do not enter exclusive
-relationships with residential solar loan providers and Sunlight’s agreements with its network of contractors
-generally do not provide for exclusive relationships. Contractors may offer loan products from Sunlight, as well as
+relationships with residential solar loan providers and <span style="background-color: #FEDDAA;"> Sunlight’s agreements with its network of contractors
+generally do not provide for exclusive relationships</span>. Contractors may offer loan products from Sunlight, as well as
 from Sunlight’s competitors, and generally select between loan providers based on pricing (original issue discount
 charged), consumer credit approval rates, variety of loan products to address shifting consumer demands and
 market conditions, ease of loan application and completion process (platform) and other services to facilitate the
@@ -141,19 +145,19 @@ competition from a diverse landscape of consumer lenders, including traditional 
 specialized solar system lenders and lease providers. Sunlight’s competitors source capital from a mix of
 alternative sources, including depository capital and/or other alternatives that rely on the capital markets.
 
-In the second quarter 2021, the company has revised guidance downwards for the year due to increased competition and margin compression. During the earnings call, the CFO Barry Edinburg reassured investors that proactive steps had been taken by the company to negociate pricing improvements with certain capital providers, which would help improve margins over the second half of the year.
+<span style="background-color: #FEDDAA;">In the second quarter 2021, the company has revised guidance downwards for the year due to increased competition and margin compression</span>. But during the earnings call, CFO Barry Edinburg reassured investors that <span style="background-color: #99FF99;">proactive steps had been taken by the company to negociate pricing improvements with certain capital providers, which would help improve margins over the second half of the year</span>.
 
 _Competitors_
 
 While Sunlight is not the only solar financing player in the game, most of the competition seems to be hybrid (manufacturer with lending facilities on top), historically focused on leasing rather than loans, and more richly valued. See for example [SunRun](https://app.tikr.com/stock/multiples?cid=44576381&tid=280431427&ref=lclr1f) or [SunPower](https://app.tikr.com/stock/multiples?cid=11420997&tid=143092166&ref=lclr1f).
 
-The sector is heating up however, which is to be expected given the free cashflow margins and growth runway. For example,  Rocket Companies (NYSE:RKT) announced in August 2021 a move into the solar energy market, with the intention of giving homeowners the ability to consolidate any solar panel loan with their mortgage for one low interest rate. Rocket's solar offerings will start testing phase in Q4, and is expected to be available to the public in early 2022.
+The sector is heating up however, which is to be expected given the free cashflow margins and growth runway. For example, in August 2021, Rocket Companies ([NYSE:RKT](https://finance.yahoo.com/quote/RKT?p=RKT&.tsrc=fin-srch)) announced a move into the solar energy market, with the intention of giving homeowners the ability to consolidate any solar panel loan with their mortgage for one low interest rate. Rocket's solar offerings will start testing phase in Q4, and is expected to be available to the public in early 2022.
 
 Another name that was planned to IPO this year with a potential $10B valuation is [Loanpal](https://seekingalpha.com/news/3680216-solar-financier-loanpal-is-said-to-plan-ipo-as-soon-as-this-year), the market leader for solar panel financing (41%, vs 15% for Sunlight Financial). Loanpal, led by two former SolarCity Corp. executives including its chief executive officer, Hayes Barnard, has previously worked with firms including Blackstone Group Inc.’s credit arm as well as Goldman Sachs. The lender [has said](https://www.cnbc.com/2021/01/27/hayes-barnard-turns-loanpal-into-billion-dollar-lender-after-solarcity.html) it provided more than $6 billion of capital for solar and other sustainable home improvement products since 2018. Revenue for the year 2020 doubled to $361 million, he said, and the company’s lending increased about the same amount to $400 million a month. Note however that Loanpal’s cumulative losses from its 2019 securitizations are between 2.3% and 2.9% — notably higher than losses from the same time period for rivals Sunlight and Mosaic, according to Kroll Bond Rating Agency. 
 
 ### Industry Trends
 
-The ITC (Investment Tax Credit) currently allows a qualifying homeowner to deduct 26% of the cost of installing residential solar systems from their U.S. federal income taxes, thereby returning a material portion of the purchase price of the residential solar system to homeowners. Congress has extended the ITC expiration date multiple times including, most recently, in December 2020. Under the terms of the current extension, the ITC will remain at 26% through the end of 2022, reduce to 22% for 2023, and further reduce to 0.0% after the end of 2023 for residential solar systems, unless it is extended before that time. Although the ITC has been extended several times, there is no guarantee that it will be extended beyond 2023.
+The ITC (Investment Tax Credit) currently allows a qualifying homeowner to deduct 26% of the cost of installing residential solar systems from their U.S. federal income taxes, thereby returning a material portion of the purchase price of the residential solar system to homeowners. Congress has extended the ITC expiration date multiple times including, most recently, in December 2020. <span style="background-color: #FEDDAA;">Under the terms of the current extension, the ITC will remain at 26% through the end of 2022, reduce to 22% for 2023, and further reduce to 0.0% after the end of 2023 for residential solar systems</span>, unless it is extended before that time. Although the ITC has been extended several times, there is no guarantee that it will be extended beyond 2023.
 
 - **Residential annual solar installations have been steadily increasing**
 
@@ -199,7 +203,7 @@ Warrants were also outstanding and exercisable for 627,780 shares of Class A Com
 
 => Adj. EBITDA 2021 (guidance): $48.5M
  
-=> EV/EBITDA(2021): 15.5
+=> <span style="background-color: #99FF99;">EV/EBITDA(2021): 15.5</span>
 
 Note that expected 2021 total revenue is $117M (mid-point of the range), leading to an EV/Revenue multiple of 6.42 which might seem high, but the high EBITDA margin (~40%) makes up for it.
 
@@ -219,24 +223,19 @@ _Contractors Concentration_
 
 One contractor, Marc Jones Construction, L.L.C. d/b/a Sunpro Solar (“Sunpro”), that sold 13.4% and 16.7% of Sunlight’s funded loan volume during the three months ended June 30, 2021 and 2020, respectively, and 15.1% and 16.9% during the six months ended June 30, 2021 and 2020.
 
-Dependence on any one contractor or small group of contractors creates concentration risk, particularly in the event that any such contractor elects to terminate its relationship with Sunlight or experiences business disruption or a business failure or bankruptcy. For example, during May 2021, Sunlight was advised by a significant contractor that it will discontinue use of the Sunlight’s platform to source solar loans effective immediately. This contractor accounted for approximately 6.7% and 11.1% of Sunlight’s total funded loan volumes during the year ended December 31, 2020 and for the six months ended June 30, 2021, respectively.
+Dependence on any one contractor or small group of contractors creates concentration risk, particularly in the event that any such contractor elects to terminate its relationship with Sunlight or experiences business disruption or a business failure or bankruptcy. <span style="background-color: #FEDDAA;">For example, during May 2021, Sunlight was advised by a significant contractor that it will discontinue use of the Sunlight’s platform to source solar loans effective immediately.</span> This contractor accounted for approximately 6.7% and 11.1% of Sunlight’s total funded loan volumes during the year ended December 31, 2020 and for the six months ended June 30, 2021, respectively.
 
 _Capital Providers Concentration_
 
 Sunlight has multiple capital providers in both its direct and indirect funding channels, all of which have
 increased their commitments since partnering with Sunlight. Sunlight has one direct capital provider that has
-continued to increase its commitment year-over-year and since inception has increased its commitment by 700% of
-its initial commitment, making it Sunlight’s largest capital provider in the period from June 30, 2020 to June 30, 2021. Though Sunlight believes that the relationship with this capital provider is healthy and will continue without
-disruption, the significant portion of funded loan volume attributable to this capital provider results in concentration risk. Sunlight cannot guarantee that this capital provider will continue to fund loans facilitated by Sunlight in the same volume or at all beyond its current contractual commitment which expires in 2022. This capital provider funded 46.2% and 39.0% of Sunlight’s funded loans during the period from June 30, 2019 to June 30, 2020 and
-during the period from June 30, 2020 to June 30, 2021, respectively. If this capital provider elects to terminate its relationship with Sunlight, then the capital provider is contractually required to provide Sunlight 12 months’ advance notice of termination. 
-
-If Sunlight were to receive such an advance notice of termination, then Sunlight would use this period to develop alternate funding plans by utilizing existing relationships and exploring possible new capital provider relationships. While Sunlight believes that it would be able to identify and implement alternative arrangements during this period, Sunlight cannot guarantee that it would be able to do so at all or on equivalent or favorable terms. Sunlight believes that a failure to arrange alternative loan funding on equivalent terms would have less of an impact on Sunlight’s funded loan volume, as capital for the solar loan industry has historically been readily available. Rather, Sunlight believes that such failure would be more likely to have a greater negative impact on the amount of platform fees that Sunlight earns, and therefore could impact revenue.
+continued to increase its commitment year-over-year and since inception has increased its commitment by 700% of its initial commitment, making it Sunlight’s largest capital provider in the period from June 30, 2020 to June 30, 2021. <span style="background-color: #FEDDAA;">This capital provider funded 46.2% and 39.0% of Sunlight’s funded loans during the period from June 30, 2019 to June 30, 2020 and during the period from June 30, 2020 to June 30, 2021, respectively</span>. If this capital provider elects to terminate its relationship with Sunlight, then the capital provider is contractually required to provide Sunlight 12 months’ advance notice of termination. Failure to identify and implement alternative arrangements would be likely to have a negative impact on the amount of platform fees that Sunlight earns, and therefore could impact revenue.
 
 ### Bonus
 
 **Compensation**
 
-Executive management's compensation seems very reasonable.
+<span style="background-color: #99FF99;">Executive management's compensation seems very reasonable.</span>
 
 ![sunl8](/images/sunl8.png)
 
@@ -244,7 +243,7 @@ Executive management's compensation seems very reasonable.
 
 CEO Matthew Potere has acquired 85,000 shares on October 10, 2021, at an average price of $5.41, bringing his total share count to 595,000.
 
-Moreover, he owns 3,510,541 shares of Class C exchangeable on a one-for-one basis to shares of Class A Common Stock.
+Moreover, he owns 3,510,541 shares of Class C exchangeable on a one-for-one basis to shares of Class A Common Stock, or a total of 2% of the outstanding shares.
 
 CFO Edinburg Barry has also purchased 75,000 shares in September 2021 at around the same price.
 
@@ -258,13 +257,13 @@ One investment analyst has rated the stock with a hold rating and five have issu
 
 Barclays initiated coverage on shares of Sunlight Financial in a report on Wednesday Oct 19th, 2021. They set an “overweight” rating and a $8.00 price target for the company. 
 
-Analysts expect that Sunlight Financial Holdings Inc (NYSE:SUNL) will report earnings per share (EPS) of $0.05 for the current fiscal quarter, Zacks Investment Research reports. Two analysts have made estimates for Sunlight Financial’s earnings, with estimates ranging from $0.02 to $0.07. The business is scheduled to announce its next quarterly earnings results on Monday, November 15th.
+Analysts expect that Sunlight Financial Holdings Inc (NYSE:SUNL) will report earnings per share (EPS) of $0.05 for the current fiscal quarter. Two analysts have made estimates for Sunlight Financial’s earnings, with estimates ranging from $0.02 to $0.07. The business is scheduled to announce its next quarterly earnings results on Monday, November 15th.
 
 On average, analysts expect that Sunlight Financial will report full year earnings of $0.26 per share for the current financial year, with EPS estimates ranging from $0.24 to $0.28. For the next fiscal year, analysts anticipate that the business will report earnings of $0.27 per share, with EPS estimates ranging from $0.12 to $0.38. 
 
 **CEO**
 
-I think the CEO has the right values. If you want to know more about him, take a listen to [this podcast interview](https://www.youtube.com/watch?v=YOTRbxcNazc) (only 43 views so far, and at least 2 of them are me :p)
+<span style="background-color: #99FF99;">I think the CEO has the right values and a prudent approach to credit risk</span>. He's a family man, and he's been battle-tested. If you want to know more about him, take a listen to [this podcast interview](https://www.youtube.com/watch?v=YOTRbxcNazc) (only 43 views so far, and at least 2 of them are me :p)
 
 **Short-squeeze potential**
 
@@ -272,10 +271,10 @@ There seems to be a high % of short interest in this stock, but I wasn't able to
 
 ### My Take
 
-I find the valuation attractive for a company growing at 20%-30% with high operating leverage, high EBITDA to FCF conversion and optionality to expand into other verticals. 
+<span style="background-color: #99FF99;">I find the valuation attractive for a company growing at 20%-30% with high operating leverage, high EBITDA to FCF conversion and optionality to expand into other verticals.</span>
 
-With this mind, I have a small position (3700 shares), for what seems (to me at least) like an easy swing play, targetting a 25%-30% short-term ROI, as the stock is just too cheap given the growth profile, and I expect momentum to reverse in the next quarters given the overall context of rising energy prices as part of the population continues to work form home and the interest in alternative solutions, as well as a potential stabilization of Sunlight's EBITDA margin. 
+With this mind, I have a small position (3700 shares), for what seems (to me at least) like an easy swing play, targetting a 25%-30% short-term ROI, as the stock is just too cheap given the growth profile and the tailwinds (rising energy prices, more work form home, interest in renewable energy solutions, as well as a potential stabilization of Sunlight's EBITDA margin). 
 
-It's not a homerun, but at this valuation, I feel that my downside is well protected.
+I don't think this will be a homerun, but at this valuation, I feel that my downside is well protected.
 
-Longer-term, I'm not too sure. I don't see a strong moat around the business at the moment and I worry that a hightened competition and/or a tightening of the credit supply might significantly impact the business.
+Longer-term, I'm not too sure. I can't see a strong moat around the business at the moment and I worry that a hightened competition and/or a tightening of the credit supply might significantly impact the business.
