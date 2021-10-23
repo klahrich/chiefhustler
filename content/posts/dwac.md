@@ -25,7 +25,7 @@ Anger because it doesn't make ANY sense. No one deserved to make money here. It'
 
 Of course I wish I took part in it. I wish I was dumb enough (or smart enough) to think that it would fly just because Trump's name is associated with it, and that it would become a meme stock. But I didn't. I missed the opportunity. I was asleep at the wheel. 
 
-At the very least, I could have monitored it. I could have reacted, if I wasn't able to predict it.
+At the very least, I could have monitored it. I could have reacted, if I wasn't able to predict it. 
 
 But I didn't. 
 
@@ -39,7 +39,15 @@ It's a very dangerous spot for me, as it pushes me to be 10x more reckless than 
 
 Charlie Munger has said some stuff on envy, now would probably a good time for me to revisit that. I wish this stuff just didn't get to me, but I can't control it. It pisses me off. 
 
-Here's what I'm going to do. I'm gonna have a big red square on the wall in front of my desk, like the flag they put up when the sea is dangerous. The flag will stay RED until I feel I more at peace, then I'll transition to YELLOW, and when I feel positive, calm and strong again, I'll put a GREEN square. 
+Talking about Munger, I guess if I pretend to be a follower of his and of the value investing mindset, I shouldn't feel entitled to gains I could have made from weird set-ups like $DWAC. But look at this guy:
+
+{{<twitter 1451639149161635840>}}
+
+Scrolling through his twitter, he seems to be making 5 to 6 digit profits on a daily basis. I don't have proof that he's legit, but let's assume that he is. What would it say about the game I'm trying to play, versus the game he is playing. Am I in the right game? Should I try playing another one? Can I play another one?
+
+Reminds me of the time I switched from No-limit Holdem to Omaha. I was a successfull no-limit player. Never managed to turn a profit in Omaha, ever. So maybe I should stick to my lane and what I know how to do. Maybe I have no right to win in day trading. 
+
+That being said I'm still an emotional being and I know those emotions can make me to do do stupid things. Here's what I'm going to do. I'm gonna have a big red square on the wall in front of my desk, like the flag they put up when the sea is dangerous. The flag will stay RED until I feel I more at peace, then I'll transition to YELLOW, and when I feel positive, calm and strong again, I'll put a GREEN square. 
 
 The RED square will mean, "DANGER - DON'T GO IN THE WATER - DO NOT MAKE A SINGLE TRADE". 
 

@@ -36,7 +36,7 @@ The coaching side comes from intently studying an industry and a company over a 
 
 When you look for individuals that have both the experience required to be great Directors and are interested enough to serve in this capacity, the result is a tiny number. Limiting further to a particular gender, race or religion, or limiting Director tenure, just exacerbates the situation.
 
-**Part 2: Mark has built a meritocracy.**
+**Part 2: Mark wants a meritocracy.**
 
 Mark's answer to "why are we doing this?" and his motivation is to help create a company where worthy people succeed. He wants to support and encourage people who work hard, treat others well, continuously learn and share best practices.
 
