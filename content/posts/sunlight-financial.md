@@ -237,7 +237,7 @@ Sunlight has multiple capital providers in both its direct and indirect funding 
 increased their commitments since partnering with Sunlight. Sunlight has one direct capital provider that has
 continued to increase its commitment year-over-year and since inception has increased its commitment by 700% of its initial commitment, making it Sunlight’s largest capital provider in the period from June 30, 2020 to June 30, 2021. <span style="background-color: #FEDDAA;">This capital provider funded 46.2% and 39.0% of Sunlight’s funded loans during the period from June 30, 2019 to June 30, 2020 and during the period from June 30, 2020 to June 30, 2021, respectively</span>. If this capital provider elects to terminate its relationship with Sunlight, then the capital provider is contractually required to provide Sunlight 12 months’ advance notice of termination. Failure to identify and implement alternative arrangements would be likely to have a negative impact on the amount of platform fees that Sunlight earns, and therefore could impact revenue.
 
-### Bonus
+### Other / Random stuff
 
 **Compensation**
 
