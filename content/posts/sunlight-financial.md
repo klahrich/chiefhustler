@@ -263,7 +263,7 @@ On average, analysts expect that Sunlight Financial will report full year earnin
 
 **CEO**
 
-<span style="background-color: #99FF99;">I think the CEO has the right values and a prudent approach to credit risk</span>. He's a family man, and he's been battle-tested. If you want to know more about him, take a listen to [this podcast interview](https://www.youtube.com/watch?v=YOTRbxcNazc) (only 43 views so far, and at least 2 of them are me :p)
+<span style="background-color: #99FF99;">I think the CEO has the right values and a prudent approach to credit risk</span>. He's a family man, and he's been battle-tested. If you want to know more about him, take a listen to [this podcast interview](https://www.youtube.com/watch?v=YOTRbxcNazc), where he shares a lot about his personal journey (only 43 views so far, and at least 2 of them are me :p).
 
 **Short-squeeze potential**
 
