@@ -7,7 +7,7 @@ categories: ["stocks"]
 
 ### How did I hear about this company?
 
-Someone on [CommonStock](https://commonstock.com/post/a87bc4bf-fc03-4d6d-9fcd-417de86f7191) shared that he was down 60% on the stock. I looked at the chart and holy moly, that's a brutal beatdown!
+Someone on [CommonStock](https://commonstock.com/post/a87bc4bf-fc03-4d6d-9fcd-417de86f7191) shared that they were down 60% on the stock. I looked at the chart and holy moly, that's a brutal beatdown!
 
 ![sunl-chart](/images/sunl-chart.png)
 
