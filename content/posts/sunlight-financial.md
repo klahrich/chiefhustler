@@ -279,7 +279,7 @@ There seems to be a high % of short interest in this stock, but I wasn't able to
 
 <span style="background-color: #99FF99;">I find the valuation attractive for a company growing at 20%-30% with high operating leverage, high EBITDA to FCF conversion and optionality to expand into other verticals.</span>
 
-With this mind, I have a small position (3700 shares), for what seems (to me at least) like an easy swing play, targetting a 25%-30% short-term ROI, as the stock is just too cheap given the growth profile and the tailwinds (rising energy prices, more work form home, interest in renewable energy solutions, as well as a potential stabilization of Sunlight's EBITDA margin). 
+With this mind, I have a small position, for what seems (to me at least) like an easy swing play, targetting a 25%-30% short-term ROI, as the stock is just too cheap given the growth profile and the tailwinds (rising energy prices, more work form home, interest in renewable energy solutions, as well as a potential stabilization of Sunlight's EBITDA margin). 
 
 I don't think this will be a homerun, but at this valuation, I feel that my downside is well protected.
 
