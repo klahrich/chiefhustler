@@ -33,13 +33,15 @@ I made a judgement, and I didn't think twice about it.
 
 Who's the idiot now?
 
+How does one purify his heart from envy? Is it possible to build walls so that it doesn't enter in the first place? Or should we instead have a high-tech mega vacuum cleaner that we can use at will once the beast is inside? Or maybe we can just sit down, stop everything we're doing, and try to have a conversation with it. I don't know. I might try this.
+
 When something like this happens, when I make a mistake of omission and miss such a huge opportunity that was in my radar, I go on an emotional twister. It affects me, and it can last several days. 
 
 It's a very dangerous spot for me, as it pushes me to be 10x more reckless than usual, because I feel that I was so close to massive gains. I can't let it go. I've made big mistakes in the past when I was in this state, following a similar missed opportunity (namely $GME). 
 
 Charlie Munger has said some stuff on envy, now would probably a good time for me to revisit that. I wish this stuff just didn't get to me, but I can't control it. It pisses me off. 
 
-Talking about Munger, I guess if I pretend to be a follower of his and of the value investing mindset, I shouldn't feel entitled to gains I could have made from weird set-ups like $DWAC. But look at this guy:
+Talking about Munger, I guess if I pretend to be a follower of his and of the value investing philosophy, I shouldn't feel entitled to gains I could have made from weird set-ups like $DWAC. But look at this guy:
 
 {{<twitter 1451639149161635840>}}
 
