@@ -15,7 +15,9 @@ Someone on [CommonStock](https://commonstock.com/post/a87bc4bf-fc03-4d6d-9fcd-41
 
 Sunlight [(NYSE:SUNL)](https://finance.yahoo.com/quote/SUNL?p=SUNL&.tsrc=fin-srch) is a business-to-business-to-consumer, technology-enabled point-of-sale (“POS”) financing platform
 that provides residential solar and home improvement contractors the ability to offer seamless POS financing to
-their customers when purchasing residential solar systems or other home improvements. The resulting loans are
+their customers when purchasing residential solar systems or other home improvements. 
+
+The resulting loans are
 funded by Sunlight’s network of capital providers who, by partnering with Sunlight, gain access to a difficult-toreach loan market, best-in-class consumer credit underwriting and attractive risk adjusted returns. These loans are facilitated by Sunlight’s proprietary technology platform, Orange (the “Sunlight Platform” or “Orange ”), through which Sunlight offers instant credit decisions to homeowners nationwide at the POS on behalf of
 Sunlight’s various capital providers.
 
@@ -24,10 +26,8 @@ Think Affirm, for the solar panel (and recently the home improvement) vertical. 
 Sales of Sunlight-facilitated loan products are made by contractors in the context of selling residential solar systems to consumers, allowing homeowners to go solar with no money down,
 and in most cases, immediately saving money on their utility bills and often saving a significant amount of money over the life of their solar system. 
 
-Sunlight’s revenue is primarily from platform fees earned on each solar and
-home improvement loan facilitated through Orange . The platform fee is generally equal to the margin between
-the dealer fee charged to the contractor by Sunlight for each loan facilitated through Orange and the discount at
-which Sunlight’s capital provider either funds or purchases such loan.
+Sunlight’s revenue is primarily from platform fees earned on each solar and home improvement loan facilitated through Orange . The platform fee is generally equal to the margin between
+the dealer fee charged to the contractor by Sunlight for each loan facilitated through Orange and the discount at which Sunlight’s capital provider either funds or purchases such loan.
 
 ![sunl1](/images/sunl1.png)
 
