@@ -19,7 +19,7 @@ their customers when purchasing residential solar systems or other home improvem
 funded by Sunlight’s network of capital providers who, by partnering with Sunlight, gain access to a difficult-toreach loan market, best-in-class consumer credit underwriting and attractive risk adjusted returns. These loans are facilitated by Sunlight’s proprietary technology platform, Orange (the “Sunlight Platform” or “Orange ”), through which Sunlight offers instant credit decisions to homeowners nationwide at the POS on behalf of
 Sunlight’s various capital providers.
 
-Think Affirm, for the solar panel (and recently the home improvement) vertical.  With the important distinction that we're not talking about e-commerce here. The sales usually take place at the kitchen table of the end-consumer, with Sunlight's platform on a Tablet or laptop providing access to different lending options.
+Think Affirm, for the solar panel (and recently the home improvement) vertical.  With the important distinction that we're not talking about e-commerce here. The sales usually take place at the kitchen table of the end-consumer, with Sunlight's platform on a Tablet or laptop providing access to different loan products.
 
 Sales of Sunlight-facilitated loan products are made by contractors in the context of selling residential solar systems to consumers, allowing homeowners to go solar with no money down,
 and in most cases, immediately saving money on their utility bills and often saving a significant amount of money
