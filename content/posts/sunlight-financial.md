@@ -17,9 +17,7 @@ Sunlight [(NYSE:SUNL)](https://finance.yahoo.com/quote/SUNL?p=SUNL&.tsrc=fin-src
 that provides residential solar and home improvement contractors the ability to offer seamless POS financing to
 their customers when purchasing residential solar systems or other home improvements. 
 
-The resulting loans are
-funded by Sunlight’s network of capital providers who, by partnering with Sunlight, gain access to a difficult-toreach loan market, best-in-class consumer credit underwriting and attractive risk adjusted returns. These loans are facilitated by Sunlight’s proprietary technology platform, Orange (the “Sunlight Platform” or “Orange ”), through which Sunlight offers instant credit decisions to homeowners nationwide at the POS on behalf of
-Sunlight’s various capital providers.
+The resulting loans are funded by Sunlight’s network of capital providers who, by partnering with Sunlight, gain access to a difficult-toreach loan market, best-in-class consumer credit underwriting and attractive risk adjusted returns. These loans are facilitated by Sunlight’s proprietary technology platform, Orange (the “Sunlight Platform” or “Orange ”), through which Sunlight offers instant credit decisions to homeowners nationwide at the POS on behalf of Sunlight’s various capital providers.
 
 Think Affirm, for the solar panel (and recently the home improvement) vertical.  With the important distinction that we're not talking about e-commerce here. The sales usually take place at the kitchen table of the end consumer, with Sunlight's platform on a tablet or laptop providing access to different loan products.
 
