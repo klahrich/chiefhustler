@@ -60,3 +60,13 @@ The GREEN one will mean, "HAVE FUN - WATER IS GOOD FOR SWIMMING - BIG TRADES ALL
 Closing words: it could be worse.
 
 {{<twitter 1451547702001553408>}}
+
+_Update (2021-10-25)_
+
+The fucking thing has moved even higher pre-market today (Monday). It has now 10x in less than a week, and I think the warrants have 80x. Kill me now.
+
+I do feel the impulse to DO SOMETHING. It's as if I had lost that money and wanted to find a way to make it back, just like the old days when I was playing poker and just got a bad beat.
+
+So...I will respect my system and not put in any trade today. 
+
+I hate myself.
