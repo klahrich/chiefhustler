@@ -5,7 +5,7 @@ draft: false
 categories: ["investing"]
 ---
 
-These are some notes I took listening to a CO/nversations [podcast episode](https://open.spotify.com/episode/6QMsXSGBeMSPgcGD3eWQ6r) featuring Artem Fokin, from [Caro-Kann Capital LLC](http://caro-kann-capital.com/). I enjoyed it, and Artem is clearly smart and thoughtful.
+These are some notes I took listening to a CO/nversations [podcast episode](https://open.spotify.com/episode/6QMsXSGBeMSPgcGD3eWQ6r) featuring Artem Fokin, from [Caro-Kann Capital LLC](http://caro-kann-capital.com/). I enjoyed it, and Artem is clearly a smart and thoughtful guy.
 
 - Be more demanding on the upside. Look for plausible 4x to 5x baggers. 50% upside is lame. Because you can be wrong, management's execution can be off, bad luck can happen...so you end up with +20% after a few years, which sucks. Whereas even if you're wrong on the 5x opportunity, even if it takes longer, even if you're unlucky, you can end up with 2x or 3x in 2 years. 
 
