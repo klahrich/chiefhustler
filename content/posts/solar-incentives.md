@@ -1,7 +1,7 @@
 ---
 title: "Solar Incentives"
 date: 2021-10-26T10:23:54-04:00
-draft: true
+draft: false
 categories: ["solar"]
 ---
 
