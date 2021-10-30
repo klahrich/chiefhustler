@@ -7,7 +7,7 @@ categories: ["solar"]
 
 One of my favorite side-benefits of investing is that it incentivizes me to learn more about topics that I might not have been interested in otherwise.
 
-Case in point: solar energy, since I invested a small amount of money in [Sunlight Financial]({{<relref sunlight-financial.md>}}). Since then, I started listening to a bunch of youtube testimonial and economic analysis of solar PV panels and whatnot.
+Case in point: solar energy, since I invested a small amount of money in [Sunlight Financial]({{<relref "sunlight-financial.md">}}). Since then, I started listening to a bunch of youtube testimonial and economic analysis of solar PV panels and whatnot.
 
 These past few days, I was also curious about the economic solar energy incentives provided by the different layers of government and other entities, and I decided to save what I found for later reference.
 

@@ -1,5 +1,5 @@
 ---
-title: "DWAC, Trump's Social Media Company"
+title: "DWAC - Trump's Social Media Company"
 date: 2021-10-22T16:46:49-04:00
 draft: false
 categories: ["stocks"]
