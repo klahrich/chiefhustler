@@ -83,7 +83,7 @@ _"What I've felt_<br/>
 _What I've known_<br/>
 _Never shined through in what I've shown"_
 
-In **No Leaf Clover**, the hero thinks he's about to finally get lucky and break free, but it was all an illusion.
+In **No Leaf Clover**, the hero thinks he's about to finally get lucky and break free, but it was nothing but an illusion.
 
 _"Then it comes to be that the soothing light at the end of your tunnel_<br/>
 _Was just a freight train coming your way"_
