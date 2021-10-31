@@ -94,7 +94,7 @@ _"And I can’t bear to see_<br/>
 _What I’ve let me be_<br/>
 _So wicked and worn"_
 
-Is it a coincidence that these are my favorite songs in the entire Metallica universe?
+Is it a coincidence that these are my favorite songs in the entire Metallica discography?
 
 I feel comfortable in this negative, hopeless frame of mind. **It's what I'm used to.** It's what makes sense to me.
 
