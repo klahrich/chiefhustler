@@ -110,7 +110,7 @@ I want to be, feel and act a winner too. Not just LIKE a winner, but as a winner
 
 I used to dream of having one million dollars. Then I imagined, if only I could make it to two millions, that would give me a shot at freedom. Meanwhile, winners who have identifed the same bets as me but swung much harder at them are already out of the prison and enjoying life in a sunny place.
 
-The exact amount isn't important. What I want is freedom, and by that meaning being free to do whatever I want with my time. What's important is to spend quality time with my own children. I am a father now and expecting a 3rd child, and I want to break to losing streak. I want my children to be born and grow up in a winning environment.
+The exact amount isn't important. What I want is freedom, and by that I mean being free to do whatever I want with my time. What's important is to spend quality time with my own children. I am a father now and expecting a 3rd child, and I want to break to losing streak. I want my children to be born and grow up in a winning environment.
 
 _To my dad: I love you. You were the best dad anyone could have ever hoped for, and for that, I am proud of you. Thank you for everything._
 
