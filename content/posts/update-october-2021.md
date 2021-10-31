@@ -178,7 +178,7 @@ LibertyR
 
 To each his own.
 
-_P.S. One last thing.<br/> While Fintwit is recycling the same tickers over and over again, [here's a guy](https://twitter.com/drjimjonesceo/status/1454037955807436803) going his own way and forging his own path, creating 60x returns for himself in less than 2 years (and helping many others along the way)._
+_P.S. One last thing.<br/> While Fintwit keeps recycling the same tickers over and over again, [here's a guy](https://twitter.com/drjimjonesceo/status/1454037955807436803) going his own way and forging his own path, creating 60x returns for himself in less than 2 years (and helping many others along the way)._
 
 ![docjones](/images/docjones.png)
 
