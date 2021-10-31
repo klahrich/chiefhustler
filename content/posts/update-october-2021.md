@@ -2,7 +2,7 @@
 title: "Portfolio Update - October 2021"
 date: 2021-10-30T11:09:37-04:00
 draft: false
-categories: ["investing"]
+categories: ["portfolio"]
 ---
 
 ## Results
@@ -164,4 +164,15 @@ And while I respect and admire my value investor friends, they don't really care
 As for me, I think in bets, and I try to look for bets that have an expected value distribution that is skewed on the positive side. I rarely wait to have all or even 80% of the information to make a move. I mostly act on instinct, and while the lack of process has hurt me in the past, it has been a net positive so far. 
 
 So I'd rather complement my instinct with discipline and emotional awareness than let all of these opportunities pass me by.
+
+To be clear, this is the style that seems to appeal to me, but I do not by any means claim that this is the best one. I don't even claim that it makes sense (if you're into math and logic, whether or not a style works might be an unprovable statement, which would make investing an [incomplete system](https://plato.stanford.edu/entries/goedel-incompleteness/)).
+
+Here are some examples of very different styles that seem to work for other people:
+
+{{<tweet 1454204990956851202>}}
+
+{{<tweet 1454119400320143360>}}
+_Note: in the case of $DDOG, not cheap means 65x sales_
+
+To each his own.
 
