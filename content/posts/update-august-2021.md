@@ -5,10 +5,6 @@ draft: false
 categories: ["portfolio"]
 ---
 
-![portfolio-aug-2021](/images/portfolio-aug-2021.png)
-
-### Comments
-
 US-listed stocks now represent 22.9% of the portfolio, up from 22% the previous month. Although there are certainly some good opportunities in the US market, I have no appetite for more $USD exposure at the moment.
 
 As I wrote [last month]({{<relref "update-july-2021.md">}} "Last month"), I have a sizeable position in $GFP.V subscription receipts. Those should convert into shares tomorrow. The stock price has dipped significantly in the last month ($1.88 today vs $2.63 a month ago), and what initially looked like a juicy arbitrage has turned into an OK investment, as I've managed to snatch a bunch of shares for $1.62. I intend to keep my $GFP.V throughout 2021Q3/Q4 and 2022Q1 at least. Lumber prices seem to be holding steady around $500 for now, which I'm OK with, although they could dip further in September. Should demand overcome supply, or should there even be an expectation of that happening again, things could get interesting.
