@@ -7,7 +7,9 @@ categories: ["portfolio"]
 
 This month was a good one. My best year-to-date, actually.
 
-I don't show my returns anymore. At least not month to month. The reason has to do with this tweet from Daniel Vassallo:
+I don't show my returns anymore, at least not month to month. I don't think it's relevant to anybody. 
+
+I liked this tweet from Daniel Vassallo:
 
 {{<tweet 1452341598352674817>}}
 
