@@ -9,11 +9,7 @@ categories: ["portfolio"]
 
 This month was a good one. My best year-to-date, actually.
 
-![update-oct-2021](/images/update-oct-2021.png)
-
-I don't show % returns anymore. I believe those metrics are useless for me, at this stage of my journey. My long-term goal is to be able to comfortably retire from my portfolio. Cash returns just align me better with this objective. They hit harder, and feel more concrete. The world doesn't seem to hold fiat currencies in high regard at the moment, but I like them $Dollaz$!
-
-As well, I don't show my portfolio composition in detail anymore. The reason has to do with this tweet from Daniel Vassallo:
+I don't show my returns anymore. The reason has to do with this tweet from Daniel Vassallo:
 
 {{<tweet 1452341598352674817>}}
 
@@ -178,7 +174,7 @@ LibertyR
 
 To each his own.
 
-_P.S. One last thing.<br/> While Fintwit keeps recycling the same tickers over and over again, [this guy](https://twitter.com/drjimjonesceo/status/1454037955807436803) is going his own way and forging his own path, creating 60x returns for himself in less than 2 years based on rock solid research (and helping many others along the way)._
+_P.S. One last thing.<br/> While Fintwit keeps recycling the same tickers over and over again, [this guy](https://twitter.com/drjimjonesceo/status/1454037955807436803) is going his own way and forging his own path, creating 60x returns for himself in less than 2 years (and helping many others along the way)._
 
 ![docjones](/images/docjones.png)
 
