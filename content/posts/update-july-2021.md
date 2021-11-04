@@ -5,8 +5,6 @@ draft: false
 categories: ["portfolio"]
 ---
 
-![portfolio-july-2021](/images/portfolio-july-2021.png)
-
 ### Comments
 
 US-listed stocks (including $BABA) now represent 22% of the portfolio.

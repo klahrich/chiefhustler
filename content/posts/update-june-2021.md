@@ -11,8 +11,6 @@ I purposely refrain from sharing my portfolio updates on social media. First, be
 
 ## Performance
 
-![portfolio-june-2021](/images/portfolio-june-2021.png)
-
 June was my best month YTD.
 
 My top 3 holdings all performed well. **$CTS.TO** has been on a massive tear these past two months, up 85% since end of April. **$WELL.TO** has been stagnant since the beginning of the year but started moving up in the last days of June, maybe in anticipation of a Nasdaq uplisting announcement.
