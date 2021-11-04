@@ -1,7 +1,7 @@
 ---
 title: "Freedom"
 date: 2021-09-11T22:32:34-04:00
-draft: false
+draft: true
 categories: ["life"]
 ---
 
@@ -35,6 +35,6 @@ The main risks I see are not being able to compound at 6% or not being able to m
 
 In fact, I just finished reading the 1st chapter of [Richer, Wiser, Happier](https://www.amazon.ca/Richer-Wiser-Happier-Greatest-Investors/dp/1501164856) and it made me realize that I'm taking all this shit way too fucking seriously. I need to lighten up and remember that I'm also here to have fun!
 
-So I'm switching my mindset to remember than this is a game, and I'd like to play it well. That means accumulating some coins and avoiding the traps along the way, like Super Mario. 
+So I'm switching my mindset to remember that this is a game, and I'd like to play it well. That means accumulating some coins and avoiding the traps along the way, like Super Mario. 
 
 While the end result will be financial independance, the journey itself will be a game.
