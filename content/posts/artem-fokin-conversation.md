@@ -28,8 +28,3 @@ These are some notes I took listening to a CO/nversations [podcast episode](http
 - There is almost no way to avoid the periods of doom and gloom on the market. How do you deal with those and keep your sanity? Develop a mental and emotional muscle. Put things in perspective. Everything will eventually come to pass. If you have good quality in your portfolio, you shouldnt be worried long-term. Djokovitch quote: "Pressure is the priviledge".
 
 This conversation had me thinking about my [latest small bet]({{<relref "sunlight-financial.md">}} "Sunligh Financial"), where I'm explicitely targetting +25% short-term return. Either I should review my target, or abandon ship. I thought of a possible 3rd option however, which is a "better-than-cash" position, and I think $SUNL might fit in there. I don't have high expectations for it, but at the current price, I think the odds are tilted in my favor and I have a positive expected return on it in the short-term. And since I won't be needing that cash soon anyway, it seems reasonable to me to put it there, while I search for my next multi-bagger. At which point I'll dump it.
-
-I'm reminded of this tweet by Daniel Vassalo, which I thought was hilarious and applicable to investing ideas: {{<twitter 1452341598352674817>}}
-
-
-
