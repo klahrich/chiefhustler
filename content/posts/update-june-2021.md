@@ -41,9 +41,9 @@ Finally, I bought a minuscule position in **$ATTO**. This one is a favorite of [
 
 I did not add to any of my existing positions (wonder if that's a red flag).
 
-I sold 8550 shares of **$CTS.TO** during the month between $7.91 and $9.74...which is pretty sad given that it kept running higher. I wanted to cap my position at or around $150K and I thought I could find better opportunities elsewhere. The stock is not dirt cheap anymore, getting close to 30x trailing EBITDA, and I feel like there is a bit of hype around it now. That being said they have executed flawlessly so far and the plan for the next 3 years is straightforward, so I'm not willing to trim it too much. It's still a 17.1% position.
+I sold shares of **$CTS.TO** during the month between $7.91 and $9.74...which is pretty sad given that it kept running higher. I wanted to cap my position at or around $150K and I thought I could find better opportunities elsewhere. The stock is not dirt cheap anymore, getting close to 30x trailing EBITDA, and I feel like there is a bit of hype around it now. That being said they have executed flawlessly so far and the plan for the next 3 years is straightforward, so I'm not willing to trim it too much. It's still a 17.1% position.
 
-I also sold 4500 shares of **$WELL.TO** around $7.90. I might have to do a longer post on this but although I love the management there, I'm not sure I can tell what that company's moat really is. That being said, assuming the environment remains friendly, I think it has some legs - and as they say, never bet against Hamed. It's still a 13.5% position.
+I also sold shares of **$WELL.TO** around $7.90. I might have to do a longer post on this but although I love the management there, I'm not sure I can tell what that company's moat really is. That being said, assuming the environment remains friendly, I think it has some legs - and as they say, never bet against Hamed. It's still a 13.5% position.
 
 ## Portfolio distribution
 
