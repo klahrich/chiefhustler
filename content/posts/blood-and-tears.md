@@ -1,5 +1,5 @@
 ---
-title: "Blood and Tears"
+title: "Blood, Tears and Loneliness"
 date: 2021-11-05T10:29:43-04:00
 draft: false
 ---
@@ -33,5 +33,7 @@ Why? Because the market hates the sector.
 As Aaron said in the podcast, I don't know when the market will change its mind. But I know it will.
 
 Full disclosure: I have a small position in $VIBE.CN
+
+I called this post "Blood, Tears and Loneliness" to remind myself of what I should be looking for in a stock: one where people have been hurt, are crying of despair, or that no one is looking at.
 
 
