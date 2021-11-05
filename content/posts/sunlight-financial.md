@@ -287,3 +287,15 @@ With this mind, I have a small position, for what seems (to me at least) like an
 I don't think this will be a homerun, but at this valuation, I feel that my downside is well protected.
 
 Longer-term, I'm not too sure. I can't see a strong moat around the business at the moment and I worry that a hightened competition and/or a tightening of the credit supply might significantly impact the business.
+
+
+### Update (2021-11-04) {#update}
+
+
+As I re-read my thesis, I don't think I make a compelling case paying 15x EBITDA for a business with no discernable moat. I think it's possible to find cheaper stuff out there and that it might be preferable to otherwise stay in cash and wait.
+
+An article on Sunlight has just been published [on SeekingAlpha](https://seekingalpha.com/article/4464943-sunlight-financial-holdings-sunl-stock-sizing-up?utm_campaign=twitter_automated&utm_content=article&utm_medium=social&utm_source=twitter_automated).
+
+It also looks like I made a mistake on the cash position, which should be $62.5M and not $110.6M, as per the [2nd quarter press release](https://ir.sunlightfinancial.com/news-events/press-releases/detail/29/sunlight-financial-reports-second-quarter-2021-results), which brings the EV/EBITDA(2021P) ratio to 16.5x.
+
+Yeah this is a speculative bet. Too expensive. I'm out.

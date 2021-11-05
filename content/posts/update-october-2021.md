@@ -110,7 +110,7 @@ The exact amount isn't important. What I want is freedom, and by that I mean bei
 
 _To my dad: I love you. You were the best dad anyone could have ever hoped for, and for that, I am proud of you. Thank you for everything._
 
-## Neither Smarter Nor Dumber
+## Neither Smarter Nor Dumber {#smarter-dumber}
 
 A few weeks ago, I tried to understand and write about [my investing approach]({{<relref "investing-approach.md">}}). It was a frustrating exercise as I remember it, probably because I'm still early in the process of building my style. So I ended up trying too hard to come up with something to say.
 
