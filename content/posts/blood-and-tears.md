@@ -1,7 +1,7 @@
 ---
 title: "Blood, Tears and Loneliness"
 date: 2021-11-05T10:29:43-04:00
-draft: false
+draft: true
 categories: ["investing"]
 ---
 
