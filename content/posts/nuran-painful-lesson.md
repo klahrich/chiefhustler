@@ -114,13 +114,13 @@ At 5000 sites, fair price would be $3.00, or about a 100% return.
 
 ### Conclusion
 
-Based on this and the current share price of ~$1.40, there is not much margin of safety. I can't say this is a value play.
+Based on this and the current share price of ~$1.40, there is not much margin of safety. This remains a very speculative bet.
 
-However, we don't pay much for optionality.
+However, we're not paying much for optionality.
 
-Therefore it seems the thesis relies entirely on the company's ability to secure additional contracts with other MNOs and in other countries. Achieving such milestones would significantly derisk this investment. It is also possible that some of my assumptions were too conservative (in particular the revenue per site). 
+Therefore it seems that the thesis relies heavily on the company's ability to secure additional contracts with other MNOs and in other countries. Achieving such milestones would significantly derisk this investment. It is also possible that some of my assumptions were too conservative (in particular the revenue per site). 
 
-Right now this is a hold.
+I will hold for now.
 
 Had I done this analysis before, I would have avoided a tremendous amount of pain. No better teacher than pain, though.
 
