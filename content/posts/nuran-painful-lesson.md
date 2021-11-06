@@ -41,7 +41,7 @@ Nuran claims that its offsite solar-powered low-consumption cellular site costs 
 
 Based on what the company describes as conservative assumptions, which include an estimate of the population per site, the penetration rate (assumed to be around 25%) and the ARPU (annual revenue per user), the revenue per tower is expected to be around CAD$20K, annually.
 
-Using these conservative assumptions, the payback period for each site is about 19 months. Using the minimum guaranteed monthly fees, the payback period is about 60 months.
+Using these assumptions, the payback period for each site is about 19 months. Using the minimum guaranteed monthly fees, the payback period is about 60 months.
 
 The company also estimates EBITDA margin to be around 50%.
 
