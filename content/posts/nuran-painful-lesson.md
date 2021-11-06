@@ -100,19 +100,19 @@ Minus the debt: $160M - $50M => MC = $107.5M
 
 => Price per share now (let's use 15% discount rate) = $1.71 / (1.15)^4 = $0.98
 
-We have to add back current net cash, which should stand around $10M. Divided by 36M shares, that's 0.28$/share.
+We have to add back current net cash, which should stand around $7M as per the [Q3 financials](https://webfiles.thecse.com/Financial_statements_July_31_2021_Final.pdf?i0.O5n5ybxxnraND4IfWOXubtcJCjiGb=). Divided by 36M shares, that's 0.19$/share.
 
-**=> Fair price as of today = 0.98 + 0.28 = $1.25, based on 2250 sites by end of 2025.**
+**=> Fair price as of today = 0.98 + 0.19 = $1.17, based on 2250 sites by end of 2025.**
 
-Given the current price of $1.40, we are paying $1.25 for the Cameroon and DRC contracts, and $0.15 for optionality.
+Given the current price of $1.40, we are paying $1.17 (84%) for the Cameroon and DRC contracts, and $0.23 (16%) for optionality.
 
 Let's now ask the question differently. If we only change the number of sites live by 2025, how many do we need to justify the current share price of $1.40?
 
-Answer: about 2500, or about 625 sites per year for the next 4 years.
+Answer: about 2600, or about 650 sites per year for the next 4 years.
 
-At 5,000 sites, fair price would be $3.00, or about a 100% return.
+At 5,000 sites, fair price would be $2.92, or about a 100% return.
 
-At 10,000 sites, fair price would be $6.18.
+At 10,000 sites, fair price would be $6.10.
 
 ### A word on the jockey
 
