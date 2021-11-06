@@ -125,7 +125,7 @@ In the end, I still believe the shareholders will be OK here. Whether it'll turn
 
 ### Conclusion
 
-Based on this and the current share price of ~$1.40, there is not much margin of safety. This remains a very speculative bet.
+Based on this and the current share price of ~$1.40, there is not much margin of safety. This remains a speculative bet.
 
 However, we're not paying much for optionality.
 
