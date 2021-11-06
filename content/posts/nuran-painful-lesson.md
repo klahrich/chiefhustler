@@ -120,7 +120,7 @@ I get it. I worked in a startup and was fairly close to the founders. It's a del
 
 ### Conclusion
 
-Based on this and the current share price of ~$1.40, there is not much margin of safety. This remains a speculative bet.
+Based on this and the current share price of ~$1.40, I think there is not much margin of safety. It remains a speculative bet in my opinion.
 
 However, we're not paying much for optionality.
 
