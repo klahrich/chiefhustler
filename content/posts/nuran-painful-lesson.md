@@ -53,7 +53,7 @@ The initial 2K sites are estimated to cover 10M people. There is 45M people yet 
 
 The company estimated the required financing for the 2K sites to be around CAD$50M. But it also has a 5-year target of 10,000 sites, for which it will require CAD$150M of financing. This financing will come in the form of debt and equity financing, but the equity will be raised at the African subsidiaries, which can be done at a higher valuation than if it was done at the parent company. Nevertheless, it means the parent company will not receive 100% of the revenue and EBITDA of the local projects.
 
-### Promises vs Reality
+### 2021 so far
 
 The company's intial target was to deploy 122 sites in Cameroon by the end of the year. In February 2021, the company published a [corporate video](https://nuranwireless.com/en/investors/nuran-announces-major-network-as-a-service-agreement-with-orange-drc/) assuring us that the financing was already well under way and that the company had already received a lot of interest from both local banks and international development banks, and had even received multiple term-sheets. The company also promised (near the end of the video) that they were on everybody's lips in the industry and that a lot of of other operators and other countries would be coming soon.
 
@@ -74,7 +74,7 @@ In September's [corporate update](https://webfiles.thecse.com/CSE_Form_7_-_Month
 In October's [corporate update](https://webfiles.thecse.com/CSE_Form_7_-_Monthly_Progress_Report_-_October_2021_7.pdf?CkN6pcKjeahZe7GstA4.P.pSzmtIuXmy=), we learned that there were only 5 sites live by the end of October, with penetration rates around 35%. The update also shared that "the first 122 selected sites in Cameroon showed an average of 5500 inhabitants per village for a total of 678K population. With a 24% forecasted
 penetration rate and a regional average ARPU of approximatively 2.80$ CAD, the potential yearly revenue for NuRAN for those sites is now over 3.8M." However, the target for the full batch of 122 sites has now been moved to "early 2022" (this update sent the stock 7.43% down). On the positive side (I guess), the company has secured a tiny financing of US$2.3M to fund the first batch of Cameroon sites. We are told that this financing was contracted with a pan-African bank, which hopefully could help with DRC as well. The only happy people at the end of October are the remaining debenture holders, which received 2,259,091 NuRAN shares (price of $1.60/share) in exchange for their $745,000 of principal and interest owing. Not a bad return for them!
 
-### The Facts are the Facts, the Data is the Data
+### Valuation
 
 Here's what I think can be expected regarding Cameroon and DRC. I will focus only on these two and ask what is the fair price we should pay today for these contracts, assuming the plan goes as expected but using some conservative assumptions.
 
