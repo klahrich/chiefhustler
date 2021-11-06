@@ -37,7 +37,7 @@ The stock pretty much 10x-ed overnight, from $0.3 to $3. The lucky convertible d
 
 Nuran builds and operates rural cellular towers which they monetize by allowing mobile network operators (called MNOs, such as Orange, MTN, or Vodacom) to use them in exchange of a revenue split or a fixed recurring fee. This model is called `network as a service` because it allows the MNOs to access the network with minimum upfront capex. 
 
-Nuran claims that its offsite solar-powered low-consumption cellular site costs about $25K or 5x less in CAPEX than a traditional towerco cellular site and 3x less in OPEX.
+Nuran claims that its offsite solar-powered low-consumption cellular site costs about $25K or 5x less in CAPEX and 3x less in OPEX than a traditional towerco cellular site, which would not be economically viable in these ultra-low GDP areas.
 
 Based on what the company describes as conservative assumptions, which include an estimate of the population per site, the penetration rate (assumed to be around 25%) and the ARPU (annual revenue per user), the revenue per tower is expected to be around CAD$20K, annually.
 
