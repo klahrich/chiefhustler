@@ -108,7 +108,7 @@ Given the current price of $1.40, we are paying $1.17 (84%) for the Cameroon and
 
 Let's now ask the question differently. If we only change the number of sites live by 2025, how many do we need to justify the current share price of $1.40?
 
-Answer: about 2600, or about 650 sites per year for the next 4 years.
+Answer: about 2600. In other words, excluding execution risk, we need a 350-site contract to be at fair value with free optionality.
 
 At 5,000 sites, fair price would be $2.92, or about a 100% return.
 
