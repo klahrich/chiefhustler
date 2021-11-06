@@ -120,16 +120,13 @@ I don't think Francis, the CEO, is a crook or that his execution is lacking. Not
 
 I get it. I worked in a startup and was fairly close to the founders. It's a delicate balance between inspiring the troops, keeping them fired up and not overpromising. 
 
-In the end, I still believe the shareholders will be OK here. Whether it'll turn out to be a great investment remains to be seen. It will depend on whether and when the company will carry on existing contracts and land new ones.
-
-
 ### Conclusion
 
 Based on this and the current share price of ~$1.40, there is not much margin of safety. This remains a speculative bet.
 
 However, we're not paying much for optionality.
 
-Therefore it seems that the thesis relies heavily on the company's ability to secure additional contracts with other MNOs and in other countries. Achieving such milestones would significantly derisk this investment. It is also possible that some of my assumptions were too conservative (in particular the revenue per site). 
+The thesis relies heavily on the company's ability to secure additional contracts with other MNOs and in other countries. Achieving such milestones would significantly derisk this investment. It is also possible that some of my assumptions were too conservative (in particular the revenue per site). 
 
 I will hold for now.
 
