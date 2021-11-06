@@ -1,7 +1,8 @@
 ---
 title: "Nuran, a painful lesson"
 date: 2021-11-05T17:56:43-04:00
-draft: true
+draft: false
+categories: ["stocks"]
 ---
 
 One of my sizeable <strike>investments</strike> gambles has reached a new low of $1.37. My average cost is $2.40 and I have 6 digits in this loser.
