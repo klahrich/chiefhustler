@@ -15,9 +15,9 @@ Wanna know how to lose half your money? Easy. Keep a constant market cap, and do
 
 ![nuran-you-bitch](/images/nuran-you-bitch.png)
 
-The crazy part is that there was an opportunity to get away at a 20% loss a few weeks ago. The stock got pumped for whatever reason for a few days. I didn't take it, because I still had faith in management.
+Hindsight is so easy. It's easy for me now to see how and why we got to the current price.
 
-There have been some hiccups, and not every promise has materialized yet, but that is irrelevant now. I'd rather focus on the data and focus on valuation.
+There have been hiccups and not every promise has materialized yet, but that is irrelevant now. I'd rather focus on the data and the valuation.
 
 ### The story
 
