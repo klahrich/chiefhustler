@@ -124,7 +124,7 @@ Based on this and the current share price of ~$1.40, I think there is not much m
 
 However, we're not paying much for optionality.
 
-The thesis relies heavily on the company's ability to secure additional contracts with other MNOs and in other countries. Achieving such milestones would significantly derisk this investment. It is also possible that some of my assumptions were too conservative (in particular the revenue per site). 
+The thesis relies heavily on the company's ability to secure additional contracts with other MNOs and in other countries. Achieving such milestones would significantly derisk this bet. It is also possible that some of my assumptions were too conservative (in particular the revenue per site). 
 
 I will hold for now.
 
