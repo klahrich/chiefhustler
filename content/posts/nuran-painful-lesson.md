@@ -116,7 +116,7 @@ At 10,000 sites, fair price would be $6.10.
 
 ### A word on the jockey
 
-I don't think Francis, the CEO, is a crook or that his execution is lacking. Not at all. But he is a salesman, and a good one. It's also his first rodeo as CEO of a publicly traded company. I think he might have gotten over-excited a little bit.
+I don't think the CEO is a bad guy or that his execution is lacking. Not at all. But he is a salesman, and a good one. It's also his first rodeo as CEO of a publicly traded company. I think he might have gotten over-excited a little bit.
 
 I get it. I worked in a startup and was fairly close to the founders. It's a delicate balance between inspiring the troops, keeping them fired up and not overpromising. 
 
