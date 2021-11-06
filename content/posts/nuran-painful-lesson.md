@@ -126,6 +126,14 @@ Had I done this analysis before, I would have avoided a tremendous amount of pai
 
 Lesson learned.
 
-### Update
+### A word on the jockey
+
+I don't think Francis, the CEO, is a crook or that his execution is lacking. Not at all. But he is a salesman, and a good one. It's also his first rodeo as CEO of a publicly traded company. I think he might have gotten over-excited a little bit.
+
+I get it. I worked in a startup and was fairly close to the founders. It's a delicate balance between inspiring the troops, keeping them fired up and not overpromising. 
+
+In the end, I still believe the shareholders will be OK here. Whether it'll turn out to be a great investment remains to be seen. It will depend on whether the company is able carry on existing contracts and land new ones.
+
+### Update (2021-11-06)
 
 It seems that while only 5 towers are live in Cameroon as of today, more have been built and the hold up is because of batteries that have not been delivered (due to whatever logistic fuck up happened in China...we heard of a fire on a tarmac, but whatever). I wish the company at least communicated how many towers have been built so far. Anyway, not a huge deal.
