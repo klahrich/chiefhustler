@@ -31,7 +31,7 @@ The buildout phase for the 2K sites in DRC is expected to be 40 months. The comp
 
 As well, the company announced that the Cameroon contract with Orange was extended to 242 sites. 
 
-The stock pretty 10x-ed overnight, from $0.3 to $3. The lucky convertible debenture holders [received 2.0 million shares](https://thedeepdive.ca/nuran-wireless-reduces-debt-significantly-appoints-executives-for-african-operations/) to settle a total debt of $1.9M. 
+The stock pretty much 10x-ed overnight, from $0.3 to $3. The lucky convertible debenture holders [received 2.0 million shares](https://thedeepdive.ca/nuran-wireless-reduces-debt-significantly-appoints-executives-for-african-operations/) to settle a total debt of $1.9M. 
 
 ### The business
 
