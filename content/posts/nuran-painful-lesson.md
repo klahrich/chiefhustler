@@ -76,7 +76,7 @@ penetration rate and a regional average ARPU of approximatively 2.80$ CAD, the p
 
 ### Valuation
 
-_Disclaimer: everything below are just my own estimates and opinions._
+_Disclaimer: everything below is just my own opinion and estimates._
 
 Here's what I think can be expected regarding Cameroon and DRC. I will focus only on these two and ask what is the fair price we should pay today for these contracts, assuming the plan goes as expected but using some conservative assumptions.
 
