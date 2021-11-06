@@ -11,15 +11,15 @@ I remember a few months ago someone said "$1.25 is coming". At the time the stoc
 
 And here we are today. $1.25 is in sight, and with the sentiment around the stock, I hope we don't go lower.
 
-Management has completely fucked this up. Overpromise, underdeliver, find excuses -> rince & repeat, all the while rewarding insiders. 
+Management has completely fucked this up. Overpromise, underdeliver, find excuses -> rinse & repeat, all the while rewarding insiders. 
 
 Wanna know how to lose your money? Easy. You keep a constant market cap, and you double the number of shares outstanding.
 
 ![nuran-you-bitch](/images/nuran-you-bitch.png)
 
-The crazy part is that there was an opportunity to get away at a 20% loss a few weeks ago. The stock got pumped for whatever reason for a few days. I didn't take it, because I still had fate in management.
+The crazy part is that there was an opportunity to get away at a 20% loss a few weeks ago. The stock got pumped for whatever reason for a few days. I didn't take it, because I still had faith in management.
 
-I don't anymore. The CEO is a first timer and clearly doesn't understand or doesn't care about the market. Or maybe he understand it just enough for his own good. In any case, he doesn't have much credibility left in my eyes. 
+I don't anymore. The CEO is a first timer and clearly doesn't understand or doesn't care about the market. Or maybe he understands it just enough for his own good. In any case, he doesn't have much credibility left in my eyes. 
 
 And yet I'm not selling. 
 
@@ -61,7 +61,7 @@ The company also has a 5-year plan of 10,000 sites, for which it will require CA
 
 ### Promises vs Reality
 
-The company's intial target was to deploy 122 sites in Cameroon by the end of the year. In February 2021, the company published a [corporate video](https://nuranwireless.com/en/investors/nuran-announces-major-network-as-a-service-agreement-with-orange-drc/) assuring us that the financing was already well under way and that the company had already received a lot of interest from both local banks and international development banks, and had even received multiple term-sheets. The company also promised (near the end of that video) that they were on everybody's lips in the industry and that a lot of of other operators and other countries would be coming soon.
+The company's intial target was to deploy 122 sites in Cameroon by the end of the year. In February 2021, the company published a [corporate video](https://nuranwireless.com/en/investors/nuran-announces-major-network-as-a-service-agreement-with-orange-drc/) assuring us that the financing was already well under way and that the company had already received a lot of interest from both local banks and international development banks, and had even received multiple term-sheets. The company also promised (near the end of the video) that they were on everybody's lips in the industry and that a lot of of other operators and other countries would be coming soon.
 
 In March 2021, in [this video](https://www.youtube.com/watch?v=fHkaRq1eQUY), Francis shared that he expected the first 48 sites in Cameroon to be built by September, and the full batch of 122 by the end of the year.
 
