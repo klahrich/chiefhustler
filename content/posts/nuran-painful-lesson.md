@@ -1,5 +1,5 @@
 ---
-title: "Nuran, a painful lesson"
+title: "NuRAN, a painful lesson"
 date: 2021-11-05T17:56:43-04:00
 draft: false
 categories: ["stocks"]
