@@ -84,7 +84,7 @@ penetration rate and a regional average ARPU of approximatively 2.80$ CAD, the p
 
 Irrelevant of what I think of management, here's what is likely to happen:
 
-- I expect the first batch of 122 sites to be live somewhere in H1 2022, and the full 242 sites for end of 2022
+- I expect the first batch of 122 sites to be live somewhere in H1 2022, and the full 242 sites by end of 2022
 
 - I'm not sure what to expect for DRC, since we don't have a single tower live yet. We know the company has burned 5 months already out of the budgeted 40. Let's just round it to 3 years and say that in theory we need to have 2000 sites live by end of 2024. Since this company has a tenuous relationship with theory and expectations, I will push it back by 1 full year and say that we will have the full 200 sites only in 2025. So the total will be around 2250 sites in 2025
 
