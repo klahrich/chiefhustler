@@ -104,7 +104,7 @@ We have to add back current net cash, which should stand around $10M. Divided by
 
 **=> Fair price as of today = 0.98 + 0.28 = $1.25, based on 2250 sites by end of 2025.**
 
-Given the current price of $1.40, we are paying $1.25 for the current Cameroon and DRC contracts, and $0.15 for optionality.
+Given the current price of $1.40, we are paying $1.25 for the Cameroon and DRC contracts, and $0.15 for optionality.
 
 Let's now ask the question differently. If we only change the number of sites live by 2025, how many do we need to justify the current share price of $1.40?
 
