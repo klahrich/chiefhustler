@@ -120,7 +120,7 @@ I don't think Francis, the CEO, is a crook or that his execution is lacking. Not
 
 I get it. I worked in a startup and was fairly close to the founders. It's a delicate balance between inspiring the troops, keeping them fired up and not overpromising. 
 
-In the end, I still believe the shareholders will be OK here. Whether it'll turn out to be a great investment remains to be seen. It will depend on whether the company is able carry on existing contracts and land new ones.
+In the end, I still believe the shareholders will be OK here. Whether it'll turn out to be a great investment remains to be seen. It will depend on whether and when the company will carry on existing contracts and land new ones.
 
 
 ### Conclusion
