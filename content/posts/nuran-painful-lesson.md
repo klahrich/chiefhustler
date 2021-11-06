@@ -114,7 +114,7 @@ At 5000 sites, fair price would be $3.00, or about a 100% return.
 
 ### Conclusion
 
-Based on this and the current share price of ~$1.40, there is not much margin of safety. We can't say this is a value play.
+Based on this and the current share price of ~$1.40, there is not much margin of safety. I can't say this is a value play.
 
 However, we don't pay much for optionality.
 
