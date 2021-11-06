@@ -122,7 +122,9 @@ Therefore it seems the thesis relies entirely on the company's ability to secure
 
 Right now this is a hold.
 
-Had I done this analysis before, I would have avoided a tremendous amount of pain.
+Had I done this analysis before, I would have avoided a tremendous amount of pain. No better teacher than pain, though.
+
+Lesson learned.
 
 ### Update
 
