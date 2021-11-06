@@ -15,7 +15,7 @@ I liked this tweet from Daniel Vassallo:
 
 I don't want to get attached to any of my investment ideas, the way I was with [Nuran Wireless]({{<relref "nuran-1.md">}}). 
 
-Other that pure greed, which is the most dangerous sin as far as I'm concerned, there are 3 biases that I think have hurt my returns in the past:
+Other than greed, which is the most dangerous sin as far as I'm concerned, there are 3 biases that I think have hurt my returns in the past:
 
 - [Commitment bias](https://thedecisionlab.com/biases/commitment-bias/)
 
