@@ -49,9 +49,9 @@ Let's do some quick math: 2000 sites, times $20K, times 50% margin = CAD$20M/yea
 
 Important detail: there is an asset transfer that occurs midway through the contract. That is, although NuRAN gets payed for the full duration of the contract, at the end of it, the towers belong to Orange. So the revenues are for 10 years exactly, no more.
 
-The initial 2K sites are estimated to cover 10M people. There is 45M people yet to be connected in DRC (half the country) and the company estimates that this could mean 5K to 7K additional sites (on top of the 2K under contract). The company estimated the required financing for this project to be around CAD$50M.
+The initial 2K sites are estimated to cover 10M people. There is 45M people yet to be connected in DRC (half the country) and the company estimates that this could mean 5K to 7K additional sites (on top of the 2K under contract). 
 
-The company also has a 5-year plan of 10,000 sites, for which it will require CAD$150M of financing. This financing will come in the form of debt and equity financing, but the equity will be raised at the African subsidiaries, which can be done at a higher valuation than if it was done at the parent company. Nevertheless, it means the parent company will not receive 100% of the revenue and EBITDA of the local projects.
+The company estimated the required financing for the 2K sites to be around CAD$50M. But it also has a 5-year target of 10,000 sites, for which it will require CAD$150M of financing. This financing will come in the form of debt and equity financing, but the equity will be raised at the African subsidiaries, which can be done at a higher valuation than if it was done at the parent company. Nevertheless, it means the parent company will not receive 100% of the revenue and EBITDA of the local projects.
 
 ### Promises vs Reality
 
