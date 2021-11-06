@@ -110,7 +110,18 @@ Let's now ask the question differently. If we only change the number of sites li
 
 Answer: about 2500, or about 625 sites per year for the next 4 years.
 
-At 5000 sites, fair price would be $3.00, or about a 100% return.
+At 5,000 sites, fair price would be $3.00, or about a 100% return.
+
+At 10,000 sites, fair price would be $6.18.
+
+### A word on the jockey
+
+I don't think Francis, the CEO, is a crook or that his execution is lacking. Not at all. But he is a salesman, and a good one. It's also his first rodeo as CEO of a publicly traded company. I think he might have gotten over-excited a little bit.
+
+I get it. I worked in a startup and was fairly close to the founders. It's a delicate balance between inspiring the troops, keeping them fired up and not overpromising. 
+
+In the end, I still believe the shareholders will be OK here. Whether it'll turn out to be a great investment remains to be seen. It will depend on whether the company is able carry on existing contracts and land new ones.
+
 
 ### Conclusion
 
@@ -125,14 +136,6 @@ I will hold for now.
 Had I done this analysis before, I would have avoided a tremendous amount of pain. No better teacher than pain, though.
 
 Lesson learned.
-
-### A word on the jockey
-
-I don't think Francis, the CEO, is a crook or that his execution is lacking. Not at all. But he is a salesman, and a good one. It's also his first rodeo as CEO of a publicly traded company. I think he might have gotten over-excited a little bit.
-
-I get it. I worked in a startup and was fairly close to the founders. It's a delicate balance between inspiring the troops, keeping them fired up and not overpromising. 
-
-In the end, I still believe the shareholders will be OK here. Whether it'll turn out to be a great investment remains to be seen. It will depend on whether the company is able carry on existing contracts and land new ones.
 
 ### Update (2021-11-06)
 
