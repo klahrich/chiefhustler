@@ -127,3 +127,7 @@ However, we don't pay much for optionality.
 Therefore it seems the thesis relies entirely on the company's ability to secure additional contracts with other MNOs and in other countries. Achieving such milestones would significantly derisk this investment. It is also possible that some of my assumptions were too conservative (in particular the revenue per site). 
 
 Right now this is a hold.
+
+### Update
+
+It seems that while only 5 towers are live in Cameroon as of today, more have been built and the hold up is because of batteries that have not been delivered (due to whatever logistic fuck up happened in China...we heard of a fire in a port, but whatever). I wish the company at least communicated how many towers have been built so far. Anyway, not a huge deal.
