@@ -27,7 +27,7 @@ In [October 2020](https://www.thenewswire.com/press-releases/1AqRFdZqp-nuran-ann
 
 In [February 2021](https://nuranwireless.com/en/investors/nuran-announces-major-network-as-a-service-agreement-with-orange-drc/), the company announced a big ass $500M 10-year contract with Orange for 2,000 towers in DRC. In case you didn't know, DRC is a <strike>big shithole</strike> nice country in Central Africa with a population of 90M, USD$560 GDP per capita, and ranked [170/180](https://www.transparency.org/en/countries/democratic-republic-of-the-congo) on corruption. 
 
-The buildout phase for the 2K sites in DRC is expected to be 40 months. The company and Orange agreed on a buffer period of 3 months to get the ball rolling following the contract signature, which brings us to mid-May 2021 as the start of the period. From there, assuming a cold start period of 10 months, the company needs to be able to build between 50 and 100 sites per month to reach the target.
+The buildout phase for the 2K sites in DRC is expected to take 40 months. The company and Orange agreed on a buffer period of 3 months to get the ball rolling following the contract signature, which brings us to mid-May 2021 as the start of the period. From there, assuming a cold start period of 10 months, the company needs to be able to build between 50 and 100 sites per month to reach the target.
 
 As well, the company announced that the Cameroon contract with Orange was extended to 242 sites. 
 
