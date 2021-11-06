@@ -11,7 +11,7 @@ I remember a few months ago someone said "$1.25 is coming". At the time the stoc
 
 And here we are today. $1.25 is in sight, and with the sentiment around the stock, I hope we don't go lower.
 
-Wanna know how to lose your money? Easy. You keep a constant market cap, and you double the number of shares outstanding.
+Wanna know how to lose half your money? Easy. Keep a constant market cap, and double the number of shares outstanding.
 
 ![nuran-you-bitch](/images/nuran-you-bitch.png)
 
