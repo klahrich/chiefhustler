@@ -122,9 +122,9 @@ I get it. I worked in a startup and was fairly close to the founders. It's a del
 
 Based on this and the current share price of ~$1.40, I think there is not much margin of safety. It remains a speculative bet in my opinion.
 
-However, we're not paying much for optionality.
+However, we're not paying much for optionality, which could be fairly big. I haven't touched on LATAM, but it could be a potential expansion opportunity down the road. I just think it's way too soon to think about that.
 
-The thesis relies heavily on the company's ability to secure additional contracts with other MNOs and in other countries. Achieving such milestones would significantly derisk this bet. It is also possible that some of my assumptions were too conservative (in particular the revenue per site). 
+All in all, the thesis relies heavily on the company's ability to secure additional contracts with other MNOs and in other countries. Achieving such milestones would significantly derisk this bet. It is also possible that some of my assumptions were too conservative (in particular the revenue per site). 
 
 I will hold for now.
 
