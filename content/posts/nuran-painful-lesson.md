@@ -15,7 +15,7 @@ Wanna know how to lose half your money? Easy. Keep a constant market cap, and do
 
 ![nuran-you-bitch](/images/nuran-you-bitch.png)
 
-Hindsight is so easy. It's easy for me now to see how and why we got to the current price.
+Hindsight is so easy. It's easy for me today to see how and why we got to the current price.
 
 There have been hiccups and not every promise has materialized yet, but that is irrelevant now. I'd rather focus on the data and the valuation.
 
