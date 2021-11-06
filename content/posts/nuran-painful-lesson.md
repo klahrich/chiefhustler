@@ -11,19 +11,13 @@ I remember a few months ago someone said "$1.25 is coming". At the time the stoc
 
 And here we are today. $1.25 is in sight, and with the sentiment around the stock, I hope we don't go lower.
 
-Management has completely fucked this up. Overpromise, underdeliver, find excuses -> rinse & repeat, all the while rewarding insiders. 
-
 Wanna know how to lose your money? Easy. You keep a constant market cap, and you double the number of shares outstanding.
 
 ![nuran-you-bitch](/images/nuran-you-bitch.png)
 
 The crazy part is that there was an opportunity to get away at a 20% loss a few weeks ago. The stock got pumped for whatever reason for a few days. I didn't take it, because I still had faith in management.
 
-I don't anymore. The CEO is a first timer and clearly doesn't understand or doesn't care about the market. Or maybe he understands it just enough for his own good. In any case, he doesn't have much credibility left in my eyes. 
-
-And yet I'm not selling. 
-
-Maybe I'm wrong, maybe I'm badly mistaken, let's see.
+There have been some hiccups, and not every promise has materialized yet, but that is irrelevant now. I'd rather focus on the data and talk about valuation.
 
 ### The story
 
@@ -78,23 +72,23 @@ In August 2021, NuRAN published [a corporate update](https://www.accesswire.com/
 In September's [corporate update](https://webfiles.thecse.com/CSE_Form_7_-_Monthly_Progress_Report_-_September_2021_6.pdf?6Pbsqc6dreC7sl8gwziD9cb5nRdjSCCq=), we learned that the first site in Cameroon went live, with penetration rate of 47% in the first few days of operation. In [this video update](https://www.youtube.com/watch?v=Juk-it4A5xw), Francis reiterated the target of 122 sites in Cameroon and 60 sites in DRC by year end.
 
 In October's [corporate update](https://webfiles.thecse.com/CSE_Form_7_-_Monthly_Progress_Report_-_October_2021_7.pdf?CkN6pcKjeahZe7GstA4.P.pSzmtIuXmy=), we learned that there were only 5 sites live by the end of October, with penetration rates around 35%. The update also shared that "the first 122 selected sites in Cameroon showed an average of 5500 inhabitants per village for a total of 678K population. With a 24% forecasted
-penetration rate and a regional average ARPU of approximatively 2.80$ CAD, the potential yearly revenue for NuRAN for those sites is now over 3.8M." However, the target for the full batch of 122 sites has now been moved to "early 2022", whatever the fuck that means (sorry for my French, but this lousy update sent the stock 7.43% down). On the positive side (I guess), the company has secured a tiny financing of US$2.3M to fund the first batch of Cameroon sites. We are told that this financing was contracted with a pan-African bank, which hopefully could help with DRC as well. The only happy people at the end of October are the remaining debenture holders, which received 2,259,091 NuRAN shares (price of $1.60/share) in exchange for their $745,000 of principal and interest owing. What a fucking joke.
+penetration rate and a regional average ARPU of approximatively 2.80$ CAD, the potential yearly revenue for NuRAN for those sites is now over 3.8M." However, the target for the full batch of 122 sites has now been moved to "early 2022" (this update sent the stock 7.43% down). On the positive side (I guess), the company has secured a tiny financing of US$2.3M to fund the first batch of Cameroon sites. We are told that this financing was contracted with a pan-African bank, which hopefully could help with DRC as well. The only happy people at the end of October are the remaining debenture holders, which received 2,259,091 NuRAN shares (price of $1.60/share) in exchange for their $745,000 of principal and interest owing. Not a bad return for them!
 
 ### The Facts are the Facts, the Data is the Data
 
-Irrelevant of what I think of management, here's what is likely to happen:
+Here's what I think can be expected regarding Cameroon and DRC. I will focus only on these two and ask what is the fair price we should pay today for these contracts, assuming the plan goes as expected but using some conservative assumptions.
 
 - I expect the first batch of 122 sites to be live somewhere in H1 2022, and the full 242 sites by end of 2022
 
-- I'm not sure what to expect for DRC, since we don't have a single tower live yet. We know the company has burned 5 months already out of the budgeted 40. Let's just round it to 3 years and say that in theory we need to have 2000 sites live by end of 2024. Since this company has a tenuous relationship with theory and expectations, I will push it back by 1 full year and say that we will have the full 200 sites only in 2025. So the total will be around 2250 sites in 2025
+- I'm not sure what to expect for DRC, since we don't have a single tower live yet. We know the company has burned 5 months already out of the budgeted 40, which leaves 35 months. Let's just round it to 3 years and say that we need to have 2000 sites live by end of 2024. I will push it back by 1 full year and say that we will have the full 2000 sites only in 2025. So the total will be around 2250 sites in 2025
 
-Each site should generate $20K of revenue on average. I will assume the company gives away 50% of that by way of peoject-based equity financing, and instead of the 50% EBITDA margin claimed by the company, I will use 35%.
+Each site should generate $20K of revenue on average. I will assume the company gives away 50% of that by way of project-based equity financing, and instead of the 50% EBITDA margin claimed by the company, I will use 35%.
 
 So this brings us to: (2250 sites) x ($20K / site) x (50% ownership) x (35% EBITDA margin) ~ CAD$7.875M EBITDA/year
 
-There are 31.7M shares outsdanding as of today, to [the CSE](https://thecse.com/en/listings/technology/nuran-wireless-inc), and about 11.5M more reserved for issuance. I think 7.2M of those are warrants from the private placement, and the remainder is probably performance bonuses for the CEO. Let's assume the warrants never exercise and say the fully diluted count is 36M. Let's also assume 15% dilution per year for the next 4 years. That should bring us to about 63M shares by the end of 2025.
+There are 31.7M shares outsdanding as of today, according to [the CSE](https://thecse.com/en/listings/technology/nuran-wireless-inc), and about 11.5M more reserved for issuance. I think 7.2M of those are warrants from the private placement, and the remainder is probably performance bonuses for the CEO. Let's assume the warrants never exercise and say the fully diluted count is 36M. Let's also assume 15% dilution per year for the next 4 years. That should bring us to about 63M shares by the end of 2025.
 
-Company debt should stand around $CAD50M by then, and let's assume no cash at the end.
+Company debt should stand around $CAD 50M by then, and let's assume no cash at the end.
 
 Now the last question: what multiple should we slap on this recurring EBITDA? (we have to take into account it's not recurring forever but only for 10 years for each site from the deployment date). I don't know, let's say 20?
 
@@ -130,4 +124,4 @@ Right now this is a hold.
 
 ### Update
 
-It seems that while only 5 towers are live in Cameroon as of today, more have been built and the hold up is because of batteries that have not been delivered (due to whatever logistic fuck up happened in China...we heard of a fire in a port, but whatever). I wish the company at least communicated how many towers have been built so far. Anyway, not a huge deal.
+It seems that while only 5 towers are live in Cameroon as of today, more have been built and the hold up is because of batteries that have not been delivered (due to whatever logistic fuck up happened in China...we heard of a fire on a tarmac, but whatever). I wish the company at least communicated how many towers have been built so far. Anyway, not a huge deal.
