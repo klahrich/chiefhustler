@@ -29,8 +29,6 @@ I don't want to get attached to any of my investment ideas, the way I was with [
 
 All three of these biases steer me away from going into detail for each of <strike>my stocks</strike> the stocks currently in my portfolio and how they performed. They are like cattle to me. **I can kill (sell) any one of them tomorrow and eat the proceeds.**
 
-These results are despite a $122K YTD unrealized loss on Nuran.
-
 ## The Ultimate Game
 
 I now view investing as the ultimate mental game. I've played all sorts of games in my life: board games, video games, chess, card games, poker, you name it. I don't think there's a single game out there that is as pure and complete as investing.
