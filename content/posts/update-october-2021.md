@@ -29,7 +29,7 @@ Other than greed, which is the most dangerous sin as far as I'm concerned, there
 
 ![recency-bias](/images/recency-bias.png)
 
-All three of these biases steer me away from going into detail for each of <strike>my stocks</strike> the stocks currently in my portfolio and how they performed. They are like cattle to me. **I can kill (sell) any one of them tomorrow and eat the proceeds.**
+Awareness of these biases makes me hesitant to go into the details of my portfolio holdings and how they performed. They are like cattle to me. **I can kill (sell) any one of them tomorrow and eat the proceeds.**
 
 ## The Ultimate Game
 
