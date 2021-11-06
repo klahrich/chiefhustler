@@ -110,10 +110,6 @@ Let's now ask the question differently. If we only change the number of sites li
 
 Answer: about 2600. In other words, excluding execution risk, we need a 350-site contract to be at fair value with free optionality.
 
-At 5,000 sites, fair price would be $2.92, or about a 100% return.
-
-At 10,000 sites, fair price would be $6.10.
-
 ### A word on the jockey
 
 I don't think the CEO is a bad guy or that his execution is lacking. Not at all. But he is a salesman, and a good one. It's also his first rodeo as CEO of a publicly traded company. I think he might have gotten over-excited a little bit.
