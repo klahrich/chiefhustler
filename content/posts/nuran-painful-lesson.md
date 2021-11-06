@@ -5,7 +5,7 @@ draft: false
 categories: ["stocks"]
 ---
 
-One of my sizeable <strike>investments</strike> gambles has reached a new low of $1.37. My average cost is $2.40 and I have 6 digits in this loser.
+One of my sizeable <strike>investments</strike> gambles has reached a new low of $1.37. My average cost is $2.40 and my initial position was about 40% of my portfolio when I bought it. Trust me, I know how stupid this looks.
 
 I remember a few months ago someone said "$1.25 is coming". At the time the stock price was around $1.7ish, and I remember thinking: "What a fool! $1.25? Get outta here!".
 
