@@ -35,4 +35,4 @@ As Aaron said in the podcast, I don't know when the market will change its mind.
 
 Full disclosure: I have a small position in $VIBE.CN
 
-I called this post "Blood, Tears and Loneliness" to remind myself of what I should be looking for in a stock: one that no one is looking at, and/or one where people have been hurt badly and are crying of despair.
+I called this post "Blood, Tears and Loneliness" to remind myself of the types of stocks I should be looking for: ones that nobody is looking at, and/or ones where people have been hurt badly and are crying of despair.
