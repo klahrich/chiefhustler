@@ -76,6 +76,8 @@ penetration rate and a regional average ARPU of approximatively 2.80$ CAD, the p
 
 ### Valuation
 
+#### EV/EBITDA approach
+
 _Disclaimer: everything below is just my own opinion and estimates._
 
 Here's what I think can be expected regarding Cameroon and DRC. I will focus only on these two and ask what is the fair price we should pay today for these contracts, assuming the plan goes as expected but using some conservative assumptions.
@@ -84,7 +86,7 @@ Here's what I think can be expected regarding Cameroon and DRC. I will focus onl
 
 - I'm not sure what to expect for DRC, since we don't have a single tower live yet. We know the company has burned 5 months already out of the budgeted 40, which leaves 35 months. Let's just round it to 3 years and say that we need to have 2000 sites live by end of 2024. I will push it back by 1 full year and say that we will have the full 2000 sites only in 2025. So the total will be around 2250 sites in 2025
 
-Each site should generate $20K of revenue on average. I will assume the company gives away 50% of that by way of project-based equity financing, and instead of the 50% EBITDA margin claimed by the company, I will use 35%.
+Each site should generate $20K of revenue on average. I will assume a conservative EBITDA margin of 35% instead of the 50% mentioned by the company.
 
 So this brings us to: (2250 sites) x ($20K / site) x (50% ownership) x (35% EBITDA margin) ~ CAD$7.875M EBITDA/year
 
@@ -92,29 +94,47 @@ There are 31.7M shares outsdanding as of today, according to [the CSE](https://t
 
 Company debt should stand around $CAD 50M by then, and let's assume no cash at the end.
 
-Now the last question: what multiple should we slap on this recurring EBITDA? (we have to take into account it's not recurring forever but only for 10 years for each site from the deployment date). I don't know, let's say 20?
+Now the last question: what multiple should we slap on this recurring EBITDA? (we have to take into account it's not recurring forever but only for 10 years for each site from the deployment date). I don't know, let's say 15?
 
-So EV = 20 x EBITDA = 20 x $8M = $157.5M
+So EV = 15 x EBITDA = 15 x $8M = $236.25M
 
-Minus the debt: $160M - $50M => MC = $107.5M
+Minus the debt: $160M - $50M => MC = $186.25M
 
-=> Price per share (end of 2025) = $1105M / 80M = $1.71
+=> Price per share (end of 2025) = $1105M / 80M = $2.96
 
-=> Price per share now (let's use 15% discount rate) = $1.71 / (1.15)^4 = $0.98
+=> **Price per share now (with a 15% discount rate) = $2.96 / (1.15)^4 = $1.69**
 
 We have to add back current net cash, which should stand around $7M as per the [Q3 financials](https://webfiles.thecse.com/Financial_statements_July_31_2021_Final.pdf?i0.O5n5ybxxnraND4IfWOXubtcJCjiGb=). Divided by 36M shares, that's 0.19$/share.
 
-**=> Fair price as of today = 0.98 + 0.19 = $1.17, based on 2250 sites by end of 2025.**
+**=> Fair price as of today = 1.69 + 0.19 = $1.89, based on 2250 sites by end of 2025.**
 
-Given the current price of $1.40, we are paying $1.17 (84%) for the Cameroon and DRC contracts, and $0.23 (16%) for optionality.
+_Note: the company has shared [here](https://www.youtube.com/watch?v=xsDMIySzsVM) that it will most likely need to raise some equity at the African subsidiary level to finance the project, at a higher valuation than on the public market. This means it will give away up to 49% equity (and EBITDA) at the project level. Maybe a way to incorporate this would be to say that it would lower the discount rate? In the analysis above, I have simplified by assuming the company would retain 100% of the project's EBITDA._
 
-Let's now ask the question differently. If we only change the number of sites live by 2025, how many do we need to justify the current share price of $1.40?
+#### DCF approach
 
-Answer: about 2600. In other words, excluding execution risk, we need a 350-site new contract to be at fair value with free optionality. To be fair though, a contract with a different operator (not Orange) would add even more value, as it would provide stronger validation of the model and more diversification.
+Maybe we can circumvent the need to find the right EBITDA multiple by using a simple DCF approach.
+
+We know that each tower requires $25K of CAPEX and generate $20K of revenues per year for 10 years, and let's assume 35% EBITDA margin of $8.75K.
+
+With a 15% discount rate, that gives us a present value of about $68.9K per tower.
+
+Assuming 560 towers per year between 2022 and 2025, we can again actualize all that at 15% which gives us a total present value of about $110M.
+
+Given that the last batch will be built in 2025 (4 years from now) and generate cashflow for 10 years, we have to account for 14 years of company-level OPEX.
+
+In the [most recent 10Q](https://webfiles.thecse.com/Financial_statements_July_31_2021_Final.pdf?i0.O5n5ybxxnraND4IfWOXubtcJCjiGb=), we can see about $1.5M of SG&A expenses and $3.5M for share-based compensation. So about $5M per year, which I'll keep these constants for the next 14 years, giving me a present value for OPEX of $28.6M.
+
+So excluding taxes, we get $110M - $28.6M = $81.5M in net present firm value. 
+
+We then have to bring debt and cash into the picture. If the $50M of debt is layered in four tranches of $12.5M per year, the present value of debt is $35M. 
+
+Add $3.5M of net cash as of today and we get $81.5 - $35M + $3.5M = $50M in present equity value.
+
+**=> Price per share now = $50M / 36M = $1.39 per share**
 
 ### A word on the jockey
 
-I don't think the CEO is a bad guy or that his execution is lacking. Not at all. But he is a salesman, and a good one. It's also his first rodeo as CEO of a publicly traded company. I think he might have gotten over-excited a little bit.
+Francis, the CEO, seems a like a good guy and I think he executed well enough. But it's his first rodeo as CEO of a publicly traded company and I think the company would have benefitted from being more conservative in their timeline.
 
 I get it. I worked in a startup and was fairly close to the founders. It's a delicate balance between inspiring the troops, keeping them fired up and not overpromising. 
 
