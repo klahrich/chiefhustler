@@ -134,7 +134,7 @@ Add $3.5M of net cash as of today and we get $81.5 - $35M + $3.5M = $50M in pres
 
 **=> Price per share now = $50M / 36M = $1.39 per share**
 
-I personally prefer this approach as it allows me to buypass the need to choose an EBITDA multiple, and it also takes into account the limited economic life of the towers. Based on this price, it appears the market believes the company can execute on the current contracts, but no value is attributed to optionality.
+I personally prefer this approach as it buypasses the need to choose an EBITDA multiple, and it also takes into account the limited economic life of the towers. Based on this price, it appears the market believes the company can execute on the current contracts, but no value is attributed to optionality.
 
 ### A word on the jockey
 
