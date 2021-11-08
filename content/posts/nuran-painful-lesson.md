@@ -1,5 +1,5 @@
 ---
-title: "NuRAN, a painful lesson"
+title: "NuRAN, what's the dealio?"
 date: 2021-11-05T17:56:43-04:00
 draft: false
 categories: ["stocks"]
@@ -132,6 +132,8 @@ Add $3.5M of net cash as of today and we get $81.5 - $35M + $3.5M = $50M in pres
 
 **=> Price per share now = $50M / 36M = $1.39 per share**
 
+I personally prefer this approach as it allows me to buypass the need to choose an EBITDA multiple, and it also takes into account the limited economic life of the towers. Based on this price, it appears the market believes the company can execute on the current contracts, but no value is attributed to optionality.
+
 ### A word on the jockey
 
 Francis, the CEO, seems a like a good guy and I think he executed well enough. But it's his first rodeo as CEO of a publicly traded company and I think the company would have benefitted from being more conservative in their timeline.
@@ -140,15 +142,15 @@ I get it. I worked in a startup and was fairly close to the founders. It's a del
 
 ### Conclusion
 
-Based on this and the current share price of ~$1.40, I think there is not much margin of safety. It remains a speculative bet in my opinion.
+Based on this and the current share price of ~$1.40, there is not much margin of safety. It remains a speculative bet in my opinion.
 
-However, we're not paying much for optionality, which could be fairly big. I haven't touched on LATAM, but it could be a potential expansion opportunity down the road. I just think it's way too soon to think about that.
+However, we're not paying much for optionality, which could be fairly big. I haven't touched on LATAM, but it could be a potential expansion opportunity down the road. I just think it's too soon to think about that.
 
 All in all, the thesis relies heavily on the company's ability to secure additional contracts with other MNOs and in other countries. Achieving such milestones would significantly derisk this bet. It is also possible that some of my assumptions were too conservative (in particular the revenue per site). 
 
 I will hold for now.
 
-Had I done this analysis before, I would have avoided a tremendous amount of pain. No better teacher than pain, though.
+Had I done this analysis before, I would not have jumped in as quickly as I did, and I'd have avoided a tremendous amount of pain. No better teacher than pain, though.
 
 Lesson learned.
 
