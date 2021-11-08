@@ -15,7 +15,7 @@ Wanna know how to lose half your money? Easy. Keep a constant market cap, and do
 
 ![nuran-you-bitch](/images/nuran-you-bitch.png)
 
-![nuran-sp](/images/nuran-sp.png)
+![nuran-sp](/images/nuran-sp-2.png)
 
 Hindsight is so easy. It's easy for me today to see how and why we got to the current price.
 
