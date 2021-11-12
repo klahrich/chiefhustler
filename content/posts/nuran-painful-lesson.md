@@ -156,6 +156,10 @@ Had I done this analysis before, I would not have jumped in as quickly as I did,
 
 Lesson learned.
 
-### Update (2021-11-06)
+### 2021-11-06
 
 It seems that while only 5 towers are live in Cameroon as of today, more have been built and the hold up is because of batteries that have not been delivered (due to whatever logistic fuck up happened in China...we heard of a fire on a tarmac, but whatever). I wish the company at least communicated how many towers have been built so far. Anyway, not a huge deal.
+
+### 2021-11-12
+
+[World Bank backs Congo's digital economy with US$100m](https://www.africanwirelesscomms.com/news-details?itemid=4194&post=world-bank-backs-congos-digital-economy-with-us100m-864815)
