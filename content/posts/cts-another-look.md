@@ -5,9 +5,7 @@ draft: false
 categories: ["stocks"]
 ---
 
-### CTS.TO
-
-Some time ago, I decided to sell my entire stake in $CTS.TO. I explained my reasons [here]({<<relref "cts.md">>}).
+Some time ago, I decided to sell my entire stake in $CTS.TO. I explained my reasons [here]({{<relref "cts.md">}}).
 
 The past few days, I saw some fellow investors chant the merits of the company, so I decided to take another look. 
 
