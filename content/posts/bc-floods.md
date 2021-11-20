@@ -47,7 +47,7 @@ And my updated valuation:
 
 ![aep-val-2021Q3](/images/aep-val-2021Q3.png)
 
-I'm not 100% sure these decision are directionally correct, which is why I kept the magnitude of the moves relatively small. Importantly, all this was inside my RESP account, so no tax impact.
+I'm not 100% sure these decisions are directionally correct, which is why I kept the magnitude of the moves relatively small. Importantly, all this was inside my RESP account, so no tax impact.
 
 Ironically, $AEP.V surged 6% today _after_ I sold. Thankfully, $GFP.V ended the day up 5% as well.
 
