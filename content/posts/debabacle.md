@@ -33,5 +33,3 @@ In retrospect, shameless cloning, if it simply means copying the decisions of so
 
 1. "Does it apply to my situation?". 
 2. "Is this one of the best ideas I can find right now?"
-
-{{ template "_internal/disqus.html" . }}
