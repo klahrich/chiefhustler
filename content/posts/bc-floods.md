@@ -58,3 +58,5 @@ Ironically, $AEP.V surged 6% today _after_ I sold, which surprised me to be hone
 - [B.C. flooding could be Canada's costliest disaster](https://financialpost.com/news/economy/b-c-flooding-could-be-canadas-costliest-disaster-as-cut-off-port-of-vancouver-snarls-supply-chain) -- [(pdf)](https://drive.google.com/file/d/1IUbN7nIuTCofU0ZokJTJJN3qGzrDiTbf/view?usp=sharing)
 
 - [The B.C. floods are a mere hint of what climate change could do to the food supply](https://www.macleans.ca/society/environment/the-b-c-floods-are-a-mere-hint-of-what-climate-change-could-do-to-the-food-supply/) -- [(pdf)](https://drive.google.com/file/d/105kWjsj1YeHj-rUNAKtQgzf4tlG2wfzk/view?usp=sharing)
+
+- [As military arrives, B.C. scrambles to repair critical roadways](https://www.thestar.com/news/canada/2021/11/18/we-are-not-out-of-this-thing-by-a-long-shot-as-military-arrives-bc-scrambles-to-repair-critical-roadways-amid-fears-of-hoarding-and-more-rain.html?utm_source=Twitter&utm_medium=SocialMedia&utm_campaign=National&utm_content=bcscrambles) -- [pdf](https://drive.google.com/file/d/1koaJ0LIIvjeQgVRI69q25C96U1N5gsH1/view?usp=sharing)
