@@ -1,7 +1,8 @@
 ---
 title: "DeBABAcle"
 date: 2021-11-20T13:41:34-05:00
-draft: true
+draft: false
+categories: ["investing"]
 ---
 
 $BABA have released their earnings, and the market didn't like them. I didn't look into the details of it, but basically growth and margin have slowed down in their core commerce business due to competitive pressures. Cloud is growing nicely, but not much impact on the bottom-line yet.
