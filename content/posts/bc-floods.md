@@ -39,7 +39,7 @@ Looking at lumber futures, the reaction has been fairly strong already:
 
 The stock price of $GFP.V has been on the rise this week, but nothing extraordinary yet. I haven't pulled the trigger fully on it in part because of the disappointing U.S. [home construction data of October](https://madisonsreport.com/) which has also been hampered by supply-chain disruptions, and in part because $GFP.V hasn't showed the market any numbers yet.
 
-By the way, $AEP.V stock itself remains absurdly cheap at these levels. Here are the updated numbers, they crushed it this quarter:
+By the way, $AEP.V stock itself remains absurdly cheap at these levels. Here are the updated numbers, they are crushing it:
 
 ![aep-2021Q3](/images/aep-2021Q3.png)
 
