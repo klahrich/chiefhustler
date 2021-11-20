@@ -31,6 +31,7 @@ googlefonts = "http://fonts.googleapis.com/css?family=Itim|Limelight"
 [params]
 mainSections = ["posts"]
 headTitle = "Chief Hustler"
+disqusShortname = 'https-chiefhustler-com'
 disqus = "chiefhustlr" # disqus account name
 extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=G-GRYWMWK702"></script>'
 
