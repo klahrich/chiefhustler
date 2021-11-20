@@ -49,8 +49,12 @@ And my updated valuation:
 
 I'm not 100% sure these decisions are directionally correct, which is why I kept the magnitude of the moves relatively small. Importantly, all this was inside my RESP account, so no tax impact.
 
-Ironically, $AEP.V surged 6% today _after_ I sold. Thankfully, $GFP.V ended the day up 5% as well.
+Ironically, $AEP.V surged 6% today _after_ I sold, which surprised me to be honest. Thankfully, $GFP.V ended the day up 5% as well.
 
+### Some links
 
+- [The B.C. flooding isn’t just a regional catastrophe](https://www.theglobeandmail.com/opinion/article-the-bc-flooding-isnt-just-a-regional-catastrophe-its-a-warning-that/) -- [(pdf)](https://drive.google.com/file/d/1GTcqfvDnFktNg7BFhJ7sTjnL_jiOOppb/view?usp=sharing)
 
+- [B.C. flooding could be Canada's costliest disaster](https://financialpost.com/news/economy/b-c-flooding-could-be-canadas-costliest-disaster-as-cut-off-port-of-vancouver-snarls-supply-chain) -- [(pdf)](https://drive.google.com/file/d/1IUbN7nIuTCofU0ZokJTJJN3qGzrDiTbf/view?usp=sharing)
 
+- [The B.C. floods are a mere hint of what climate change could do to the food supply](https://www.macleans.ca/society/environment/the-b-c-floods-are-a-mere-hint-of-what-climate-change-could-do-to-the-food-supply/) -- [(pdf)](https://drive.google.com/file/d/105kWjsj1YeHj-rUNAKtQgzf4tlG2wfzk/view?usp=sharing)
