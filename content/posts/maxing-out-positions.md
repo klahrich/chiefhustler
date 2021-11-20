@@ -18,3 +18,11 @@ This Kuppy dude is a gangster. Simplify. Clarify your filed of vision. When you 
 He also mentions pushing chips across the table when he got the nuts. It reminded me of my poker days, when weak players would make the minimum gains when they were holding aces, because they were either not aggressive enough or they were being too fancy.
 
 I feel like [SPUT](https://finance.yahoo.com/quote/U-UN.TO?p=U-UN.TO&.tsrc=fin-srch) is an easy target. It's not going to 100-bag, but what do I care? I don't see how it could NOT double from here, in under a year. Why would anyone not push as many chips as possible on this hand?
+
+Here's another gem from Kuppy's post: "I find it (asymmetry) in those rare situations where a sector has been forgotten and left for dead—where any spark of life will lead to a multi-bagger."
+
+This is true for sectors and for individual stocks as well. An example:
+
+![gud-gp](/images/gud-gp.png)
+
+This is Knight Therapeutics, symbol [$GUD.TO](https://finance.yahoo.com/quote/GUD.TO?p=GUD.TO). This stock has been left for dead. The shareholder base was tired of waiting. But I think it'll be a big winner long-term, and I'm slowly building my position.
