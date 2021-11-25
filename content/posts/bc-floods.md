@@ -60,3 +60,16 @@ Ironically, $AEP.V surged 6% today _after_ I sold, which surprised me to be hone
 - [The B.C. floods are a mere hint of what climate change could do to the food supply](https://www.macleans.ca/society/environment/the-b-c-floods-are-a-mere-hint-of-what-climate-change-could-do-to-the-food-supply/) -- [(pdf)](https://drive.google.com/file/d/105kWjsj1YeHj-rUNAKtQgzf4tlG2wfzk/view?usp=sharing)
 
 - [As military arrives, B.C. scrambles to repair critical roadways](https://www.thestar.com/news/canada/2021/11/18/we-are-not-out-of-this-thing-by-a-long-shot-as-military-arrives-bc-scrambles-to-repair-critical-roadways-amid-fears-of-hoarding-and-more-rain.html?utm_source=Twitter&utm_medium=SocialMedia&utm_campaign=National&utm_content=bcscrambles) -- [pdf](https://drive.google.com/file/d/1koaJ0LIIvjeQgVRI69q25C96U1N5gsH1/view?usp=sharing)
+
+#### Update 2021-11-25
+
+- AEP's price has oscillated between $0.58 and $0.61 since I sold (at $0.58, fucking dummy). It seems the market is not as concerned as I am about the consequences of the flood. Or they are more confident about management's ability to navigate through it (no pun intended). Or they are thinking longer-term. 
+
+- AEP has announced a LOI to acquire another truss business in BC. Details [here](https://www.newswire.ca/news-releases/atlas-engineered-products-announces-letter-of-intent-for-british-columbia-acquisition-847808339.html). At ~5x EBITDA, doesn't look super cheap but maybe strategically attractive.
+
+- BC is still battling with the water and more rain is expected this week. I hope it won't be too bad, they are in bad situation already. 
+
+- I believe GFP's price gained about 10% so far since I added, on the back of slightly higher lumber prices. I was expecting this increase to be steeper, but the rail companies were surprisingly quick to [resume traffic](https://www.cbc.ca/news/canada/british-columbia/cn-resuming-bc-1.6259531). Kudos to them! 
+
+- The U.S. have doubled softwood duty rates on most Canadian producers. Here's an excerpt (full article [here](https://drive.google.com/file/d/1MtEkO9gW_O_BXlDDxE7Ov-uDK-WB-QK3/view?usp=sharing)):
+![duty-rates](/images/duty-rates.png)
