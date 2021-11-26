@@ -1,5 +1,5 @@
 ---
-title: "Thanks Giving 2021"
+title: "Thanksgiving 2021"
 date: 2021-11-26T11:28:47-05:00
 draft: false
 categories: ["investing"]
@@ -21,9 +21,11 @@ I'm not sure why I didn't pull the trigger. I wonder if it has something to do w
 
 Maybe I got lulled into feeling comfortable and thought insurance was unnecessary. 
 
-In any case, today most of my stocks are down anywhere from 1% to 14% in one case. I wanted to write about it because it does NOT feel good. You get to urge to just sell and run away. I'm not doing anything though, mostly because my stocks are cheap and I don't need the money right now, so I can withstand the pain. 
+In any case, today most of my stocks are down anywhere from 1% to 24% in one case ($TREP). I wanted to write about it because it does NOT feel good. You get to urge to just sell and run away. I'm not doing anything though, mostly because my stocks are cheap and I don't need the money right now, so I can withstand the pain. 
 
 Part of me also wonder why the world is freaking out about this new strain. Is it because we all thought the tough part was behind us (lockdown, travel restrictions, etc)? Most likely. I guess I should have seen it coming, and it was a matter of time before a new super-villain strain would show up.
+
+Worth noting: my wife learned about this new variant at around the same as me. In other words, I had no informational edge on her - and she does not trade or invest, and she doesn't particularly follow the news. That says a lot about me and my (lack of) process!
 
 Here a few other movements worth mentioning (I don't own any of these):
 
