@@ -19,7 +19,7 @@ I'm not sure why I didn't pull the trigger. I wonder if it has something to do w
 
 {{<twitter 1463894806413778946>}}
 
-Maybe I got lulled into feeling comfortable and thought insurance was unnecessary. 
+Maybe I got lulled into feeling comfortable and thought insurance was unnecessary. Once again, I had the right intuition, but execution was lacking.
 
 In any case, today most of my stocks are down anywhere from 1% to 24% in one case ($TREP). I wanted to write about it because it does NOT feel good. You get to urge to just sell and run away. I'm not doing anything though, mostly because my stocks are cheap and I don't need the money right now, so I can withstand the pain. 
 
