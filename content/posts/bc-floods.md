@@ -9,9 +9,9 @@ categories: ["stocks"]
 
 Looks like I was wrong on the lumber supply crunch...I confused lumber **production** with lumber **transportation**. Mid-term, once transport lines repoen, this could be turn out to be NEGATIVE for lumber prices.
 
-{<<twitter 1465404058513018881>>}
+{{<twitter 1465404058513018881>}}
 
-{<<twitter 1465365062940561408>>}
+{{<twitter 1465365062940561408>}}
 
 
 ----
