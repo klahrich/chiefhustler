@@ -5,6 +5,13 @@ draft: false
 categories: ["stocks"]
 ---
 
+#### UPDATE (2021-11-29)
+
+Looks like I was wrong on the lumber supply crunch?
+{<<twitter 1465404058513018881>>}
+
+----
+
 BC has just experienced a one-in-a-100-years flood. Major highways have been split in half and the state of emergency has been declared. Both road and railway traffic is severely compromised.
 
 Here are some pictures that suggest the extent of the damage:
