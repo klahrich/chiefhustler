@@ -7,7 +7,7 @@ categories: ["stocks"]
 
 #### UPDATE (2021-11-29)
 
-Looks like I was wrong on the lumber supply crunch?
+Looks like I was wrong on the lumber supply crunch...
 {<<twitter 1465404058513018881>>}
 
 ----
