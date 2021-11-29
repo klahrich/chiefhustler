@@ -13,6 +13,9 @@ Looks like I was wrong on the lumber supply crunch...I confused lumber **product
 
 {{<twitter 1465365062940561408>}}
 
+Still, lumber price seems to be holding up:
+
+![lumber-nov2021](/images/lumber-nov2021.png)
 
 ----
 
