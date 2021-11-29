@@ -5,7 +5,19 @@ draft: false
 categories: ["random"]
 ---
 
-UPDATE (2021-08-29): I had my first jab today. I finally caved, for one reason mainly; while I don't care about not being able to go to coffee shops or restaurants, I do care about my ability to travel. In particular, I want to take the family to visit BC before the end of the year, and [apparently](https://www.theglobeandmail.com/politics/article-trudeau-says-people-who-are-not-fully-vaccinated-will-not-be-able-to/) I'll have to be vaccinated to have the right to board on a plane. 
+####  UPDATE (2021-11-29)
+
+Omicron has arrived. It will obviously be found [everywhere](https://www.cbc.ca/news/politics/omicron-variant-canada-travellers-1.6265927).
+
+Reading what I had wrote here a few months ago, part of my reasoning was irrelevant. It doesn't matter whether the virus evolved in vaccinated or unvaccinated hosts, or more accurately, I don't know whether matters. What matters is that it WILL evolve and it is almost guaranteed that some variant will appear that trumps whatever version of the vaccine we have. 
+
+And so I think what we will realize in time is that the vaccines were a short-term solution but natural immunity will fare better long-term. This is just my personal opinion.
+
+As for me, I hope not to have to take any booster or new vaccine version. That looks to me like a stupid and unsustainable solution.
+
+#### UPDATE (2021-08-29)
+
+I had my first jab today. I finally caved, for one reason mainly; while I don't care about not being able to go to coffee shops or restaurants, I do care about my ability to travel. In particular, I want to take the family to visit BC before the end of the year, and [apparently](https://www.theglobeandmail.com/politics/article-trudeau-says-people-who-are-not-fully-vaccinated-will-not-be-able-to/) I'll have to be vaccinated to have the right to board on a plane. 
 
 My wife and I haven't see our parents for two years now, and while there was a chance that her parents were going to come visit us this year, that plan was cancelled. So I didn't have the heart to cancel BC on her as well. 
 

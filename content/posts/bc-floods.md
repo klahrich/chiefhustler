@@ -31,6 +31,8 @@ On the other hand, I think (and hope, for the people out there) that these pains
 
 So I think AEP might have a bad quarter, but it should be more than OK afterwards. I decided to take one third of my chips off the table, for now.
 
+_EDIT (2021-11-29): I should also say, part of my thinking is that the whole region has been fragilized, and any further rain or event could have even greater marginal impact._
+
  I put half of that back into $GFP.V, because of the damage to the supply-chain which will have a direct consequence on lumber supply out of the region. This coincides with the BC government's decision to [curtail logging in old-growth forest](https://www.fastmarkets.com/article/4016602/british-columbia-forest-products-industry-faces-uncertain-future-as-government-defers-millions-of-a).
 
 Looking at lumber futures, the reaction has been fairly strong already:

@@ -5,11 +5,7 @@ draft: true
 categories: ["investing"]
 ---
 
-These resource list is by no means intended to be comprehensive. These are just a few links and individual contributions I find useful and that fit my style and what I'm looking for in terms of investment content. I also focus on the free content, because I'm a cheap fuck.
-
-If you know of a resource that is not listed here but would be a nice addition, please let me know!
-
-# Insider trading
+This list is by no means intended to be comprehensive. These are just a few links that I find useful and that fit my style and what I'm looking for in terms of investment content. I also focus on free stuff, because I'm a cheap fuck.
 
 #### US
 
@@ -60,6 +56,8 @@ If you know of a resource that is not listed here but would be a nice addition, 
 - [The Investor's Podcast Network](https://www.youtube.com/c/TheInvestorsPodcastNetwork)
 
 - [Roaring Kitty](https://www.youtube.com/c/RoaringKitty)
+
+- [The Market Huddle](https://www.youtube.com/channel/UCTNgTBKATr18Z7kR32rKOBw)
 
 #### Canada
 
@@ -121,6 +119,8 @@ If you know of a resource that is not listed here but would be a nice addition, 
 
 - [TheGeneralist](https://www.readthegeneralist.com/briefings)
 
+- [Focused Compounding](https://focusedcompounding.com/)
+
 #### Canada
 
 - [Canadian Value Stocks](http://www.canadianvaluestocks.com/)
@@ -157,6 +157,8 @@ If you know of a resource that is not listed here but would be a nice addition, 
 - [The Economist](https://www.economist.com/)
 
 - [Wallstreet Journal](https://www.wsj.com/)
+
+- [Barchart](https://www.barchart.com/)
 
 # Chrome Extensions
 
