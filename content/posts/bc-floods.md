@@ -7,8 +7,12 @@ categories: ["stocks"]
 
 #### UPDATE (2021-11-29)
 
-Looks like I was wrong on the lumber supply crunch...
+Looks like I was wrong on the lumber supply crunch...I confused lumber **production** with lumber **transportation**. Mid-term, once transport lines repoen, this could be turn out to be NEGATIVE for lumber prices.
+
 {<<twitter 1465404058513018881>>}
+
+{<<twitter 1465365062940561408>>}
+
 
 ----
 
