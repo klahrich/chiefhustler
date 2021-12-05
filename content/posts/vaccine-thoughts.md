@@ -5,9 +5,9 @@ draft: false
 categories: ["random"]
 ---
 
-####  UPDATE (2021-11-29)
+####  UPDATE (2021-12-03)
 
-Omicron has arrived. It will obviously be found [everywhere](https://www.cbc.ca/news/politics/omicron-variant-canada-travellers-1.6265927).
+Omicron has arrived. It will obviously be found [everywhere](https://www.cbc.ca/news/politics/omicron-variant-canada-travellers-1.6265927). For some context, [the delta variant had two mutations in its RBD, while omicron appears to have 15](https://www.genengnews.com/virology/coronavirus/sars-cov-2-study-forecasts-emergence-of-immune-escape-variants/).
 
 Reading what I had wrote here a few months ago, part of my reasoning was irrelevant. It doesn't matter whether the virus evolved in vaccinated or unvaccinated hosts, or more accurately, I don't know whether matters. What matters is that it WILL evolve and it is almost guaranteed that some variant will appear that trumps whatever version of the vaccine we have. 
 

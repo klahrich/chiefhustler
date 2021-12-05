@@ -121,6 +121,8 @@ This list is by no means intended to be comprehensive. These are just a few link
 
 - [Focused Compounding](https://focusedcompounding.com/)
 
+- [Wallstreetbets Blog](https://wallstreetbetsreddit.blogspot.com/)
+
 #### Canada
 
 - [Canadian Value Stocks](http://www.canadianvaluestocks.com/)
@@ -159,6 +161,8 @@ This list is by no means intended to be comprehensive. These are just a few link
 - [Wallstreet Journal](https://www.wsj.com/)
 
 - [Barchart](https://www.barchart.com/)
+
+- [The New York Times](https://www.nytimes.com/ca/)
 
 # Chrome Extensions
 

@@ -29,15 +29,20 @@ googlefonts = "http://fonts.googleapis.com/css?family=Itim|Limelight"
   
 
 [params]
-mainSections = ["posts"]
+mainSections = ["posts", "posts/quotes"]
 headTitle = "Chief Hustler"
 disqusShortname = 'https-chiefhustler-com'
-disqus = "https-chiefhustler-com" # disqus account name
+#disqus = "https-chiefhustler-com" # disqus account name
 extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=G-GRYWMWK702"></script>'
 
 [[params.socials]]
 name = "Twitter"
 link = "https://twitter.com/chiefhustlr"
+
+[[params.socials]]
+name = "Quotes"
+link = "posts/quotes"
+
 postHeaderContent = "<!-- Global site tag (gtag.js) - Google Analytics --> <script async src='https://www.googletagmanager.com/gtag/js?id=G-GRYWMWK702'></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-GRYWMWK702');</script>"
 postFooterContent = "<br/><br/><p>Connect with me on [twitter](https://twitter.com/chiefhustlr)</p>"
 # extraCSSFiles = ["css/foo.css", "css/bar.css"]
