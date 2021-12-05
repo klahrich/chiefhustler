@@ -1,5 +1,5 @@
 ---
-title: "Munger Is the Boss"
+title: "Munger Is the Goat"
 date: 2021-12-05T18:30:50-05:00
 categories: ["investing"]
 ---
