@@ -93,7 +93,7 @@ Finally, whether I get the vaccine or not, I still intend to practice social dis
 
 So in this situation, and as stupid as it may seem, my decision is to wait and see.
 
-#### Initial Post
+## Initial Post
 
 _A few preliminary notes._
 
