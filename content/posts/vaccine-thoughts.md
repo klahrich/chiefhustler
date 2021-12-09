@@ -5,6 +5,30 @@ draft: false
 categories: ["random"]
 ---
 
+#### UPDATE (2021-12-09)
+
+If you've been following me and reading my crazy midnight tweets, you know I was hesitant to vaccinate initially (because of unknown risks), but I did it after some time.
+
+Today (with Omicron), unless you're high risk, I think going down the vaccine route is a mistake.
+
+Keep in mind, I don't know anything about virology.
+
+You might say, "how dare you talk about this stuff if you're not an expert", and I would argue that there are plenty (too many) non-experts pushing to vaccinate blindly, so I don't feel bad voicing a dissenting opinion.
+
+I think, and facts have now shown, that vaccines are highly specific, and highly effective when facing a variant not too different from the one they were designed for. Otherwise, their efficacy deteriorates. To be fair, they might still attenuate the severity of the illness.
+
+On the other hand, natural immunity has low specificity and low efficacy. Meaning it is not designed to fight off one virus or type of virus in particular, so it's less effective against any one of them individually, but it can adapt (if the host survives!!) to all of them, in theory.
+
+Look, again, I don't know what the optimal answer is here, but I know that life is a game of tradeoffs, which prompted me to do some [reading](https://www.rockefeller.edu/news/30919-natural-infection-versus-vaccination-differences-in-covid-antibody-responses-emerge/) on vaccine-induced vs natural antibodies.
+
+My current understanding is that vaccine-induced antibodies and memory B cells are highly specific and less adaptable than those stemming from natural infection. But, natural infection can kill you, and that's the tradeoff.
+
+And so, on the question of whether to boost or not to boost, my view is that unless someone is considered at risk (from underlying pre-conditions), boosting is not an interesting tradeoff.
+
+Here's an image that portrays the tradeoff between specifity (high specificity = low bias) and adaptability (high adaptability = low variance):
+
+![tradeoff](/images/tradeoff.png)
+
 ####  UPDATE (2021-12-03)
 
 Omicron has arrived. It will obviously be found [everywhere](https://www.cbc.ca/news/politics/omicron-variant-canada-travellers-1.6265927). For some context, [the delta variant had two mutations in its RBD, while omicron appears to have 15](https://www.genengnews.com/virology/coronavirus/sars-cov-2-study-forecasts-emergence-of-immune-escape-variants/).
