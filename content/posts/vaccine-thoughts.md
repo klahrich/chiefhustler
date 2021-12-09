@@ -5,7 +5,7 @@ draft: false
 categories: ["random"]
 ---
 
-#### UPDATE (2021-12-09)
+#### UPDATE (2021-12-09) To boost or not to boost
 
 If you've been following me and reading my crazy midnight tweets, you know I was hesitant to vaccinate initially (because of unknown risks), but I did it after some time.
 
@@ -29,9 +29,9 @@ Here's an image that portrays the tradeoff between specifity (high specificity =
 
 ![tradeoff](/images/tradeoff.png)
 
-####  UPDATE (2021-12-03)
+####  UPDATE (2021-12-03) Omicron has arrived
 
-Omicron has arrived. It will obviously be found [everywhere](https://www.cbc.ca/news/politics/omicron-variant-canada-travellers-1.6265927). For some context, [the delta variant had two mutations in its RBD, while omicron appears to have 15](https://www.genengnews.com/virology/coronavirus/sars-cov-2-study-forecasts-emergence-of-immune-escape-variants/).
+It will obviously be found [everywhere](https://www.cbc.ca/news/politics/omicron-variant-canada-travellers-1.6265927). For some context, [the delta variant had two mutations in its RBD, while omicron appears to have 15](https://www.genengnews.com/virology/coronavirus/sars-cov-2-study-forecasts-emergence-of-immune-escape-variants/).
 
 Reading what I had wrote here a few months ago, part of my reasoning was irrelevant. It doesn't matter whether the virus evolved in vaccinated or unvaccinated hosts, or more accurately, I don't know whether matters. What matters is that it WILL evolve and it is almost guaranteed that some variant will appear that trumps whatever version of the vaccine we have. 
 
@@ -39,7 +39,7 @@ And so I think what we will realize in time is that the vaccines were a short-te
 
 As for me, I hope not to have to take any booster or new vaccine version. That looks to me like a stupid and unsustainable solution.
 
-#### UPDATE (2021-08-29)
+#### UPDATE (2021-08-29) I took the jab
 
 I had my first jab today. I finally caved, for one reason mainly; while I don't care about not being able to go to coffee shops or restaurants, I do care about my ability to travel. In particular, I want to take the family to visit BC before the end of the year, and [apparently](https://www.theglobeandmail.com/politics/article-trudeau-says-people-who-are-not-fully-vaccinated-will-not-be-able-to/) I'll have to be vaccinated to have the right to board on a plane. 
 
@@ -53,7 +53,47 @@ As of today, I'm not feeling great about my decision, but what's done is done, a
 
 Below are my thoughts, prior to taking the vaccine.
 
----
+#### UPDATE (2021-08-05) Generalized decision framework under stress and uncertainty
+
+While thinking about what I wrote yesterday, I realized that what I'm looking for, maybe even more than the decision itself (this too shall pass), is a framework that I could reuse in any situation where I have to make decisions under pressure and with incomplete information.
+
+Here's the three-pronged high-level framework I'm using to make my decision in this case, and I'm hoping it'll be useful beyond the context of the pandemic.
+
+- **Known vs unknown risk:** in the case of the virus, known risk is small whether I vaccinate or not. But unknown risk is much bigger with the vaccine.
+
+- **Bayesian thinking:** assuming that both sides are equally-likely to be wrong _a priori_, and given the incentives and emotions at play, which side is more likely to be wrong _a posteriori_? Seeing how the vaccine side has basically turned into an angry mob with the politics behind them, I think they are more likely to make a judgement error (consciously or not).
+
+- **Irreversible actions:** is one of the two choices irreversible? Yes, taking the vaccine is irreversible. Waiting is not.
+
+While everything written above is very specific to the current context, I think the criteria above are reusable for any decision that invovles risk.
+
+#### UPDATE (2021-08-04) More rambling 
+
+I honestly don't know what the right thing to do is. 
+
+I don't believe that taking the vaccine comes with any significant individual risk at all, on the contrary. 
+
+But at the same time, I have found hints [here](https://www.newsweek.com/lambda-covid-variant-1000-cases-us-shows-vaccine-resistance-1615668) and [there](https://reliefweb.int/report/world/two-thirds-epidemiologists-warn-mutations-could-render-current-covid-vaccines) that the vaccine could have limited power to fight mutated versions of the virus a year or so from now, in which case I'd rather trust my body to do what the human body has been doing forever: adapt and survive. 
+
+On the other hand, [some scientists have argued](https://www.scientificamerican.com/article/the-coronavirus-variants-dont-seem-to-be-highly-variable-so-far/) that there are only so many dangerous mutations possible in the spike protein of the virus. In other words, there isn't as high a chance as we might think of immune escape.
+
+It appears there is no consensus on the subject among the scientific community. 
+
+This is a high-pressure situation where the information is incomplete and blurry. I don't have time to gather enough expertise to make the picture clearer. 
+
+If I take the vaccine, the known risk is extremely small. I will be fairly well protected against the known variants. 
+
+If I don't take the vaccine, the known risk is not as minuscule, but it's still very small. 
+
+On the other hand, I feel that the unknown risk from the vaccine is much bigger. 
+
+Moreoever, there is no ethical dilemna at play, since contrary to what many seem to believe, vaccinated people can also shed the virus and transmit it to others. Therefore they don't "protect their community" anymore than the unvaccinated.
+
+Finally, whether I get the vaccine or not, I still intend to practice social distancing and avoid crowds and indoors as much as I can. I want to get back to normal life as much as the next guy. But you know what, I'm sure the English people also wanted to go back to normal life when Hitler was bombarding them on a daily basis. Sometimes you just have to wait it out.
+
+So in this situation, and as stupid as it may seem, my decision is to wait and see.
+
+#### Initial Post
 
 _A few preliminary notes._
 
@@ -181,42 +221,3 @@ Here's a thought experiment: what if the vaccine was delivered through a pill? W
 
 I think I'd be slightly more likely to take it, but as I imagine that scenario, I still have the same question pop in my head: "How much do we not know?"
 
-## More rambling (added on 2021-08-04)
-
-I honestly don't know what the right thing to do is. 
-
-I don't believe that taking the vaccine comes with any significant individual risk at all, on the contrary. 
-
-But at the same time, I have found hints [here](https://www.newsweek.com/lambda-covid-variant-1000-cases-us-shows-vaccine-resistance-1615668) and [there](https://reliefweb.int/report/world/two-thirds-epidemiologists-warn-mutations-could-render-current-covid-vaccines) that the vaccine could have limited power to fight mutated versions of the virus a year or so from now, in which case I'd rather trust my body to do what the human body has been doing forever: adapt and survive. 
-
-On the other hand, [some scientists have argued](https://www.scientificamerican.com/article/the-coronavirus-variants-dont-seem-to-be-highly-variable-so-far/) that there are only so many dangerous mutations possible in the spike protein of the virus. In other words, there isn't as high a chance as we might think of immune escape.
-
-It appears there is no consensus on the subject among the scientific community. 
-
-This is a high-pressure situation where the information is incomplete and blurry. I don't have time to gather enough expertise to make the picture clearer. 
-
-If I take the vaccine, the known risk is extremely small. I will be fairly well protected against the known variants. 
-
-If I don't take the vaccine, the known risk is not as minuscule, but it's still very small. 
-
-On the other hand, I feel that the unknown risk from the vaccine is much bigger. 
-
-Moreoever, there is no ethical dilemna at play, since contrary to what many seem to believe, vaccinated people can also shed the virus and transmit it to others. Therefore they don't "protect their community" anymore than the unvaccinated.
-
-Finally, whether I get the vaccine or not, I still intend to practice social distancing and avoid crowds and indoors as much as I can. I want to get back to normal life as much as the next guy. But you know what, I'm sure the English people also wanted to go back to normal life when Hitler was bombarding them on a daily basis. Sometimes you just have to wait it out.
-
-So in this situation, and as stupid as it may seem, my decision is to wait and see.
-
-## Generalized decision framework under stress and uncertainty (added on 2021-08-05)
-
-While thinking about what I wrote yesterday, I realized that what I'm looking for, maybe even more than the decision itself (this too shall pass), is a framework that I could reuse in any situation where I have to make decisions under pressure and with incomplete information.
-
-Here's the three-pronged high-level framework I'm using to make my decision in this case, and I'm hoping it'll be useful beyond the context of the pandemic.
-
-- **Known vs unknown risk:** in the case of the virus, known risk is small whether I vaccinate or not. But unknown risk is much bigger with the vaccine.
-
-- **Bayesian thinking:** assuming that both sides are equally-likely to be wrong _a priori_, and given the incentives and emotions at play, which side is more likely to be wrong _a posteriori_? Seeing how the vaccine side has basically turned into an angry mob with the politics behind them, I think they are more likely to make a judgement error (consciously or not).
-
-- **Irreversible actions:** is one of the two choices irreversible? Yes, taking the vaccine is irreversible. Waiting is not.
-
-While everything written above is very specific to the current context, I think the criteria above are reusable for any decision that invovles risk.
