@@ -11,7 +11,7 @@ But tonight I yielded to the temptation. I looked. Initially I thought I'd look 
 
 Anyway, I thought I'd write down what triggered me. Because there was a trigger, and it was a combination of two or three things.
 
-First, my wife and I were looking at appartment listings, because the fucking neighbor upstairs decided that 10pm was a good time to start moving some furniture and stomping his feet on the floor. Fucking animal.
+First, my wife and I were looking at appartment listings, because the fucking neighbor upstairs decided that 10pm was a good time to start moving some furniture and stomping his feet on the floor.
 
 So I started looking at some listings, and let me tell you, renting around where I live has NOT gotten cheaper lately. With two young kids and a third on the way, we'd love to find a four-bedroom but there's not many of those at all. Even looking at the three-bedrooms, those have gotten so expensive - it's nuts!
 
