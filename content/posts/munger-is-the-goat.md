@@ -14,7 +14,7 @@ Take Constellation Software for example. Here's the P/E chart for the last 10 ye
 
 ![csu](/images/csu.png)
 
-Now I'm not saying that looking at a P/E is a good way to make investing decisions. I'm a huge fan of Constellation and Mark Leonard, but as an investment, I find it uninteresting at this price. And yet I see so many fellow fintwitters I respect who are proud to hold it at these levels. 
+Now I'm not saying that looking at a P/E is a good way to make investing decisions, and I'm not saying that $CSU.TO is a bad investment looking forward (it could be an excellent one for all I know). I'm a huge fan of Constellation and Mark Leonard, but as an investment and at this price, I'm unable to get excited about it. 
 
 Munger's thoughts on the matter are fascinating, and I want to keep them easily accessible forever. Here's what he says:
 
