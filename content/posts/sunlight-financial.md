@@ -291,11 +291,29 @@ Longer-term, I'm not too sure. I can't see a strong moat around the business at 
 
 ### Update (2021-11-04) {#update}
 
-
-As I re-read my thesis, I don't think I make a compelling case paying 15x EBITDA for a business with no discernable moat. I think it's possible to find cheaper stuff out there and that it might be preferable to otherwise stay in cash and wait.
+As I re-read my thesis, I don't think it's compelling enough to justify paying 15x EBITDA for a business with no strong moat. I think it's possible to find cheaper stuff out there and that it might be preferable to otherwise stay in cash and wait.
 
 An article on Sunlight has just been published [on SeekingAlpha](https://seekingalpha.com/article/4464943-sunlight-financial-holdings-sunl-stock-sizing-up?utm_campaign=twitter_automated&utm_content=article&utm_medium=social&utm_source=twitter_automated).
 
 It also looks like I made a mistake on the cash position, which should be $62.5M and not $110.6M, as per the [2nd quarter press release](https://ir.sunlightfinancial.com/news-events/press-releases/detail/29/sunlight-financial-reports-second-quarter-2021-results), which brings the EV/EBITDA(2021P) ratio to 16.5x.
 
 Yeah this is a speculative bet. Too expensive. I'm out.
+
+### Update (2021-12-13)
+
+Since the [Q3 earnings release](https://www.businesswire.com/news/home/20211115006290/en/), the stock has been decimated.
+
+![sunl-decimated](/images/sunl-decimated.png)
+
+I certainly dodged a bullet here. Looking at the [10Q](https://ir.sunlightfinancial.com/filings-financials/sec-filings/content/0001821850-21-000026/0001821850-21-000026.pdf), I noticed something new.
+
+![sunl-sbc](/images/sunl-sbc.png)
+
+24M in stock-based compensation, that is massive! For context, total revenue in the quarter was $30M.
+
+In all my calculations above, I was using _adjusted_ EBITDA, which excluded SBC, because it was negligible before this quarter. But now, it makes a significant difference. According to Tikr, EV/EBITDA(ltm) is a whopping 46x!
+
+The lesson here is two fold:
+
+1. Never trust adjusted EBITDA
+2. Don't invest in businesses without enough historical data

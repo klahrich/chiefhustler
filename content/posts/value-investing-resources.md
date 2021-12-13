@@ -7,6 +7,8 @@ categories: ["investing"]
 
 This list is by no means intended to be comprehensive. These are just a few links that I find useful and that fit my style and what I'm looking for in terms of investment content. I also focus on free stuff, because I'm a cheap fuck.
 
+# Insider Transactions
+
 #### US
 
 - [Bezinga](https://www.benzinga.com/sec/insider-trades/?utm_campaign=partner_feed&utm_source=yahooFinance&utm_medium=partner_feed&utm_content=site)
@@ -16,6 +18,8 @@ This list is by no means intended to be comprehensive. These are just a few link
 - [OpenInsider](http://openinsider.com/)
 
 #### Canada
+
+- [TSX Insider](https://www.tsxinsider.com/)
 
 # Superinvestors
 
