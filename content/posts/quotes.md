@@ -1,5 +1,5 @@
 ---
-title: "Quotes"
+title: "Quotes (growing)"
 date: 2021-11-21T16:58:32-05:00
 draft: false
 categories: ["random"]
