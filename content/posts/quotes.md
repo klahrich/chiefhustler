@@ -44,11 +44,11 @@ _So much time is spent rationalizing good ideas instead of waiting for great one
 _There’s no great company that can’t be turned into a bad investment, just by raising the price._<br/>
 [Charlie Munger](https://twitter.com/andrewhollingw/status/1467021174718803969)
 
-_"When you win, be grateful. When you lose, be graceful."_
+_"When you win, be grateful. When you lose, be graceful."_<br/>
 [Dustin Poirier](https://youtu.be/t9AwgL8AIo4?t=1255)
 
-_"The line between success and failure is pretty thin."_
+_"The line between success and failure is pretty thin."_<br/>
 [Howard Jonas, according to Joe Boskovich](https://www.youtube.com/watch?v=eBzC9GoB-xc)
 
-_"It seems like you just picked a stock. But did you really pick it, or did you passively end up with it, because it's the one that was spread around the most?"_
+_"It seems like you just picked a stock. But did you really pick it, or did you passively end up with it, because it's the one that was spread around the most?"_<br/>
 [Focused Compounding - 2021 Post Mortem](https://www.youtube.com/watch?v=m35811pWxh4)
