@@ -38,15 +38,15 @@ disqusShortname = 'https-chiefhustler-com'
 extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=G-GRYWMWK702"></script>'
 
 [[params.socials]]
-name = "Quotes"
+name = "| Quotes "
 link = "/posts/quotes"
 
 [[params.socials]]
-name = "Crazyland"
+name = "| Crazyland "
 link = "/categories/crazy/"
 
 [[params.socials]]
-name = "Twitter"
+name = "| Twitter "
 link = "https://twitter.com/chiefhustlr"
 
 postHeaderContent = "<!-- Global site tag (gtag.js) - Google Analytics --> <script async src='https://www.googletagmanager.com/gtag/js?id=G-GRYWMWK702'></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-GRYWMWK702');</script>"
