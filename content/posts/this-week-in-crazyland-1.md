@@ -2,6 +2,7 @@
 title: "This Week in Crazyland #1"
 date: 2021-11-30T14:45:36-05:00
 draft: false
+categories: ["crazy"]
 ---
 
 ## The old "my boyfriend was abusing me" trick.

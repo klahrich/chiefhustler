@@ -42,6 +42,10 @@ name = "Quotes"
 link = "/posts/quotes"
 
 [[params.socials]]
+name = "Crazyland"
+link = "/categories/crazy/"
+
+[[params.socials]]
 name = "Twitter"
 link = "https://twitter.com/chiefhustlr"
 

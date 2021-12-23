@@ -1,7 +1,8 @@
 ---
 title: "This Week in Crazyland 2"
 date: 2021-12-19T21:37:59-05:00
-draft: true
+draft: false
+categories: ["crazy"]
 ---
 
 ## No gatherings for households with unvaccinated people
