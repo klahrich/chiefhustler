@@ -6,7 +6,7 @@ draft: true
 
 ### _Preamble_
 
-_This a "study" and not a deep dive. Deep dives typically are bullish, whereas I'm just trying to think about this play. I bought some shares already but I could change my mind (more on this below)._
+_This a "study" and not a deep dive. Deep dives typically are bullish, whereas I'm just trying to think about this position. I bought some shares already but I could change my mind (more on this below)._
 
 _Before we get started, just a quick reminder that I'm not an MD. In fact everything written here, I learned it in the past week, so I'm not an expert by any stretch of the imagination. You know the drill: do your own DD, etc._
 
@@ -38,4 +38,13 @@ Moreover, the pandemic-induced overload in hospitals and medical facilities has 
 
 Finally, the CMS will introduce a pilot program in January 2022  to replace the fee-for-service schedule for oncology radiotherapy by an episode-based (bundle) payment system, that also evaluates quality of outcome. This will likely alleviate alleviate the disincentive problem for brachytherapy.
 
+### 
 
+
+Questions
+- backlog of cancer treatments, how's 2022 looking?
+- wtf is wrong with stock price?
+- are you getting any buy out offers
+
+https://breakingintowallstreet.com/kb/equity-value-enterprise-value/negative-enterprise-value/
+https://blogs.cfainstitute.org/investor/2013/07/10/returns-on-negative-enterprise-value-stocks-money-for-nothing/

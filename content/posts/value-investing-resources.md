@@ -89,6 +89,8 @@ This list is by no means intended to be comprehensive. These are just a few link
 
 - [EspaceMC](https://discussion.espacemc.com/) (french)
 
+- [Stockchase](https://stockchase.com/)
+
 #### US
 
 - [VIC](https://www.valueinvestorsclub.com/ideas)
@@ -126,6 +128,8 @@ This list is by no means intended to be comprehensive. These are just a few link
 - [Focused Compounding](https://focusedcompounding.com/)
 
 - [Wallstreetbets Blog](https://wallstreetbetsreddit.blogspot.com/)
+
+- [CFA Institute's blog](https://blogs.cfainstitute.org/investor/)
 
 #### Canada
 
