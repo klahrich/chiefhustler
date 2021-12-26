@@ -90,5 +90,8 @@ _Nobody in 1914 feared war enough._<br/>
 <br/><br/>
 
 _I identify as Michael Jackson. My pronouns are hee hee._<br/>
-[Heard on a Twitter Space, on the topic of gender fluidity and chosen pronouns]
+[Heard on a Twitter Space]
 <br/><br/>
+
+_We must all suffer from one of two pains: the pain of discipline or the pain of regret._<br/>
+[Jim Rohn](https://www.jimrohn.com/)
