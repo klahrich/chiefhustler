@@ -90,5 +90,5 @@ _Nobody in 1914 feared war enough._<br/>
 <br/><br/>
 
 _I identify as Michael Jackson. My pronouns are hee hee._<br/>
-[Heard on a Twitter Space, on the topic of gender and chosen pronouns]
+[Heard on a Twitter Space, on the topic of gender fluidity and chosen pronouns]
 <br/><br/>
