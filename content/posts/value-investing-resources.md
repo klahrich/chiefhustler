@@ -41,7 +41,7 @@ This list is by no means intended to be comprehensive. These are just a few link
 
 - [Dumb Money LIVE](https://www.youtube.com/c/DumbMoneyLIVE)
 
-- [Yen Liow](https://www.youtube.com/channel/UC0IGb2ivJ9LCcKAlnMCqPjw/videos)
+- [Yen Liow](https://www.youtube.com/channel/UC0IGb2ivJ9LCcKAlnMCqPjw/)
 
 - [Stock Compounder - Brad Kaellner](https://www.youtube.com/c/BradKaellner)
 
@@ -63,6 +63,8 @@ This list is by no means intended to be comprehensive. These are just a few link
 
 - [The Market Huddle](https://www.youtube.com/channel/UCTNgTBKATr18Z7kR32rKOBw)
 
+- [Focused Compounding](https://www.youtube.com/c/FocusedCompounding)
+
 #### Canada
 
 - [Smallcap Discoveries](https://www.youtube.com/channel/UCwNqaXGAi7t2xtcBIgcTP-A)
@@ -78,6 +80,32 @@ This list is by no means intended to be comprehensive. These are just a few link
 - [Crux Investor](https://www.youtube.com/c/CRUXInvestor)
 
 - [Money,eh ?](https://www.youtube.com/channel/UCkXc0xSOt4p1KUbGxSZllvw/videos)
+
+# Pocasts
+
+- [Masters in Business](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vQkxNODg2NDQwMzI4OA?sa=X&ved=0CAMQ4aUDahcKEwjY0-Oe0vz0AhUAAAAAHQAAAAAQAQ)
+
+- [The DIY Investing Podcast](https://open.spotify.com/show/37ix9ppkuA1USd2QUZJUEy)
+
+- [Planet MicroCap Podcast](https://open.spotify.com/show/3MqD3Mg8PkziOenHF9p6f4)
+
+- [Investing by the Books](https://open.spotify.com/show/06cmbUqsVNkhvZWxXqkpMZ)
+
+- [CO/nversations](https://open.spotify.com/show/3cfeneJaV9P3ngWUxb6PLD)
+
+- [The Acquirers Podcast](https://open.spotify.com/show/4XKvjmFiZLxWZ58vBfT4v9)
+
+- [After Dinner Investor](https://open.spotify.com/show/0CNgrWDBJYvFoayTAhYQtJ)
+
+- [Due Diligence by Doc Jones](https://open.spotify.com/show/7FZkrCkXQqHPLcGiSJVGb8)
+
+- [Focused Compounding](https://open.spotify.com/show/7cRZcoh8fO0uJ9lwruKf4b)
+
+- [The Investor's Podcast](https://open.spotify.com/show/28RHOkXkuHuotUrkCdvlOP)
+
+- [YAVB](https://open.spotify.com/show/6ayjINs27LKDJTJjnph7zF)
+
+- [Bloomberg Podcasts](https://www.bloomberg.com/podcasts)
 
 # Forums
 
@@ -130,6 +158,8 @@ This list is by no means intended to be comprehensive. These are just a few link
 - [Wallstreetbets Blog](https://wallstreetbetsreddit.blogspot.com/)
 
 - [CFA Institute's blog](https://blogs.cfainstitute.org/investor/)
+
+- [Cove Street Capital](http://covestreetcapital.com/thoughts/)
 
 #### Canada
 
