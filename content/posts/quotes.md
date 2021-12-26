@@ -77,7 +77,11 @@ _Are you quite sure? It would be a pity to be wrong._<br/>
 [Winston Churchill, recalling the possibility of war between France and Germany](https://winstonchurchill.org/resources/quotes/famous-quotations-and-stories/)
 <br/><br/>
 
-_Ironically, it’s the suckiness of this industry that makes it attractive to invest in. It’s not good enough to have a shot gun approach and invest in everything, and it’s not good enough to buy “quality” after people have determined something to be of “quality”.   Asset selection and timing is 90% of the game (the other 10% is making sure management doesn’t screw it up)._<br/>
+_Ironically, it’s the suckiness of this industry that makes it attractive to invest in._<br/>
+[Akiba Leisman, CEO of Mako Mining](https://ceo.ca/@akibaleisman?0e4b0173fe8e)
+<br/><br/>
+
+ _Asset selection and timing is 90% of the game (the other 10% is making sure management doesn’t screw it up)._<br/>
 [Akiba Leisman, CEO of Mako Mining](https://ceo.ca/@akibaleisman?0e4b0173fe8e)
 <br/><br/>
 
