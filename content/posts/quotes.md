@@ -89,7 +89,7 @@ _Nobody in 1914 feared war enough._<br/>
 [How Europe Went to War in 1914](https://www.youtube.com/watch?v=5hv4HfLQGlw)
 <br/><br/>
 
-_I identify as Michael Jackson. My pronouns are hee hee._<br/>
+_I identify as Michael Jackson. My pronouns are hee hee!_<br/>
 [Heard on a Twitter Space]
 <br/><br/>
 
