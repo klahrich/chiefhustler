@@ -81,4 +81,4 @@ categories: ["investing"]
 
 - Growth with a moat: $PNG.V
 
-Be sure to treat each stock according to the category it belongs to (sizing, holding period, price paid, tax vs non-tax account, etc.)
+Be sure to treat each stock according to the category it belongs to (timing, sizing, holding period, price paid, tax vs non-tax account, etc.)
