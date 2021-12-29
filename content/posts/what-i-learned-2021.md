@@ -41,6 +41,9 @@ categories: ["investing"]
 
 - Having an explicit investing checklist is an easy way to avoid stupid decisions. See chapter 11 of [Guy Spier's book](https://www.amazon.ca/Education-Value-Investor-Transformative-Enlightenment/dp/1137278811).
 
+- Finally, as Michael Mauboussin said in [Think Twice](https://www.amazon.ca/Think-Twice-Harnessing-Power-Counterintuition/dp/1422187381): "In a probabilistic environment, you are better aerved by focusing on the process by which you make a decision than on the outcome". Attachement to the outcome will create an attachement to the emotions linked to the outcome, and you will be led by these emotions instead of your rational mind.
+
+
 ### Be an expert or be cheap
 
 - Listen to [this lecture](https://www.youtube.com/watch?v=zejLc-vAx0E&t=4231s) on Value Investing by Bruce Greenwald, and then listen to [this series](https://www.youtube.com/watch?v=NG_BdWV-S4w&list=PLIR4XkMl-oZAz3T7V8GCzqoNxDX-sGdeh) of lectures from 2010 (awful image quality, but worth it). Read & listen to everything from Joel Greenblatt and Tobias Carlisle.
