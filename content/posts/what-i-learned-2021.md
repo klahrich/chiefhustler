@@ -51,6 +51,8 @@ categories: ["investing"]
 
 - Even if you pay a cheap price, do your diligence: read the most recent 10K and three 10Qs, read the 10Ks of the last 7 years, read the recent 10Ks of competitors, research the management, look for write-ups or other value investors opinions, etc.
 
+- Diversification is a hedge against your own ignorance and your strategy there should be a direct consequence of where you stand on expertise vs cheapness.
+
 ### Play your own game
 
 - It's OK to source ideas from other people, but you don't know what game they're playing.
