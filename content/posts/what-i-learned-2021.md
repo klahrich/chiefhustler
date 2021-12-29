@@ -68,7 +68,7 @@ categories: ["investing"]
 
 - Think about the game you want to play (hint: long-term games are more interesting and rewarding). Use a relevant metric to track your progress (hint #2: the best metric for you depends on the game you choose to play).
 
-### Categories of investments (inspired by Mohnish Pabrai)
+### Categories of investments I'm interested in (inspired by Mohnish Pabrai)
 
 - Good business with a good leader and good tailwinds: $AEP.V, $EMO.V
 
