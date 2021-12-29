@@ -45,11 +45,13 @@ This list is by no means intended to be comprehensive. These are just a few link
 
 - [Stock Compounder - Brad Kaellner](https://www.youtube.com/c/BradKaellner)
 
-- [Good Investing Talks](https://www.youtube.com/c/GoodInvestingTalks/videos)
+- [Good Investing Talks](https://www.youtube.com/c/GoodInvestingTalks/)
 
-- [MicroCapClub](https://www.youtube.com/c/MicroCapClubcom/videos)
+- [MicroCapClub](https://www.youtube.com/c/MicroCapClubcom/)
 
-- [Investing Wisdom](https://www.youtube.com/channel/UCGzngs7aWnyJiOGLWRlRpnQ/videos)
+- [SNN Network](https://www.youtube.com/channel/UCZLIt722xmGPXAqTafNnM3w)
+
+- [Investing Wisdom](https://www.youtube.com/channel/UCGzngs7aWnyJiOGLWRlRpnQ/)
 
 - [The Swedish Investor](https://www.youtube.com/c/TheSwedishInvestor/videos)
 
