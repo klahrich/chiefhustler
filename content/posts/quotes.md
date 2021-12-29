@@ -100,3 +100,7 @@ _We must all suffer from one of two pains: the pain of discipline or the pain of
 _Once the mind has accepted a plausible explanation for something, it becomes a framework for all the information that is perceived after it. We’re drawn, subconsciously, to fit and contort all the subsequent knowledge we receive into our framework, whether it fits or not._<br/>
 [Ryan Holiday in Trust Me, I'm Lying](https://www.amazon.ca/Trust-Me-Lying-Confessions-Manipulator/dp/B07RMCR2WQ/ref=sr_1_1?crid=3GC4O0Q8P5SKR&keywords=Trust+Me%2C+I%27m+Lying&qid=1640756088&sprefix=trust+me%2C+i%27m+lying%2Caps%2C70&sr=8-1)
 <br/><br/>
+
+_Inception shows that while we may never objectively know the reality beyond our perception, we can find security in the sharing of our subjective worlds; in the mutual agreement on what is real._<br/>
+[The Metaphysics of Inception](https://www.youtube.com/watch?v=a_N9ViJubwM&t=988s)
+<br/><br/>
