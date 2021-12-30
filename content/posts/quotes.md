@@ -108,3 +108,7 @@ _While we may never objectively know the reality beyond our perception, we can f
 _In a probabilistic environment, you are better aerved by focusing on the process by which you make a decision than on the outcome._<br/>
 [Michael Mauboussin, in Think Twice](https://www.amazon.ca/Think-Twice-Harnessing-Power-Counterintuition/dp/1422187381)
 <br/><br/>
+
+_No contract, no amount, no price will ever save you from a dodgy person._<br/>
+[Yen Liow on Equity Mates Podcast](https://www.youtube.com/watch?v=Ei03z7-aIJg&t=1890s)
+<br/><br/>
