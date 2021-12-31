@@ -5,7 +5,7 @@ draft: true
 categories: ["investing"]
 ---
 
-This list is by no means intended to be comprehensive. These are just a few links that I find useful and that fit my style and what I'm looking for in terms of investment content. I also focus on free stuff, because I'm a cheap fuck.
+This list is by no means intended to be comprehensive, and it will most likely grow with time. These are just a few links that I find useful and that fit my style and what I'm looking for in terms of investment content. I also focus on the free stuff, because I'm a cheap fuck.
 
 # Insider Transactions
 
@@ -16,6 +16,8 @@ This list is by no means intended to be comprehensive. These are just a few link
 - [Tipranks](https://www.tipranks.com/inside-trading)
 
 - [OpenInsider](http://openinsider.com/)
+
+- [InsiderTrades](https://www.insidertrades.com/)
 
 #### Canada
 
@@ -109,6 +111,8 @@ This list is by no means intended to be comprehensive. These are just a few link
 
 - [Bloomberg Podcasts](https://www.bloomberg.com/podcasts)
 
+- [The Business Brew](https://open.spotify.com/show/5OXBdcyxYWOEcN8Y2aO6v9)
+
 # Forums
 
 #### Canada
@@ -166,6 +170,8 @@ This list is by no means intended to be comprehensive. These are just a few link
 #### Canada
 
 - [Canadian Value Stocks](http://www.canadianvaluestocks.com/)
+
+- [Margin of Safety Investing](https://www.marginofsafetyinvesting.com/)
 
 # Aggregators
 

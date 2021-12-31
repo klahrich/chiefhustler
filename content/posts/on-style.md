@@ -16,3 +16,5 @@ If we zoom out a bit, the tension I'm feeling is related to the eternal fight be
 
 At this early stage of my investing career, I want to remain fluid, flexible and open-minded. While some investments might look expensive based on current financials, I want to include in my universe those of them that have particularly interesting jokeys on top of a moaty, scaleable and growing business with strong tailwinds. 
 
+{{<twitter 1221790403730362370>}}
+

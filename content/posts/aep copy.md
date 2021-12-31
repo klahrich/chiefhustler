@@ -94,7 +94,12 @@ AEP has identified under-utilized manufacturing assets across the group and will
 
 ### ZyTech Building Systems
 
-January 18, 2021. Langle, Lower Mainland, BC. Acquisition cost = $958,160
+January 18, 2021. Langle, Lower Mainland, BC. Acquisition cost = $958,160.
+
+The equipment will be installed at the Company's Novum and Atlas Building Systems locations starting in Q1 2021.
+AEP will be completing several supply contracts for a number of ZyTech's clients.
+
+
 
 
 As of Nov 2017 (RTO):
