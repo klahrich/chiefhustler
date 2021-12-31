@@ -1,7 +1,8 @@
 ---
 title: "Post Mortem 2021"
 date: 2021-12-30T19:02:24-05:00
-draft: true
+draft: false
+categories: ["portfolio"]
 ---
 
 ### Performance

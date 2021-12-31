@@ -6,7 +6,16 @@
     <description>Recent content in Categories on The Chief&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Dec 2021 12:07:31 -0500</lastBuildDate><atom:link href="https://chiefhustler.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Dec 2021 19:02:24 -0500</lastBuildDate><atom:link href="https://chiefhustler.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>portfolio</title>
+      <link>https://chiefhustler.com/categories/portfolio/</link>
+      <pubDate>Thu, 30 Dec 2021 19:02:24 -0500</pubDate>
+      
+      <guid>https://chiefhustler.com/categories/portfolio/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>investing</title>
       <link>https://chiefhustler.com/categories/investing/</link>
@@ -49,15 +58,6 @@
       <pubDate>Fri, 19 Nov 2021 18:52:11 -0500</pubDate>
       
       <guid>https://chiefhustler.com/categories/stocks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>portfolio</title>
-      <link>https://chiefhustler.com/categories/portfolio/</link>
-      <pubDate>Sat, 30 Oct 2021 11:09:37 -0400</pubDate>
-      
-      <guid>https://chiefhustler.com/categories/portfolio/</guid>
       <description></description>
     </item>
     
