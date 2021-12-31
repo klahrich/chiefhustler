@@ -71,7 +71,7 @@ But the point is that I have three levers at my disposal to reach freedom:
 
 ### Plan for 2022
 
-I'm looking to increase my cash position as I'm feeling uneasy about the global situation coming out of covid (should we finally come out of it). I feel that there's a crisis of meaning that has been brewing for some time in the U.S., which could coincide with a worldwide energy crisis, mistimed interest rate hikes, tensions with China, etc. I tend to fall a bit on the paranoid side, so I don't take all this too seriously, it's just some stuff I want to keep an eye on if I can, and maybe there are some 2nd-level implications I can think through.
+I'm looking to increase my cash position as I'm feeling uneasy about the global situation coming out of covid (should we finally come out of it). I feel that there's a crisis of meaning that has been brewing for some time in the West, which could coincide with a worldwide energy crisis, mistimed interest rate hikes, tensions with China, etc. I tend to fall a bit on the paranoid side, so I don't take all this too seriously, it's just some stuff I want to keep an eye on if I can, and maybe there are some 2nd-level implications I can think through.
 
 On a more positive note, I want to focus on two specific investment categories in 2022: compounders and disruptors. I have enough macro-driven stocks, cheap turn-arounds and other random stuff.
 
