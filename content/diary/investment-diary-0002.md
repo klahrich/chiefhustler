@@ -44,7 +44,7 @@ I bought shares of Semler last week. I do this frequently (blindly cloning someo
 
 ### Worth mentioning
 
-During last quarter's conference call, Semler reported that they have signed their first customer for a new software product of theirs. Without further information, I think this will be a wait and see for me.
+During last quarter's conference call, Semler reported that they have signed their first customer for a new software product of theirs. While interesting, without further information, this remains a wait and see for me.
 
 ### Writeups
 
