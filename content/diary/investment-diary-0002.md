@@ -3,6 +3,7 @@ title: "Investment Diary #2: $SMLR"
 date: 2022-01-04T21:11:58-05:00
 draft: false
 categories: ["diary"]
+type: "diary"
 ---
 
 ### The bull argument
