@@ -125,6 +125,8 @@ This list is by no means intended to be comprehensive, and it will most likely g
 
 - [Stockchase](https://stockchase.com/)
 
+- [Canadian Money Forum](https://www.canadianmoneyforum.com/)
+
 #### US
 
 - [VIC](https://www.valueinvestorsclub.com/ideas)

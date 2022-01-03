@@ -31,11 +31,16 @@ googlefonts = "http://fonts.googleapis.com/css?family=Itim|Limelight"
   
 
 [params]
-mainSections = ["posts", "posts/quotes"]
+mainSections = ["posts", "diary"]
+
 headTitle = "Chief Hustler"
 disqusShortname = 'https-chiefhustler-com'
 #disqus = "https-chiefhustler-com" # disqus account name
 extraHead = "<!-- Global site tag (gtag.js) - Google Analytics --> <script async src='https://www.googletagmanager.com/gtag/js?id=G-4R1BEBSNLV'></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-4R1BEBSNLV');</script>"
+
+[[params.socials]]
+name = "| Investment Diary "
+link = "/diary/"
 
 [[params.socials]]
 name = "| Resources "
