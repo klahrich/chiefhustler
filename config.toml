@@ -54,10 +54,6 @@ link = "/posts/quotes"
 name = "| Crazyland "
 link = "/categories/crazyland/"
 
-[[params.socials]]
-name = "| Twitter "
-link = "https://twitter.com/chiefhustlr"
-
 postHeaderContent = ""
 postFooterContent = "<br/><br/><p>Connect with me on [twitter](https://twitter.com/chiefhustlr)</p>"
 # extraCSSFiles = ["css/foo.css", "css/bar.css"]
