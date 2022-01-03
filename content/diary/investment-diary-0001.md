@@ -1,5 +1,5 @@
 ---
-title: "Investment Diary #1: $TPL and $PSK"
+title: "Investing Diary #1: $TPL and $PSK"
 date: 2022-01-03T07:28:26-05:00
 draft: false
 categories: ["diary"]
