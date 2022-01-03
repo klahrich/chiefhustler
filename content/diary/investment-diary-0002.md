@@ -42,7 +42,7 @@ In other words, I'm unable to assess the durability of the moat. It might be str
 
 I bought shares of Semler last week. I do this frequently (blindly cloning someone I admire) to "start the clock" and force myself to quickly dig deeper into an idea. But unless I can find a way to gain further insight into the moat, I will most likely exit in the coming days.
 
-### Caveat
+### Worth mentioning
 
 During last quarter's conference call, Semler reported that they have signed their first customer for a new software product of theirs. Without further information, I think this will be a wait and see for me.
 
