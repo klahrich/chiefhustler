@@ -38,9 +38,9 @@ This is a MedTech business, and I have almost no hope of being able to understan
 
 For example, FlowMet-R is another noninvasive portable device from Laser Associated Sciences (LAS), a medical device company based in Irvine, California, that detects PAD, and it was granted FDA 510(k) clearance in October 2019. I found [an article](https://www.sciencedirect.com/science/article/pii/S1051044320307727) on this device that seems to imply an accuracy similar to QuantaFlow.
 
-In other words, I'm unable to assess the durability of the moat. It might be stronger than I think, and maybe part of it is the relationships with the healthcare practitioners and insurance companies, but I really have no way of double checking that.
+In other words, I'm unable to assess the durability of the moat. It might be stronger than I think, and maybe part of it is the relationships with the healthcare practitioners and insurance companies, but I have no way of double checking that. Someone else might.
 
-I bought shares of Semler last week. I do this frequently (blindly cloning someone I admire) to "start the clock" if you will and force myself to quickly dig deeper into an idea. But unless I can find a way to gain an insight into the moat, I will most likely exit in the coming days.
+I bought shares of Semler last week. I do this frequently (blindly cloning someone I admire) to "start the clock" and force myself to quickly dig deeper into an idea. But unless I can find a way to gain further insight into the moat, I will most likely exit in the coming days.
 
 ### Writeups
 
