@@ -18,5 +18,5 @@ I also think that you, fellow investor, will benefit from having access to all m
 
 I will be freely publishing these diary entries on a daily basis for a full year, and I hope it will encourage you to follow along and push yourself to learn something new as well, every day.
 
-Please note that I have no interest in sharing "hidden gems" with the world. If that's what you're looking for, there plenty of better places. I'm here to grow not only as an investor, but also as a thinker, and to a certain degree as a human being. If you share that desire, LFG!
+Please note that I have no interest in sharing "hidden gems" or investing advice with the world. If that's what you're looking for, there plenty of better places. I'm here to grow not only as an investor, but also as a thinker, and to a certain degree as a human being. If you share that desire, LFG!
 
