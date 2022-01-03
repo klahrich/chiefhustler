@@ -34,17 +34,20 @@ According to Yen, Semler has penetrated less than 5% of its target market for Qu
 
 ### What makes me hesitate
 
-This is a MedTech business, and I have almost no hope of being able to understand in depth how their gizmo works, or assess whether some genius is likely to wake up one day and find a way to make another gizmo that would be even faster and cheaper. Technological obsolescence is the risk here.
+This is a MedTech business, and I have almost no hope of being able to understand in depth how their gizmo works, or assess whether some genius is likely to wake up one day and find a way to make another one that would be even faster and cheaper. Technological obsolescence is a real risk.
 
-For example, FlowMet-R is another noninvasive portable device from Laser Associated Sciences (LAS), a medical device company based in Irvine, California, that detects PAD, and it was granted FDA 510(k) clearance in October 2019. I found [an article](https://www.sciencedirect.com/science/article/pii/S1051044320307727) on this device that seems to imply an accuracy similar to QuantaFlow.
+For example, FlowMet-R is another noninvasive portable device from Laser Associated Sciences (LAS), a medical device company based in Irvine, California, that detects PAD, and it was granted FDA 510(k) clearance in October 2019. I found [an article](https://www.sciencedirect.com/science/article/pii/S1051044320307727) on this device that seems to imply a similar accuracy to QuantaFlow.
 
-In other words, I'm unable to assess the durability of the moat. It might be stronger than I think, and maybe part of it is the relationships with the healthcare practitioners and insurance companies, but I have no way of double checking that. Someone else might.
+In other words, I'm unable to assess the durability of the moat. It might be stronger than I think, and maybe part of it is the relationships with the healthcare practitioners and insurance companies, but I currently have no visibility on that.
 
-I bought shares of Semler last week. I do this frequently (blindly cloning someone I admire) to "start the clock" and force myself to quickly dig deeper into an idea. But unless I can find a way to gain further insight into the moat, I will most likely exit in the coming days.
+Questions I will try to answer in the short-term:
 
-### Worth mentioning
+- Who are Semler's customers and why are the top-2 so big?
+- Are there switching costs for Semler's customers?
+- Are there other incentives for these customers to stay with Semler?
+- Does Semler have any "secret sauce" that does not rely on its technology?
 
-During last quarter's conference call, Semler reported that they have signed their first customer for a new software product of theirs. While interesting, without further information, this remains a wait and see for me.
+For now, Semler will remain on my active watchlist, meaning I will keep researching the name. I'm also interested in seeing whether the growth resumes in the next quarter, and how their 2nd product performs (they announced that they just launched it during last quarter's conference call).
 
 ### Writeups
 
