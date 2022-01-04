@@ -19,9 +19,13 @@ This list is by no means intended to be comprehensive, and it will most likely g
 
 - [InsiderTrades](https://www.insidertrades.com/)
 
+- [Sedi](https://www.sedi.ca/sedi/SVTItdController) (if you're curious about a specific company)
+
 #### Canada
 
 - [TSX Insider](https://www.tsxinsider.com/)
+
+- [Canadian Insider](https://www.canadianinsider.com/)
 
 # Superinvestors
 
