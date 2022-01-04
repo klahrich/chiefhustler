@@ -1,7 +1,7 @@
 ---
 title: "Resources for Value Investors"
 date: 2021-11-12T19:29:21-05:00
-draft: true
+draft: false
 categories: ["investing"]
 ---
 
