@@ -1,10 +1,12 @@
 ---
-title: "Investing Diary #1: $TPL and $PSK"
+title: "Investing Diary - Issue #1: Texas Pacific Land Corp"
 date: 2022-01-03T07:28:26-05:00
 draft: false
 categories: ["diary"]
 type: "diary"
 ---
+
+![tpl](/images/tpl.jpg)
 
 ### TPL
 
@@ -23,6 +25,10 @@ Funny enough, I had purchased $TPL a few months ago as a blind clone of Chris Ma
 I am interested again, but this time, I want to understand the business.
 
 Worth mentioning, there seems to be some shareholder discontent with the board: see [this tweet](https://twitter.com/mailboxmoney6/status/1473390354317471745), [that one](https://twitter.com/ATG_Capital/status/1470782451794522119), and [yet another](https://twitter.com/ATG_Capital/status/1472587133726515203). Something to look into.
+
+Interesting write-ups:
+
+- [Retail Bull](https://www.retailbull.co.uk/blog/tpl-what-the-analysts-are-missing)
 
 ### PSK
 
