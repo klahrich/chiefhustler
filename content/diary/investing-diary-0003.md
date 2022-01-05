@@ -32,7 +32,7 @@ Under the partnership, WildBrain’s leading AVOD network and digital studio, Wi
 
 Spark is the hidden gem in this company, but I'll come back to this.
 
-Let's look at a few financial metrics first.
+Let's look at a few financial metrics first (note: these are taken from Koyfin).
 
 Here are the historical revenues:
 
