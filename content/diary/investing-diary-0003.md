@@ -1,7 +1,7 @@
 ---
 title: "Investing Diary - Issue #3: Loyalty Ventures Inc"
 date: 2022-01-04T10:22:45-05:00
-draft: true
+draft: false
 categories: ["diary"]
 type: "diary"
 ---
