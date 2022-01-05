@@ -6,6 +6,8 @@ categories: ["diary"]
 type: "diary"
 ---
 
+![wildbrain](/images/wildbrain.jpg)
+
 _**Disclaimer**: I own shares of this company. None of this is investment advice. I do not know your particular situation and I am not qualified to give you advice. Please do your own due diligence._
 
 This will probably be the first in a series of posts on WildBrain. My goal here is just to give a taste of what I like about the company, but there's much more to the story.
