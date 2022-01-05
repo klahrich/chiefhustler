@@ -54,7 +54,10 @@ The drop in 2020Q1 is explained by the following (excerpt from the company's [10
 
 <blockquote>
 
-WildBrain Spark’s viewership continues to grow, however as a result of changes made by YouTube in January 2020 to eliminate targeted advertising on kids' content, we are experiencing downward pressure on advertising rates in the near-term.<br/>
+WildBrain Spark’s viewership continues to grow, however as a result of changes made by YouTube in January 2020 to eliminate targeted advertising on kids' content, we are experiencing downward pressure on advertising rates in the near-term.
+
+<br/>
+<br/>
 
 In January 2020, YouTube introduced new rules and policies on 'Made for Kids' content, including how that content is managed and monetized, and the features available or limited on that content. We expect these changes will create a more positive environment, and ultimately, improved monetization, as a result of the curated environment, which will reward quality content. We are ideally positioned to benefit from this change. Advertising will continue to be sold based on the content itself ("contextual advertising"). This is similar to the advertising model for linear TV in which we have considerable experience.
 
