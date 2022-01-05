@@ -1,7 +1,7 @@
 ---
 title: "Investing Diary - Issue #4: WildBrain"
 date: 2022-01-04T00:39:38-05:00
-draft: true
+draft: false
 categories: ["diary"]
 type: "diary"
 ---
