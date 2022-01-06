@@ -1,7 +1,9 @@
 ---
 title: "Investing Diary - Issue #6: Oil and Gas"
 date: 2022-01-06T04:04:15-05:00
-draft: true
+draft: false
+categories: ["diary"]
+type: "diary"
 ---
 
 ![oil-and-gas](/images/oil-and-gas.png)
@@ -40,13 +42,13 @@ Actually, yes, there are some people who might deny, and God bless their souls f
 
 Now, I said that oil is within my grasp. But no particular company is. In other words, I am sure oil will do very well in 2022, but I'd be hard-pressed to pinpoint which companies will outperform relative to the others.
 
-So how can we put this sudden realization to use?
+So how can I implement the bet?
 
-We could buy an ETF with energy exposure, such as the [Horizons Crude Oil ETF](https://finance.yahoo.com/quote/HUC.TO?p=HUC.TO&.tsrc=fin-srch), the [BMO S&P/TSX Equal Weight Oil and Gas ETF](https://finance.yahoo.com/quote/ZEO.TO?p=ZEO.TO&.tsrc=fin-srch) or the [Horizons S&P/TSX Capped Energy Index ETF](https://finance.yahoo.com/quote/HXE.TO?p=HXE.TO&.tsrc=fin-srch). That's a totally fine idea.
+I could buy an ETF with energy exposure, such as the [Horizons Crude Oil ETF](https://finance.yahoo.com/quote/HUC.TO?p=HUC.TO&.tsrc=fin-srch), the [BMO S&P/TSX Equal Weight Oil and Gas ETF](https://finance.yahoo.com/quote/ZEO.TO?p=ZEO.TO&.tsrc=fin-srch) or the [Horizons S&P/TSX Capped Energy Index ETF](https://finance.yahoo.com/quote/HXE.TO?p=HXE.TO&.tsrc=fin-srch). That's a totally fine idea.
 
 Another way to do it is to figure out who is an expert on this sector, and clone them. We live in an era where information is exchanged freely and openly at an unbelievable rate. All we hav eto do is pay attention.
 
-When it comes to energy, I have identified a few individuals that know what they're talking about. They're not that hard to spot. Two of these (but there are more, less visible) are [Eric Nuttall](https://twitter.com/ericnuttall), portfolio manager of the [Ninepoint Energy Fund](https://twitter.com/ericnuttall), and [Josh Young](https://twitter.com/Josh_Young_1), Managing Partner & Founder of [Bison Interests](https://bisoninterests.com/).
+When it comes to energy, I have identified a few individuals that know what they're talking about. They're not that hard to spot. Two of these (but there are more, less visible) are [Eric Nuttall](https://twitter.com/ericnuttall), portfolio manager of the [Ninepoint Energy Fund](https://twitter.com/ericnuttall), [Josh Young](https://twitter.com/Josh_Young_1), Managing Partner & Founder of [Bison Interests](https://bisoninterests.com/), or [Shubham Garg](https://twitter.com/WhiteTundraSG), of [White Tundra Investments](https://www.whitetundra.ca/).
 
 And so, we could simply check their top holdings and buy a diversified basket from these. Which is what I've decided to do.
 
@@ -54,7 +56,7 @@ Just as an example, here the top holdings of the Ninepoint Energy Fund - not inv
 
 ![nincepoint](/images/ninepoint.png)
 
-Just to wrap up these musings on circle of competence, I would add a final caution. The buying part is easy. Knowing when or why to sell, as non-expert, that is trickier. Becaue the experts will tell you when to buy and shout it from the rooftops. But if they see trouble brewing, and by definition, they'll see it way before you ever hear about it, they won't tell you. It would be against their interest. Keep this in mind.
+Just to wrap up these musings on circle of competence, I would add a final caution. The buying part is easy. Knowing when or why to sell, as non-expert, is trickier. Because the experts will tell you when to buy and shout it from the rooftops. But if they see trouble brewing, and by definition, they'll see it way before you do, they won't necessarily have an incentive to tell you. Keep this in mind and prepare accordingly.
 
 ### Why Opportunities Exist
 
@@ -85,6 +87,14 @@ I don't know if he's the one who said it, but John Maynard Keynes is often credi
 _When the facts change, I change my mind. What do you do, sir?_
 
 </blockquote>
+
+### Links
+
+- [Talk Energy Podcast](https://www.youtube.com/watch?v=y0pbEGcu56w)
+
+- [U.S. Oil Production Remains In Check](https://seekingalpha.com/article/4477903-us-oil-production-remains-in-check)
+
+- [Bloomberg Admits Renewables Mania Caused Energy Shortages](https://michaelshellenberger.substack.com/p/finally-bloomberg-admits-renewables?utm_source=substack&utm_medium=email&utm_content=share)
 
 
 
