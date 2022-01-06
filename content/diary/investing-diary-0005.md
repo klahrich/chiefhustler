@@ -18,7 +18,7 @@ Two concepts I'd like to explore:
 
 ### Circle of Competence
 
-Buffet has popularized the importance of staying within our circle of competence when it comes to investing. If you look closely at his own investment record, excluding Apple, his never got it wrong when he invested in financials or insurance companies. On the other hand, he made plenty of mistakes elsewhere (airlines and retail furniture for example).
+Buffet has popularized the importance of staying within our circle of competence when it comes to investing. If you look closely at his own investment record, excluding Apple, he never got it wrong when he invested in financials or insurance companies. On the other hand, he made plenty of mistakes elsewhere (airlines and retail furniture for example).
 
 But funny enough, Apple, a technology stock, was the best investment of his life. Was Apple within his circle of competence? 
 
