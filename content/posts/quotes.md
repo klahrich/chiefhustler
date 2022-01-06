@@ -112,3 +112,11 @@ _In a probabilistic environment, you are better aerved by focusing on the proces
 _No contract, no amount, no price will ever save you from a dodgy person._<br/>
 [Yen Liow on Equity Mates Podcast](https://www.youtube.com/watch?v=Ei03z7-aIJg&t=1890s)
 <br/><br/>
+
+_There are no gurus. There are only cycles._<br/>
+[Michael A. Gayed](https://twitter.com/leadlagreport)
+<br/><br/>
+
+_When you have so much leverage in the system, it doesn't take too many butterflies flapping their wings to create a hurricane._<br/>
+[Michael A. Gayed](https://twitter.com/leadlagreport)
+<br/><br/>

@@ -1,7 +1,7 @@
 ---
 title: "Investing Diary - Issue #4: Loyalty Ventures Inc"
 date: 2022-01-05T10:22:45-05:00
-draft: true
+draft: false
 categories: ["diary"]
 type: "diary"
 ---
@@ -38,9 +38,9 @@ Here's an interesting excerpt:
 
 ![lylt-partners](/images/lylt-partners.png)
 
+More generally, it seems that airlines have recognized the value of the frequent flyer points not only as curreny but also as a retention tool. Therefore these points have more value _within_ an airline company than outside of one, diluted across different retailers.
+
 Verdict: I'm passing for now.
 
-However, researching this company led me to another one in the customer loyalty space, which might be more interesting: Aimia Inc., [$AIM.TO](https://finance.yahoo.com/quote/AIM.TO) or [AIMFF](https://finance.yahoo.com/quote/AIMFF). 
-
-Stay tuned!
+However, researching this company led me to another one in the customer loyalty space, which might be more...spicy. Stay tuned!
 

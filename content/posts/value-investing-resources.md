@@ -189,6 +189,10 @@ This list is by no means intended to be comprehensive, and it will most likely g
 
 - [PinInvest](https://pininvest.com/themes/browse/3g5mw4yn)
 
+- [OTC Markets](https://www.otcmarkets.com/index.html)
+
+- [SEC](https://www.sec.gov/)
+
 #### Canada
 
 - [Cantech](https://www.cantechletter.com/)

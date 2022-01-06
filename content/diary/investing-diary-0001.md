@@ -30,7 +30,7 @@ Interesting write-ups:
 
 - [Retail Bull](https://www.retailbull.co.uk/blog/tpl-what-the-analysts-are-missing)
 
-### PSK
+### PSK.TO
 
 Then, I found out about this other oil royalty play, this time in Canada: PrairieSky Royalty Ltd, [PSK](https://finance.yahoo.com/quote/PSK.TO?p=PSK.TO&.tsrc=fin-srch). They seem to have a similar business model, and they look slightly cheaper on a multiple basis at 32x P/E (ttm), so I want to take a look at them too.
 
@@ -41,3 +41,7 @@ Incidentally, I see that both the company and insiders have been buying shares:
 ![psk](/images/psk.png)
 
 Because the multiple is fairly high, I'm not yet pulling the trigger on PSK either. I need to understand what their growth potential is first.
+
+### Update (2021-01-06):
+
+Researching $PSK.TO, I found [Freehold Royalties](https://finance.yahoo.com/quote/FRU.TO?p=FRU.TO&.tsrc=fin-srch), another (slightly cheaper) oil royalty play. I'm not sure where the price differential comes from. Something to look into.
