@@ -36,7 +36,7 @@ Something is within my circle of competence if I can predict with high accuracy 
 
 </blockquote>
 
-With this definition in mind, the energy (oil and gas) sector is within my grasp. I think it is within everyone's grasp. All we have to do is pay attention to the overall macro trends. Is there anyone in their right mind that denies we are headed towards an energy crisis? Here's a beautiful quote from [John Polomny](https://www.youtube.com/watch?v=p-82MV-s9oc):
+With this definition in mind, the energy (oil and gas) sector is within my grasp. I think it is within everyone's grasp. All we have to do is learn how those companies make money and pay attention to the overall macro trends. Is there anyone in their right mind that denies we are headed towards an energy crisis? Here's a beautiful quote from [John Polomny](https://www.youtube.com/watch?v=p-82MV-s9oc):
 
 <blockquote>
 
