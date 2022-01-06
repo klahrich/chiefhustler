@@ -52,7 +52,7 @@ So how can I implement the bet?
 
 I could buy an ETF with energy exposure, such as the [Horizons Crude Oil ETF](https://finance.yahoo.com/quote/HUC.TO?p=HUC.TO&.tsrc=fin-srch), the [BMO S&P/TSX Equal Weight Oil and Gas ETF](https://finance.yahoo.com/quote/ZEO.TO?p=ZEO.TO&.tsrc=fin-srch) or the [Horizons S&P/TSX Capped Energy Index ETF](https://finance.yahoo.com/quote/HXE.TO?p=HXE.TO&.tsrc=fin-srch). That's a totally fine idea.
 
-Another way to do it is to figure out who is an expert on this sector, and clone them. We live in an era where information is exchanged freely and openly at an unbelievable rate. All we hav eto do is pay attention.
+Another way to do it is to figure out who is an expert on this sector, and clone them. We live in an era where information is exchanged freely and openly at an unbelievable rate. All we have to do is pay attention.
 
 When it comes to energy, I have identified a few individuals that know what they're talking about. They're not that hard to spot. Two of these (but there are more, less visible) are [Eric Nuttall](https://twitter.com/ericnuttall), portfolio manager of the [Ninepoint Energy Fund](https://twitter.com/ericnuttall), [Josh Young](https://twitter.com/Josh_Young_1), Managing Partner & Founder of [Bison Interests](https://bisoninterests.com/), or [Shubham Garg](https://twitter.com/WhiteTundraSG), of [White Tundra Investments](https://www.whitetundra.ca/).
 
