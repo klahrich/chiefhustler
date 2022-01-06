@@ -44,8 +44,6 @@ We simply have not made the necessary investments to find the requisite amount o
 
 </blockquote>
 
-Actually, yes, there are some people who might deny this reality, and God bless their souls for the opportunity they have given us: the ESG people.
-
 Now, I said that oil is within my grasp. But no particular company is. In other words, I am sure oil will do very well in 2022, but I'd be hard-pressed to pinpoint which companies will outperform relative to the others.
 
 So how can I implement the bet?
@@ -68,7 +66,7 @@ Just to wrap up these musings on circle of competence, I would add a final cauti
 
 Why is it that oil and gas is so cheap currently, despite the obvious supply problems, and despite the short-term cashflow prospects of this sector?
 
-To me, the answer is a mix of herd behavior and psychological rigidity, on the part of a huge mass of regular people who are making (erroneous) financial decisions. Those people are those I call the ESG people. Those people have the best intentions, but they have embraced these intentions to the point of becoming idelogical and dogmatic, of refusing to see reality and instead sticking with their mental models.
+To me, the answer is a mix of herd behavior and psychological rigidity, on the part of a huge mass of regular people who are making (erroneous) financial decisions. Those people are those I call the ESG people (God bless their souls ). Those people have the best intentions, but they have embraced these intentions to the point of becoming idelogical and dogmatic, of refusing to see reality and instead sticking with their mental models.
 
 The mental models say: renewable energy is preferable to fossil fuels, and we should make the transition as quickly as possible.
 
