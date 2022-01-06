@@ -32,7 +32,7 @@ I have now changed my definition of what the concept means. Here's my updated de
 
 <blockquote>
 
-_Something is within my circle of competence if I can predict with high accuracy whether, why, and for how long it will make money._
+Something is within my circle of competence if I can predict with high accuracy whether, why, and for how long it will make money.
 
 </blockquote>
 
@@ -40,7 +40,7 @@ With this definition in mind, the energy (oil and gas) sector is within my grasp
 
 <blockquote>
 
-_We simply have not made the necessary investments to find the requisite amount of hydrocarbons that are required to run the world._
+We simply have not made the necessary investments to find the requisite amount of hydrocarbons that are required to run the world.
 
 </blockquote>
 
