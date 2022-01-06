@@ -44,11 +44,11 @@ We simply have not made the necessary investments to find the requisite amount o
 
 </blockquote>
 
-Now, I said that energy is within my grasp. But I'm still no expert. In other words, I am sure oil will do very well in 2022, but I'd be hard-pressed to pinpoint which companies will outperform relative to the others.
+Now, I said that energy is within my grasp. But I'm still no expert. That's OK, because as I said in my 2021 post-mortem: be an expert or be cheap. And oil & gas companies are currently very cheap.
 
-So how can I implement the bet?
+But I still need help choosing which companies to bet on.
 
-I could buy an ETF with energy exposure, such as the [Horizons Crude Oil ETF](https://finance.yahoo.com/quote/HUC.TO?p=HUC.TO&.tsrc=fin-srch), the [BMO S&P/TSX Equal Weight Oil and Gas ETF](https://finance.yahoo.com/quote/ZEO.TO?p=ZEO.TO&.tsrc=fin-srch) or the [Horizons S&P/TSX Capped Energy Index ETF](https://finance.yahoo.com/quote/HXE.TO?p=HXE.TO&.tsrc=fin-srch). That's a totally fine idea.
+I could take the safe approach and buy an ETF with energy exposure, such as the [Horizons Crude Oil ETF](https://finance.yahoo.com/quote/HUC.TO?p=HUC.TO&.tsrc=fin-srch), the [BMO S&P/TSX Equal Weight Oil and Gas ETF](https://finance.yahoo.com/quote/ZEO.TO?p=ZEO.TO&.tsrc=fin-srch) or the [Horizons S&P/TSX Capped Energy Index ETF](https://finance.yahoo.com/quote/HXE.TO?p=HXE.TO&.tsrc=fin-srch). That's a totally fine idea.
 
 Another way to do it is to figure out who is an expert on this sector, and clone them. We live in an era where information is exchanged freely and openly at an unbelievable rate. All we have to do is pay attention.
 
