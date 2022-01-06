@@ -22,7 +22,7 @@ Buffet has popularized the importance of staying within our circle of competence
 
 But funny enough, Apple, a technology stock, was the best investment of his life. Was Apple within his circle of competence? 
 
-You could argue that Buffet is a life-long learning machine and that he relentlessly kept pushing the boundaries of his circle until it included something like Apple. While that is probably true, I think the simplest explanation is that he understood the moat of Apple; how the business was making money and fending off competition.
+You could argue that Buffet is a life-long learning machine and that he relentlessly kept pushing the boundaries of his circle until it included something like Apple. While that is probably true, I think the simpler explanation is that he understood the moat of Apple; how the business was making money and fending off competition. And at some point, Apple's stock fell enough for him to consider it cheap and scoop it.
 
 Here's another, more personal, example. 
 
