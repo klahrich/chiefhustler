@@ -32,7 +32,7 @@ I have now changed my definition of what the concept means. Here's my updated de
 
 <blockquote>
 
-Something is within my circle of competence if I can predict with high accuracy whether, why, and for how long it will make money.
+Something is within my circle of competence if I can predict with adequate accuracy whether, why, and for how long it will make money.
 
 </blockquote>
 
