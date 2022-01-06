@@ -10,7 +10,7 @@ type: "diary"
 
 Today, we'll take a look at Loyalty Ventures Inc, [$LYLT](https://finance.yahoo.com/quote/LYLT).
 
-$LYLT was spun off by [$ADS](https://finance.yahoo.com/quote/ADS) in November 2021. 
+$LYLT was spun off by Alliance Data Systems ([$ADS](https://finance.yahoo.com/quote/ADS)) in November 2021. 
 
 Loyalty Ventures Inc owns and operate the [AIR MILES®](https://www.airmiles.ca/en.html) Reward Program, Canada’s most recognized loyalty program, and Netherlands-based [BrandLoyalty](https://www.brandloyalty.com/), a global provider of purpose-driven, tailor-made, campaign-based loyalty solutions for grocers and other high-frequency retailers. 
 
