@@ -44,7 +44,7 @@ We simply have not made the necessary investments to find the requisite amount o
 
 </blockquote>
 
-Now, I said that oil is within my grasp. But no particular company is. In other words, I am sure oil will do very well in 2022, but I'd be hard-pressed to pinpoint which companies will outperform relative to the others.
+Now, I said that oil is within my grasp. But I'm still no expert. In other words, I am sure oil will do very well in 2022, but I'd be hard-pressed to pinpoint which companies will outperform relative to the others.
 
 So how can I implement the bet?
 
