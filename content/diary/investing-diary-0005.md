@@ -1,75 +1,110 @@
 ---
-title: "Investing Diary - Issue #5: Aimia Inc"
-date: 2022-01-05T09:53:09-05:00
-draft: true
+title: "Investing Diary - Issue #5: Oil and Gas"
+date: 2022-01-06T04:04:15-05:00
+draft: false
+categories: ["diary"]
+type: "diary"
 ---
 
-### The Story (very short version)
+![oil-and-gas](/images/oil-and-gas.png)
 
-OK so this one is bit weird, I have to admit. But the interesting kind of weird!
+This post will be slightly more philosophical in nature and a bit longer than usual. To make up for that, I promise some concrete take-aways and action items.
 
-I think I first heard about it on a space hosted by George Noble. Several stocks were pitched, you can find the list [here](https://twitter.com/gnoble79/status/1469795405986738176).
+Two concepts I'd like to explore:
 
-I'll try to tell the simplest version possible of the story, which is that basically Aimia holds about 49% equity stake in PLM, the operator of the Club Premier loyalty program in Mexico, while the remainder is owned by [Aeromexico](https://finance.yahoo.com/quote/AEROMEX.MX?p=AEROMEX.MX&.tsrc=fin-srch).
+1. the concept of "circle of competence", its implications and misuses
 
-But in June 2020, Aeromexico, reeling from the impact of the pandemic, filed for Chapter 11 and started putting together a financial restructuring plan.
+2. why opportunities exist
 
-And it just so happens that as part of the bankruptcy proceedings, Aimia and Aeromexico have initiated discussions related to a potential transaction whereby Aeromexico would acquire Aimia's stake in PLM. And this where it gets interesting.
+### Circle of Competence
 
-Some much smarter people than myself have dug out the potential details of this arrangement.
+Buffet has popularized the importance of staying within our circle of competence when it comes to investing. If you look closely at his own investment record, excluding Apple, his never got it wrong when he invested in financials or insurance companies. On the other hand, he made plenty of mistakes elsewhere (airlines and retail furniture for example).
 
-For example, here's an excerpt from a [letter of Laughing Water Capital](https://static1.squarespace.com/static/5d93ed0b59166652b0d66427/t/60fb1f431155b25f3e6e24a3/1627070275338/Laughing+Water+Capital+H1+2021.pdf):
+But funny enough, Apple, a technology stock, was the best investment of his life. Was Apple within his circle of competence? 
 
-<blockquote> 
+You could argue that Buffet is a life-long learning machine and that he relentlessly kept pushing the boundaries of his circle until it included something like Apple. While that is probably true, I think the simplest explanation is that he understood the moat of Apple; how the business was making money and fending off competition.
 
-that Aeromexico had previously agreed to pay Aimia the greater of $400M USD or 7.5x EBITDA (plus balance sheet adjustments) for its stake in PLM.
+Here's another, more personal, example. 
+
+I've had a hard time "investing" in energy stocks, because I never learned about that sector and how to value those companies. As a result, and even though I knew the entire sector would do well post-covid, I stayed away - because it was too far from my circle of competence.
+
+I have now changed my definition of what the concept means. Here's my updated definition:
+
+<blockquote>
+
+_Something is within my circle of competence if I can predict with high accuracy whether, why, and for how long it will make money._
 
 </blockquote>
 
-Elsewhere on [twitter](https://twitter.com/wabuffo/status/1454251413052211201), [Wabbufo](https://twitter.com/wabuffo)'s conservative guess (marking Aimia's other investments at their cost value) is that the transaction amount would be somewhere between $375M and $425M USD, equivalent to a range of $5 to $5.60 CAD/share and in line with the $400M USD figure above.
+With this definition in mind, the energy (oil and gas) sector is within my grasp. I think it is within everyone's grasp. All we have to do is pay attention to the overall macro trends. Is there anyone in their right mind that denies we are headed towards an energy crisis? Here's a beautiful quote from [John Polomny](https://www.youtube.com/watch?v=p-82MV-s9oc):
 
-![aimia-plm](/images/aimia-plm.png)
+<blockquote>
 
-The current price of $AIM.TO shares is $4.89. So it looks like just the payment for PLM would be more than the entire market cap. So the question is, what's the enterprise value, and what else is there within Aimia?
+_We simply have not made the necessary investments to find the requisite amount of hydrocarbons that are required to run the world._
 
-### Valuation
+</blockquote>
 
-Again, Wabbufo comes to the rescue in [this tweet](https://twitter.com/wabuffo/status/1448265981118255104):
+Actually, yes, there are some people who might deny this reality, and God bless their souls for the opportunity they have given us: the ESG people.
 
-![aimia-ev](/images/aimia-ev.png)
+Now, I said that oil is within my grasp. But no particular company is. In other words, I am sure oil will do very well in 2022, but I'd be hard-pressed to pinpoint which companies will outperform relative to the others.
 
-Assuming the deal goes through, the conservative SOTP enterprise value would be ~6.79$ CAD. Let's be even more conservative and use $400M instead of $425. That gives an equity value of $5.19 USD, or $6.49 CAD ($1.25 CAD/USD).
+So how can I implement the bet?
 
-According to these calculations, the current price is at a 25% discount of the theoretical sum of the parts value.
+I could buy an ETF with energy exposure, such as the [Horizons Crude Oil ETF](https://finance.yahoo.com/quote/HUC.TO?p=HUC.TO&.tsrc=fin-srch), the [BMO S&P/TSX Equal Weight Oil and Gas ETF](https://finance.yahoo.com/quote/ZEO.TO?p=ZEO.TO&.tsrc=fin-srch) or the [Horizons S&P/TSX Capped Energy Index ETF](https://finance.yahoo.com/quote/HXE.TO?p=HXE.TO&.tsrc=fin-srch). That's a totally fine idea.
 
-At this point, a few questions remain pending:
+Another way to do it is to figure out who is an expert on this sector, and clone them. We live in an era where information is exchanged freely and openly at an unbelievable rate. All we hav eto do is pay attention.
 
-- are the other businesses inside the holdco worth anything?
+When it comes to energy, I have identified a few individuals that know what they're talking about. They're not that hard to spot. Two of these (but there are more, less visible) are [Eric Nuttall](https://twitter.com/ericnuttall), portfolio manager of the [Ninepoint Energy Fund](https://twitter.com/ericnuttall), [Josh Young](https://twitter.com/Josh_Young_1), Managing Partner & Founder of [Bison Interests](https://bisoninterests.com/), or [Shubham Garg](https://twitter.com/WhiteTundraSG), of [White Tundra Investments](https://www.whitetundra.ca/).
 
-- what are the odds of the restructuring plan going through?
+And so, we could simply check their top holdings and buy a diversified basket from these. Which is what I've decided to do.
 
-- if something goes wrong and Aeromexico doesn't buy out Aimia, what happens then?
+Just as an example, here the top holdings of the Ninepoint Energy Fund - not investing advice, I think it's pretty obvious by now I'm not qualified for that :)
 
-I won't attempt to answer these questions here, and I'd rather not bet on whether the restructuring will go through smoothly or not, so I'm not in a rush to jump in here. 
+![nincepoint](/images/ninepoint.png)
 
-However this is interesting enough to stay on my radar. One of the reasons for this is that Aimia is led by the Mittleman brothers. I've just listened to an interview of Chris Mittleman on [The Acquirers Podcast](https://www.youtube.com/watch?v=1TUNOKyv7vQ), and he made a very positive impression on me.
+Just to wrap up these musings on circle of competence, I would add a final caution. The buying part is easy. Knowing when or why to sell, as non-expert, is trickier. Because the experts will tell you when to buy and shout it from the rooftops. But if they see trouble brewing, and by definition, they'll see it way before you do, they won't necessarily have an incentive to tell you. Keep this in mind and prepare accordingly.
 
-Part of me also wonders: what if the whole bankrupcy is aborted, and Aeromexico resumes business. Does it even matter whether or not they buy out Aimia?
+### Why Opportunities Exist
 
-### Recent Developments
+Why is it that oil and gas is so cheap currently, despite the obvious supply problems, and despite the short-term cashflow prospects of this sector?
 
-Some of the creditors have complained that the exit financing Reorganization Plan favors company insiders, including Delta Air Lines and certain Mexican sharesholders and directors. The creditors have until January 7 to vote in favor or against the Plan, and the confirmation hearing is scheduled to take place around January 18th.
+To me, the answer is a mix of herd behavior and psychological rigidity, on the part of a huge mass of regular people who are making (erroneous) financial decisions. Those people are those I call the ESG people. Those people have the best intentions, but they have embraced these intentions to the point of becoming idelogical and dogmatic, of refusing to see reality and instead sticking with their mental models.
 
-It's worth noting that Mexico air travel has recovered 95% of its pre-pandemic traffic numbers and Aeromexico closed 2021 carrying almost the same number of passengers it had in 2019. 
+The mental models say: renewable energy is preferable to fossil fuels, and we should make the transition as quickly as possible.
+
+The reality is: things take time. And renewables are just not efficient enough, yet.
+
+The opportunity stems from the discrepancy between the dominant mental models and reality.
+
+You might ask: "Why don't they just change their mental models?". The can't. Not just because it's hard to do, but also because these models have been translated into rules, procedures and performance metrics. They are incentivized to stay in denial.
+
+So what is the take-away for us, simple mortal investors?
+
+**Be flexible.** 
+
+**Avoid dogma.**
+
+**Keep an open-mind, and be willing to change course.**
+
+I don't know if he's the one who said it, but John Maynard Keynes is often credited with one of the best quotes of all times:
+
+<blockquote>
+
+_When the facts change, I change my mind. What do you do, sir?_
+
+</blockquote>
 
 ### Links
 
-[American Bankrupcy Institute](https://www.kirkland.com/siteFiles/kirkexp/publications/2398/Document1/Friedland_What_unsecured_creditor_should.pdf)
+- [Talk Energy Podcast](https://www.youtube.com/watch?v=y0pbEGcu56w)
 
-[Toptal: Chapter 11 Bankruptcy](https://www.toptal.com/finance/bankruptcy/chapter-11-bankruptcy-what-is-it)
+- [U.S. Oil Production Remains In Check](https://seekingalpha.com/article/4477903-us-oil-production-remains-in-check)
 
-[Chapter 11 Bankruptcy Reorganization FAQs](http://arklatexlaw.com/practice-areas/bankruptcy/chapter-11-bankruptcy-reorganization-frequently-asked-questions/)
+- [Bloomberg Admits Renewables Mania Caused Energy Shortages](https://michaelshellenberger.substack.com/p/finally-bloomberg-admits-renewables?utm_source=substack&utm_medium=email&utm_content=share)
 
-[Chapter 11 from the Corporate Finance Institute](https://corporatefinanceinstitute.com/resources/knowledge/other/what-is-chapter-11/)
 
-[Event-Driven Long Thesis](https://zbbanalyst.substack.com/p/aim-event-driven-long-thesis?r=ck61a&utm_campaign=post&utm_medium=web&utm_source=)
+
+
+
+
+
