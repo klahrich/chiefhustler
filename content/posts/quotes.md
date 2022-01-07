@@ -124,3 +124,11 @@ _When you have so much leverage in the system, it doesn't take too many butterfl
 _It's not a lie...if you believe it._<br/>
 [Georges Costanza, Seinfeld (probably talking about the Fed setting inflation expectations)](https://www.youtube.com/watch?v=vn_PSJsl0LQ)
 <br/><br/>
+
+_Every bubble consists of a trend that can be observed in the real world and a misconception relating to that trend._<br/>
+George Soros
+<br/><br/>
+
+_You make the most money in investments that have undiscovered merits. You lose the most money in investments who’s merits are overstated._<br/>
+[Howard Marks, according to Bill Brewster](https://www.getrevue.co/profile/billbrewstertbb/issues/bill-brewster-s-revue-issue-6-925111?via=twitter-card-webview&client=DesktopWeb&element=issue-card)
+<br/><br/>
