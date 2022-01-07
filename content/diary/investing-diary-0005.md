@@ -70,11 +70,19 @@ To me, the answer is a mix of herd behavior and psychological rigidity, on the p
 
 The mental models say: renewable energy is preferable to fossil fuels, and we should make the transition as quickly as possible.
 
-The reality is: things take time. And renewables are just not efficient enough, yet.
+The reality is: things take time. And renewables are just not efficient enough, yet. As Warren Buffet (him again!) said:
+
+<blockquote>
+
+You can't produce a baby in one month by getting nine women pregnant.
+
+</blockquote>
 
 The opportunity stems from the discrepancy between the dominant mental models and reality.
 
-You might ask: "Why don't they just change their mental models?". The can't. Not just because it's hard to do, but also because these models have been translated into rules, procedures and performance metrics. They are incentivized to stay in denial.
+You might ask: "Why don't they just change their mental models?"
+
+They can't. Not just because it's hard to do, but also because these models have been translated into rules, procedures and performance metrics. They are incentivized to stay in denial.
 
 So what is the take-away for us, simple mortal investors?
 
