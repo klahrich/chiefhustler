@@ -66,7 +66,7 @@ To wrap up these musings on circle of competence, I would add a final caution. T
 
 Why is it that oil and gas is so cheap currently, despite the obvious supply problems, and despite the short-term cashflow prospects of this sector?
 
-To me, the answer is a mix of herd behavior and psychological rigidity, on the part of a huge mass of regular people who are making erroneous financial decisions. Those people are those I call the ESG people (God bless their souls ). Those people have the best intentions, but they have embraced these intentions to the point of becoming idelogical and dogmatic, of refusing to see reality and instead sticking with their mental models.
+To me, the answer is a mix of herd behavior and psychological rigidity, on the part of a huge mass of regular people who are making erroneous financial decisions. Those are the ESG people (God bless their souls). They have the best intentions, but they have embraced these intentions to the point of idelogy and dogma, refusing to see reality and instead sticking with their mental models.
 
 The mental models say: renewable energy is preferable to fossil fuels, and we should make the transition as quickly as possible.
 
@@ -82,7 +82,7 @@ The opportunity stems from the discrepancy between the dominant mental models an
 
 You might ask: "Why don't they just change their mental models?"
 
-They can't. Not just because it's hard to do, but also because these models have been translated into rules, procedures and performance metrics. They are incentivized to stay in denial.
+It's hard, and not just on psychological level. These models have been translated into rules, procedures and performance metrics. They are incentivized to stay in denial.
 
 So what is the take-away for us, simple mortal investors?
 
