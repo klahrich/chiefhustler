@@ -16,7 +16,7 @@ Two concepts I'd like to explore:
 
 2. why opportunities exist
 
-### Circle of Competence
+## Circle of Competence
 
 Buffet has popularized the importance of staying within our circle of competence when it comes to investing. If you look closely at his own investment record, excluding Apple, he never got it wrong when he invested in financials or insurance companies. On the other hand, he made plenty of mistakes elsewhere (airlines and retail furniture for example).
 
@@ -60,9 +60,9 @@ Just as an example, here the top holdings of the Ninepoint Energy Fund - not inv
 
 ![nincepoint](/images/ninepoint.png)
 
-Just to wrap up these musings on circle of competence, I would add a final caution. The buying part is easy. Knowing when or why to sell, as non-expert, is trickier. Because the experts will tell you when to buy and shout it from the rooftops. But if they see trouble brewing, and by definition, they'll see it way before you do, they won't necessarily have an incentive to tell you. Keep this in mind and prepare accordingly.
+To wrap up these musings on circle of competence, I would add a final caution. The buying part is easy. Knowing when or why to sell, as non-expert, is trickier. Because the experts will tell you when to buy and shout it from the rooftops. But if they see trouble brewing, and by definition, they'll see it way before you do, they won't necessarily have an incentive to tell you. Keep this in mind and prepare accordingly.
 
-### Why Opportunities Exist
+## Why Opportunities Exist
 
 Why is it that oil and gas is so cheap currently, despite the obvious supply problems, and despite the short-term cashflow prospects of this sector?
 
@@ -88,11 +88,11 @@ I don't know if he's the one who said it, but John Maynard Keynes is often credi
 
 <blockquote>
 
-_When the facts change, I change my mind. What do you do, sir?_
+When the facts change, I change my mind. What do you do, sir?
 
 </blockquote>
 
-### Links
+## Elsewhere
 
 - [Talk Energy Podcast](https://www.youtube.com/watch?v=y0pbEGcu56w)
 

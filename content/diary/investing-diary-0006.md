@@ -1,6 +1,6 @@
 ---
-title: "Investing Diary - Issue #5: Aimia Inc"
-date: 2022-01-05T09:53:09-05:00
+title: "Investing Diary - Issue #6: Aimia Inc"
+date: 2022-01-07T09:53:09-05:00
 draft: true
 ---
 
