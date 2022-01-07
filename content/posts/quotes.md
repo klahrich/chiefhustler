@@ -120,3 +120,7 @@ _There are no gurus. There are only cycles._<br/>
 _When you have so much leverage in the system, it doesn't take too many butterflies flapping their wings to create a hurricane._<br/>
 [Michael A. Gayed](https://twitter.com/leadlagreport)
 <br/><br/>
+
+_It's not a lie...if you believe it._<br/>
+[Georges Costanza, Seinfeld (probably talking about the Fed setting inflation expectations)](https://www.youtube.com/watch?v=vn_PSJsl0LQ)
+<br/><br/>
