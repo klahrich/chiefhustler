@@ -90,7 +90,7 @@ So what is the take-away for us, simple mortal investors?
 
 **Avoid dogma.**
 
-**Keep an open-mind, and be willing to change course.**
+**Keep an open-mind, and keep learning.**
 
 I don't know if he's the one who said it, but John Maynard Keynes is often credited with one of the best quotes of all times:
 
