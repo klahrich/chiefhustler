@@ -40,11 +40,11 @@ On the plus side, I'm proud that I'm able to remain cautious and avoid over-expo
 
 On the other hand, I'm reminded of [this podcast](https://www.youtube.com/watch?v=SH8BOZLuJOQ) with Artem Fokin from [Caro-Kann Capital](http://caro-kann-capital.com/) where he explains that he measures his performance by the return on unit of time invested in researching ideas. In other words, spending 6 months to generate 10% of alpha is inferior to spending a week to generate 5% of alpha.
 
-Viewed through this lense, my foray into energy was maybe not the optimal use of my time. I don't regret it at all, I learned a ton and I think the bet is sound; but the effort I put into it will generate a one-time short-term return at best. It will not compound into anything, since I have no intention of turning into an energy specialist or investor.
+Viewed through this lens, my foray into energy was maybe not the optimal use of my time. I don't regret it at all, I learned a ton and I think the bet is sound; but the effort I put into it will generate a one-time short-term return at best. It will not compound into anything, since I have no intention of turning into an energy specialist or investor.
 
 Compare that to my writing endeavor. 
 
-I don't get any monetary return from it. And yet I think there is a strong compounding effect that could get going if I write down my thoughts consistently over a long enough period of time. This is more of a hunch than a fact, I have to admit. I can't even say what I expect the concrete benefit to be. 
+I don't get any monetary return from it. And yet I think there is a strong compounding effect that could get going if I write consistently over a long enough period of time. This is more of a hunch than a fact, I have to admit. I can't even say what I expect the concrete benefit to be. 
 
 I have no idea, but I choose to believe there will be one. 
 
@@ -54,9 +54,9 @@ Part of it is that I enjoy building my mental strength and clarity of thought da
 
 I will not get the best investment return this year and I'm not trying to, but I will write more words than anybody in the game, despite having a full-time job and a family to take care of.
 
-One year from now, I will be a guy who's been reading and writing about investing and practising his craft **everyday** for a full year. 
+One year from now, I will be a guy who's been writing about investing and practicing his craft **everyday** for a full year.
 
-I kinda like that guy.
+I like that guy.
 
 I'll end with this glorious clip about why Michael Jordan was the GOAT:
 
