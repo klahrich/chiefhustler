@@ -52,7 +52,9 @@ Take a look, it's pretty drastic:
 
 ![oilcapex](/images/oilcapex.png)
 
-OK, let's assume that oil & gas stocks are likely to be undervalued. But I'm still no expert. I need help choosing which ones to bet on.
+My goal here is not to go over these macro trends, it would take way too much time, and I'm not qualified anyway.
+
+Let's just assume that oil & gas stocks are likely to be undervalued. I'm still no expert though; therefore I need help choosing which ones to bet on.
 
 I could take the safe approach and buy an ETF with energy exposure, such as the [Horizons Crude Oil ETF](https://finance.yahoo.com/quote/HUC.TO?p=HUC.TO&.tsrc=fin-srch), the [BMO S&P/TSX Equal Weight Oil and Gas ETF](https://finance.yahoo.com/quote/ZEO.TO?p=ZEO.TO&.tsrc=fin-srch) or the [Horizons S&P/TSX Capped Energy Index ETF](https://finance.yahoo.com/quote/HXE.TO?p=HXE.TO&.tsrc=fin-srch). That's a totally fine idea.
 

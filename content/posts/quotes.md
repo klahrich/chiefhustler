@@ -140,3 +140,6 @@ _I say, we do. I'm not here to discuss this shit with my mind. My soul fucking k
 _Molding and shaping and developing your ideas and your craft so that when it's time for you to make your rounds, you gonna fly._<br/>
 [Stay Focused - Tyrese Gibson](https://www.youtube.com/watch?v=i4PhWdrR0bU)
 <br/><br/>
+
+_When your buddy who's been investing in tech and crypto for the last three years starts telling you to invest in oil, it might be time to start trimming._<br/>
+[Shubham Garg](https://twitter.com/WhiteTundraSG), answering the question: "When is it time to diversify away from O&G?"
