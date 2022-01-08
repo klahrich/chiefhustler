@@ -136,7 +136,7 @@ You make the most money in investments that have undiscovered merits. You lose t
 
 </blockquote>
 
-The next caveat I would give is: oil and gas are cyclical commodities, driven by global supply and demand. The stocks go up and down, these are not life long investments.
+The next caveat I would give is: oil and gas are cyclical commodities, driven by global supply and demand. The stocks go up and down, these are not (for me at least) life long investments.
 
 And finally, I like to think that I'm making an intelligent probabilistic macro bet, but really I'm FOMOing and following the momentum. Who really knows about this stuff; I certainly don't. But I've seen enough to think that the bet has positive expected value and low enough risk to take a small position.
 
