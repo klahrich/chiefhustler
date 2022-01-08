@@ -60,7 +60,7 @@ I see three reasonable options. Here they are,. from least to most risky.
 
 **1]** The safest approach would be to buy an ETF with energy exposure, such as the [Horizons Crude Oil ETF](https://finance.yahoo.com/quote/HUC.TO?p=HUC.TO&.tsrc=fin-srch), the [BMO S&P/TSX Equal Weight Oil and Gas ETF](https://finance.yahoo.com/quote/ZEO.TO?p=ZEO.TO&.tsrc=fin-srch) or the [Horizons S&P/TSX Capped Energy Index ETF](https://finance.yahoo.com/quote/HXE.TO?p=HXE.TO&.tsrc=fin-srch). That's a totally fine idea.
 
-**2]** Another way to do it is, and maybe the one with the best risk/reward profile, to figure out who is an expert on this sector and allocate some money with them if they run a fund. 
+**2]** Another way to do it is, and maybe the one with the best risk/reward profile, to figure out who is an expert on this sector and allocate some money with them (let them manage the bets). 
 
 When it comes to energy, I have identified a few individuals that know what they're talking about. They're not that hard to spot. Three of these (but there are more) are [Eric Nuttall](https://twitter.com/ericnuttall), portfolio manager of the [Ninepoint Energy Fund](https://twitter.com/ericnuttall), [Josh Young](https://twitter.com/Josh_Young_1), Managing Partner & Founder of [Bison Interests](https://bisoninterests.com/), and [Shubham Garg](https://twitter.com/WhiteTundraSG), of [White Tundra Investments](https://www.whitetundra.ca/).
 
