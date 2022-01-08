@@ -102,6 +102,10 @@ You might ask: "Why don't they just change their mental models?"
 
 It's hard, and not just on a psychological level. These models have been translated into rules, procedures and performance metrics. They are incentivized to stay in denial.
 
+**Opportunities such as these exist because some people are constrained in ways that you're not.**
+
+If you want to explore this topic further, [here](https://open.spotify.com/episode/3xRzgGnYZQFMQLLB0JmEmn) is an amazing ValueHive podcast episode with Dan McMurtie you can listen to.
+
 So what is the take-away for us, simple mortal investors?
 
 **Be flexible.** 
