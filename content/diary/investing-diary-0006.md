@@ -2,6 +2,8 @@
 title: "Investing Diary - Issue #6: Aimia Inc"
 date: 2022-01-07T09:53:09-05:00
 draft: true
+categories: ["diary"]
+type: "diary"
 ---
 
 ### The Story (very short version)

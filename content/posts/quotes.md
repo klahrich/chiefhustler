@@ -132,3 +132,11 @@ George Soros
 _You make the most money in investments that have undiscovered merits. You lose the most money in investments who’s merits are overstated._<br/>
 [Howard Marks, according to Bill Brewster](https://www.getrevue.co/profile/billbrewstertbb/issues/bill-brewster-s-revue-issue-6-925111?via=twitter-card-webview&client=DesktopWeb&element=issue-card)
 <br/><br/>
+
+_I say, we do. I'm not here to discuss this shit with my mind. My soul fucking knows. When I say jump, you fucking jumnp._<br/>
+[Michael Jordan, narrated by Tony Robbins](https://www.youtube.com/watch?v=bGHcpacwEdo)
+<br/><br/>
+
+_Molding and shaping and developing your ideas and your craft so that when it's time for you to make your rounds, you gonna fly._<br/>
+[Stay Focused - Tyrese Gibson](https://www.youtube.com/watch?v=i4PhWdrR0bU)
+<br/><br/>
