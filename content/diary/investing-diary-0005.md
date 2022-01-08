@@ -104,7 +104,7 @@ It's hard, and not just on a psychological level. These models have been transla
 
 **Opportunities such as these exist because some people are constrained in ways that you're not.**
 
-If you want to explore this topic further, [here](https://open.spotify.com/episode/3xRzgGnYZQFMQLLB0JmEmn) is an amazing ValueHive podcast episode with Dan McMurtie you can listen to.
+If you want to explore this topic further, check out [this](https://open.spotify.com/episode/3xRzgGnYZQFMQLLB0JmEmn) amazing ValueHive podcast episode with Dan McMurtie, PM at [Tyro Partners](https://www.tyropartners.com/).
 
 So what is the take-away for us, simple mortal investors?
 
