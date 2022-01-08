@@ -56,13 +56,17 @@ My goal here is not to go over these macro trends, it would take way too much ti
 
 Let's just assume that oil & gas stocks are likely to be undervalued. I'm still no expert though; therefore I need help choosing which ones to bet on.
 
-I could take the safe approach and buy an ETF with energy exposure, such as the [Horizons Crude Oil ETF](https://finance.yahoo.com/quote/HUC.TO?p=HUC.TO&.tsrc=fin-srch), the [BMO S&P/TSX Equal Weight Oil and Gas ETF](https://finance.yahoo.com/quote/ZEO.TO?p=ZEO.TO&.tsrc=fin-srch) or the [Horizons S&P/TSX Capped Energy Index ETF](https://finance.yahoo.com/quote/HXE.TO?p=HXE.TO&.tsrc=fin-srch). That's a totally fine idea.
+I see three reasonable options. Here they are,. from least to most risky.
 
-Another way to do it is to figure out who is an expert on this sector, and clone them. We live in an era where information is exchanged freely and openly at an unbelievable rate. All we have to do is pay attention.
+**1]** The safest approach would be to buy an ETF with energy exposure, such as the [Horizons Crude Oil ETF](https://finance.yahoo.com/quote/HUC.TO?p=HUC.TO&.tsrc=fin-srch), the [BMO S&P/TSX Equal Weight Oil and Gas ETF](https://finance.yahoo.com/quote/ZEO.TO?p=ZEO.TO&.tsrc=fin-srch) or the [Horizons S&P/TSX Capped Energy Index ETF](https://finance.yahoo.com/quote/HXE.TO?p=HXE.TO&.tsrc=fin-srch). That's a totally fine idea.
+
+**2]** Another way to do it is, and maybe the one with the best risk/reward profile, to figure out who is an expert on this sector and allocate some money with them if they run a fund. 
 
 When it comes to energy, I have identified a few individuals that know what they're talking about. They're not that hard to spot. Three of these (but there are more) are [Eric Nuttall](https://twitter.com/ericnuttall), portfolio manager of the [Ninepoint Energy Fund](https://twitter.com/ericnuttall), [Josh Young](https://twitter.com/Josh_Young_1), Managing Partner & Founder of [Bison Interests](https://bisoninterests.com/), and [Shubham Garg](https://twitter.com/WhiteTundraSG), of [White Tundra Investments](https://www.whitetundra.ca/).
 
-And so, we could simply check their top holdings and buy a diversified basket from these. Which is what I've decided to do.
+**3]** We can also try cloning the experts. We live in an era where information is exchanged freely and openly at an unbelievable rate. All we have to do is pay attention.
+
+We could simply check their top holdings and buy a diversified basket from these. Which is what I've decided to do.
 
 Just as an example, here the top holdings of the Ninepoint Energy Fund - not investing advice, I think it's pretty obvious by now I'm not qualified for that :)
 
@@ -131,6 +135,8 @@ I will leave you with one final quote, from a guy I don't necessarily admire, bu
 ![soros](/images/soros.jpg)
 
 ## More Information
+
+- [White Tundra Investments](https://www.whitetundra.ca/) (so much knowledge there, and Shubham Garg is both extremely competent and generous)
 
 - [Talk Energy Podcast](https://www.youtube.com/watch?v=y0pbEGcu56w)
 
