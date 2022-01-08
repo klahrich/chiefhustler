@@ -78,7 +78,7 @@ Just as an example, here the top holdings of the Ninepoint Energy Fund - not inv
 
 ![nincepoint](/images/ninepoint.png)
 
-To wrap up these musings on circle of competence, I would add a final caution. The buying part is easy. Knowing when or why to sell, as non-expert, is trickier. Because the experts will tell you when to buy and shout it from the rooftops. But if they see trouble brewing, and by definition, they'll see it way before you do, they won't necessarily have an incentive to tell you. Keep this in mind and prepare accordingly.
+To wrap up these musings on circle of competence, I would add a final caution. The buying part is easy. Knowing when or why to sell, as non-expert, is trickier. Because the experts will tell you when to buy but if they see trouble brewing (and by definition, they'll see it way before you do) they won't necessarily have an incentive to tell you _immediately_. Keep this in mind and act accordingly.
 
 ## Why Opportunities Exist
 
