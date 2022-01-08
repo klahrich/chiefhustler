@@ -140,7 +140,7 @@ The next caveat I would give is: oil and gas are cyclical commodities, driven by
 
 And finally, I like to think that I'm making an intelligent probabilistic macro bet, but really I'm probably just following the momentum. Who really knows about this stuff; I certainly don't. But I've seen enough to think that the bet has positive expected value and low enough risk to take a small position.
 
-I will leave you with one final quote, from a guy I don't necessarily admire, but one whose success and trading chops are undeniable:
+I will leave you with one final quote, from a guy I don't necessarily admire, but one whose financial success and trading chops are undeniable:
 
 ![soros](/images/soros.jpg)
 
