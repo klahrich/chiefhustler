@@ -36,9 +36,11 @@ Something is within my circle of competence if I can predict with adequate accur
 
 </blockquote>
 
-With this definition in mind, the energy (oil and gas) sector is within my grasp. I think it is within everyone's grasp. All we have to do is learn how those companies make money and pay attention to the overall macro trends. 
+I wish I could say that this definition brings the oil and gas companies within my circle of competence, but unfortunately, it doesn't. Valuing those companies is hard, and I would say without a few years following and studying the field, don't even bother.
 
-And those trends seem to indicate we are headed towards an energy crisis? Here's a beautiful quote from [John Polomny](https://www.youtube.com/watch?v=p-82MV-s9oc):
+However, what is within my circle of competence is to understand the fundamental macro trends that have led these companies to be undervalued.
+
+And those trends seem to indicate we might be headed towards an energy crisis and higher oil prices. Here's a beautiful quote from [John Polomny](https://www.youtube.com/watch?v=p-82MV-s9oc):
 
 <blockquote>
 
@@ -50,7 +52,7 @@ Take a look, it's pretty drastic:
 
 ![oilcapex](/images/oilcapex.png)
 
-Now, I said that energy is within my grasp. But I'm still no expert. So I need help choosing which companies to bet on.
+OK, let's assume that oil & gas stocks are likely to be undervalued. But I'm still no expert. I need help choosing which ones to bet on.
 
 I could take the safe approach and buy an ETF with energy exposure, such as the [Horizons Crude Oil ETF](https://finance.yahoo.com/quote/HUC.TO?p=HUC.TO&.tsrc=fin-srch), the [BMO S&P/TSX Equal Weight Oil and Gas ETF](https://finance.yahoo.com/quote/ZEO.TO?p=ZEO.TO&.tsrc=fin-srch) or the [Horizons S&P/TSX Capped Energy Index ETF](https://finance.yahoo.com/quote/HXE.TO?p=HXE.TO&.tsrc=fin-srch). That's a totally fine idea.
 
