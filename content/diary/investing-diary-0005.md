@@ -66,7 +66,7 @@ When it comes to energy, I have identified a few individuals that know what they
 
 - [Eric Nuttall](https://twitter.com/ericnuttall), portfolio manager of the [Ninepoint Energy Fund](https://twitter.com/ericnuttall)
 
-- [Josh Young](https://twitter.com/Josh_Young_1), Managing Partner & Founder of [Bison Interests](https://bisoninterests.com/)
+- [Josh Young](https://twitter.com/Josh_Young_1), managing partner & founder of [Bison Interests](https://bisoninterests.com/)
 
 - [Shubham Garg](https://twitter.com/WhiteTundraSG), of [White Tundra Investments](https://www.whitetundra.ca/)
 
