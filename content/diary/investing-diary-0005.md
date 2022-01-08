@@ -62,7 +62,13 @@ I see three reasonable options. Here they are,. from least to most risky.
 
 **2]** Another way to do it, and maybe the one with the best risk/reward profile, is to figure out who is an expert on this sector and allocate some money with them (let them manage the bets). 
 
-When it comes to energy, I have identified a few individuals that know what they're talking about. They're not that hard to spot. Three of these (but there are more) are [Eric Nuttall](https://twitter.com/ericnuttall), portfolio manager of the [Ninepoint Energy Fund](https://twitter.com/ericnuttall), [Josh Young](https://twitter.com/Josh_Young_1), Managing Partner & Founder of [Bison Interests](https://bisoninterests.com/), and [Shubham Garg](https://twitter.com/WhiteTundraSG), of [White Tundra Investments](https://www.whitetundra.ca/).
+When it comes to energy, I have identified a few individuals that know what they're talking about. They're not that hard to spot. Three of these (but there are more) are:
+
+- [Eric Nuttall](https://twitter.com/ericnuttall), portfolio manager of the [Ninepoint Energy Fund](https://twitter.com/ericnuttall)
+
+- [Josh Young](https://twitter.com/Josh_Young_1), Managing Partner & Founder of [Bison Interests](https://bisoninterests.com/)
+
+- [Shubham Garg](https://twitter.com/WhiteTundraSG), of [White Tundra Investments](https://www.whitetundra.ca/)
 
 **3]** We can also try cloning the experts. We live in an era where information is exchanged freely and openly at an unbelievable rate. All we have to do is pay attention.
 
