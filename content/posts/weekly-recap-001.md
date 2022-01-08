@@ -8,9 +8,9 @@ type: "weekly-recap"
 
 ## Actions
 
-Last week, I commited to writing a piece everyday on investing or stocks.
+At the beginning of the year, I commited to writing a piece everyday on investing or stocks.
 
-Here are the 5 entries of the weeks:
+Here are the 5 entries of this week:
 
 - [Investing Diary - Issue #1: Texas Pacific Land Corp](/diary/investing-diary-0001)
 - [Investing Diary - Issue #2: Semler Scientific](/diary/investing-diary-0002)
@@ -18,7 +18,7 @@ Here are the 5 entries of the weeks:
 - [Investing Diary - Issue #4: Loyalty Ventures Inc](/diary/investing-diary-0004)
 - [Investing Diary - Issue #5: Oil and Gas](/diary/investing-diary-0005)
 
-In terms of concrete actions, I did two three things:
+In terms of concrete actions this week:
 
 1. I got rid of a position where I had lost all conviction a long time ago. I'm not following that ticker anymore.
 
