@@ -68,7 +68,7 @@ When it comes to energy, I have identified a few individuals that know what they
 
 - [Josh Young](https://twitter.com/Josh_Young_1), managing partner & founder of [Bison Interests](https://bisoninterests.com/)
 
-- [Shubham Garg](https://twitter.com/WhiteTundraSG), of [White Tundra Investments](https://www.whitetundra.ca/)
+- [Shubham Garg](https://twitter.com/WhiteTundraSG), CEO & Founder of [White Tundra Investments](https://www.whitetundra.ca/)
 
 **3]** We can also try cloning the experts. We live in an era where information is exchanged freely and openly at an unbelievable rate. All we have to do is pay attention.
 
@@ -155,6 +155,8 @@ I will leave you with one final quote, from a guy I don't necessarily admire, bu
 - [U.S. Oil Production Remains In Check](https://seekingalpha.com/article/4477903-us-oil-production-remains-in-check)
 
 - [Bloomberg Admits Renewables Mania Caused Energy Shortages](https://michaelshellenberger.substack.com/p/finally-bloomberg-admits-renewables?utm_source=substack&utm_medium=email&utm_content=share)
+
+- [The End of the Oil Age?](https://traderferg.com/the-end-of-the-oil-age/)
 
 
 
