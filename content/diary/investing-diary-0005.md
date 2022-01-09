@@ -52,7 +52,7 @@ Take a look, it's pretty drastic:
 
 ![oilcapex](/images/oilcapex.png)
 
-My goal here is not to go over these macro trends, it would take way too much time, and I'm not qualified anyway.
+My goal here is not to go over these macro trends, it would take way too much time, and I'm not qualified anyway. Smarter people have expressed their thoughts on the matter, see Kuppy's [here](https://adventuresincapitalism.com/2021/09/29/will-esg-create-the-next-lehman-moment/) for example.
 
 Let's just assume that oil & gas stocks are likely to be undervalued. I'm still no expert though; therefore I need help choosing which ones to bet on.
 
