@@ -98,7 +98,7 @@ _We must all suffer from one of two pains: the pain of discipline or the pain of
 <br/><br/>
 
 _Once the mind has accepted a plausible explanation for something, it becomes a framework for all the information that is perceived after it. We’re drawn, subconsciously, to fit and contort all the subsequent knowledge we receive into our framework, whether it fits or not._<br/>
-[Ryan Holiday in Trust Me, I'm Lying](https://www.amazon.ca/Trust-Me-Lying-Confessions-Manipulator/dp/B07RMCR2WQ/ref=sr_1_1?crid=3GC4O0Q8P5SKR&keywords=Trust+Me%2C+I%27m+Lying&qid=1640756088&sprefix=trust+me%2C+i%27m+lying%2Caps%2C70&sr=8-1)
+[Ryan Holiday in Trust Me, I'm Lying](https://www.amazon.ca/Trust-Me-Lying-Confessions-Manipulator/dp/B07RMCR2WQ)
 <br/><br/>
 
 _While we may never objectively know the reality beyond our perception, we can find security in the sharing of our subjective worlds; in the mutual agreement on what is real._<br/>
@@ -143,3 +143,7 @@ _Molding and shaping and developing your ideas and your craft so that when it's 
 
 _When your buddy who's been investing in tech and crypto for the last three years starts telling you to invest in oil, it might be time to start trimming._<br/>
 [Shubham Garg](https://twitter.com/WhiteTundraSG), answering the question: "When is it time to diversify away from O&G?"
+
+-“Often in error, never in doubt” should be carved on the tombstone of many an investment advisor.<br/>
+[100 to 1 in the Stock Market, by Thomas Phelps](https://www.amazon.ca/-/fr/Thomas-William-Phelps/dp/1626540292/)
+<br/><br/>
