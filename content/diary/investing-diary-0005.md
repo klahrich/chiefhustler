@@ -124,9 +124,11 @@ When the facts change, I change my mind. What do you do, sir?
 
 ## Caveats
 
-The best time to bet on oil and gas was in 2020, when oil went into [negative territory](https://www.cnbc.com/2020/06/16/how-negative-oil-prices-revealed-the-dangers-of-futures-trading.html).
+The best time to bet on oil and gas was in 2020, when oil went into [negative territory](https://www.cnbc.com/2020/06/16/how-negative-oil-prices-revealed-the-dangers-of-futures-trading.html). 
 
-Now, in early 2022, it seems like a good bet still. But I have to acknowledge: more and more people are aware of it. 
+Now, in early 2022, it seems like a good bet still. In some ways, on a risk-adjusted basis, the bet might be just as good. 
+
+But I have to acknowledge: more and more people are aware of it. Part of me wonders: am I too late to the party?
 
 I just read [a Revue issue](https://www.getrevue.co/profile/billbrewstertbb/issues/bill-brewster-s-revue-issue-6-925111?via=twitter-card-webview&client=DesktopWeb&element=issue-card) from Bill Brewster, and he had this quote from a Howard Marks' talk on MOI Global:
 
@@ -138,7 +140,7 @@ You make the most money in investments that have undiscovered merits. You lose t
 
 The next caveat I would give is: oil and gas are cyclical commodities, driven by global supply and demand. The stocks go up and down, these are not (for me at least) life long investments.
 
-And finally, I like to think that I'm making an intelligent probabilistic macro bet, but really I'm probably just following the momentum. Who really knows about this stuff; I certainly don't. But I've seen enough to think that the bet has positive expected value and low enough risk to take a small position.
+And finally, I like to think that I'm making an intelligent probabilistic macro bet, but could it be that I'm just following the momentum? Yep, that's a real possibility. But I've seen enough to think that the bet has positive expected value and low enough risk to take a small position.
 
 I will leave you with one final quote, from a guy I don't necessarily admire, but one whose financial success and trading chops are undeniable:
 
