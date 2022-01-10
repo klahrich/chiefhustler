@@ -6,19 +6,23 @@ categories: ["diary"]
 type: "diary"
 ---
 
+Last week, I looked at [Loyalty Ventures Inc](/posts/investing-diary-0004), the AirMiles company. While the company itself was not attractive for me as an investment, I learned a thing or two about the customer loyalty space. One of these learnings is that frequent flyer points are much more valuable within an airline company than outside of it.
+
+From there, a bit more research online has led me to an interesting event-driven situation and potential investment opportunity that involves an airline in trouble and its frequent flyer points.
+
 ### The Story (very short version)
 
 OK so this one is bit weird, I have to admit. But the interesting kind of weird!
 
 I think I first heard about it on a space hosted by George Noble. Several stocks were pitched, you can find the list [here](https://twitter.com/gnoble79/status/1469795405986738176).
 
-I'll try to tell the simplest version possible of the story, which is that basically Aimia holds about 49% equity stake in PLM, the operator of the Club Premier loyalty program in Mexico, while the remainder is owned by [Aeromexico](https://finance.yahoo.com/quote/AEROMEX.MX?p=AEROMEX.MX&.tsrc=fin-srch).
+I'll try to tell the simplest version possible of the story, which is basically that Aimia holds about 49% equity stake in PLM, the operator of the Club Premier loyalty program in Mexico, while the remainder is owned by [Aeromexico](https://finance.yahoo.com/quote/AEROMEX.MX?p=AEROMEX.MX&.tsrc=fin-srch).
 
 But in June 2020, Aeromexico, reeling from the impact of the pandemic, filed for Chapter 11 and started putting together a financial restructuring plan.
 
 And it just so happens that as part of the bankruptcy proceedings, Aimia and Aeromexico have initiated discussions related to a potential transaction whereby Aeromexico would acquire Aimia's stake in PLM. And this where it gets interesting.
 
-Some much smarter people than myself have dug out the potential details of this arrangement.
+Much smarter people than myself have dug out the potential details of this arrangement.
 
 For example, here's an excerpt from a [letter of Laughing Water Capital](https://static1.squarespace.com/static/5d93ed0b59166652b0d66427/t/60fb1f431155b25f3e6e24a3/1627070275338/Laughing+Water+Capital+H1+2021.pdf):
 
@@ -40,7 +44,7 @@ Again, Wabbufo comes to the rescue in [this tweet](https://twitter.com/wabuffo/s
 
 ![aimia-ev](/images/aimia-ev.png)
 
-Assuming the deal goes through, the conservative SOTP enterprise value would be ~6.79$ CAD. Let's be even more conservative and use $400M instead of $425. That gives an equity value of $5.19 USD, or $6.49 CAD ($1.25 CAD/USD).
+Assuming the deal goes through, the conservative SOTP enterprise value would be ~6.79$ CAD. Let's be even more conservative and use $400M instead of $425. That gives an equity value of $5.19 USD, or $6.49 CAD (using $1.25 CAD/USD).
 
 According to these calculations, the current price is at a 25% discount of the theoretical sum of the parts value.
 
@@ -52,7 +56,9 @@ At this point, a few questions remain pending:
 
 - if something goes wrong and Aeromexico doesn't buy out Aimia, what happens then?
 
-I won't attempt to answer these questions here, and I'd rather not bet on whether the restructuring will go through smoothly or not, so I'm not in a rush to jump in here. 
+These questions will have to be answered in a separate post. 
+
+There's no guarantee that the restructuring will go through smoothly, so I'm not in a rush to jump in here. 
 
 However this is interesting enough to stay on my radar. One of the reasons for this is that Aimia is led by the Mittleman brothers. I've just listened to an interview of Chris Mittleman on [The Acquirers Podcast](https://www.youtube.com/watch?v=1TUNOKyv7vQ), and he made a very positive impression on me.
 
