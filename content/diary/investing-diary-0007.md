@@ -1,7 +1,7 @@
 ---
 title: "Investing Diary - Issue #7: Oil - take 2"
 date: 2022-01-08T22:53:34-05:00
-draft: false
+draft: true
 categories: ["diary"]
 type: "diary"
 ---
@@ -55,7 +55,11 @@ As you probably know by now, I'm a generalist and I have zero edge whatsoever in
 
 From the persective of human psychology, I think people have had it with the lockdowns, the isolation and the restrictions on life. While some masochists have been celebrating having their freedom stripped from them, life always wins. And it is about to come back with a vengence. Nothing will stop the tsunami of movement and life that is coming. 
 
-From the perspective of game theory, I think the oil companies are currently in a Nash equilibrium. They're not idiots; they remember what happened the last time, when they over-extended and over-spent on CAPEX. And they know what their creditors and shareholders remember too. More to the point, they have realized that they can print money and return it to themselves and their investors by just staying in this equilibrium. Even if some of them wanted to go out and start expanding, it'll take time to do so, given the staff shortages, equipment shortages, government ESG mandates that might limit liquidity, etc. Of course, this will not last forever. At some point, oil will go high enough and the equilibrium will break, but the point is that in the meantime, money _will be returned_ to shareholders.
+From the perspective of game theory, I think the oil producers are currently in a Nash equilibrium. They're not idiots; they remember what happened the last time, when they over-extended and over-spent on CAPEX, as well as the negative oil prices in 2020 when there was an over-supply. They know that their creditors and shareholders remember too. More to the point, they have realized that they can print money and return it to themselves and their investors by just staying in this equilibrium. Even if some of them wanted to go out and start expanding, it'll take time to do so, given the staff shortages, equipment shortages, government ESG mandates that might limit liquidity, etc. Of course, this will not last forever. At some point, oil will go high enough and the equilibrium will break, but the point is that in the meantime, money _will be returned_ to shareholders.
+
+Still on game theory, some players who had left the game might be tempted to rejoin it:
+
+![tsx-energy](/images/tsx-energy.png)
 
 Finally, from the perspective of risk theory, the geopolitical system seems so tense and fragile that any random event anywhere on the planet (such as what's happening in [Khazakstan](https://www.wsj.com/articles/kazakhstan-unrest-pushes-up-uranium-and-oil-prices-11641497655)) could cause compound the supply issues. 
 
