@@ -1,5 +1,5 @@
 ---
-title: "This Week in Crazyland #2"
+title: "Crazyland - Issue #2"
 date: 2021-12-19T21:37:59-05:00
 draft: false
 categories: ["crazyland"]
@@ -11,9 +11,13 @@ categories: ["crazyland"]
 
 No, this isn't Stalin's Russia. This is Canada, 2021.
 
+<br/>
+
 ## Dancing and singing will also be outlawed, save for performers.
 
 You can't dance anymore in Canada. It's forbidden by the law, until further notice, among [other things](https://www.thelawyersdaily.ca/articles/32282). Similar restrictions have been announced in Ontario, Quebec, and British Columbia.
+
+<br/>
 
 ## The love of freedom is a white male priviledge
 

@@ -1,5 +1,5 @@
 ---
-title: "This Week in Crazyland #1"
+title: "Crazyland - Issue #1"
 date: 2021-11-30T14:45:36-05:00
 draft: false
 categories: ["crazyland"]
@@ -12,6 +12,8 @@ Or how superwoman world disruptor turns into sempiternal female victim to save h
 [Elizabeth Holmes says her former boyfriend abused her](https://www.nytimes.com/live/2021/11/30/business/news-business-stock-market/catch-up-elizabeth-holmes-says-her-former-boyfriend-abused-her)
 
 ![holmes](/images/holmes.png)
+
+<br/>
 
 ## Words that CBC Ottawa would prefer you stop using
 

@@ -144,6 +144,14 @@ _Molding and shaping and developing your ideas and your craft so that when it's 
 _When your buddy who's been investing in tech and crypto for the last three years starts telling you to invest in oil, it might be time to start trimming._<br/>
 [Shubham Garg](https://twitter.com/WhiteTundraSG), answering the question: "When is it time to diversify away from O&G?"
 
--“Often in error, never in doubt” should be carved on the tombstone of many an investment advisor.<br/>
+_“Often in error, never in doubt” should be carved on the tombstone of many an investment advisor._<br/>
 [100 to 1 in the Stock Market, by Thomas Phelps](https://www.amazon.ca/-/fr/Thomas-William-Phelps/dp/1626540292/)
+<br/><br/>
+
+_Oh, you're a wrestler now?_<br/>
+[Nate Diaz on Conor McGregor shooting for a desperate takedown in the 5th round](https://www.youtube.com/watch?v=y2zANlbiywM)
+<br/><br/>
+
+_Who we were doesn't to define who we're gonna be._<br/>
+[Ray Garrison in Bloodshot](https://en.wikipedia.org/wiki/Bloodshot_(film))
 <br/><br/>

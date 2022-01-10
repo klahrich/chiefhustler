@@ -1,7 +1,7 @@
 ---
 title: "Investing Diary - Issue #6: Aimia Inc"
 date: 2022-01-07T09:53:09-05:00
-draft: true
+draft: false
 categories: ["diary"]
 type: "diary"
 ---
@@ -60,7 +60,7 @@ Part of me also wonders: what if the whole bankrupcy is aborted, and Aeromexico 
 
 ### Recent Developments
 
-Some of the creditors have complained that the exit financing Reorganization Plan favors company insiders, including Delta Air Lines and certain Mexican sharesholders and directors. The creditors have until January 7 to vote in favor or against the Plan, and the confirmation hearing is scheduled to take place around January 18th.
+Some of the creditors have complained that the exit financing Reorganization Plan favors company insiders, including Delta Air Lines and certain Mexican sharesholders and directors. I believe the creditors had until January 7 to vote in favor or against the Plan, and the confirmation hearing is scheduled to take place around January 18th. Therefore I will probably post a follow-up very soon.
 
 It's worth noting that Mexico air travel has recovered 95% of its pre-pandemic traffic numbers and Aeromexico closed 2021 carrying almost the same number of passengers it had in 2019. 
 
