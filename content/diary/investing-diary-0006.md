@@ -6,11 +6,11 @@ categories: ["diary"]
 type: "diary"
 ---
 
-Last week, I looked at [Loyalty Ventures Inc](/posts/investing-diary-0004), the AirMiles company. While the company itself was not attractive for me as an investment, I learned a thing or two about the customer loyalty space. One of these learnings is that frequent flyer points are much more valuable within an airline company than outside of it.
+Last week, I looked at [Loyalty Ventures Inc](/diary/investing-diary-0004), the AirMiles company. While the company itself was not attractive for me as an investment, I learned a thing or two about the customer loyalty space. One of these learnings is that frequent flyer points are much more valuable within an airline company than outside of it.
 
 From there, a bit more research online has led me to an interesting event-driven situation and potential investment opportunity that involves an airline in trouble and its frequent flyer points.
 
-### The Story (very short version)
+### The Story (short version)
 
 OK so this one is bit weird, I have to admit. But the interesting kind of weird!
 
