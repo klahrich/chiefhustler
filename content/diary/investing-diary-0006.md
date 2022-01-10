@@ -58,7 +58,7 @@ At this point, a few questions remain pending:
 
 These questions will have to be answered in a separate post. 
 
-There's no guarantee that the restructuring will go through smoothly, so I'm not in a rush to jump in here. 
+There's no guarantee that the restructuring will go through smoothly, so I'm not in a rush to jump in here. I have to do a bit of work, especially on the first question above.
 
 However this is interesting enough to stay on my radar. One of the reasons for this is that Aimia is led by the Mittleman brothers. I've just listened to an interview of Chris Mittleman on [The Acquirers Podcast](https://www.youtube.com/watch?v=1TUNOKyv7vQ), and he made a very positive impression on me.
 
