@@ -57,7 +57,7 @@ Still on game theory, some players who had left the game might be tempted to rej
 
 ![tsx-energy](/images/tsx-energy.png)
 
-Finally, from the perspective of risk theory, the geopolitical system seems so tense and fragile that any random event anywhere on the planet (such as what's happening in [Khazakstan](https://www.wsj.com/articles/kazakhstan-unrest-pushes-up-uranium-and-oil-prices-11641497655)) could worsen the supply issues. 
+Finally, from the perspective of risk theory, the geopolitical system seems so tense and fragile that any random event anywhere on the planet (such as what's happening in [Kazakhstan](https://www.wsj.com/articles/kazakhstan-unrest-pushes-up-uranium-and-oil-prices-11641497655)) could worsen the supply issues. 
 
 I've never used a top-down approach before in order to decide where to invest my money. Buffet and other value investors I respect made me believe it wasn't kosher. 
 
