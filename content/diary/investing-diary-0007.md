@@ -1,7 +1,7 @@
 ---
 title: "Investing Diary - Issue #7: Oil - take 2"
 date: 2022-01-08T22:53:34-05:00
-draft: true
+draft: false
 categories: ["diary"]
 type: "diary"
 ---
