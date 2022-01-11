@@ -45,7 +45,7 @@ It is time to pay the piper.
 
 We have been comfortable for so long that we have forgotten the basic rules of life. Except for hydropower, the green sources of energy don't have (as of today) a high enough EROI to sustain the world by themselves.
 
-![eroi2](/images/eroi2.png)
+![eroi2](/images/eroi2.jpg)
 
 In the specific case of the oil sector, it seems to me that there is a confluence of circumstances taking place.
 
