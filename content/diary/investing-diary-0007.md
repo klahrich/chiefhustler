@@ -36,7 +36,7 @@ Higher EROI allows higher GDP, which enables research to unlock better ways of e
 
 If you find the topic interesting, you can read this other paper on the topic called [What is the Minimum EROI that a Sustainable Society Must Have?](https://drive.google.com/file/d/1ZgEiYOANVPWNfWkllm_sBb1vJfCZd79o/view?usp=sharing).
 
-Back to the people who are investing their money in energy, I found that they all share a certain down-to-earth, no bs attitude. Whether it is [Kuppy](https://adventuresincapitalism.com/), [John Polomny](https://www.youtube.com/channel/UCafCiSnC9iMRB7Dv7a68Ixw) or the aforementioned [Trader Ferg](https://traderferg.com/), they're not your typical New York hedgie. To me at least, they just call it like they see it.
+Back to the people who are investing their money in energy, I found that they all share a certain down-to-earth, no bs attitude. Whether it is [Kuppy](https://adventuresincapitalism.com/), [John Polomny](https://www.youtube.com/channel/UCafCiSnC9iMRB7Dv7a68Ixw) or the aforementioned [Trader Ferg](https://traderferg.com/), they're not your typical New York hedgy. To me at least, they just call it like they see it.
 
 And what they're seeing is that...
 <h1 style="text-align:center">
@@ -45,7 +45,7 @@ It is time to pay the piper.
 
 We have been comfortable for so long that we have forgotten the basic rules of life.
 
-In the specific case of the oil sector, it seems to me that there is a confluence of circumpstances taking place.
+In the specific case of the oil sector, it seems to me that there is a confluence of circumstances taking place.
 
 As you probably know by now, I'm a generalist and I have zero edge whatsoever in this sector, but I might be able to paint a high-level but low resolution picture of the situation.
 
