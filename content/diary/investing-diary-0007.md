@@ -67,7 +67,7 @@ No matter.
 
 ![trading-tits](/images/trading-tits.gif)
 
-### Update 2021-01-11
+### Update (2021-01-11)
 
 This tweet makes me think that it's possible I am completely wrong and understand nothing about human psychology (at least when it comes to Canadians):
 
