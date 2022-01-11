@@ -67,6 +67,12 @@ No matter.
 
 ![trading-tits](/images/trading-tits.gif)
 
+### Update 2021-01-11
+
+This tweet makes me think that it's possible I am completely wrong and understand nothing about human psychology (at least when it comes to Canadians):
+
+{{<tweet 1480955171429658624>}}
+
 ### Links
 
 - [The Crisis Brewing in Energy Markets](https://www.youtube.com/watch?v=PoXcmNT8Zzk)
