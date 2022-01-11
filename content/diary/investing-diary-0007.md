@@ -10,7 +10,7 @@ After saying [last week](/diary/investing-diary-0005) that I was spending too mu
 
 I was mainly thinking about the current global situation we're in.
 
-I read articles and listened to several interviews, and I got the feeling that most if not all of the individuals who follow the sector closely do so because they understand how fundamental and ubiquitous energy is to our everyday lives, in a way that most of us don't. I think we sometimes forget what a [miracle fossil fuels](https://edmontonjournal.com/business/local-business/david-staples-16) are. 
+I read a lot of articles and listened to several interviews, and I got the feeling that most if not all of the individuals who follow the sector closely do so because they understand how fundamental and ubiquitous energy is to our everyday lives, in a way that most of us don't. I think we sometimes forget what a [miracle fossil fuels](https://edmontonjournal.com/business/local-business/david-staples-16) are. 
 
 A fascinating concept I read about is that of Energy Return On Investment (EROI).
 
