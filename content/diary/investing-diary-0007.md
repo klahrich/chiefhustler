@@ -6,7 +6,7 @@ categories: ["diary"]
 type: "diary"
 ---
 
-After saying that I spent too much time thinking about energy and oil stocks last week, I spent the weekend pretty much thinking only about that.
+After saying that I spent too much time thinking about energy and oil stocks [last week](/diary/investing-diary-0005), I spent the weekend pretty much thinking only about that.
 
 I was mainly thinking about the current global situation we're in.
 
