@@ -70,3 +70,5 @@ No matter.
 ### Links
 
 - [The Crisis Brewing in Energy Markets](https://www.youtube.com/watch?v=PoXcmNT8Zzk)
+
+- [EROI -- A Tool To Predict The Best Energy Mix](https://www.forbes.com/sites/jamesconca/2015/02/11/eroi-a-tool-to-predict-the-best-energy-mix/?sh=3d52aa12a027)
