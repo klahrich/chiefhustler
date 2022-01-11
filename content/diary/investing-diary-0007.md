@@ -10,7 +10,7 @@ After saying that I spent too much time thinking about energy and oil stocks [la
 
 I was mainly thinking about the current global situation we're in.
 
-I read a articles and listened to several interviews, and I got the feeling that most if not all of the guys who follow the sector closely do so because they understand how fundamental and ubiquitous energy is to our everyday lives, in a way that most of us don't. I think we sometimes forget what a [miracle fossil fuels](https://edmontonjournal.com/business/local-business/david-staples-16) are. 
+I read a articles and listened to several interviews, and I got the feeling that most if not all of the individuals who follow the sector closely do so because they understand how fundamental and ubiquitous energy is to our everyday lives, in a way that most of us don't. I think we sometimes forget what a [miracle fossil fuels](https://edmontonjournal.com/business/local-business/david-staples-16) are. 
 
 A fascinating concept I read about is that of Energy Return On Investment (EROI).
 
