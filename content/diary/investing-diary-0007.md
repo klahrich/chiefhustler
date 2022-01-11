@@ -6,15 +6,11 @@ categories: ["diary"]
 type: "diary"
 ---
 
-After saying that I spent too much time thinking about energy and oil stocks these past few days, I spent the weekend pretty much thinking only about it.
+After saying that I spent too much time thinking about energy and oil stocks last week, I spent the weekend pretty much thinking only about that.
 
 I was mainly thinking about the current global situation we're in.
 
-Interestingly, I did not think about the kind of returns I could make or miss by betting or not on the sector. I was more intellectually attracted by the situation itself. Which is a good sign.
-
-Here are a few resources that helped refine my thoughts. I should preface this by saying that this sector and its specialists are humbling. 
-
-I read a few articles and listened to several interviews, and I got the feeling that most if not all of the guys who follow the sector closely do so because they understand how fundamental and ubiquitous energy is to our everyday lives, in a way that most of us don't. I think we sometimes forget what a [miracle fossil fuels](https://edmontonjournal.com/business/local-business/david-staples-16) are. 
+I read a articles and listened to several interviews, and I got the feeling that most if not all of the guys who follow the sector closely do so because they understand how fundamental and ubiquitous energy is to our everyday lives, in a way that most of us don't. I think we sometimes forget what a [miracle fossil fuels](https://edmontonjournal.com/business/local-business/david-staples-16) are. 
 
 A fascinating concept I read about is that of Energy Return On Investment (EROI).
 
@@ -26,7 +22,7 @@ Energy Return on Investment (EROI) is a ratio for describing a measure of energy
 
 </blockquote>
 
-We can think about that concept on an individual level, but it's more interesting (for our current discussion) to think about it on a societal level. How much energy is return to us, as a ratio of the energy we spend to extract, deliver and use it?
+We can think about that concept on an individual level, but it's more interesting (for our current discussion) to think about it on a societal level. How much energy is returned to us, as a ratio of the energy we spend to extract, deliver and use it?
 
 Closely related to the concept of EROI is that of _Energy Surplus_, i.e. how much energy is left after accounting for the costs of obtaining it. 
 
@@ -51,23 +47,23 @@ We have been comfortable for so long that we have forgotten the basic rules of l
 
 In the specific case of the oil sector, it seems to me that there is a confluence of circumpstances taking place.
 
-As you probably know by now, I'm a generalist and I have zero edge whatsoever in this sector, but I might be able to paint a high-level picture of the situation.
+As you probably know by now, I'm a generalist and I have zero edge whatsoever in this sector, but I might be able to paint a high-level but low resolution picture of the situation.
 
-From the persective of human psychology, I think people have had it with the lockdowns, the isolation and the restrictions on life. While some masochists have been celebrating having their freedom stripped from them, life always wins. And it is about to come back with a vengence. Nothing will stop the tsunami of movement and life that is coming. 
+From the persective of human psychology, I think people have had it with the lockdowns, the isolation, and the restrictions on life. While some masochists have been celebrating having their freedom stripped from them, life always wins. And it is about to come back with a vengence. Nothing will stop the tsunami of movement and life that is coming. I have to caveat this with the omicron wave and its consequences. Many people believe it could have catastrophic consequences on the economy, at least in the short term. As always, nothing is certain and the future is hard to predict.
 
-From the perspective of game theory, I think the oil producers are currently in a Nash equilibrium. They're not idiots; they remember what happened the last time, when they over-extended and over-spent on CAPEX, as well as the negative oil prices in 2020 when there was an over-supply. They know that their creditors and shareholders remember too. More to the point, they have realized that they can print money and return it to themselves and their investors by just staying in this equilibrium. Even if some of them wanted to go out and start expanding, it'll take time to do so, given the staff shortages, equipment shortages, government ESG mandates that might limit liquidity, etc. Of course, this will not last forever. At some point, oil will go high enough and the equilibrium will break, but the point is that in the meantime, money _will be returned_ to shareholders.
+From the perspective of game theory, I think the oil producers are currently in a Nash equilibrium. They're not idiots; they remember what happened the last time, when they overextended and overspent on CAPEX, as well as the negative oil prices in 2020 when there was an oversupply. Their creditors and shareholders remember too. More to the point, they have realized that they can print money and return it to themselves and their investors by just staying in this equilibrium. Even if some of them wanted to go out and start expanding, it'll take time to do so, given the staff shortages, equipment shortages, government ESG mandates that might limit liquidity, etc. Of course, this will not last forever. At some point, oil will go high enough and the equilibrium will break, but in the meantime, money _will be returned_ to shareholders.
 
 Still on game theory, some players who had left the game might be tempted to rejoin it:
 
 ![tsx-energy](/images/tsx-energy.png)
 
-Finally, from the perspective of risk theory, the geopolitical system seems so tense and fragile that any random event anywhere on the planet (such as what's happening in [Khazakstan](https://www.wsj.com/articles/kazakhstan-unrest-pushes-up-uranium-and-oil-prices-11641497655)) could cause compound the supply issues. 
+Finally, from the perspective of risk theory, the geopolitical system seems so tense and fragile that any random event anywhere on the planet (such as what's happening in [Khazakstan](https://www.wsj.com/articles/kazakhstan-unrest-pushes-up-uranium-and-oil-prices-11641497655)) could worsen the supply issues. 
 
 I've never used a top-down approach before in order to decide where to invest my money. Buffet and other value investors I respect made me believe it wasn't kosher. 
 
-Not only have I changed my mind, I don't care anymore to be identified as a value investor or be given any particular label. 
+No matter.
 
-All I want is to be rational and seek the truth, and hopefully wealth will be a byproduct.
+![trading-tits](/images/trading-tits.gif)
 
 ### Links
 

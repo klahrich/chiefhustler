@@ -155,3 +155,7 @@ _Oh, you're a wrestler now?_<br/>
 _Who we were doesn't to define who we're gonna be._<br/>
 [Ray Garrison in Bloodshot](https://en.wikipedia.org/wiki/Bloodshot_(film))
 <br/><br/>
+
+_You can't print a barrel of oil, a pound of uranium, or a ton of coal._<br/>
+[Heard on a Twitter Space in Jan 2022](https://twitter.com/i/spaces/1nAJEYnPrVYJL/peek)
+<br/><br/>
