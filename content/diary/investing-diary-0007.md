@@ -47,9 +47,17 @@ We have been comfortable for so long that we have forgotten the basic rules of l
 
 ![eroi2](/images/eroi2.jpg)
 
-In the specific case of the oil sector, it seems to me that there is a confluence of circumstances taking place.
+I was surprised not to see oil in the picture above. I guess there isn't one single type of "oil" and oil-related EROI. I found [this article](https://www.resilience.org/stories/2019-03-12/the-real-energy-return-of-crude-oil-smaller-than-you-would-have-imagined/) there the author considers several oil companies and comes up with an average EROI of 15, which not higher than that of renewable energy sources. In [this other article](https://www.greentechmedia.com/articles/read/examining-the-limits-of-energy-return-on-investment), is is explained that:
 
-As you probably know by now, I'm a generalist and I have zero edge whatsoever in this sector, but I might be able to paint a high-level but low resolution picture of the situation.
+<blockquote>
+
+Oil is an energy-dense fuel. If it can be obtained with relatively little energy expenditure, it can yield a big return in EROI terms. But as it gets harder to extract, and more energy is required for the process, the return on that energy investment diminishes — and at some point, this process may yield oil that’s not worth the energy put into it.   
+
+</blockquote>
+
+I have more work to do on this topic, which I will dive into in a subsequent post.
+
+As you probably know by now, I'm a generalist and I have zero edge whatsoever in this sector, but I might be able to paint a high-level but low resolution picture of the situation. In the specific case of the oil sector, it seems to me that there is a confluence of circumstances taking place.
 
 From the perspective of human psychology, I think people have had it with the lockdowns, the isolation, and the restrictions on life. While some masochists have been celebrating having their freedom stripped from them, life always wins. And it is about to come back with a vengeance. Nothing will stop the tsunami of movement and life that is coming. I have to caveat this with the omicron wave and its consequences. Many people believe it could have catastrophic consequences on the economy, at least in the short term. As always, nothing is certain and the future is hard to predict.
 
@@ -78,3 +86,5 @@ This tweet makes me think that it's possible I am completely wrong and understan
 - [The Crisis Brewing in Energy Markets](https://www.youtube.com/watch?v=PoXcmNT8Zzk)
 
 - [EROI -- A Tool To Predict The Best Energy Mix](https://www.forbes.com/sites/jamesconca/2015/02/11/eroi-a-tool-to-predict-the-best-energy-mix/?sh=3d52aa12a027)
+
+- [Energy Return on Investment - A Unifying Principle for Biology, Economics, and Sustainability](https://link.springer.com/book/10.1007/978-3-319-47821-0)
