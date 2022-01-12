@@ -22,7 +22,7 @@ So I will keep an eye on it. What would get me really interested is if something
 
 My energy holdings represent about 6.5% of my portfolio as of today. I was very conservative in my sizing here, mostly because I have no expertise in this space, so I felt that a bigger position was not warranted. 
 
-The other reason is that I wanted to wait for the omicron wave to pass in the US. I didn't not expect these stocks to run so fast; I'm up anywhere between +10% and +40% on some of them already, in a matter of days. I have 9 different names in the space to hedge my ignorance, the bigger position is Surge Energy ([$SGY.TO](https://finance.yahoo.com/quote/SGY.TO?p=SGY.TO&.tsrc=fin-srch)) at 1% of the portfolio.
+The other reason is that I wanted to wait for the omicron wave to pass in the US. I didn't not expect these stocks to run so fast; I'm up anywhere between +10% and +40% on some of them already, in a matter of days. I have 9 different names in the space to hedge my ignorance, the bigger position being Surge Energy ([$SGY.TO](https://finance.yahoo.com/quote/SGY.TO?p=SGY.TO&.tsrc=fin-srch)) at 1% of the portfolio.
 
 ### Looking forward
 
