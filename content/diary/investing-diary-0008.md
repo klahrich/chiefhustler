@@ -29,3 +29,10 @@ The other reason is that I wanted to wait for the omicron wave to pass in the US
 There's a met coal stock that I have been eyeing for some time. It is extremely cheap but extremely illiquid as well. Some days it doesn't have any shares trading! I already have a micro position but I've decided to increase it a bit. 
 
 I'll share the name once I have my desired position (it's so illiquid I don't need more competition :p).
+
+P.S. I've been dubbed "WingIt Capital" yesterday on twitter due to this tweet:
+
+{{<tweet 1480964924419588104>}}
+
+I thought it was so funny and accurate, I ran with it - changed my username, and even purchased wingitcapital.com for $19/year :p
+
