@@ -26,7 +26,7 @@ The other reason is that I wanted to wait for the omicron wave to pass in the US
 
 ### Looking forward
 
-There's a microcap met coal stock that I have been eyeing for some time. It is extremely cheap but extremely illiquid as well. Some days it doesn't have any shares trading! I already a super small position but I've decided to increase it a bit. 
+There's a nanocap met coal stock that I have been eyeing for some time. It is extremely cheap but extremely illiquid as well. Some days it doesn't have any shares trading! I already a super small position but I've decided to increase it a bit. 
 
 I'll share the name once I have my desired position (it's so illiquid I don't need more competition :p).
 
