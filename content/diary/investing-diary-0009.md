@@ -56,7 +56,7 @@ In the nine months ended September 30, 2021, GVC generated $7.1M of EBITDA, excl
 
 My estimation of EV is $60M, giving us a 7.5x EV/EBITDA multiple.
 
-_Koyfin is showing a multiple of 2.8x currently. Hey if I'm wrong and they're right, I'm happy with that!_
+_[Koyfin is showing a multiple of 2.8x currently. Hey if I'm wrong and they're right, I'm happy with that!]_
 
 In [his activist letter](https://www.accesswire.com/viewarticle.aspx?id=676668) on [$LEE](https://finance.yahoo.com/quote/LEE), a local news and information business in the US, Harris Kupperman argues that such a business should trade at 15x EBITDA minimum, given the growth (+48.3%) and proportion (33.4%) of its digital segment.
 
