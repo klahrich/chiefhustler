@@ -1,7 +1,9 @@
 ---
 title: "Investing Diary - Issue #9: Glacier Media"
 date: 2022-01-10T10:21:03-05:00
-draft: true
+draft: false
+categories: ["diary"]
+type: "diary"
 ---
 
 _Full disclosure: I own shares in this company. This is for informational purposes only and is not intended as investment advice. Do your own due diligence._
