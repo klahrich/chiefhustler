@@ -28,7 +28,7 @@ Lumber has rallied (round 2) like crazy:
 
 ![lumber2](/images/lumber-2022.png)
 
-Not sure what's behind this surge but I doubt it stays high for long, I haven't seen anything indicating that this is driven by demand.
+Not sure what's behind this surge but I doubt it stays high for long; I haven't seen anything indicating that this is driven by demand.
 
 ## Investment Tidbit
 
