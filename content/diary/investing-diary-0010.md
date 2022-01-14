@@ -1,5 +1,5 @@
 ---
-title: "Investing Diary - Issue #10: Friday Stuff"
+title: "Investing Diary - Issue #10: It's Friday!"
 date: 2022-01-11T21:10:20-05:00
 draft: false
 categories: ["diary"]
