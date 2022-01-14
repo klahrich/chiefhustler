@@ -28,11 +28,11 @@ One of the most important investment metrics is the Return on Invested Capital, 
 
 The growth rate of a business is the product of its ROIC and its reinvestment rate.
 
-Here's a simple way to sum it up, from[Comus Investment](http://www.comusinvestment.com/blog/growth-returns-on-capital-and-business-valuation):
+Here's a simple way to sum it up, from [Comus Investment](http://www.comusinvestment.com/blog/growth-returns-on-capital-and-business-valuation):
 
 ![growth](/images/growth.png)
 
-Here's a simple way to calculate it, from [this article](https://stablebread.com/how-to-calculate-and-analyze-return-on-invested-capital/).
+Calculateing ROIC is simple enough ([source](https://stablebread.com/how-to-calculate-and-analyze-return-on-invested-capital/)):
 
 ![roic](/images/roic.png)
 
