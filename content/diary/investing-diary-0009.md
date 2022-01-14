@@ -2,7 +2,7 @@
 title: "Investing Diary - Issue #9: Glacier Media"
 date: 2022-01-10T10:21:03-05:00
 draft: false
-categories: ["diary"]
+categories: ["diary", "$GVC.TO"]
 type: "diary"
 ---
 
