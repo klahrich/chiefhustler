@@ -20,7 +20,15 @@ In an e-mail viewed by CTV News Toronto, a representative from Mount Sinai Hospi
 
 </blockquote>
 
-It seems like hospitals are overwhelmed. Anything non-covid related is likely to be postponed.
+It seems like hospitals are overwhelmed. Anything non-covid related is likely to be postponed. Something to keep in mind if considering investments in MedTech.
+
+## Economy
+
+Lumber has rallied (round 2) like crazy:
+
+![lumber2](/images/lumber-2022.png)
+
+Not sure what's behind this surge but I doubt it stays high for long. We'll see...
 
 ## Investment Tidbit
 
