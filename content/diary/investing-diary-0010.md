@@ -32,7 +32,7 @@ Here's a simple way to sum it up, from [Comus Investment](http://www.comusinvest
 
 ![growth](/images/growth.png)
 
-Calculateing ROIC is simple enough ([source](https://stablebread.com/how-to-calculate-and-analyze-return-on-invested-capital/)):
+Calculating ROIC is simple enough ([source](https://stablebread.com/how-to-calculate-and-analyze-return-on-invested-capital/)):
 
 ![roic](/images/roic.png)
 
