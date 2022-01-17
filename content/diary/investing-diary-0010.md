@@ -1,8 +1,8 @@
 ---
-title: "Investing Diary - Issue #10: It's Friday!"
+title: "Friday Musings"
 date: 2022-01-11T21:10:20-05:00
 draft: false
-categories: ["diary"]
+categories: ["random"]
 type: "diary"
 ---
 

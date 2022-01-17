@@ -1,8 +1,8 @@
 ---
-title: "Investing Diary - Issue #7: Oil (part 2)"
+title: "Oil (part 2)"
 date: 2022-01-08T22:53:34-05:00
 draft: false
-categories: ["diary"]
+categories: ["#OOTT"]
 type: "diary"
 ---
 

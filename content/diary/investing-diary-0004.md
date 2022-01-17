@@ -1,8 +1,8 @@
 ---
-title: "Investing Diary - Issue #4: Loyalty Ventures Inc"
+title: "Loyalty Ventures Inc"
 date: 2022-01-05T10:22:45-05:00
 draft: false
-categories: ["diary"]
+categories: ["$LYLT"]
 type: "diary"
 ---
 

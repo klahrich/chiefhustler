@@ -1,8 +1,8 @@
 ---
-title: "Investing Diary - Issue #5: Oil and Gas"
+title: "Oil and Gas"
 date: 2022-01-06T04:04:15-05:00
 draft: false
-categories: ["diary"]
+categories: ["#OOTT"]
 type: "diary"
 ---
 
@@ -140,13 +140,17 @@ You make the most money in investments that have undiscovered merits. You lose t
 
 The next caveat I would give is: oil and gas are cyclical commodities, driven by global supply and demand. The stocks go up and down, these are not (for me at least) life long investments.
 
-And finally, I like to think that I'm making an intelligent probabilistic macro bet, but could it be that I'm just following the momentum? Yep, that's a real possibility. But I've seen enough to think that the bet has positive expected value and low enough risk to take a small position.
+Third, I like to think that I'm making an intelligent probabilistic macro bet, but could it be that I'm just following the momentum? Yep, that's a real possibility.
+
+And finally, there two known unknowns in this story: 1) US shale oil coming back online thanks to higher prices, and 2) OPEC spare inventory. These two alone can shift the story dramatically.
 
 I will leave you with one final quote, from a guy I don't necessarily admire, but one whose financial success and trading chops are undeniable:
 
 ![soros](/images/soros.jpg)
 
 ## More Information
+
+- [U.S. Energy Information Administration](https://www.eia.gov/)
 
 - [White Tundra Investments](https://www.whitetundra.ca/) (so much knowledge there, and Shubham Garg is both extremely competent and generous)
 
@@ -157,6 +161,7 @@ I will leave you with one final quote, from a guy I don't necessarily admire, bu
 - [Bloomberg Admits Renewables Mania Caused Energy Shortages](https://michaelshellenberger.substack.com/p/finally-bloomberg-admits-renewables?utm_source=substack&utm_medium=email&utm_content=share)
 
 - [The End of the Oil Age?](https://traderferg.com/the-end-of-the-oil-age/)
+
 
 
 

@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Jan 2022 21:10:20 -0500</lastBuildDate><atom:link href="https://chiefhustler.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>diary</title>
-      <link>https://chiefhustler.com/categories/diary/</link>
+      <title>random</title>
+      <link>https://chiefhustler.com/categories/random/</link>
       <pubDate>Tue, 11 Jan 2022 21:10:20 -0500</pubDate>
       
-      <guid>https://chiefhustler.com/categories/diary/</guid>
+      <guid>https://chiefhustler.com/categories/random/</guid>
       <description></description>
     </item>
     
@@ -35,11 +35,65 @@
     </item>
     
     <item>
+      <title>#OOTT</title>
+      <link>https://chiefhustler.com/categories/#oott/</link>
+      <pubDate>Sat, 08 Jan 2022 22:53:34 -0500</pubDate>
+      
+      <guid>https://chiefhustler.com/categories/#oott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$AIM.TO</title>
+      <link>https://chiefhustler.com/categories/aim.to/</link>
+      <pubDate>Sat, 08 Jan 2022 22:53:34 -0500</pubDate>
+      
+      <guid>https://chiefhustler.com/categories/aim.to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>weekly-recap</title>
       <link>https://chiefhustler.com/categories/weekly-recap/</link>
       <pubDate>Fri, 07 Jan 2022 17:03:50 -0500</pubDate>
       
       <guid>https://chiefhustler.com/categories/weekly-recap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$LYLT</title>
+      <link>https://chiefhustler.com/categories/lylt/</link>
+      <pubDate>Wed, 05 Jan 2022 10:22:45 -0500</pubDate>
+      
+      <guid>https://chiefhustler.com/categories/lylt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$WILD.TO</title>
+      <link>https://chiefhustler.com/categories/wild.to/</link>
+      <pubDate>Tue, 04 Jan 2022 09:39:38 -0500</pubDate>
+      
+      <guid>https://chiefhustler.com/categories/wild.to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$SMLR</title>
+      <link>https://chiefhustler.com/categories/smlr/</link>
+      <pubDate>Tue, 04 Jan 2022 07:11:58 -0500</pubDate>
+      
+      <guid>https://chiefhustler.com/categories/smlr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$TPL</title>
+      <link>https://chiefhustler.com/categories/tpl/</link>
+      <pubDate>Mon, 03 Jan 2022 07:28:26 -0500</pubDate>
+      
+      <guid>https://chiefhustler.com/categories/tpl/</guid>
       <description></description>
     </item>
     
@@ -67,15 +121,6 @@
       <pubDate>Tue, 07 Dec 2021 01:23:52 -0500</pubDate>
       
       <guid>https://chiefhustler.com/categories/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>random</title>
-      <link>https://chiefhustler.com/categories/random/</link>
-      <pubDate>Sun, 21 Nov 2021 16:58:32 -0500</pubDate>
-      
-      <guid>https://chiefhustler.com/categories/random/</guid>
       <description></description>
     </item>
     

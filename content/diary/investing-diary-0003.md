@@ -1,8 +1,8 @@
 ---
-title: "Investing Diary - Issue #3: WildBrain"
+title: "WildBrain"
 date: 2022-01-04T09:39:38-05:00
 draft: false
-categories: ["diary"]
+categories: ["$WILD.TO"]
 type: "diary"
 ---
 

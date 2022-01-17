@@ -1,8 +1,8 @@
 ---
-title: "Investing Diary - Issue #8: Closing the loop on Aimia and Energy"
+title: "Closing the loop on Aimia and Energy"
 date: 2022-01-08T22:53:34-05:00
 draft: false
-categories: ["diary"]
+categories: ["$AIM.TO"]
 type: "diary"
 ---
 
