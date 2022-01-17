@@ -102,7 +102,7 @@ My insight is this: not only am I not worried that revenues are flat, I'd be wor
 
 More concretely, the market will be surprised once the high-margin consumer products get going (with Peanuts, Strawberry Shortcake, and Sonic). But once again, it will take a couple of cycles of the loop for the inflection point to be visible.
 
-Here's, in one picture, my understanding of WildBrain's compounding power. Notice the multiple internal feedback loops at work.
+Here's a simplified diagram depicting WildBrain's compounding power. Notice the multiple internal feedback loops at work.
 
 [![wildbrain-loops](/images/wildbrain-loops.png)](https://drive.google.com/file/d/1JW4Y0j1PrIr-TeI5kOd2p2SknEFDW1vO/view?usp=sharing)
 
