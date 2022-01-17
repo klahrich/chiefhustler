@@ -5,6 +5,8 @@ draft: false
 categories: ["$WILD.TO"]
 ---
 
+_Disclaimer: I own shares of the securities mentioned here. I may sell these at any time and without notice. This post is not intended as financial advice. Due your own due diligence._
+
 ## Compounders
 
 When we talk about compounders in the investment realm, we usually mean _high quality companies that can consistently compound shareholder wealth at a superior rate over the long-term_ (from a [Morgan Stanley article](https://www.morganstanley.com/im/publication/insights/investment-insights/ii_if_en_april2015_equitycompounders.pdf)).
