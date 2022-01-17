@@ -2,7 +2,7 @@
 title: "Semler Scientific"
 date: 2022-01-04T07:11:58-05:00
 draft: false
-categories: ["$SMLR"]
+categories: ["SMLR"]
 type: "diary"
 ---
 

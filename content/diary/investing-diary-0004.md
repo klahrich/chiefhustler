@@ -2,7 +2,7 @@
 title: "Loyalty Ventures Inc"
 date: 2022-01-05T10:22:45-05:00
 draft: false
-categories: ["$LYLT"]
+categories: ["LYLT"]
 type: "diary"
 ---
 

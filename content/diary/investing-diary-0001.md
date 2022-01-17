@@ -2,7 +2,7 @@
 title: "Texas Pacific Land Corp"
 date: 2022-01-03T07:28:26-05:00
 draft: false
-categories: ["$TPL"]
+categories: ["TPL"]
 type: "diary"
 ---
 

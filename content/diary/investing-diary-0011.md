@@ -2,7 +2,7 @@
 title: "Compounders, Deep Value and WildBrain"
 date: 2022-01-10T10:18:18-05:00
 draft: false
-categories: ["$WILD.TO"]
+categories: ["WILD.TO"]
 ---
 
 _Disclaimer: I own shares of the securities mentioned here. I may sell these at any time and without notice. This post is not intended as financial advice. Due your own due diligence._

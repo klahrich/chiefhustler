@@ -2,7 +2,7 @@
 title: "Aimia Inc"
 date: 2022-01-07T09:53:09-05:00
 draft: false
-categories: ["$AIM.TO"]
+categories: ["AIM.TO"]
 type: "diary"
 ---
 
