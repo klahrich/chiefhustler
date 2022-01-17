@@ -2,7 +2,7 @@
 title: "Oil and Gas"
 date: 2022-01-06T04:04:15-05:00
 draft: false
-categories: ["#OOTT"]
+categories: ["energy"]
 type: "diary"
 ---
 

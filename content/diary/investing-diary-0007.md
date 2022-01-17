@@ -2,7 +2,7 @@
 title: "Oil (part 2)"
 date: 2022-01-08T22:53:34-05:00
 draft: false
-categories: ["#OOTT"]
+categories: ["energy"]
 type: "diary"
 ---
 
