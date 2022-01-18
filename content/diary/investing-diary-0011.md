@@ -5,7 +5,7 @@ draft: false
 categories: ["WILD.TO"]
 ---
 
-_Disclaimer: I own shares of the securities mentioned here. I may sell these at any time and without notice. This post is not intended as financial advice. Due your own due diligence._
+_Disclaimer: I own shares of the securities mentioned here. I may sell these at any time and without notice. Nothing here is investment advice. Do your own due diligence._
 
 ## Compounders
 
@@ -26,7 +26,7 @@ That's the **descriptive definition** a compounder: a compounder is a business t
 
 But then we have to understand whether the high ROIC is sustainable, or if we should expect reversion to the mean. 
 
-In other words we must determine why the compounding occured. From the same article:
+In other words we must determine why the compounding occurred. From the same article:
 
 <blockquote>
 
@@ -41,7 +41,7 @@ The reason that this approach works in practice is that as the compounding perio
 
 Therefore, long historical compounders typically have some kind of unique growth engine within. Alternatively, they have a great capital allocator at the helm (think CSU.TO or BRK). 
 
-The latter is an example of _manual compounder_, where the compounding happens thanks to the discrete decisions of a person or a group of people. Apple, on the hand, is an example of _automatic compounder_, where the compounding happens thanks to the brand power and oligolistic position.
+The latter is an example of _manual compounder_, where the compounding happens thanks to the discrete decisions of a person or a group of people. Apple, on the hand, is an example of _automatic compounder_, where the compounding happens thanks to the brand power and oligopolistic position.
 
 That leads us to the **predictive description** of a compounder: a compounder is a system with a positive feedback loop between its components.
 
@@ -64,7 +64,7 @@ Imagine something happens that causes something else to happen - A causes B. Fur
 
 </blockquote>
 
-The quintessential exemple of such a feedback loop is population growth: more adults forming couples leads to more births, **a fraction of which** which will lead to more adults forming couples.
+The quintessential example of such a feedback loop is population growth: more adults forming couples leads to more births, **a fraction of which** which will lead to more adults forming couples.
 
 Another example in business is word of mouth and brand power: more customers leads to them talking about the brand to other people, **a fraction of which** turn into new customers.
 

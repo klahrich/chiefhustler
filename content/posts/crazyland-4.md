@@ -16,3 +16,7 @@ An excerpt:
 
 ![quebecistan-2](/images/quebecistan-2.png)
 
+
+
+[No vaccine, no French Open for Djokovic as rules tighten](https://www.reuters.com/lifestyle/sports/no-vaccine-no-french-open-djokovic-says-french-sports-ministry-2022-01-17/?taid=61e549dccb3ba40001201103&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter)
+

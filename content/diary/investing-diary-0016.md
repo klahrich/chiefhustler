@@ -1,10 +1,10 @@
 ---
-title: "Investing Diary 0016"
+title: "Even God would get fired as an Active Investor"
 date: 2022-01-14T11:23:34-05:00
-draft: true
+draft: false
+categories: ["investing"]
 ---
 
-## Even God would get fired as an Active Investor
 
 Published in [2016](https://alphaarchitect.com/2016/02/02/even-god-would-get-fired-as-an-active-investor/?utm_campaign=TraderFerg&utm_medium=email&utm_source=Revue%20newsletter).
 
@@ -22,7 +22,9 @@ Decile 10 portfolios represent value-weighted portfolios composed of future top 
 
 Decile 1 represents value-weighted portfolios composed of future bottom 5-year performers.
 
-The "God" strategy is represented by the Decile 10.
+The "God" strategy is represented by the Decile 10 and has a CAGR of 29%.
+
+_Note: I was expecting "God" to have a far better CAGR than 29%!! I wonder if this is due to the universe being limited to the 500 largest firms..._
 
 ![god-cagr](/images/god-cagr.png)
 
@@ -34,4 +36,4 @@ The "God" strategy is represented by the Decile 10.
 
 ![god-drawdown2](/images/god_drawdowns2.png)
 
-https://alphaarchitect.com/2016/02/02/even-god-would-get-fired-as-an-active-investor/?utm_campaign=TraderFerg&utm_medium=email&utm_source=Revue%20newsletter
+Takeaway: even with a "perfect" strategy, you can have some pretty brutal years!

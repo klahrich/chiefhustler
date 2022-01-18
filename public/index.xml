@@ -6,7 +6,7 @@
     <description>Recent content on The Chief&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jan 2022 21:10:20 -0500</lastBuildDate><atom:link href="https://chiefhustler.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jan 2022 11:23:34 -0500</lastBuildDate><atom:link href="https://chiefhustler.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://chiefhustler.com/about/</link>
@@ -24,6 +24,20 @@
       <guid>https://chiefhustler.com/subscribe/</guid>
       <description>Thank you for reading my blog!
 Sign up for my email newsletter or use this RSS feed to get notified of new blog posts.</description>
+    </item>
+    
+    <item>
+      <title>Even God would get fired as an Active Investor</title>
+      <link>https://chiefhustler.com/diary/investing-diary-0016/</link>
+      <pubDate>Fri, 14 Jan 2022 11:23:34 -0500</pubDate>
+      
+      <guid>https://chiefhustler.com/diary/investing-diary-0016/</guid>
+      <description>Published in 2016.
+ We compute the 5-year “look ahead” return for all common stocks for the 500 largest NYSE/NASDAQ/AMEX firms.
+Next, we create decile portfolios based on the forward five-year compound annual growth rate (CAGR).
+We rebalance the names in the portfolio on January 1st of every fifth year.
+ Decile 10 portfolios represent value-weighted portfolios composed of future top 5-year performers.
+Decile 1 represents value-weighted portfolios composed of future bottom 5-year performers.</description>
     </item>
     
     <item>
@@ -54,7 +68,7 @@ Wrote up Glacier Media ($GVC.TO) a couple of months ago, but I think the risk/re
       <pubDate>Mon, 10 Jan 2022 10:18:18 -0500</pubDate>
       
       <guid>https://chiefhustler.com/diary/investing-diary-0011/</guid>
-      <description>Disclaimer: I own shares of the securities mentioned here. I may sell these at any time and without notice. This post is not intended as financial advice. Due your own due diligence.
+      <description>Disclaimer: I own shares of the securities mentioned here. I may sell these at any time and without notice. Nothing here is investment advice. Do your own due diligence.
 Compounders When we talk about compounders in the investment realm, we usually mean high quality companies that can consistently compound shareholder wealth at a superior rate over the long-term (from a Morgan Stanley article).
 From the article:
  The key financial characteristic of compounders is that they enjoy sustainable, high return on invested capital (ROIC).</description>
