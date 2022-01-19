@@ -1,7 +1,7 @@
 ---
 title: "The Long Game"
 date: 2022-01-17T19:33:36-05:00
-draft: true
+draft: false
 categories: ["random"]
 ---
 
