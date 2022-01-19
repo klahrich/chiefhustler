@@ -55,5 +55,5 @@ God forbid I start praising businesses I don't understand because I'm paid to do
 
 {{<tweet 1482029905584005121>}}
 
-I have to say, I feel proud to know that I will continue my journey with no care for what the rest of the world does or think, and a quiet but joyful confidence in my own process.
+I have to say, I feel proud to know that I will continue my journey with no care for what the rest of the world does or thinks, with a quiet but joyful confidence in my own process.
 
