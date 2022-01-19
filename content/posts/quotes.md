@@ -160,3 +160,7 @@ _Who we were doesn't to define who we're gonna be._<br/>
 _You can't print a barrel of oil, a pound of uranium, or a ton of coal._<br/>
 [Heard on a Twitter Space in Jan 2022](https://twitter.com/i/spaces/1nAJEYnPrVYJL/peek)
 <br/><br/>
+
+_I would rather have questions that can’t be answered than answers that can’t be questioned._<br/>
+[Richard P. Feynman, winner of the Nobel Prize in Physics in 1965](https://www.youtube.com/watch?v=P1ww1IXRfTA)
+<br/><br/>

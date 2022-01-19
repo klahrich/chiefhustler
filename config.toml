@@ -34,8 +34,9 @@ googlefonts = "http://fonts.googleapis.com/css?family=Itim|Limelight"
 mainSections = ["posts", "diary", "weekly-recap"]
 
 headTitle = "Chief Hustler"
-disqusShortname = 'https-chiefhustler-com'
+#disqusShortname = 'https-chiefhustler-com'
 #disqus = "https-chiefhustler-com" # disqus account name
+graphcomment = true
 extraHead = "<!-- Global site tag (gtag.js) - Google Analytics --> <script async src='https://www.googletagmanager.com/gtag/js?id=G-4R1BEBSNLV'></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-4R1BEBSNLV');</script>"
 
 [[params.socials]]
