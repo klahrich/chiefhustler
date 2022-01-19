@@ -5,6 +5,8 @@ draft: false
 categories: ["random"]
 ---
 
+_Disclaimer: this post is 100% nasal gazing. This will happen every once in a while, it's just part of my learning process. If you don't enjoy it, don't read it :)_
+
 ## The Writing Game
 
 It has been about 2 weeks since I've committed myself to writing everyday.
