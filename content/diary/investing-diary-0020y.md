@@ -1,7 +1,7 @@
 ---
 title: "Canaf Investments"
 date: 2022-01-20T10:21:03-05:00
-draft: true
+draft: false
 categories: ["CAF.V"]
 summary: "An illiquid nanocap met coal play"
 ---
@@ -87,6 +87,8 @@ I already have a small position. In the next earnings release, I'll be looking f
 - company guidance for 2022
 - income from property investments
 - gross margin (12.4% for the last nine months)
+
+Note: I tried contacting management but was not successful.
 
 ## Links
 
