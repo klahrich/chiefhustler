@@ -3,6 +3,7 @@ title: "Even God would get fired as an Active Investor"
 date: 2022-01-14T11:23:34-05:00
 draft: false
 categories: ["investing"]
+summary: "An interesting study on the theoretical return of a God-like active investor"
 ---
 
 

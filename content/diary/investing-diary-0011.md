@@ -3,6 +3,7 @@ title: "Compounders, Deep Value and WildBrain"
 date: 2022-01-10T10:18:18-05:00
 draft: false
 categories: ["WILD.TO"]
+summary: "Thoughts on compounding in general and how it applies to WildBrain"
 ---
 
 _Disclaimer: I own shares of the securities mentioned here. I may sell these at any time and without notice. Nothing here is investment advice. Do your own due diligence._

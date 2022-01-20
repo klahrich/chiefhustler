@@ -4,6 +4,7 @@ date: 2022-01-08T22:53:34-05:00
 draft: false
 categories: ["AIM.TO"]
 type: "diary"
+summary: "Short and sweet"
 ---
 
 This one will be short and sweet.

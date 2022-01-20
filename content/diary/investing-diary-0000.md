@@ -3,6 +3,7 @@ title: "Investing Diary - Issue #0: The Purpose"
 date: 2022-01-02T07:20:07-05:00
 draft: false
 type: "diary"
+summary: "Let the writing begin!"
 ---
 
 Aswath Damodaran, who has been christened as the "Dean of Valuation" due to his deep expertise on the topic, has said: _"Valuation is neither a science nor an art. It is a craft."_ 

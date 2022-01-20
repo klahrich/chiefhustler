@@ -4,6 +4,7 @@ date: 2022-01-07T17:03:50-05:00
 draft: false
 categories: ["weekly-recap"]
 type: "weekly-recap"
+summary: "Recap of the week"
 ---
 
 ## Actions

@@ -4,6 +4,7 @@ date: 2022-01-06T04:04:15-05:00
 draft: false
 categories: ["energy"]
 type: "diary"
+summary: "A generalist bozo's thoughts on oil & gas"
 ---
 
 ![oil-and-gas](/images/oil-and-gas.png)
@@ -152,6 +153,8 @@ I will leave you with one final quote, from a guy I don't necessarily admire, bu
 
 - [U.S. Energy Information Administration](https://www.eia.gov/)
 
+- [OPEC](https://www.opec.org/opec_web/en/)
+
 - [White Tundra Investments](https://www.whitetundra.ca/) (so much knowledge there, and Shubham Garg is both extremely competent and generous)
 
 - [Talk Energy Podcast](https://www.youtube.com/watch?v=y0pbEGcu56w)
@@ -161,6 +164,8 @@ I will leave you with one final quote, from a guy I don't necessarily admire, bu
 - [Bloomberg Admits Renewables Mania Caused Energy Shortages](https://michaelshellenberger.substack.com/p/finally-bloomberg-admits-renewables?utm_source=substack&utm_medium=email&utm_content=share)
 
 - [The End of the Oil Age?](https://traderferg.com/the-end-of-the-oil-age/)
+
+- [Nice blog post about Canadian O&G from @Petty__Cash](https://pettycash.blog/2022/01/17/og-activity-canada/)
 
 
 

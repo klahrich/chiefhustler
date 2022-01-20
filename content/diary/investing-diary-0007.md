@@ -4,6 +4,7 @@ date: 2022-01-08T22:53:34-05:00
 draft: false
 categories: ["energy"]
 type: "diary"
+summary: "More macro ramblings on oil and why I'm increasing my position"
 ---
 
 After saying [last week](/diary/investing-diary-0005) that I was spending too much time thinking about energy and oil stocks, I pretty much spent the weekend thinking only about that.

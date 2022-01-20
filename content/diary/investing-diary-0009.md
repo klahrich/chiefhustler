@@ -4,6 +4,7 @@ date: 2022-01-10T10:21:03-05:00
 draft: false
 categories: ["GVC.TO"]
 type: "diary"
+summary: "Investment thesis on an unloved microcap"
 ---
 
 _Full disclosure: I own shares in this company. This is for informational purposes only and is not intended as investment advice. Do your own due diligence._

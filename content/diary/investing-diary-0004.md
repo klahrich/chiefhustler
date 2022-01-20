@@ -4,6 +4,7 @@ date: 2022-01-05T10:22:45-05:00
 draft: false
 categories: ["LYLT"]
 type: "diary"
+summary: "A quick dip into the customer loyalty points space"
 ---
 
 ![airmiles](/images/airmiles.jpg)

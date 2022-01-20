@@ -3,6 +3,7 @@ title: "The Long Game"
 date: 2022-01-17T19:33:36-05:00
 draft: false
 categories: ["random"]
+summary: "Why writing is a form of compounding"
 ---
 
 _Disclaimer: this post is 100% nasal gazing. This will happen every once in a while, it's just part of my learning process. If you don't enjoy it, don't read it :)_

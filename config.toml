@@ -28,6 +28,8 @@ googlefonts = "http://fonts.googleapis.com/css?family=Itim|Limelight"
     contentDir = "content"
     languageName = "English"
     weight = 1
+
+summaryLength = 15
   
 
 [params]

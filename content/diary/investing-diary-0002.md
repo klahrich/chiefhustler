@@ -4,6 +4,7 @@ date: 2022-01-04T07:11:58-05:00
 draft: false
 categories: ["SMLR"]
 type: "diary"
+summary: "Suggested by Yen Liow, I had to take a look!"
 ---
 
 ### The bull argument

@@ -4,6 +4,7 @@ date: 2022-01-07T09:53:09-05:00
 draft: false
 categories: ["AIM.TO"]
 type: "diary"
+summary: "A more interesting name in the customer loyalty points space"
 ---
 
 Last week, I looked at [Loyalty Ventures Inc](/diary/investing-diary-0004), the AirMiles company. While the company itself was not attractive for me as an investment, I learned a thing or two about the customer loyalty space. One of these learnings is that frequent flyer points are much more valuable within an airline company than outside of it.

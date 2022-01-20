@@ -164,3 +164,11 @@ _You can't print a barrel of oil, a pound of uranium, or a ton of coal._<br/>
 _I would rather have questions that can’t be answered than answers that can’t be questioned._<br/>
 [Richard P. Feynman, winner of the Nobel Prize in Physics in 1965](https://www.youtube.com/watch?v=P1ww1IXRfTA)
 <br/><br/>
+
+_The stock market is a market of second-hand goods. The only reason you're able to buy a share in a company is because somebody else didn't want it. Why is that?_<br/>
+[Chris Mayer, How to hunt 100 bagger stocks](https://www.youtube.com/watch?v=gWtqjGOWl3A&t=1298s)
+<br/><br/>
+
+_No matter how much research you do, no matter how much you do on a name, there's some more things you learn about it owning it._<br/>
+[Chris Mayer, How to hunt 100 bagger stocks](https://www.youtube.com/watch?v=gWtqjGOWl3A&t=1298s)
+<br/><br/>

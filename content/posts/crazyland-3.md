@@ -3,6 +3,7 @@ title: "Crazyland - Issue #3"
 date: 2022-01-09T21:27:27-05:00
 draft: false
 categories: ["crazyland"]
+summary: "Fuck Trudeau"
 ---
 
 ## Macron the asshole

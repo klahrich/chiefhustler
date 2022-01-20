@@ -4,6 +4,7 @@ date: 2022-01-11T21:10:20-05:00
 draft: false
 categories: ["random"]
 type: "diary"
+summary: "News, lumber, and ROIC"
 ---
 
 ## News bite
