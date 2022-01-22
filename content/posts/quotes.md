@@ -172,3 +172,7 @@ _The stock market is a market of second-hand goods. The only reason you're able 
 _No matter how much research you do, no matter how much you do on a name, there's some more things you learn about it owning it._<br/>
 [Chris Mayer, How to hunt 100 bagger stocks](https://www.youtube.com/watch?v=gWtqjGOWl3A&t=1298s)
 <br/><br/>
+
+_At 20% of GDP, real-estate is top Canada's priority, and they will keep protecting it - and keep the Chinese money laundering pouring.<br/>
+Heard on a Twitter space.
+<br/><br/>

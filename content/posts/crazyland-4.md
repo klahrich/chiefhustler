@@ -20,3 +20,6 @@ An excerpt:
 
 [No vaccine, no French Open for Djokovic as rules tighten](https://www.reuters.com/lifestyle/sports/no-vaccine-no-french-open-djokovic-says-french-sports-ministry-2022-01-17/?taid=61e549dccb3ba40001201103&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter)
 
+
+https://nationalpost.com/news/canada/no-dissent-is-allowed-school-board-bars-teacher-from-raising-concerns-over-transgender-books?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1642766140
+
