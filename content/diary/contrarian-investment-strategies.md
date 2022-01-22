@@ -10,7 +10,7 @@ summary: "Excerpts from the book"
 
 In every bubble, once the crowd begins to realize how wildly overpriced the stocks they rushed into are, there is a scramble to escape. A horrific panic ensues as the image changes from euphoria to doom. 
 
-In Extraordinary Popular Delusions and the Madness of Crowds_, by Charles Mackay (1841):
+In ***Extraordinary Popular Delusions and the Madness of Crowds***, by Charles Mackay (1841):
 
 <blockquote>
 
