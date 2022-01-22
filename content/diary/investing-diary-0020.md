@@ -78,6 +78,8 @@ In other words, we can buy this company (enterprise value) for about one year an
 
 There are customer and supplier concentration risks. I don't know how easily Canaf can secure supply beyond 2030 (they don't own a mine) but if prices remain elevated for a few more quarters, maybe I don't care. On the customer front, they deal with two large customers mainly, with all the issues it entails. 
 
+The bigger risk though (for any met coal play) is obviously the sensitivity to steel production (and therefore inventories). I've seen a few signals that would point to this risk being material right now.
+
 ## Conclusion
 
 The company has announced that it expects a reduction in sales during 2021Q4, due to a major breakdown from one customer. 
