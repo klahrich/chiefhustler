@@ -8,17 +8,17 @@ summary: "An illiquid nanocap met coal play"
 
 ## Company description
 
-Two wholly owned subsidiaries in South Africa:
+Two wholly-owned subsidiaries in South Africa:
 
-1. Quantum, owns 70% of Southern Coal, operates three kilns near Newcastle, KwaZulu Natal (South Africa) and produces calcined anthracite, which is primarily sold as a substitute to coke mostly to steel and ferromanganese manufacturers.
+1. Quantum, owns 70% of Southern Coal, operates three kilns near Newcastle, KwaZulu Natal (South Africa), and produces calcined anthracite, which is primarily sold as a substitute to coke mostly to steel and ferromanganese manufacturers.
 
-2. Canaf Estate Holdings – Property Investments, focused on acquiring, redeveloping and renting properties primarily within the suburbs of the old Johannesburg CBD. CEH made its first property acquisition in August 2019.
+2. Canaf Estate Holdings – Property Investments, focused on acquiring, redeveloping, and renting properties primarily within the suburbs of the old Johannesburg CBD. CEH made its first property acquisition in August 2019.
 
-Revenue from the sale of calcine and coal has historically been derived from **two customers** and as a result the company is dependent on these customers for its revenue. These two customers are ArcelorMittal (Newcastle steel facility) and BHP Billiton.
+Revenue from the sale of calcine and coal has historically been derived from **two customers** and as a result, the company is dependent on these customers for its revenue. These two customers are ArcelorMittal (Newcastle steel facility) and BHP Billiton.
 
-Through its customers, the company is HIGHLY dependant on the global demand for steel and manganese. 
+Through its customers, the company is HIGHLY dependent on the global demand for steel and manganese. 
 
-In 2016, when global commodity prices were depressed, one customer closed down for 7 months of the year and the other reduced demand by 50%, leading to a 50% drop in the company's revenues. That same year, the company put in operation its 3rd calciner, which was purchased in 2015. This calciner is autogenous (self-sustaining), environmentally compliant and significantly more efficient. It does not use electricity as its source of heat, reducing electricity consumption by 95% for each tonne of calcine product produced. 
+In 2016, when global commodity prices were depressed, one customer closed down for 7 months of the year, and the other reduced demand by 50%, leading to a 50% drop in the company's revenues. That same year, the company put in operation its 3rd calciner, which was purchased in 2015. This calciner is autogenous (self-sustaining), environmentally compliant, and significantly more efficient. It does not use electricity as its source of heat, reducing electricity consumption by 95% for each tonne of calcine product produced. 
 
 In 2017, sales were back up to previous levels and remained elevated ever since.
 
@@ -26,9 +26,9 @@ In 2018, the company sold 30% of Southern Coal to Amandla Amakhulu (Pty) Ltd, (�
 
 In 2019, Canaf Estate Holdings made its first property acquisition for an overall cost of approximately US$125,000. The property is expecting to yield a net return of in excess of 10% per annum.
 
-As of July 2021, the company was in the process of applying for environmental authorisations which would allow for the construction of further calcining facilities. The company also committed to acquire another property worth R850,000 (US$55,500). The growth in revenues during the year was primarily due to a **new customer** ramping up its own production. However, the company was not yet able to transition into long-term agreements with its customers, and is still operating on short-term agreements.
+As of July 2021, the company was in the process of applying for environmental authorizations which would allow for the construction of further calcining facilities. The company also committed to acquiring another property worth R850,000 (US$55,500). The growth in revenues during the year was primarily due to a **new customer** ramping up its own production. However, the company was not yet able to transition into long-term agreements with its customers and is still operating on short-term agreements.
 
-The majority of Quantum’s feedstock anthracite is supplied by the neighbouring Springlake Colliery mine, which has reserves in excess of 15 years, or until 2030.
+The majority of Quantum’s feedstock anthracite is supplied by the neighboring Springlake Colliery mine, which has reserves in excess of 15 years, or until 2030.
 
 ## Some charts and numbers
 
@@ -46,7 +46,7 @@ The majority of Quantum’s feedstock anthracite is supplied by the neighbouring
 
 ![canaf-valuation](/images/canaf-valuation.png)
 
-The valuation metrics I typicallly look at are:
+The valuation metrics I typically look at are:
 
 EV/GP ~ 0.8x 
 
@@ -56,13 +56,13 @@ Looking cheap. The CAPEX expenses are low as well.
 
 ## Analysis
 
-Share price as of the day of this writing is CA$0.11 and market cap is CA$5.22M.
+The share price as of the day of this writing is CA$0.11 and the market cap is CA$5.22M.
 
 The company has CA$4.23M in cash (subject to forex fluctuations, as I expect most of this cash to be held in RAND), and no debt. In other words, 81% of the market cap is in cash.
 
 EV is CA$1M.
 
-On top of this, the company has an amount due from non-controlling interest (corresponding to the Cumulative Redeemable Preference Shares of AAM) totalling US$1.24M as of July 2021, or CA$1.55M. I haven't been able to find anything about this Amandla Amakhulu company though, so to be conservative, I will ignore this CA$1.55M asset completely.
+On top of this, the company has an amount due from non-controlling interest (corresponding to the Cumulative Redeemable Preference Shares of AAM) totaling US$1.24M as of July 2021, or CA$1.55M. I haven't been able to find anything about this Amandla Amakhulu company though, so to be conservative, I will ignore this CA$1.55M asset completely.
 
 _Note: the annual dividends received amounted to CA$269K in 2019 and CA$135K in 2020._
 
@@ -72,11 +72,11 @@ Let's take a look at the past 5 years of financials (all in USD dollars):
 
 Average free cash flow for the past 5 years is US$0.50M, or CA$0.63M.
 
-In other words, we can buy this company (enteprise value) for about one year and a half of average 5-year historical FCF.
+In other words, we can buy this company (enterprise value) for about one year and a half of the average 5-year historical FCF.
 
 ## Risks
 
-There are customer and supplier concentration risks. I don't know how easily Canaf can secure supply beyond 2030 (they don't own a mine) but if prices remain elevated for a few more quarters, maybe I don't care. On the customer front, they deal with two large customers mainly, with all the issues that entails. 
+There are customer and supplier concentration risks. I don't know how easily Canaf can secure supply beyond 2030 (they don't own a mine) but if prices remain elevated for a few more quarters, maybe I don't care. On the customer front, they deal with two large customers mainly, with all the issues it entails. 
 
 ## Conclusion
 
