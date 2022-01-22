@@ -2,7 +2,7 @@
 title: "My Notes on: Value After Hours S04 E03"
 date: 2022-01-20T20:26:14-05:00
 draft: false
-cateogies: ["investing"]
+categories: ["investing"]
 summary: "Notes from my favorite investing podcast"
 ---
 
