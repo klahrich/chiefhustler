@@ -176,3 +176,7 @@ _No matter how much research you do, no matter how much you do on a name, there'
 _At 20% of GDP, real-estate is top Canada's priority, and they will keep protecting it - and keep the Chinese money laundering pouring.<br/>
 Heard on a Twitter space.
 <br/><br/>
+
+_In the end, we will remember not the words of our enemies, but the silence of our friends_<br/>
+Dr. Martin Luther King, Jr.
+<br/><br/>
