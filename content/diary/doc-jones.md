@@ -82,7 +82,7 @@ Every now and then you get lucky, and you get to learn something that maybe the 
 
 90% of the success is getting the macroeconomic environment right: if we're going into a recession, and there will be demand destruction, and prices are cratering down...you will lose money.
 
-Maybe my favorite bit:
+My favorite quote:
 
 <blockquote>
 
