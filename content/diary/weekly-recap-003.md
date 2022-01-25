@@ -1,7 +1,7 @@
 ---
 title: "Investing Diary - Weekly Recap #3"
 date: 2022-01-22T11:19:11-05:00
-draft: true
+draft: false
 categories: ["weekly-recap"]
 type: "weekly-recap"
 summary: "Recap of the week"
@@ -19,7 +19,11 @@ Here are my current holdings and corresponding percentage of my total portfolio:
 
 ![portfolio-oil](/images/portfolio-oil.png)
 
-I'm currently at 9.2% of total portfolio in oil. My maximum psychological threshold is probably around 15%. If we get other dips in the short term, I'm willing to get closer to that percentage, but I'd have to sell something I like less.
+I'm currently at 9.2% of total portfolio in oil. My maximum psychological threshold is probably around 15%. If we get other dips in the short term, I'm willing to get closer to that percentage, but I';; probably be careful as I do want to increase my cash position as well.
+
+On a more psychological note, while I am attracted to the energy space because it is fundamental to life, the number of visible and hidden variables that seem to drive this market is overwhelming. I don't see myself staying invested in this sector too long, just because of the effort it would take to stay on top of it.
+
+For 2022 and beyond, I really want to find a compounder with a solid moat that I can understand at a deep level and track with just a few key variables.
 
 ## New position
 
@@ -33,7 +37,7 @@ Lumber is doing its thing again:
 
 ![lumber-2](/images/lumber-2.png)
 
-I felt like this round 2 of lumber-mania was not driven by fundamental supply issues like in early 2021, and I had a decent (but not spectacular) run with $GFP.V, so I decided I would get out for now. 
+I felt like this round 2 of lumber-mania was not driven by fundamental supply issues like in early 2021, and I had a decent (but not spectacular) run with $GFP.V, so I decided to get out for now. 
 
 I might jump back in later.
 
