@@ -30,9 +30,13 @@ While we talk about return on invested capital (ROIC) a lot, the fact is, it is 
 capital (ROIIC) that measures how much return a company can generate in the future and investors only
 get paid for what happens in the future, not what happened in the past.
 
-_Funny bit (or sad, depending on how you look at it):_ 
+<blockquote>
 
-_"But today, we want to call out our multiyear investment in Blackline and our ***brand-new investment in Peloton***, as our current emerging moat holdings"_
+_But today, we want to call out our multiyear investment in Blackline and our ***brand-new investment in Peloton***, as our current emerging moat holdings_
+
+</blockquote>
+
+_Ouch!_
 
 ### [Oaktree Capital Management (Howard Marks)](https://www.oaktreecapital.com/docs/default-source/memos/selling-out.pdf?sfvrsn=5a4f7166_11)
 
