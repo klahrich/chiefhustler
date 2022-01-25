@@ -1,5 +1,5 @@
 ---
-title: "Doc Jones"
+title: "Doc Jones, Resource Investor"
 date: 2022-01-24T12:14:14-05:00
 draft: false
 categories: ["investing"]
