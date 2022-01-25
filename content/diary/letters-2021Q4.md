@@ -3,7 +3,7 @@ title: "Selected Letters - 2021Q4 (Part 1)"
 date: 2022-01-25T09:48:02-05:00
 draft: false
 categories: ["investing"]
-summary: ["My favorite bits from selected fund letters"]
+summary: "My favorite bits from selected fund letters"
 ---
 
 ### [Ensemble Fund](https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2022/01/24235902/Ensemble-Capitals-Q4-2021-Investor-Letter.pdf)
