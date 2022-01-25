@@ -62,11 +62,11 @@ _I also wonder if the oil sector has a negative Affect attached to it for a larg
 
 Tversky and Kahneman: "[we] assess the frequency of a class or the probability of an event by the ease with which instances or occurrences can be brought to mind." This is why we think deaths by shark attack are more common than deaths from pieces of airplanes falling [whereas the latter is **30 times** more probably than the former].
 
-...**recent**, **salient** eents often strongly influence decision making in the stock market and bond markets that can cause or exacerbate sharp price movements.
+...**recent**, **salient** events often strongly influence decision making in the stock market and bond markets that can cause or exacerbate sharp price movements.
 
 #### A Picture Is Not Worth a Thousand Words
 
-...it's a natural human tendency to draw analogies and see identical situations - where non exist...causes us to give too much emphasis to the similarities between events...reduces the importance we give to variables that are actually critical in deremining and event's probability.
+...it's a natural human tendency to draw analogies and see identical situations - where non exist...causes us to give too much emphasis to the similarities between events...reduces the importance we give to variables that are actually critical in determining and event's probability.
 
 #### The Remarkable Success of Wannabe Gunslingers
 
