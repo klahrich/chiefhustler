@@ -23,3 +23,11 @@ An excerpt:
 
 https://nationalpost.com/news/canada/no-dissent-is-allowed-school-board-bars-teacher-from-raising-concerns-over-transgender-books?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1642766140
 
+{{<tweet 1485393939884654593 >}}
+
+{{<tweet 1485021652891095046>}}
+
+
+https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/sante-services-sociaux/publications-adm/lois-reglements/AM_2022-007.pdf?1642979687
+
+https://www.tvanouvelles.ca/2022/01/24/le-passeport-vaccinal-meme-pour-faire-reparer-sa-voiture?fbclid=IwAR1YeDweO8coFIya7v1LI7I3NU7zvqnH7wC8-On-dpAMWhO9PGBWNzVhK4c

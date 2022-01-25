@@ -76,12 +76,6 @@ No matter.
 
 ![trading-tits](/images/trading-tits.gif)
 
-### Update (2021-01-11)
-
-This tweet makes me think that it's possible I am completely wrong and understand nothing about human psychology (at least when it comes to Canadians):
-
-{{<tweet 1480955171429658624>}}
-
 ### Links
 
 - [The Crisis Brewing in Energy Markets](https://www.youtube.com/watch?v=PoXcmNT8Zzk)
@@ -89,3 +83,16 @@ This tweet makes me think that it's possible I am completely wrong and understan
 - [EROI -- A Tool To Predict The Best Energy Mix](https://www.forbes.com/sites/jamesconca/2015/02/11/eroi-a-tool-to-predict-the-best-energy-mix/?sh=3d52aa12a027)
 
 - [Energy Return on Investment - A Unifying Principle for Biology, Economics, and Sustainability](https://link.springer.com/book/10.1007/978-3-319-47821-0)
+
+### Update (2021-01-11)
+
+This tweet makes me think that it's possible I am completely wrong and understand nothing about human psychology (at least when it comes to Canadians):
+
+{{<tweet 1480955171429658624>}}
+
+### Update (2022-01-23)
+
+The energy fintwit is starting to feel a bit volatile and bubbly. Have to stay cool and keep calm. The exchange here was interesting:
+
+{{<tweet 1485406143946051588>}}
+

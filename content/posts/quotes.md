@@ -180,3 +180,15 @@ Heard on a Twitter space.
 _In the end, we will remember not the words of our enemies, but the silence of our friends_<br/>
 Dr. Martin Luther King, Jr.
 <br/><br/>
+
+_The test of a first-rate intelligence is the ability to hold two opposing ideas in mind at the same time and still retain the ability to function._<br/>
+[F. Scott Fitzgerald, reported by FarnamStreet](https://fs.blog/dani-shapiro-still-writing/)
+<br/><br/>
+
+_The idea is to live in the middle of ideas, believing in them enough to take action but not enough so they become too big of an anchor when something better comes along._<br/>
+[FarnamStreet](https://fs.blog/dani-shapiro-still-writing/)
+<br/><br/>
+
+_Many shall be restored that now are fallen & many shall fall that now are in honor._<br/>
+[Ben Graham, quoting the poet Horace at the start of Security Analysis](https://twitter.com/williamgreen72/status/1485444446313492482)
+<br/><br/>

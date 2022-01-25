@@ -55,3 +55,31 @@ This Affect characteristic causes investors to extend their views of the prospec
 _Personal note: I experienced the consequences of Affect during the GME mania in 2021, as I was infuriated by my inability to afford a house for my family while real-estate prices were skyrocketing, which had a big (and very negative) influence on my financial decisions._
 
 _I also wonder if the oil sector has a negative Affect attached to it for a large subset of market participants that would be reluctant to invest in it, even if they were able to find rationally interesting returns. Same question for China..._
+
+## Chapter 3: Treacherous Shortcuts in Decision Making
+
+#### The Perils of Availability
+
+Tversky and Kahneman: "[we] assess the frequency of a class or the probability of an event by the ease with which instances or occurrences can be brought to mind." This is why we think deaths by shark attack are more common than deaths from pieces of airplanes falling [whereas the latter is **30 times** more probably than the former].
+
+...**recent**, **salient** eents often strongly influence decision making in the stock market and bond markets that can cause or exacerbate sharp price movements.
+
+#### A Picture Is Not Worth a Thousand Words
+
+...it's a natural human tendency to draw analogies and see identical situations - where non exist...causes us to give too much emphasis to the similarities between events...reduces the importance we give to variables that are actually critical in deremining and event's probability.
+
+#### The Remarkable Success of Wannabe Gunslingers
+
+In a December 27, 1999, missive he [Jim Cramer] wrote, referring to money managers who refused to buy enormously overpriced dot-com stocks, "The losers better chance or they will lose again next year" - this less than three weeks before the dot-com market collapse.
+
+Don't be influenced by the short-term record or "great" market calls of a money manager, analyst, market-timer or economist, no matter how impressive they are.
+
+#### Doing Heuristic Math
+
+"If the stock is so good, why doesn't it go up?" Don't expect that the strategy you adopt will prove a quick success in the market; give it a reasonable time to work out.
+
+#### Anchoring and Hindsight Biases
+
+...we choose some natural starting point where we think the stock is a good buy or sale and make adjustments from there. The adjustments are typically insufficient.
+
+_Hindsight bias_ seriously impairs proper assessment of past errors and significantly limits what can be learned from experience. As a result, we think mistakes are easy to see and are confident we won't make them again - until we do.
