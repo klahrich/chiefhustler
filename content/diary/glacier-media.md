@@ -2,7 +2,7 @@
 title: "Glacier Media"
 date: 2022-01-10T10:21:03-05:00
 draft: false
-categories: ["GVC.TO"]
+categories: ["GVC.TO", "stocks"]
 type: "diary"
 summary: "Investment thesis on an unloved microcap"
 ---

@@ -2,7 +2,7 @@
 title: "Canaf Investments"
 date: 2022-01-20T10:21:03-05:00
 draft: false
-categories: ["CAF.V"]
+categories: ["CAF.V", "stocks"]
 summary: "An illiquid nanocap met coal play"
 ---
 
