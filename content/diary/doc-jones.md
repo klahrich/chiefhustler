@@ -1,10 +1,14 @@
 ---
 title: "Doc Jones"
-date: 2022-01-17T12:14:14-05:00
-draft: true
+date: 2022-01-24T12:14:14-05:00
+draft: false
+categories: ["investing"]
+summary: "Notes from a Doc Jones interview"
 ---
 
 Notes from a [Doc Jones interview](https://www.youtube.com/watch?v=RhFo9YK20kA). There's much more to the interview than my notes here.
+
+If you don't know who Doc Jones, here's his [website](https://drjonesresourceinvestor.wordpress.com/).
 
 ![docjones-1](/images/docjones-1.png)
 

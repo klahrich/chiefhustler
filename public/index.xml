@@ -6,7 +6,7 @@
     <description>Recent content on The Chief&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jan 2022 11:23:31 -0500</lastBuildDate><atom:link href="https://chiefhustler.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jan 2022 12:14:14 -0500</lastBuildDate><atom:link href="https://chiefhustler.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://chiefhustler.com/about/</link>
@@ -24,6 +24,15 @@
       <guid>https://chiefhustler.com/subscribe/</guid>
       <description>Thank you for reading my blog!
 Sign up for my email newsletter or use this RSS feed to get notified of new blog posts.</description>
+    </item>
+    
+    <item>
+      <title>Doc Jones</title>
+      <link>https://chiefhustler.com/diary/doc-jones/</link>
+      <pubDate>Mon, 24 Jan 2022 12:14:14 -0500</pubDate>
+      
+      <guid>https://chiefhustler.com/diary/doc-jones/</guid>
+      <description>Notes from a Doc Jones interview</description>
     </item>
     
     <item>
