@@ -196,3 +196,12 @@ _Many shall be restored that now are fallen & many shall fall that now are in ho
 _Predicting rain doesn't count; building arks does._<br/>
 [Warren Buffet, 2001 annual shareholder report](https://www.berkshirehathaway.com/2001ar/2001ar.pdf)
 <br/><br/>
+
+_Wonderful businesses do not trade for great prices when the headlines are positive and Wall Street is cheery; they get cheap when the news is bad and investors overreact. You'll have to buy when everyone else is selling, which is not easy._<br/>
+[The Little Book That Builds Wealth, by Pat Dorsey](https://www.amazon.ca/Little-Book-That-Builds-Wealth/dp/047022651X)
+<br/><br/>
+
+_(a) Most investors trade too much, to their own detriment, and (b) the best solution for illiquidity is to build portfolios for the long term that don’t rely on liquidity for success._<br/>
+[Howard Marks memo, 2022](https://www.oaktreecapital.com/docs/default-source/memos/selling-out.pdf?sfvrsn=5a4f7166_11)
+<br/><br/>
+
