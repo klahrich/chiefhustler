@@ -192,3 +192,7 @@ _The idea is to live in the middle of ideas, believing in them enough to take ac
 _Many shall be restored that now are fallen & many shall fall that now are in honor._<br/>
 [Ben Graham, quoting the poet Horace at the start of Security Analysis](https://twitter.com/williamgreen72/status/1485444446313492482)
 <br/><br/>
+
+_Predicting rain doesn't count; building arks does._<br/>
+[Warren Buffet, 2001 annual shareholder report](https://www.berkshirehathaway.com/2001ar/2001ar.pdf)
+<br/><br/>
