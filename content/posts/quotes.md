@@ -205,3 +205,8 @@ _(a) Most investors trade too much, to their own detriment, and (b) the best sol
 [Howard Marks memo, 2022](https://www.oaktreecapital.com/docs/default-source/memos/selling-out.pdf?sfvrsn=5a4f7166_11)
 <br/><br/>
 
+_To be a disciplined investor you have to be willing to stand by and watch other people make money on things that you passed on._<br/>
+[Howard Marks](https://www.flame.edu.in/happenings/howard-marks-of-oaktree-capital-shares-his-investment-philosophy-with-flame-students-at-a-value-investing-knowledge-series)
+<br/><br/>
+
+

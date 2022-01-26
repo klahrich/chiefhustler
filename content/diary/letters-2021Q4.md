@@ -97,3 +97,11 @@ We will only buy a stock when it sells at a meaningful discount to our estimate 
 _Personal note: Oakmark, just like Ensemble Capital, owns Netflix. They also own Alphabet._
 
 ...we often believe investors overreact to disruption risk. Examples include fossil fuel and internal combustion engine businesses. Current prices suggest that renewable energy and electric vehicles will be adopted at much more rapid rates than we consider likely.
+
+### My take on these letters
+
+Some investors put more weight and focus on the business quality and some others on the valuation. I think the best ones are those who are good at both. 
+
+But if I had to choose between the two extremes, I'd rather go for super cheap valuations and look for limited downside rather than unlimited upside.
+
+In 2016, when Buffet started buying Apple shares, it was trading for ~8x EV/EBITDA, 10x P/EBT, and 12x P/E. Maybe the best investment of all time.
