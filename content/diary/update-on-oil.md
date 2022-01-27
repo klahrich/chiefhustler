@@ -19,9 +19,9 @@ I made a little profit and I'm OK taking my chips off the table for now. I think
 
 I didn't sleep well last night, mainly because of the money I had in oil investments. I have a simple rule that I follow unquestionably: if it prevents me from sleeping, I cut it out. 
 
-If there's one thing I learned in the past year, it's that mental opportunity cost always trumps financial opportunity cost.
+There's a reasonably strong chance that I will regret this decision in the short-term, but if there's one thing I learned in the past year, it's that mental opportunity cost always trumps financial opportunity cost.
 
-I'd like to use my energy to find an easier game to play.
+I'd like to use my mental energy to find an easier game to play.
 
 ### Update (2022-01-27)
 
