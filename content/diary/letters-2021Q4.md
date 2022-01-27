@@ -105,3 +105,27 @@ Some investors put more weight and focus on the business quality and some others
 But if I had to choose between the two extremes, I'd rather go for super cheap valuations and look for limited downside rather than unlimited upside.
 
 In 2016, when Buffet started buying Apple shares, it was trading for ~8x EV/EBITDA, 10x P/EBT, and 12x P/E. Maybe the best investment of all time.
+
+### Update (2022-01-16)
+
+Today I stumbled on [this](https://www.investorsfriend.com/zachs-research/the-best-investment-opportunity-ive-come-across-seriously/) investment thesis about a company called _riwi_, that I've never heard about.
+
+It was written in April 2019 and the author says that his conviction is so high that he made it 18.8% of his portfolio.
+
+Looking at the rest of his portfolio, he seems to own a lot of high-quality Canadian stocks:
+
+![canadian-quality](/images/canadian-quality.png)
+
+It also looks like he did his due diligence and reading his arguments, I'm tempted to believe that he's a smart guy. His target price at the time was $3.40 within a year.
+
+Here's a sneak peak at the revenues and EBITDA of the company:
+
+![riwi-fins](/images/riwi-fins.png)
+
+In April 2019, Riwi's EV was about CA$50M, and EBITDA(LTM) was about CA$1M, so EV/EBITDA = 50.
+
+Here's what actually happened to the stock price:
+
+![riwi](/images/riwi.png)
+
+I thought it was a good example of what can happen when you pay up and reality doesn't go according to the plan.

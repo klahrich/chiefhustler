@@ -88,6 +88,60 @@ Why is any of this important? Because scale means reach and data, which means ad
 
 We just might have a compounder here, folks.
 
+### Update (2022-01-26): more details
+
+Top properties:
+
+- Caillou
+- Chip and Potato
+- Degrassi
+- Inspector Gadget
+- Johnny Test
+- Peanuts
+- Strawberry Shortcake
+- Teletubbies
+- Yo Gabba Gabba!
+
+<blockquote>
+
+Kids’ and family content travels
+across cultures and consists largely of animated series, which can be easily dubbed into multiple languages. Such content is
+timeless and therefore can be licensed into numerous markets repeatedly for many years.
+
+</blockquote>
+
+13,000 half-hours of children's content. 
+
+Four monetization avenues:
+
+1. Production and distribution of shows to streaming services and linear broadcasters worldwide
+
+2. Advertising and sponsorship revenues through WildBrain Spark (AVOD channel on YouTube: **35.1 billion views, 215.9 billion minutes in 2021**)
+
+3. Royalties from sales of consumer products based on owned IP + representing third-party brands through licensing agency business (WildBrain CPLG)
+
+4. Own and operate the Family suite of linear specialty kids channels in Canada (monthly subscription fees + advertising)
+
+When WildBrain produces content for an SVOD (e.g. Netflix or Apple), the SVOD pays for the cost of production, while WildBrain retains underlying IP, linear distribution rights (after a hold back or 24 to 36 months), and all **consumer products revenues**.
+
+In January 2020, YouTube introduced new rules and policies for 'Made for Kids' content that limited the kind of advertising that was allowed for that type of content.
+
+Specifically, personalized ads, which leverages a user's interests based on previously collected data on the sites they visit or the apps they use, was banned. 
+
+Contextual ads on the other hand are still allowed, which are bsaed on the content being viewed or the current query terms as well as coarse geogrpahic data (city-level). Contextual advertising is similar to the advertising model for linear TV.
+
+In other words the ads that are served to the kids are not specifically targetted to that child given his personal inferred preferences, but they are selected based on the content that is being viewed.
+
+On top of the monetization impact, some changes also had a negative impact on subscriber growth. For example, features like channel notifications and saving a video to a playlist (or watch later) are all deactivated for kids channels.
+
+I believe this has a two-pronged impact on WildBrain and the whole kids content YouTube ecosystem.
+
+On one hand, everyone's CPM (earnings per thousand views) will decline. Some low quality _Made For Kids_ might even have been killed all together.
+
+On the other hand, it means that if an advertiser wants to reach kids on YouTube, they will have less choices. 
+
+I think this move has helped reinforce WildBrain's moat as THE #1 kids content network on YouTube.
+
 
 
 

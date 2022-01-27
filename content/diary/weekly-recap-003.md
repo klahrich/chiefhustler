@@ -2,7 +2,7 @@
 title: "Investing Diary - Weekly Recap #3"
 date: 2022-01-24T22:19:11-05:00
 draft: false
-categories: ["weekly-recap"]
+categories: ["update"]
 type: "weekly-recap"
 summary: "Recap of the week"
 ---

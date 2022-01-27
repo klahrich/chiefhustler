@@ -80,7 +80,7 @@ And because it takes exponentially more effort to increase the precision of our 
 
 On the other hand, Jake mentions that anything macro-related probably has a much smaller Lyapunov window than we would think since there are so many non-linearly interacting variables.
 
-### 32'05
+### 32'05''
 
 Toby saw someone else say that oil is the natural interest rate in the economy. When energy prices go up, that's the natural hand brake. When they go down, that's the "hitting the accelerator".
 

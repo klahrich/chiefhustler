@@ -153,6 +153,8 @@ I will leave you with one final quote, from a guy I don't necessarily admire, bu
 
 - [U.S. Energy Information Administration](https://www.eia.gov/)
 
+- [American Petroleum Institute](https://www.api.org/)
+
 - [OPEC](https://www.opec.org/opec_web/en/)
 
 - [White Tundra Investments](https://www.whitetundra.ca/) (so much knowledge there, and Shubham Garg is both extremely competent and generous)
