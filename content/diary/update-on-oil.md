@@ -21,7 +21,7 @@ I didn't sleep well last night, mainly because of the money I had in oil investm
 
 If there's one thing I learned in the past year, it's that mental opportunity cost always trumps financial opportunity cost.
 
-I feel good having a comfortable cushion at this time.
+I'd like to use my energy to find an easier game to play.
 
 ### Update (2022-01-27)
 
