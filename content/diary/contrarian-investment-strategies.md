@@ -102,7 +102,7 @@ So focused were they on volatility, and so strong was their belief that volatili
 
 Merton was taking an enormous chance. EMH theory, the Black-Scholes model, and Merton's model say only that a stock's volatility is consistent over time. They do not say in _what_ time period securities or derivatives will revert to the mean. It's like crossing a river that's four feet deep on average, carrying a fifty-pound backpack; it might be three feet deep in some places and fifteen feet deep in others.
 
-As a result of the firm's gigantic margin calls and its inabitlity to sell most major positions because they were very illiquid, the fund's leverage shot up to 100 to 1, which meant that even a 1 percent drop in assets would bankrupt it.
+As a result of the firm's gigantic margin calls and its inability to sell most major positions because they were very illiquid, the fund's leverage shot up to 100 to 1, which meant that even a 1 percent drop in assets would bankrupt it.
 
 <blockquote>
 
@@ -112,4 +112,4 @@ Although Merton admitted that the fund's risk measurements hadn't worked, he sta
 
 ### The 2006-2008 Housing Bubble and Market Crash
 
-As for Professor Fama and his colleagues, did this experience shake their belief that volatility is the only measure of risk or that the market is efficient? Apparently not. In 2007, with mortgage-backed security prices already dropping rapidly, Fama said in an interview, "The worls 'bubble' drives me nuts," and went on to explain why people could trust housing market values. "Housing markets are less liquid, but people are very careful when they buy houses...The bidding process is very detailed."
+As for Professor Fama and his colleagues, did this experience shake their belief that volatility is the only measure of risk or that the market is efficient? Apparently not. In 2007, with mortgage-backed security prices already dropping rapidly, Fama said in an interview, "The word 'bubble' drives me nuts," and went on to explain why people could trust housing market values. "Housing markets are less liquid, but people are very careful when they buy houses...The bidding process is very detailed."
