@@ -35,6 +35,8 @@ This list is by no means intended to be comprehensive, and it will most likely g
 
 - [WhaleWisdom](https://whalewisdom.com/)
 
+- [Funds Letters & Reports - 2021Q4](https://www.reddit.com/r/SecurityAnalysis/comments/s238wn/q4_2021_letters_reports/)
+
 # Youtube Channels
 
 #### US

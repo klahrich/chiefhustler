@@ -13,3 +13,5 @@ draft: true
 {{<tweet 1413915875661336578 >}}
 
 {{<tweet 1118572042175930368>}}
+
+https://twitter.com/knowledgebytes_/status/1486688876869697542

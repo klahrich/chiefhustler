@@ -209,4 +209,8 @@ _To be a disciplined investor you have to be willing to stand by and watch other
 [Howard Marks](https://www.flame.edu.in/happenings/howard-marks-of-oaktree-capital-shares-his-investment-philosophy-with-flame-students-at-a-value-investing-knowledge-series)
 <br/><br/>
 
+_Anger is a punishment we give to ourself, for somebody else's mistake._<br/>
+Some Saint.
+<br/><br/>
+
 
