@@ -83,3 +83,33 @@ Don't be influenced by the short-term record or "great" market calls of a money 
 ...we choose some natural starting point where we think the stock is a good buy or sale and make adjustments from there. The adjustments are typically insufficient.
 
 _Hindsight bias_ seriously impairs proper assessment of past errors and significantly limits what can be learned from experience. As a result, we think mistakes are easy to see and are confident we won't make them again - until we do.
+
+## Chapter 4: Only a Flesh Wound
+
+### The 1987 Stock Market Crash
+
+A crucial assumption of EMH, that there is always sufficient liquidity in markets, was disproved...The lack of understanding by the academics and the portfolio insurance managers of liquidity was a primary cause of the 1987 crash.
+
+The argument that rational investors keep stock prices in line with their value, another core assumption of EMH, was seriously challenged. When was the market efficient? When professional and other sophisticated investors took the S&P500 down (31 percent) in five trading days or when it recovered all of its losses nineteen months later, with only minor changes in the underlying fundamentals?
+
+### The 1998 Long-Term Capital Management Debacle
+
+LTCM was convinced that it could calculate precisely the odds of what the best, average, and worst days would return, as well as the odds that the portfolio could take serious or mortal losses.
+
+"Risk is a function of volatility. These things are quantifiable." - Peter Rosenthal, LTCM's press spokesman.
+
+So focused were they on volatility, and so strong was their belief that volatility was risk, that leverage and liquidity as independent risk elements were considered inconsequential.
+
+Merton was taking an enormous chance. EMH theory, the Black-Scholes model, and Merton's model say only that a stock's volatility is consistent over time. They do not say in _what_ time period securities or derivatives will revert to the mean. It's like crossing a river that's four feet deep on average, carrying a fifty-pound backpack; it might be three feet deep in some places and fifteen feet deep in others.
+
+As a result of the firm's gigantic margin calls and its inabitlity to sell most major positions because they were very illiquid, the fund's leverage shot up to 100 to 1, which meant that even a 1 percent drop in assets would bankrupt it.
+
+<blockquote>
+
+Although Merton admitted that the fund's risk measurements hadn't worked, he stated that the principles it had followed were right. What was needed, he argued, was more sophisticated modeling. He went back to teaching at Harvard and, perhaps ironically, was hired by J.P. Morgan as a risk consultant.
+
+</blockquote>
+
+### The 2006-2008 Housing Bubble and Market Crash
+
+As for Professor Fama and his colleagues, did this experience shake their belief that volatility is the only measure of risk or that the market is efficient? Apparently not. In 2007, with mortgage-backed security prices already dropping rapidly, Fama said in an interview, "The worls 'bubble' drives me nuts," and went on to explain why people could trust housing market values. "Housing markets are less liquid, but people are very careful when they buy houses...The bidding process is very detailed."
