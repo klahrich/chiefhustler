@@ -6,6 +6,8 @@ categories: ["investing"]
 summary: "Excerpts from the book"
 ---
 
+Excerpts from the [book](https://www.amazon.ca/Contrarian-Investment-Strategies-David-Dreman/dp/0684813505), by David Dreman.
+
 ## Chapter 1: Planet of the Bubbles
 
 In every bubble, once the crowd begins to realize how wildly overpriced the stocks they rushed into are, there is a scramble to escape. A horrific panic ensues as the image changes from euphoria to doom. 
