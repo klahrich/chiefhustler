@@ -86,7 +86,15 @@ Don't be influenced by the short-term record or "great" market calls of a money 
 
 _Hindsight bias_ seriously impairs proper assessment of past errors and significantly limits what can be learned from experience. As a result, we think mistakes are easy to see and are confident we won't make them again - until we do.
 
-## Chapter 4: Only a Flesh Wound
+## Chapter 4: Conquistadors in Tweed Jackets
+
+...the efficient-market hypothesis, which holds that competition between sophisticated, knowledgeable investors keeps stock prices where they should be. This happens because all facts that determine stock prices are analyzed by large numbers of intelligent and rational investors. Prices may not always be right, but they are unbiased, so if they are wrong, they are just as likely to be too high as too low.l
+
+A key premise of the efficient-market hypothesis is that the market reacts almost instantaneously (and correctly) to new information, so investors cannot benefit.
+
+The professors assumed that investors were emotionless and as efficient as the computers they used to generate their theory.
+
+## Chapter 5: Only a Flesh Wound
 
 ### The 1987 Stock Market Crash
 
@@ -115,3 +123,15 @@ Although Merton admitted that the fund's risk measurements hadn't worked, he sta
 ### The 2006-2008 Housing Bubble and Market Crash
 
 As for Professor Fama and his colleagues, did this experience shake their belief that volatility is the only measure of risk or that the market is efficient? Apparently not. In 2007, with mortgage-backed security prices already dropping rapidly, Fama said in an interview, "The word 'bubble' drives me nuts," and went on to explain why people could trust housing market values. "Housing markets are less liquid, but people are very careful when they buy houses...The bidding process is very detailed."
+
+## Chapter 6: Efficient Markets and Ptolemaic Epicycles
+
+...the Ptolemaic system met two major criteria of a useful scientific hypothesis: it was "predictive" in correctly forecasting where various celestial bodies would be at future points in time, and it was "explanatory" because it codified a system of planetary motion...I liken the continued belief in EMH to the unyielding acceptance of the Ptolemaic system after Galileo had shown that the new sun does not revolve around the sun.
+
+How did leading EMH academics know that investors measured risk strictly by the volatility of the stock? They didn't...The academics simply declared it as a fact. Importantly, this definition of risk was easy to use to build complex computer finance models, and that's what the professors wanted to do.
+
+Morningstar's five stars, its top ranking, widely followed and much sought after, uses Fama's three-factor model, which is dubious at best, as part of its risk measurement...These models [three-, four-, and five-factor models] all attempt to show that higher volatility provides higher return and that lower volatility provides lower return.
+
+...a considerable body of literature demonstrates that contrarian strategies have produced significantly better returns than the market over many decades. The explanation for this explicitly contradicts the central tenet of EMH - that people behave with almost omniscient rationality in markets. Conversely, the tenet that no group of investors and no strategies should consistently underperform in an efficient market is another rock that EMH flounders on. Below-market performance has been turned in for decades by people who buy favorite stocks...Another significant underperformance finding is the research that shows that  IOPs have been dogs in the marketplace for forty years.
+
+Another major premise of EMH is the hypothesis that all new information is analyzed almost immediately and accurately reflected in stock prices...we'll often find that the researchers mistakenly take any market reaction to new information as the correct one...A number of other studies have shown that the market is slow to digest new information.

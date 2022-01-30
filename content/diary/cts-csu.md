@@ -60,4 +60,9 @@ So what is Constellation? It is an implementation of Greenwald's recipe, cloned 
 That's where the genius is. The low acquisitions prices and high return on investment, that's just the discipline.
 
 
+### Links
+
+[M&A Science Podcast, Interview with Jeff Bender, CEO at Harris](https://podcasts.apple.com/ca/podcast/harris-weareharris-understanding-who-we-are/id1498981996?i=1000532278982)
+
+[Constellation Software's Mark Leonard](https://omdventures.com/essays/constellation-softwares-mark-leonard)
 
