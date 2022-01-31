@@ -24,7 +24,7 @@ the “Company” closed its previously announced sale of a minority stake in Pe
 
 </blockquote>
 
-C$235.6M in July 2018 converts to US$179M (exchange rate 0.76), which values the whole 80% stake at 80 / 39 * 179 = US$367M. So the realized profit is $22M in a year, or 6.4%. It's acceptable. But wait, we forgot about _Strawberry Shortcake_!
+C$235.6M in July 2018 converts to US$179M (exchange rate 0.76), which values the whole 80% stake at 80 / 39 * 179 = US$367M. So the realized profit is $22M in a year, or 6.4%. It's acceptable. But wait...we forgot about _Strawberry Shortcake_!
 
 A better to frame the story is that within a year, the value of _Peanuts_ alone grew by an amount equal to: $22M + [the entire value of _Strawberry Shortcake_].
 
