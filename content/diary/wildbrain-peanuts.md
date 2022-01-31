@@ -57,3 +57,9 @@ As well, in October 2021, the company launched a new Robolox game based on the S
 We'll have to wait and see how all these developments translate into revenues and EBITDA in 2022 and beyond.
 
 _Reminder: WildBrain's current enterprise value is currently around $1.30B and I am long the stock._
+
+### Update 2022-10-31:
+
+WildBrain doesn't report the gross margin of the Consumer Product segment separately, but I believe it could be around 49%, much higher than Spark (my estimate: 34%) and Content Production and Distribution (my estimate: 37%). I derived these estimates from the Content Business gross margin and the three segments' revenues.
+
+If _Strawberry Shortcake_ was able to get back to its former glory, the US$500M of licensing revenues (CA$635M) could translate into $CA311M of gross profit, compared to the CA$193M of actual ttm gross profit for the entire company, as of Sep 2021.

@@ -213,4 +213,8 @@ _Anger is a punishment we give to ourself, for somebody else's mistake._<br/>
 Some Saint.
 <br/><br/>
 
+_You can drive a truck between what I think it's worth and where it's priced._<br/>
+[Joel Greenblatt, on what makes a good investment](https://www.youtube.com/watch?v=8ZiLLjtAtyU&t=137s)
+<br/><br/>
+
 

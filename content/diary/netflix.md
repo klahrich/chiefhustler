@@ -15,3 +15,5 @@ draft: true
 {{<tweet 1118572042175930368>}}
 
 https://twitter.com/knowledgebytes_/status/1486688876869697542
+
+https://twitter.com/ecommerceshares/status/1488141453742292994
