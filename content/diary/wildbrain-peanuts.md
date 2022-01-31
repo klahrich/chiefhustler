@@ -58,7 +58,7 @@ We'll have to wait and see how all these developments translate into revenues an
 
 _Reminder: WildBrain's current enterprise value is currently around $1.30B and I am long the stock._
 
-### Update 2022-10-31:
+### Update 2022-01-31:
 
 WildBrain doesn't report the gross margin of the Consumer Product segment separately, but I believe it could be around 49%, much higher than Spark (my estimate: 34%) and Content Production and Distribution (my estimate: 37%). I derived these estimates from the Content Business gross margin and the three segments' revenues.
 
