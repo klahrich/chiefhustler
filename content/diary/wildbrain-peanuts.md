@@ -3,7 +3,7 @@ title: "Wildbrain Peanuts"
 date: 2022-01-30T18:33:28-05:00
 draft: false
 categories: ["stocks", "WILD.TO"]
-summary: "Some details on the Peanuts asset"
+summary: "Some details on the Peanuts and Strawberry Shortcake assets."
 ---
 
 ![peanuts](/images/peanuts.png)
