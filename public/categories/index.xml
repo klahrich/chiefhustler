@@ -6,7 +6,16 @@
     <description>Recent content in Categories on The Chief&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jan 2022 18:33:28 -0500</lastBuildDate><atom:link href="https://chiefhustler.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Jan 2022 18:51:19 -0500</lastBuildDate><atom:link href="https://chiefhustler.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>portfolio</title>
+      <link>https://chiefhustler.com/categories/portfolio/</link>
+      <pubDate>Mon, 31 Jan 2022 18:51:19 -0500</pubDate>
+      
+      <guid>https://chiefhustler.com/categories/portfolio/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>stocks</title>
       <link>https://chiefhustler.com/categories/stocks/</link>
@@ -37,7 +46,7 @@
     <item>
       <title>update</title>
       <link>https://chiefhustler.com/categories/update/</link>
-      <pubDate>Wed, 26 Jan 2022 14:07:57 -0500</pubDate>
+      <pubDate>Mon, 24 Jan 2022 22:19:11 -0500</pubDate>
       
       <guid>https://chiefhustler.com/categories/update/</guid>
       <description></description>
@@ -121,15 +130,6 @@
       <pubDate>Mon, 03 Jan 2022 07:28:26 -0500</pubDate>
       
       <guid>https://chiefhustler.com/categories/tpl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>portfolio</title>
-      <link>https://chiefhustler.com/categories/portfolio/</link>
-      <pubDate>Thu, 30 Dec 2021 19:02:24 -0500</pubDate>
-      
-      <guid>https://chiefhustler.com/categories/portfolio/</guid>
       <description></description>
     </item>
     

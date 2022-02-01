@@ -2,7 +2,7 @@
 title: "Update on Oil"
 date: 2022-01-26T14:07:57-05:00
 draft: false
-categories: ["update"]
+categories: ["investing"]
 ---
 
 I decided to exit my oil positions for the time being. 
