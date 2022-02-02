@@ -135,3 +135,15 @@ Morningstar's five stars, its top ranking, widely followed and much sought after
 ...a considerable body of literature demonstrates that contrarian strategies have produced significantly better returns than the market over many decades. The explanation for this explicitly contradicts the central tenet of EMH - that people behave with almost omniscient rationality in markets. Conversely, the tenet that no group of investors and no strategies should consistently underperform in an efficient market is another rock that EMH flounders on. Below-market performance has been turned in for decades by people who buy favorite stocks...Another significant underperformance finding is the research that shows that  IOPs have been dogs in the marketplace for forty years.
 
 Another major premise of EMH is the hypothesis that all new information is analyzed almost immediately and accurately reflected in stock prices...we'll often find that the researchers mistakenly take any market reaction to new information as the correct one...A number of other studies have shown that the market is slow to digest new information.
+
+## Chapter 7: Wall Street's Addiction to Forecasting
+
+When information-processing requirements are large and complex analysis is necessary to integrate it, the rational system, which is deliberative and analytical, is often subtly overridden without the professional's knowledge by the experiential system.
+
+...ingesting large amounts of investment information can lead to worse rather than better decisions because the Affect working with other cognitive heuristics, such as representativeness and availability, takes over.
+
+...only a marginal improvement in accuracy occurs as increasing amounts of new information are heaped on.
+
+...when a problem is relatively simple to diagnose, experts are realistic about their ability to solve it. When the problem becomes more complex, however, and the solution depends on a number of hard to quantify factors, they became overconfident in their ability to reach a solution.
+
+_In-depth information does not translate into in-depth profits._
