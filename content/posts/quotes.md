@@ -217,4 +217,7 @@ _You can drive a truck between what I think it's worth and where it's priced._<b
 [Joel Greenblatt, on what makes a good investment](https://www.youtube.com/watch?v=8ZiLLjtAtyU&t=137s)
 <br/><br/>
 
+_One of the keys to successful investing is to get out of your own head._<br/>
+[Jake Taylor](https://orphanira.com/wp-content/uploads/2022/01/January-2022-Client-Letter1.pdf)
+<br/><br/>
 
