@@ -33,6 +33,12 @@ I'm not questioning the quality of the decision, because...who knows.
 
 I'm questioning the quality of the process. I decided to make a full short post out of it [here](/diary/are-we-thinking-clearly/).
 
+### Update (2022-02-02)
+
+Note to self: next time, act on data, not emotions.
+
+{{<tweet 1488964262018101274>}}
+
 ### Links
 
 https://www.pna.gov.ph/articles/1166368

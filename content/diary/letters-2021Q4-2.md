@@ -1,7 +1,9 @@
 ---
-title: "Letters 2021Q4 (2)"
+title: "Letters 2021Q4 (Part 2)"
 date: 2022-02-01T15:51:58-05:00
-draft: true
+draft: false
+categories: ["investing"]
+summary: "My favorite bits from selected fund letters"
 ---
 
 ### [Alta Fox Capital](https://static1.squarespace.com/static/5aaacb57506fbe4636414126/t/61f8b8cf6faed02fd91ec060/1643690191597/Q4+2021+Alta+Fox+Capital+Quarterly+Letter+-+final.pdf)
@@ -22,10 +24,12 @@ digits, and already scaling profitability.
 We continue to believe that shares of IDT are likely to more than double over the next few
 years and that NRS itself could be worth $30 per IDT share in a few years’ time.
 
-Other big holdings (from previous letters):
+_Comment:_
 
-- [Victoria PLC](https://static1.squarespace.com/static/5aaacb57506fbe4636414126/t/612d5d700839fa234e002afc/1630362994098/VCP+Presentation+-+08.30.2021.pdf)
-- [Pollard Banknote](https://static1.squarespace.com/static/5aaacb57506fbe4636414126/t/60366cb6662f6b44b9a8e617/1614179511023/Pollard+Banknote+Ltd+%28PBL+CN%29+-+02.24.2021.pdf)
+_Other big holdings (from previous letters):_
+
+- _[Victoria PLC](https://static1.squarespace.com/static/5aaacb57506fbe4636414126/t/612d5d700839fa234e002afc/1630362994098/VCP+Presentation+-+08.30.2021.pdf)_
+- _[Pollard Banknote](https://static1.squarespace.com/static/5aaacb57506fbe4636414126/t/60366cb6662f6b44b9a8e617/1614179511023/Pollard+Banknote+Ltd+%28PBL+CN%29+-+02.24.2021.pdf)_
 
 
 ### [Bireme Capital](https://s3.amazonaws.com/bireme/4Q21%20-%20FV.html)
@@ -53,6 +57,8 @@ One of the largest positions of the since-imploded Archegos fund, TME has fallen
 
 ![tme](/images/tme.png)
 
+_Comment: I own Tencent Holdings (ticker: 700: Hong Kong), the parent company of Tencent Music, through Prosus ($PROSY). Here's a [very good writeup](https://www.techinasia.com/tencent-music-future-spotify) on Tecent Music, with connections to Spotify._
+
 
 ### [Farnam Street Investments](https://orphanira.com/wp-content/uploads/2022/01/January-2022-Client-Letter1.pdf)
 
@@ -62,11 +68,11 @@ One of the largest positions of the since-imploded Archegos fund, TME has fallen
 
 _<u>Comment</u>: This is the difference between an OKish investment and a home run. Kinda scary..._
 
-_There's something profoundly idiotic about multiple-based valuations as well as DCF valuations, since those also typically come with a implicit multiple on the terminal value: we're attaching a multiple years ahead to derive what the proper multiple should be today..._
+_There's something profoundly idiotic about the whole valuation process, since it typically come with some form of multiple on slapped on some future value (be it terminal value or future earnings multiple). we're attaching a multiple years ahead to derive what the proper multiple should be today..._
 
-_The more I think about it, the more it feels like valuation, while theoretically sound, is practically impossible to carry out in 99.9% of the cases, and the further away the cashflow is, the less useful of an exercise it is._
+_The more I think about it, the more it feels like valuation, while theoretically sound, is practically impossible to carry out in 99.9% of the cases, and the further away the cashflow is, the less useful of an exercise it is. Maybe that's why Buffet, Greenblatt and others insist on waiting for the easy pitches._
 
-_I'm not sure what alternative framework ould allow someone to confidently bet on Google in 2015. If one exists, it probably would put way more emphasis on moat, market dominance, scale advantages, and so on. I doubt that there's a way to get to a reasonably narrow range for the valuation, no matter what quantitative approach is used._
+_I'm not sure what alternative framework ould allow someone to confidently bet on Google in 2015. If one exists, it probably would put way more emphasis on moat, market dominance, scale advantages, and other qualitative criteria. And it would require a good dose of faith and patience too. I doubt that there's a way to get to a reasonably narrow range for the valuation of such companies, no matter what quantitative approach is used. Look at FB (Meta) today. Can anyone reasonably come up with a narrow range for what its intrinsic value is? I'm not sure. I think it only makes sense to hold it in a portfolio of small bets, a la venture capital._
 
 ---
 
