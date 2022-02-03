@@ -68,7 +68,7 @@ _Comment: I own Tencent Holdings (ticker: 700: Hong Kong), the parent company of
 
 _<u>Comment</u>: This is the difference between an OKish investment and a home run. Kinda scary..._
 
-_There's something profoundly idiotic about the whole valuation process, since it typically come with some form of multiple on slapped on some future value (be it terminal value or future earnings multiple). we're attaching a multiple years ahead to derive what the proper multiple should be today..._
+_There's something profoundly idiotic about the whole valuation process, since it typically come with some form of multiple on slapped on some future value (be it terminal value or future earnings multiple). So we're attaching a multiple years ahead to derive what the proper multiple should be today..._
 
 _The more I think about it, the more it feels like valuation, while theoretically sound, is practically impossible to carry out in 99.9% of the cases, and the further away the cashflow is, the less useful of an exercise it is. Maybe that's why Buffet, Greenblatt and others insist on waiting for the easy pitches._
 
