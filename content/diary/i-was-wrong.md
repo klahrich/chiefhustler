@@ -9,7 +9,7 @@ summary: "WTI went above $90 today."
 
 WTI went above $90 today.
 
-This interview made me realize that I had made a mistake:
+This interview made me realize that I had made a mistake. Eric Nuttall addresses the "Iranian oil" issue, which I gave too much weight to.
 
 {{<youtube hYhiHISlryg>}}
 
