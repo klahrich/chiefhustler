@@ -19,7 +19,7 @@ Just a week ago, after spending a lot of time listening to [Shubham](https://twi
 
 I was wrong. The market won't believe it until they see it.
 
-Analysts will say "Investing in oil is hard" as a way to justify not even looking at it, because they don't like the sector. I think I had the right approach since the beginning. **Making what I think is an easy macro bet, and riding it out on the shoulders of giants.**
+Analysts will say "Investing in oil is hard" as a way to justify not even looking at it, because they don't like the sector. I think I had the right approach since the beginning. **Making the macro bet, and riding it out on the shoulders of giants.**
 
 The second type of pushback I got was: "This is not a 20-30 years investment." I'm not sure what to make of this one. 
 
