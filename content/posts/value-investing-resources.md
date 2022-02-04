@@ -37,6 +37,8 @@ This list is by no means intended to be comprehensive, and it will most likely g
 
 - [Funds Letters & Reports - 2021Q4](https://www.reddit.com/r/SecurityAnalysis/comments/s238wn/q4_2021_letters_reports/)
 
+- [Cheaper Than Guru](https://cheaperthanguru.com/)
+
 # Youtube Channels
 
 #### US
@@ -93,7 +95,7 @@ This list is by no means intended to be comprehensive, and it will most likely g
 
 - [Money,eh ?](https://www.youtube.com/channel/UCkXc0xSOt4p1KUbGxSZllvw/videos)
 
-# Pocasts
+# Podcasts
 
 - [Masters in Business](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vQkxNODg2NDQwMzI4OA?sa=X&ved=0CAMQ4aUDahcKEwjY0-Oe0vz0AhUAAAAAHQAAAAAQAQ)
 
@@ -202,6 +204,8 @@ This list is by no means intended to be comprehensive, and it will most likely g
 - [Cantech](https://www.cantechletter.com/)
 
 - [Rally](https://www.rally-co.ca/)
+
+- [ShortData.ca](https://shortdata.ca/)
 
 # Financials
 
