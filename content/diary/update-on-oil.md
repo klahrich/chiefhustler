@@ -39,6 +39,16 @@ Note to self: next time, act on data, not emotions.
 
 {{<tweet 1488964262018101274>}}
 
+### Update (2022-02-04)
+
+Looks like my hunch was right:
+
+{{<tweet 1489725207988391952>}}
+
+Yet, before seeing this, I dipped my toes again in some stocks - briefly, like a last one night stand with an ex-girlfriend before saying goodbye. 
+
+I'm comfortable staying away now. Too complicated for me. I'll wait for something more compelling, something like what oil was in 2021.
+
 ### Links
 
 https://www.pna.gov.ph/articles/1166368
