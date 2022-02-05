@@ -3,6 +3,7 @@ title: "Update on Aimia"
 date: 2022-02-04T19:40:12-05:00
 draft: false
 summary: "Highlights from Aimia's Q3 2021 Earnings Call"
+categories: ["stocks", "AIM.TO"]
 ---
 
 In a [previous post](/diary/aimia/), I asked:
@@ -43,13 +44,15 @@ Mittleman Brothers Investment Management had a 12.8% performance since inception
 
 As of June 30, 2020 Chris pegged the value of Aimia’s indicative net asset value at C$7.87 per share.
 
-_Comment: I like Chris overall. He strikes me as a patient and intelligent investor._
-
 ## Conclusion
 
-I like the setup here. Not a slam dunk, but it looks decent. I like the potential of TRADE X.
+I'm not sure about Kognitiv, and although I like the potential of TRADE X, can't say that investment was cheap.
 
-I won't be jumping in just yet, I'd like to keep following the company though. I bought CA$500 worth of shares just to stay in the loop.
+Aimia just [reinvested $10M](https://www.newswire.ca/news-releases/kognitiv-announces-48-5-million-in-financing-834795332.html) in Kognitiv, and not everyone like to hear that:
+
+{{<tweet 1488914455266316289>}}
+
+I won't be jumping in just yet. I'd like to keep following the company though.
 
 ## Links
 
