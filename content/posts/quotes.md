@@ -221,3 +221,6 @@ _One of the keys to successful investing is to get out of your own head._<br/>
 [Jake Taylor](https://orphanira.com/wp-content/uploads/2022/01/January-2022-Client-Letter1.pdf)
 <br/><br/>
 
+_Les conseils et les critiques ont la même origine: on voudrait que l'autre fasse un peu plus comme nous._<br/>
+[Les leçons de Stromae pour les créateurs](https://www.youtube.com/watch?v=U97xg6uzuJY)
+<br/><br/>

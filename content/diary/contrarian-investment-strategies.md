@@ -176,7 +176,7 @@ Cognitive psychologists note that there are two distinct methods of forecasting.
 
 ## Ch 9: Nasty Surprises and Neuroeconomics
 
-Do surprises affect favored and unfavored stocks in the same way? ...**all surprises (positive and negative) helped unpopular stocks and hurt popular ones**...Surprise significantly benefits unfavored low-P/W stocks and works against the high-P/E group, while it has a nominal effect on stocks in the middle group. [Same conclusion if we use price-to-cash flow or price-to-book].
+Do surprises affect favored and unfavored stocks in the same way? ...**all surprises (positive and negative) helped unpopular stocks and hurt popular ones**...Surprise significantly benefits unfavored low-P/E stocks and works against the high-P/E group, while it has a nominal effect on stocks in the middle group. [Same conclusion if we use price-to-cash flow or price-to-book].
 
 The prices of out-of-favor stocks do not just move up in the quarter of the [positive] surprise and then drop back again, as do those of the favorites. Instead, they continue to move steadily higher relative to the market in the year following the surprise.
 
