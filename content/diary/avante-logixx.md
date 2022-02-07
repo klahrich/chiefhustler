@@ -12,7 +12,7 @@ The CEO is [Craig Campbell](https://www.logixxsecurity.com/team/craig-campbell) 
 
 Mr. Campbell was appointed CEO of Avante Logixx in [2018](https://www.globenewswire.com/news-release/2018/01/10/1286562/36577/en/Avante-Logixx-Announces-Appointment-of-Chief-Executive-Officer-and-Change-to-Board-of-Directors.html).
 
-The stock trades for $1.05 as of today with 21.2M shares outstanding or about a $22.2M market cap.
+The stock trades for $1.05 as of today with 21.192M shares outstanding or about a $22.2M market cap.
 
 Let's take a look at some figures, starting with my favorite one, gross profit per share (thank you [Koyfin](https://app.koyfin.com/)):
 
@@ -56,8 +56,6 @@ As far as the board is concerned, here's another interesting tidbit:
 
 ![xx-board2](/images/xx-board2.png)
 
-
-As at September 30, 2021, there were 21,192,004 common shares of XX.V issued and outstanding.
 
 
 
