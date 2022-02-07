@@ -12,6 +12,8 @@ The CEO is [Craig Campbell](https://www.logixxsecurity.com/team/craig-campbell) 
 
 Mr. Campbell was appointed CEO of Avante Logixx in [2018](https://www.globenewswire.com/news-release/2018/01/10/1286562/36577/en/Avante-Logixx-Announces-Appointment-of-Chief-Executive-Officer-and-Change-to-Board-of-Directors.html).
 
+The stock trades for $1.05 as of today with 21.2M shares outstanding or about a $22.2M market cap.
+
 Let's take a look at some figures, starting with my favorite one, gross profit per share (thank you [Koyfin](https://app.koyfin.com/)):
 
 ![xx-gp](/images/xx-gp.png)
@@ -42,9 +44,13 @@ About a week ago, I stumbled on this [(french) article](https://www.lapresse.ca/
 
 Avante Logixx has announced in August 2021 that its Board of Directors was considering and evaluating various strategic initiatives available to the company. We didn't have any updates since, I believe the strategic review is still on-going. I hope there won't be a sale before the price recovers.
 
-According to SEDI, Craig Campbell owns 3.07M shares of the company. Fairfax Financial Holdings owns 8.2M shares. Mounouchos, Emmanuel (the founder of Avante Logixx) is the biggest shareholder with more than 13M shares. 	[George Rossolatos](https://www.linkedin.com/in/rossolatos/?originalSubdomain=ca), the previous CEO, also owns a lot of shares & options.
+According to SEDI, Craig Campbell owns 3.07M shares of the company. <span style="background-color: #FEDDAA;">Fairfax Financial Holdings owns 8.2M shares following a [Debentures Offering](https://www.avantelogixx.com/Avante+Logixx+Announces+Closing+of+First+Tranche+of+Convertible+Debentures+Offering+with+Fairfax+Financial+Holdings+Limited) in Nov 2019</span>. Mounouchos, Emmanuel (the founder of Avante Logixx) is the biggest shareholder with more than 13M shares. 	[George Rossolatos](https://www.linkedin.com/in/rossolatos/?originalSubdomain=ca), the previous CEO, also owns a lot of shares & options.
 
-As at September 30, 2021, there were 21,192,004 common shares issued and outstanding.
+Sam Duboc is the Chairman of the Board at Avante Logixx, albeit not a big shareholder. The guy is a seasoned business executive. He is, among other things, Executive Chair at MindBeacon, which was [recently acquired](https://www.newswire.ca/news-releases/cloudmd-to-acquire-mindbeacon-one-of-north-america-s-leading-clinically-validated-icbt-solutions-892080004.html) by CloudMD (at 50% premium).
+
+As at September 30, 2021, there were 21,192,004 common shares of XX.V issued and outstanding.
+
+
 
 
 
