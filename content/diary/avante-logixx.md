@@ -8,7 +8,7 @@ I've been intending to write something about Avante for some time. This is not a
 
 Avante Logixx is a security services company, catering to the residential high-net-worth market (Avante) as well as to commercial and enterprise clients (Logixx Security). I discovered the company through an [interview of the CEO](https://www.youtube.com/watch?v=k7xdRKRbRAA) on SmallCap Discoveries.
 
-The CEO is [Craig Campbell](https://www.logixxsecurity.com/team/craig-campbell) who has been in the security busines his entire professional life. He was the founder and CEO of Total Security Management (TSM), a provider of full-service security solutions to Canadian financial institutions, which he sold to GardaWorld in 2013.
+The CEO is [Craig Campbell](https://www.logixxsecurity.com/team/craig-campbell) who has been in the security busines his entire professional life, starting as a securit officer at 17. He was the founder and CEO of Total Security Management (TSM), a provider of full-service security solutions to Canadian financial institutions, which he sold to GardaWorld in 2013.
 
 Mr. Campbell was appointed CEO of Avante Logixx in [2018](https://www.globenewswire.com/news-release/2018/01/10/1286562/36577/en/Avante-Logixx-Announces-Appointment-of-Chief-Executive-Officer-and-Change-to-Board-of-Directors.html).
 
@@ -44,12 +44,20 @@ About a week ago, I stumbled on this [(french) article](https://www.lapresse.ca/
 
 Avante Logixx has announced in August 2021 that its Board of Directors was considering and evaluating various strategic initiatives available to the company. We didn't have any updates since, I believe the strategic review is still on-going. I hope there won't be a sale before the price recovers.
 
-According to SEDI, Craig Campbell owns 3.07M shares of the company. <span style="background-color: #FEDDAA;">Fairfax Financial Holdings owns 8.2M shares following a [Debentures Offering](https://www.avantelogixx.com/Avante+Logixx+Announces+Closing+of+First+Tranche+of+Convertible+Debentures+Offering+with+Fairfax+Financial+Holdings+Limited) in Nov 2019</span>. Mounouchos, Emmanuel (the founder of Avante Logixx) is the biggest shareholder with more than 13M shares. 	[George Rossolatos](https://www.linkedin.com/in/rossolatos/?originalSubdomain=ca), the previous CEO, also owns a lot of shares & options.
+Craig Campbell owns 3.07M shares **(which he purchased on the open market as an investor before becoming CEO)** and is the largest individual shareholder (14.5% of shares). <span style="background-color: #FEDDAA;">Fairfax Financial Holdings owns convertible debentures convertible at $1.45 per share, equivalent to 5.3M shares, following a [Debentures Offering](https://www.avantelogixx.com/Avante+Logixx+Announces+Closing+of+First+Tranche+of+Convertible+Debentures+Offering+with+Fairfax+Financial+Holdings+Limited) in Nov 2019</span>. Emmanuel Mounouchos (the founder of Avante Logixx) is the 2nd biggest shareholder with more than 2.7M shares. [George Rossolatos](https://www.linkedin.com/in/rossolatos/?originalSubdomain=ca), the previous CEO, also owns a lot of shares & options.
 
-Sam Duboc is the Chairman of the Board at Avante Logixx, albeit not a big shareholder. The guy is a seasoned business executive. He is, among other things, Executive Chair at MindBeacon, which was [recently acquired](https://www.newswire.ca/news-releases/cloudmd-to-acquire-mindbeacon-one-of-north-america-s-leading-clinically-validated-icbt-solutions-892080004.html) by CloudMD (at 50% premium).
+Sam Duboc is the Chairman of the Board at Avante Logixx, albeit not a big shareholder. The guy is a seasoned business executive. He is, among other things, Executive Chair at MindBeacon, which was [recently acquired](https://www.newswire.ca/news-releases/cloudmd-to-acquire-mindbeacon-one-of-north-america-s-leading-clinically-validated-icbt-solutions-892080004.html) by CloudMD (at 50% premium). He was also a cofounder of the Loyalty Group Inc, the parent company of the AIR MILES Reward Program, among a bazillion other things.
+
+Another interesting board member is Joseph Leeder, who was a director and CFO at Park Lawn Corporation, a highly successful Canadian roll-up public company in the funeral and cremation business.
+
+As far as the board is concerned, here's another interesting tidbit:
+
+![xx-board1](/images/xx-board1.png)
+
+![xx-board2](/images/xx-board2.png)
+
 
 As at September 30, 2021, there were 21,192,004 common shares of XX.V issued and outstanding.
-
 
 
 
