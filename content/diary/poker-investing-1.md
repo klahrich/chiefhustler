@@ -22,7 +22,7 @@ When you are in the small or big blind position, you have to post the "blind", m
 
 The second price you have to pay is when you win a hand. On every hand, no matter who the winner is, the casino takes its cut, called the "rake". It's a percentage of the total pot, typically around 5%. So every time you win a hand, before pushing the chips your way, the casino charges you 5%.
 
-By now, if you're an investor, you should have recognized the usual 2/20 hedge fund structure: 2% of the assets under management as flat fees, and 20% performance fees based on returns.
+By now, if you're an investor, you might have recognized the usual 2/20 hedge fund structure: 2% of the assets under management as flat fees, and 20% performance fees based on returns.
 
 Why does any of this matter?
 
