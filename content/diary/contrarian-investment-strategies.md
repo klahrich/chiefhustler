@@ -191,7 +191,7 @@ Reinforcing events, on the other hand (positive surprises on favored stocks and 
 When investors receive unexpectedly higher earnings on out-of-favor stocks, their dopamine is also likely to fire up almost instantaneously and strongly - studies show from three to forty times a second. Schultz and Anthony Dickinson, in the 2000 _Annual Review of Neuroscience_, wrote, "In summary, the reward responses depend on the difference between the occurrence and the prediction of reward (dopamine response = reward occurred - reward predicted)".
 
 
-## Ch 10: A {pwerful Contrarian Approach to Profits
+## Ch 10: A Powerful Contrarian Approach to Profits
 
 Favored stocks underperform the market, while out-of-favor companies outperform the market, but the reappraisal often happens slowly, even glacially.
 
