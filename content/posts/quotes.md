@@ -224,3 +224,11 @@ _One of the keys to successful investing is to get out of your own head._<br/>
 _Les conseils et les critiques ont la même origine: on voudrait que l'autre fasse un peu plus comme nous._<br/>
 [Les leçons de Stromae pour les créateurs](https://www.youtube.com/watch?v=U97xg6uzuJY)
 <br/><br/>
+
+_"May we never let the things we can't have or don't have or shouldn't have spoil our enjoyment of the things we do have and can have."_<br/>
+Quote from [Richard Evans](https://en.wikipedia.org/wiki/Richard_J._Evans), found in [A STRATEGY FOR DAILY LIVING](https://www.amazon.ca/STRATEGY-DAILY-LIVING-Classic-Fulfillment/dp/0595482147)
+<br/><br/>
+
+_With that much talent coming out of his lungs, I'm not surprised his two front teeth respectfully got out of the way._<br/>
+[Youtube comment on Kurt Nilsen singing Hallelujah](https://www.youtube.com/watch?v=Qt2FWAbXinY)
+<br/><br/>

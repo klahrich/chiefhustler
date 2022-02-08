@@ -189,3 +189,18 @@ Analysts' estimates are slow to adjust to earnings surprises. Whether the estima
 Reinforcing events, on the other hand (positive surprises on favored stocks and negative surprises on out-of-favor stocks) have a negligible 0.6 percent impact on prices after one year.
 
 When investors receive unexpectedly higher earnings on out-of-favor stocks, their dopamine is also likely to fire up almost instantaneously and strongly - studies show from three to forty times a second. Schultz and Anthony Dickinson, in the 2000 _Annual Review of Neuroscience_, wrote, "In summary, the reward responses depend on the difference between the occurrence and the prediction of reward (dopamine response = reward occurred - reward predicted)".
+
+
+## Ch 10: A {pwerful Contrarian Approach to Profits
+
+Favored stocks underperform the market, while out-of-favor companies outperform the market, but the reappraisal often happens slowly, even glacially.
+
+Most investors do not recognize the immense difficulty of predicting earnings and economic events, and when forecasting methods fail, a predictable reaction occurs. _Here we confront the main irony: one of the most obvious and consistent variables that can be harnessed into a workable investment strategy is the continual overreaction of people to companies they consider to have excellent or mundane prospects._
+
+Buy solid companies currently out of market favor, as measured by their low price-to-earnings, low price-to-cash-flow, or low price-to-book ratios.
+
+Though the statistics drag us toward the value camp, our emotions just as surely tug us the other way. People are captivated by exciting new concepts. The lure of hitting a home run on a hot new idea overwhelms caution. Investors just as surely want to stay well away from companies whose outlooks seem poor.
+
+There are, of course, strong stocks that justify their price-earnings ratios and others that deserve the slimmest of multiples. But, as the evidence indicates, the "best" are relatively few in number, and the chances of recognizing them are very small.
+
+Contrarian strategies succeed because investors don't know their limitations as forecasters. As long as investors believe they can pinpoint the future of favored and out-of-favor stocks, you should be able to make good returns on contrarian strategies.
