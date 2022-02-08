@@ -1,12 +1,14 @@
 ---
 title: "Wildbrain recent earnings calls"
 date: 2022-02-02T19:30:54-05:00
-draft: true
+draft: false
+categories: ["stocks", "WILD.TO"]
+summary: "Highlights from WildBrain earnings calls."
 ---
 
-## 2022 Q1
+Highlights from WildBrain earnings calls for fiscal quarter 2022Q1 ended Sep 2021 and fiscal year 2021.
 
-Highlights from WildBrain earnings calls for fiscal quarter 2022Q1 ended Sep 2021.
+## 2022 Q1
 
 ### Growth
 
@@ -25,7 +27,7 @@ One recent example I'd like to share with you the type of expansion we're target
 
 ### Recent activations
 
-So our recent launch of Strawberry Shortcake, which I discussed with you in our last call at some length, also at Investor Day as we laid out the brand plan, is indicative of this always-on strategy. And it's with content already rolling out on YouTube, <u>**Roblox**</u>, linear broadcast. <u>**And SVOD will follow soon thereafter**</u>. And this all sets the stage for our consumer products rollout for the brand next year and beyond.
+So our recent launch of Strawberry Shortcake, which I discussed with you in our last call at some length, also at Investor Day as we laid out the brand plan, is indicative of this always-on strategy. And it's with content already rolling out on YouTube, **Roblox**, linear broadcast. **And SVOD will follow soon thereafter**. And this all sets the stage for our consumer products rollout for the brand next year and beyond.
 
 Another example is the work we're doing with Teletubbies. Last month, we launched a new Teletubbies music album called Ready Steady Go, produced by WildBrain Spark and distributed across top music platforms such as Spotify, Apple Music, Amazon Music, YouTube Music. And it's also supported by original music videos that are on YouTube that were created entirely by Spark.
 
@@ -37,10 +39,52 @@ First, we've executed against numerous high profile content partnerships, includ
 
 We struck a partnership with Netflix and SEGA to launch a brand new Sonic, the Hedgehog series and also for Netflix we delivered three original series, Johnny Test, Chip & Potato, and Go, Dog. Go!
 
+_Notes from the [announcement](https://www.wildbrain.com/newsreleases/sonic-the-hedgehog-speeds-over-to-netflix-in-the-all-new-animated-series-sonic-prime/): WildBrain and Seag will collaborate on the production, distribution and licensing._
+
 We also created the U.S. rights for Caillou and have since licensed the series to Warner’s Cartoon network, exclusively for that market. 
 
 We are seeing early success with the re-launch of Teletubbies for the adult Gen Z audience, and at our licensing agency, WildBrain’s CPLG, we expanded our operations in the U.S., India, Germany, and Italy.
 
 At our AVOD network, WildBrain Spark, we forged partnerships with emoji company and Moose Toys to launch a new series for original IP, with licensing representation by WildBrain’s CPLG.
 
-For Strawberry Shortcake, the licensing program rolling out through twenty twenty two includes a new toy line from Moose Toys, ten original songs, new books from Penguin Random House and retail partnerships with name brands such as Sunkist among others. In early October we are premiering our first ever Roblox Game, starring Strawberry Shortcake. 
+For Strawberry Shortcake, the licensing program rolling out through 2022 includes a new toy line from Moose Toys, ten original songs, new books from Penguin Random House and retail partnerships with name brands such as Sunkist among others. In early October we are premiering our first ever Roblox Game, starring Strawberry Shortcake. 
+
+## 2020 Q4
+
+### Company updates
+
+Creatively, we've significantly upped our game. We're working on new content with a host of top tier talent. New to our organization, including animation artists, creators, writers, directors, and live action producers.
+
+For example, Snoopy in Space was one of the most popular shows on Apple TV+ and our Vancouver Studio is in full production on additional Peanuts content for Apple. We're also in production on two new original seasons of Johnny Test exclusively for Netflix.
+
+In partnership with DreamWorks, our studio is producing a brand new series based on the classic children's book, Go, Dog. Go! Our original animated preschool series Chip & Potato is a hit with the young viewers on Netflix and has been renewed. This is becoming a full-fledged brand for us for which we intend to exploit consumer products.
+
+So, we rebuilt our creative pipeline to align with the shift in the industry towards global deals for premium content. Our premium franchises command premium prices and have established a new baseline of earnings from which will grow. It's important to realize that these deals take time to play out in our numbers. As we add to our book of production business, it takes a number of quarters for revenue to work its way through the financials.
+
+Also, it's important to note this is only part of the story. This is only the production related earnings stream and doesn't reflect the significant earnings contribution that these new content deals can drive and associated library sales and consumer products lift which are all substantially I should say they're all margin. **We see production growth as a leading indicator for future earnings contribution from these high margin categories.**
+
+Views at WildBrain Spark were up 35% over the prior year to 44 billion and this amounts to 240 billion minutes of video watched on the network, which is up 45% from last year.
+
+At 4 billion views per month, WildBrain Spark now has one of the largest and most engaged global audiences in the kids and family space. In fact as measured by audience size, our AVOD network has now eclipsed many top kids U.S. cable networks by reaching an average of 16 million unique American viewers monthly. And in terms of watch time, WildBrain Spark is number one.
+
+<blockquote>
+
+The other thing that's happened, I think in the past and I don't think our company was unique in doing this is, rushing stuff to market. You really have to lead with the content. And it's not about, trying to announce a master toy deal all of a sudden, and ship massive quantities of merchandise into retail channels, when the consumer pull is not there.
+
+So, we're being much more deliberate in the way that we - rollout, our new content and making sure and testing by the way. We're doing a huge amount of consumer intercepts and testing against the franchise properties that are highly toyetic. 
+
+You never know what the next hit is going to come from. And so, we're now going to chase on consumer products as opposed to lead with it.
+
+I also think it's worth reflecting that, having been at Marvel and seeing the time that it takes in order to get traction that we need to be very deliberate in the way we do the rollouts.
+
+Peppa Pig is a great example I mean, what an incredible property that is. But it grew from 35 licensees over the period of a decade to 1,500 globally.
+
+ I tend to believe as something grows like a weed generally it's a weed, and I think we're looking for oaks instead of weeds.
+
+</blockquote>
+
+### Commercial Updates
+
+Q from analyst: "In terms of consumer products-owned business, and let's just simplify what you did in fiscal 2020? Can you just comment on what properties are contributing to that base of revenue?"
+
+So owned consumer products, it's Peanuts and that business has been really solid. One of the things we're seeing fortuitously, is that classic brands are dominating. And no question its comfort food. The competitive set has changed, because there's a greater reluctance until retail stabilizes to move to new and unproven brands. So in a sense, there's competition that's been removed from the market.
