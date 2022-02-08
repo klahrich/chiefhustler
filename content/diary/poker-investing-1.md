@@ -18,7 +18,7 @@ In a game of poker, there's this thing called "the blinds". Every hand, the guy 
 
 ![blinds](/images/blinds.png)
 
-When you are in the small or big blind position, you have to post them "blind", meaning before you even get to see what your hand is. It's the first price you have to pay to play the game.
+When you are in the small or big blind position, you have to post the "blind", meaning before you even get to see what your hand is. It's the first price you have to pay to play the game.
 
 The second price you have to pay is when you win a hand. On every hand, no matter who the winner is, the casino takes its cut, called the "rake". It's a percentage of the total pot, typically around 5%. So every time you win a hand, before pushing the chips your way, the casino charges you 5%.
 
