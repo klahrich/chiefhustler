@@ -1,5 +1,5 @@
 ---
-title: "Poker Investing 1"
+title: "Poker and Investing (1)"
 date: 2022-02-08T13:53:16-05:00
 draft: false
 categories: ["investing"]
