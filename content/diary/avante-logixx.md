@@ -1,7 +1,9 @@
 ---
 title: "Avante Logixx"
 date: 2022-02-06T19:35:13-05:00
-draft: true
+draft: false
+categories: ["stocks", "XX.V"]
+summary: "I've been intending to write something about Avante for some time."
 ---
 
 I've been intending to write something about Avante for some time. This is not a deep dive or a bullish thesis. I'm just writing down my thoughts so I can come back to them later.

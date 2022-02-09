@@ -31,6 +31,10 @@ With leading Chinese streamer, **iQIYI**: a global partnership (production, dist
 
 Partnered with Jay Ward Productions across distribution, production and licensing for their entire portfolio including such legendary properties as Rocky & Bullwinkle, George of the Jungle, Mr. Peabody & Sherman, Dudley Do-Right, Super Chicken and more. 
 
+### Personal comments
+
+I'm happy with the quarter, no surprise. That being said, with the amount of mental energy I've dedicated to this stock, I'm starting to feel commitment and confirmation bias creep in. After I digest this quarter, I intend to spend some time thinking about the bear thesis here.
+
 
 ## 2022 Q1
 
