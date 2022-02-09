@@ -58,6 +58,18 @@ As far as the board is concerned, here's another interesting tidbit:
 
 ![xx-board2](/images/xx-board2.png)
 
+### Update (2022-02-09)
+
+[SSC SECURITY SERVICES CORP. TO ACQUIRE AVANTE LOGIXX INC., CREATING THE LARGEST PUBLICLY-TRADED SECURITY COMPANY IN CANADA](https://www.avantelogixx.com/2022/02/09/ssc-security-services-corp-to-acquire-avante-logixx-inc-creating-the-largest-publicly-traded-security-company-in-canada/).
+
+$0.52 per Avante Share in cash + 0.4155 of an SSC Share for each Avante Share held.
+
+Doug Emsley, Chairman, President & Chief Executive Officer of SSC, commented: "This is our third acquisition in just over a year, giving us critical mass across the country in the security business. This acquisition represents a critical step towards solidifying our position as a national player in both physical and cyber security services across Canada, coast to coast."
+
+The stock is up 38% so far on the news. Not unhappy about that and about the fact that I was adding recently. I don't know yet whether I want to stay invested in SSC, have some work to do.
+
+
+
 
 
 
