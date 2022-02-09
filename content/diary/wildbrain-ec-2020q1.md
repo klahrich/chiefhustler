@@ -8,6 +8,30 @@ summary: "Highlights from WildBrain earnings calls."
 
 Highlights from WildBrain earnings calls for fiscal quarter 2022Q1 ended Sep 2021 and fiscal year 2021.
 
+## 2022 Q2
+
+Revenue up 8% to $153.2M. Normalized EBITDA up 6%. Current EV is $1.12B and EV/EBITDA(ttm) is 14.5x. I include the stock-based compensation in the calculation.
+
+Spark's revenue is up 16% YoY, despite lower views and watch time (8.3 vs 9.5 billion views, 51.5 vs 59.7 billion minutes - peak viewership during COVID-19 lockdowns), thanks to continued advertising recovery. Within Spark, direct ad sales, paid media and digital production are up 127%. 
+
+Consumer products are up 34.5%. Consumer products are 44.1% of the Content Business, up from 35.5% a year ago. This is mainly Peanuts + third-party IP.
+
+Content Production and Distribution $61.3M vs $68.5M last year. Tough comp because of Peanuts licensing deal to Apple TV+ in 2021. This year was still solid: Sonic Prime, more Peanuts content, Jonny Jetboy with iQIYI, etc.
+
+### Recent activations
+
+**HBO Max** has licensed the entire 14-season, 385-episode library of Degrassi: The Next Generation for the US, plus a multi-year deal to produce a new Degrassi series (launching in 2023).
+
+With **Netflix**:
+
+- a third season plus three new family specials for Chip & Potato — a burgeoning preschool brand that we're taking to the toy shelf under a licensing agreement with JAKKS Pacific.
+- our brand-new animated CG specials of Strawberry Shortcake and new digital series, Berry in the Big City, to launch in Spring 2022.
+
+With leading Chinese streamer, **iQIYI**: a global partnership (production, distribution, and licensing outside of China), for the new original IP Jonny Jetboy (from the creator of PAW Patrol and Bob the Builder). 
+
+Partnered with Jay Ward Productions across distribution, production and licensing for their entire portfolio including such legendary properties as Rocky & Bullwinkle, George of the Jungle, Mr. Peabody & Sherman, Dudley Do-Right, Super Chicken and more. 
+
+
 ## 2022 Q1
 
 ### Growth

@@ -10,7 +10,7 @@ I used to play poker for a living. I often make links between poker and investin
 
 ## The Rake
 
-There was a saying among poker players that "In real life, women are the rake." Few will understand this. Bezos probably does.
+There was a saying among poker players that "In real life, women are the rake." Few will understand this. Bezos probably does. Maybe not though, I mean at some point, not sure that $50B or $100B makes any difference in someone's life.
 
 Anyway, that's not what I want to talk about.
 
