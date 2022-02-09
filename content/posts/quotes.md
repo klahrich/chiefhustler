@@ -232,3 +232,7 @@ Quote from [Richard Evans](https://en.wikipedia.org/wiki/Richard_J._Evans), foun
 _With that much talent coming out of his lungs, I'm not surprised his two front teeth respectfully got out of the way._<br/>
 [Youtube comment on Kurt Nilsen singing Hallelujah](https://www.youtube.com/watch?v=Qt2FWAbXinY)
 <br/><br/>
+
+_There are few edges available in hypercompetitive global markets. Controlling your own behavior is the last bastion of outperformance._<br/>
+[Journalytic](https://journalytic.com/)
+<br/><br/>

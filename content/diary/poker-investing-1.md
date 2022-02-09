@@ -34,7 +34,7 @@ So the blinds are there to force the action. You have to do something to beat th
 
 Going back to the investing world, imagine you pay a fund manager 2% to invest your money. That 2% is an incentive for them to do something with the money. Otherwise, you'd be paying 2%...for nothing! The 2% fund fees are the blinds. They are an incentive to do something.
 
-## The Retail Investor
+## The Retail Investor's Advantage
 
 Buffet (and Greenblatt) talked about this ad-nauseam, but hopefully, the poker analogy helped distill the idea. 
 

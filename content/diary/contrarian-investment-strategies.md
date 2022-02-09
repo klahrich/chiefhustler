@@ -204,3 +204,35 @@ Though the statistics drag us toward the value camp, our emotions just as surely
 There are, of course, strong stocks that justify their price-earnings ratios and others that deserve the slimmest of multiples. But, as the evidence indicates, the "best" are relatively few in number, and the chances of recognizing them are very small.
 
 Contrarian strategies succeed because investors don't know their limitations as forecasters. As long as investors believe they can pinpoint the future of favored and out-of-favor stocks, you should be able to make good returns on contrarian strategies.
+
+## Ch 11: 
+
+The investor overreaction hypothesis states that it is far safer to project a  continuation of investor overreaction than to attempt to project the visibility of stocks or other investments themselves.
+
+A part of the evidence used to build the IOH was considered to be a series of aberrations by efficient market believers and dismissed as anomalies.
+
+High levels of leverage and liquidity have a long-standing record of creating serious downturns, often accompanied by panic. IOH would thus caution against high leverage and massive illiquidity, because of the dangers of a major overreaction. 
+
+Diversification is essential (for contrarian stock selection). The returns of individual issues  vary widely, so it is dangerous to rely on only a few companies or industries. 
+
+Such companies (medium or large-sized stocks on the NYSE, the NASDAQ, or the AMEX) are usually subject to less accounting gimmickry than smaller ones, and this difference provides some added measure of protection. Finally, larger companies have more "staying power"; their failure rate is substantially lower than that of smaller and start-up companies.
+
+Should we consider abandoning security analysis entirely? The evidence we've seen certainly shows that it doesn't help much. However, I would not go quite this far. I believe parts of it can be valuable within a contrarian framework.
+
+Indicator 1. A strong financial position (current assets vs current liabilities  debt as a percentage of capital structure, interest coverage, etc). A strong financial position will enable a company to sail unimpaired through periods of operating difficulties. And of course, in a liquidity crisis, it is often the difference between survival and insolvency.
+
+Indicator 3. A higher rate of earnings growth than the S&P500 in the immediate past and the likelihood that it will not plummet in the near future. 
+
+Indicator 4. Earnings estimate should always lean to the conservative side.
+
+Strikeouts (Freddie and Fannie), important lessons:
+
+- never buy a company that is losing money. Losses are an early warning that all is not well. Most good companies do turn around, but when they don't you get stung.
+
+- never, never believe senior officials when they say all is well in trying times for a company or an industry. In most cases that's the time to sell.
+
+It's important to realize that investing using contrarian strategies is a long-term game. One roll of the dice or a single hand at blackjack is meaningless to a casino owner. He knows there will be hot streaks that will cost him a night's, a week's, sometimes even a month's revenues. He may grumble when he loses, but he doesn't shut down the casino. He knows he'll get the money back.
+
+Even though a strategy works most of the time and generates excellent returns, _no strategy works consistently_.
+
+In order to win you have to stay with the game, but for many people that is difficult to impossible. Though the strategies are simple and easy to use, the influence of immediate events is very powerful.
