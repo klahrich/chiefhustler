@@ -6,7 +6,7 @@ categories: ["stocks", "WILD.TO"]
 summary: "I expect an uptick in the already growing & significant consumer products revenues in H2 2022."
 ---
 
-_TL;DR: I expect an uptick in the already growing & significant consumer products revenues in H2 2022._
+_TL;DR: I expect an uptick in the already growing & significant consumer products revenues in calendar H2 2022. A ["kind of a step-wise function"](https://seekingalpha.com/article/4485602-wildbrain-ltd-wldbf-ceo-eric-ellenbogen-on-q2-2022-results-earnings-call-transcript)._
 
 - **Degrassi** (HBO Max)
 
