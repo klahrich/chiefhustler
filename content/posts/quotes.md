@@ -236,3 +236,6 @@ _With that much talent coming out of his lungs, I'm not surprised his two front 
 _There are few edges available in hypercompetitive global markets. Controlling your own behavior is the last bastion of outperformance._<br/>
 [Journalytic](https://journalytic.com/)
 <br/><br/>
+
+_Sounds great in theory, but, unlike our academic friends, we're going to ask a rude question: does it work?_<br/>
+[Contrarian Investment Strategies](https://www.amazon.ca/Contrarian-Investment-Strategies-David-Dreman/dp/0684813505)

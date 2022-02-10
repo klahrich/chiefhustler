@@ -236,3 +236,11 @@ It's important to realize that investing using contrarian strategies is a long-t
 Even though a strategy works most of the time and generates excellent returns, _no strategy works consistently_.
 
 In order to win you have to stay with the game, but for many people that is difficult to impossible. Though the strategies are simple and easy to use, the influence of immediate events is very powerful.
+
+## Ch 12: Contrarian Strategies Within Industries
+
+The results of investing in the most out-of-favor stocks within industries are similar to those of buying the most unpopular stocks overall; however, the industry returns are somewhat lower. The returns of the laggards continue to outperform the market but fall off more rapidly against it over longer periods of time than do absolute contrarian strategies. It is best to rebalance portfolios annually when this strateg is used.
+
+The advtange of the contrarian industry strategy is that you have far more diversification by indsutry than you do the original contrarian strategies. This diversification should protect you from the underperformance that occurs when the most out-of-favor stocks and insutries in the market are taboo. Thus, if industries such as [...] are headed for the starts, you will not feel left out. You will also not be positioned only in the most disliked groups, which may underperform for months or sometimes years.
+
+But remember that averages are deceptive. Even if contrarian stocks provide better returns in most bear markets, they don't do so for all bear markets. Similar;y, though contrarian strategies provide far-above-average returns over time, they don't do so every time.
