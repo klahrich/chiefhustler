@@ -6,6 +6,8 @@ categories: ["stocks", "WILD.TO"]
 summary: "I expect an uptick in the already growing & significant consumer products revenues in H2 2022."
 ---
 
+![strawberry](/images/strawberry2.png)
+
 _TL;DR: I expect an uptick in the already growing & significant consumer products revenues in calendar H2 2022. A ["kind of a step-wise function"](https://seekingalpha.com/article/4485602-wildbrain-ltd-wldbf-ceo-eric-ellenbogen-on-q2-2022-results-earnings-call-transcript)._
 
 - **Degrassi** (HBO Max)
@@ -71,6 +73,12 @@ _(The consumer products numbers will start hitting in 2022)_
 
 _(This is an Ellenbogen win, thanks to his prior collaboration with Tiffany Ward)_
 
+----
 
+_My favorite bit from the earnings call (referring to the Peanuts franchise):_
+
+<blockquote>
+[...] what an amazing marketing partner Apple is and how dedicated they are to this franchise
+</blockquote>
 
 
