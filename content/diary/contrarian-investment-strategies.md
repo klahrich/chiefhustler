@@ -8,7 +8,7 @@ summary: "Excerpts from the book"
 
 Excerpts from the [book](https://www.amazon.ca/Contrarian-Investment-Strategies-David-Dreman/dp/0684813505), by David Dreman.
 
-## Chapter 1: Planet of the Bubbles
+## Ch 1: Planet of the Bubbles
 
 In every bubble, once the crowd begins to realize how wildly overpriced the stocks they rushed into are, there is a scramble to escape. A horrific panic ensues as the image changes from euphoria to doom. 
 
@@ -22,7 +22,7 @@ We find that whole communities suddenly fix their minds upon one object, and go 
 
 Caution and rationality are lost in the stampede to sell. In a market collapse, terrified investors are oblivious to fundamental value, just as they were when no price was too high to pay.
 
-## Chapter 2: The Perils of Affect
+## Ch 2: The Perils of Affect
 
 Images and associations are pulled into the conscious mind from past, current, and hoped-for experiences. And the more intensive our positive or negative feelings are, whether about ideas, groups of people, socks, industries, or markets, the more intensely Affect influences our decisions on them.
 
@@ -58,7 +58,7 @@ _Personal note: I experienced the consequences of Affect during the GME mania in
 
 _I also wonder if the oil sector has a negative Affect attached to it for a large subset of market participants that would be reluctant to invest in it, even if they were able to find rationally interesting returns. Same question for China..._
 
-## Chapter 3: Treacherous Shortcuts in Decision Making
+## Ch 3: Treacherous Shortcuts in Decision Making
 
 #### The Perils of Availability
 
@@ -86,7 +86,7 @@ Don't be influenced by the short-term record or "great" market calls of a money 
 
 _Hindsight bias_ seriously impairs proper assessment of past errors and significantly limits what can be learned from experience. As a result, we think mistakes are easy to see and are confident we won't make them again - until we do.
 
-## Chapter 4: Conquistadors in Tweed Jackets
+## Ch 4: Conquistadors in Tweed Jackets
 
 ...the efficient-market hypothesis, which holds that competition between sophisticated, knowledgeable investors keeps stock prices where they should be. This happens because all facts that determine stock prices are analyzed by large numbers of intelligent and rational investors. Prices may not always be right, but they are unbiased, so if they are wrong, they are just as likely to be too high as too low.l
 
@@ -94,7 +94,7 @@ A key premise of the efficient-market hypothesis is that the market reacts almos
 
 The professors assumed that investors were emotionless and as efficient as the computers they used to generate their theory.
 
-## Chapter 5: Only a Flesh Wound
+## Ch 5: Only a Flesh Wound
 
 ### The 1987 Stock Market Crash
 
@@ -124,7 +124,7 @@ Although Merton admitted that the fund's risk measurements hadn't worked, he sta
 
 As for Professor Fama and his colleagues, did this experience shake their belief that volatility is the only measure of risk or that the market is efficient? Apparently not. In 2007, with mortgage-backed security prices already dropping rapidly, Fama said in an interview, "The word 'bubble' drives me nuts," and went on to explain why people could trust housing market values. "Housing markets are less liquid, but people are very careful when they buy houses...The bidding process is very detailed."
 
-## Chapter 6: Efficient Markets and Ptolemaic Epicycles
+## Ch 6: Efficient Markets and Ptolemaic Epicycles
 
 ...the Ptolemaic system met two major criteria of a useful scientific hypothesis: it was "predictive" in correctly forecasting where various celestial bodies would be at future points in time, and it was "explanatory" because it codified a system of planetary motion...I liken the continued belief in EMH to the unyielding acceptance of the Ptolemaic system after Galileo had shown that the new sun does not revolve around the sun.
 
@@ -136,7 +136,7 @@ Morningstar's five stars, its top ranking, widely followed and much sought after
 
 Another major premise of EMH is the hypothesis that all new information is analyzed almost immediately and accurately reflected in stock prices...we'll often find that the researchers mistakenly take any market reaction to new information as the correct one...A number of other studies have shown that the market is slow to digest new information.
 
-## Chapter 7: Wall Street's Addiction to Forecasting
+## Ch 7: Wall Street's Addiction to Forecasting
 
 When information-processing requirements are large and complex analysis is necessary to integrate it, the rational system, which is deliberative and analytical, is often subtly overridden without the professional's knowledge by the experiential system.
 
