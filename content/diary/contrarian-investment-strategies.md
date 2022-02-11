@@ -205,7 +205,7 @@ There are, of course, strong stocks that justify their price-earnings ratios and
 
 Contrarian strategies succeed because investors don't know their limitations as forecasters. As long as investors believe they can pinpoint the future of favored and out-of-favor stocks, you should be able to make good returns on contrarian strategies.
 
-## Ch 11: 
+## Ch 11: Profiting from Investors' Overreactions
 
 The investor overreaction hypothesis states that it is far safer to project a  continuation of investor overreaction than to attempt to project the visibility of stocks or other investments themselves.
 
