@@ -241,6 +241,30 @@ In order to win you have to stay with the game, but for many people that is diff
 
 The results of investing in the most out-of-favor stocks within industries are similar to those of buying the most unpopular stocks overall; however, the industry returns are somewhat lower. The returns of the laggards continue to outperform the market but fall off more rapidly against it over longer periods of time than do absolute contrarian strategies. It is best to rebalance portfolios annually when this strateg is used.
 
-The advtange of the contrarian industry strategy is that you have far more diversification by indsutry than you do the original contrarian strategies. This diversification should protect you from the underperformance that occurs when the most out-of-favor stocks and insutries in the market are taboo. Thus, if industries such as [...] are headed for the starts, you will not feel left out. You will also not be positioned only in the most disliked groups, which may underperform for months or sometimes years.
+The advantage of the contrarian industry strategy is that you have far more diversification by industry than you do the original contrarian strategies. This diversification should protect you from the underperformance that occurs when the most out-of-favor stocks and industries in the market are taboo. Thus, if industries such as [...] are headed for the starts, you will not feel left out. You will also not be positioned only in the most disliked groups, which may underperform for months or sometimes years.
 
-But remember that averages are deceptive. Even if contrarian stocks provide better returns in most bear markets, they don't do so for all bear markets. Similar;y, though contrarian strategies provide far-above-average returns over time, they don't do so every time.
+But remember that averages are deceptive. Even if contrarian stocks provide better returns in most bear markets, they don't do so for all bear markets. Similarly, though contrarian strategies provide far-above-average returns over time, they don't do so every time.
+
+## Ch 13: Investing in a New, Alien World
+
+Although precise figures are elusive, some trade sources estimated that by mid-2009, high-frequency trading accounted for almost 75% of the volume on all U.S. markets, up from 33% in 2006.
+
+We also know that the HFT firms fire off enormous numbers of bids or offers for futures and stocks in milliseconds and cancel them a few milliseconds later. One reason in a panicky market might be to drive prices even lower. If a flotilla of HFT firms are attempting to drive prices down and a large tidal wave of flash sell orders show up on the screen, canceled in milliseconds, other investors can easily be fooled into thinking that heavy potential waves of selling will hit the floor in seconds, resulting in investors and traders selling immediately to escape the deluge.
+
+The same strategy may apply in a market which is rising substantially...HFT firms thus win on both the upside and the downside. All they require is enormous volatility in either case, which from the evidence available, they help to create. The net result is that volatility is far higher than it should be and all too many people abandon markets because of their casino-like behavior.
+
+In the fall of 2008, fear shot up like the flames of a roaring forest fire. Some investors tried to protect their blue-chip stocks by buying puts, which gave them the right to see a stock at its then-current, highly depressed price if the market went lower. The cost to do so can be exorbitantly large with ultrahigh volatility, premiums sometimes rising to 20 to 35 percent of the entire principal for 90 to 100 days. For a year, if the put premiums remained relatively unchanged, the cost increased to 80 to 85 percent annually. In effect, the insurance provided by buying a put would have almost wiped out any blue-chip portfolio in little more than a year. [...] in periods of crisis, using options clearly does not work. Volatility, unfortunately, is something we just have to live through.
+
+The bottom line here is not to buy puts or calls unless you are highly experienced with them. Even then, the odds are against most people.
+
+**When Should You Sell?**
+
+Psychological forces misdirect most sell decisions, often disastrously. I have seen many a money manager set stringent sell targets [...] But as the stock moved rapidly toward the preset price, more and more good news usually accompanied its rise [...] a manager would often bump the sell price higher. This frequently resulted in the manager's taking the "Round trip": riding a stock all the way up, only to ride it all the way down again.
+
+Given what we know, it seems that the safest approach, once again, is to rely on mechanical guidelines [e.g. when its P/E ratio (or other contrarian indicator) approaches that of the overall market], which filter out much of the emotional content of the decision. 
+
+The first guideline, then, is simple: pick a sell point when you buy a stock. If it reaches that point, grit your teeth, brace yourself, and get rid of it. You will probably be unhappy because the issue will often go higher. But why be greedy? You've made a good gain, and that's what the game is all about.
+
+Another question is how long you should hold a stock that has not worked out. Investors all too often fall in love with their holdings. I have seen portfolios loaded with dozens of companies that look good on paper but have been dogs in the market, resulting in poor returns. Again, there are many partial answers to this problem, but I think two and a half to three years is an adequate waiting period. If after that time the stock still disappoints, sell it.
+
+Another important rule is to sell a stock immediately if its long-term fundamentals deteriorate significantly. I'm talking not about a poor quarter or a temporary surprise that a stock will snap back from but about major changes that weaken a company's prospects. Under these conditions, I have found that taking your lumps immediately and moving on usually results in the smallest loss.
