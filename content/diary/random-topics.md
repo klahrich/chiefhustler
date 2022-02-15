@@ -6,7 +6,7 @@ categories: ["random"]
 summary: "Some random thoughts about value vs growth, are we at the bottom or not, NFTs, and Canadian politics."
 ---
 
-Some random thoughts about value vs growth, are we at the bottom or not, NFTs, and Canadian politics.
+Some random thoughts about value vs growth, NFTs, and Canadian politics.
 
 ![bull](/images/bull.png)
 
