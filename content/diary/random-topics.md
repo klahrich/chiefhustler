@@ -62,7 +62,7 @@ So this project allows users to buy NFTs blind, meaning they don't know what the
 
 But here's where it gets even more interesting. In order to get in on the fun, you have to be a "level 55". To accumulate points and get to higher levels, you have to engage with the community in the Discord channel. A LOT. The person who was telling me about this project described how he was staying up all night chatting with random people about random crap just to get to level 55. Do you see the trick they're pulling on these clueless people?
 
-But that's not the best part. I asked the guy, how did you come across this project? It took a bit of probing, but he finally remembered: he saw an ad on Instagram. That Gal Yosef dude and his acolytes have a business running ads on Instagram to attract fishes who are willing to pay real money to buy something they can't see, hoping it's a better-looking eagle or cow or whatever the fuck than their neighbor's, so they can then flip it to an even bigger fool.
+That's still not the best part. I asked the guy, how did you come across this project? It took a bit of probing, but he finally remembered: he saw an ad on Instagram. That Gal Yosef dude and his acolytes have a business running ads on Instagram to attract fishes who are willing to pay real money to buy something they can't see, hoping it's a better-looking eagle or cow or whatever the fuck than their neighbor's, so they can then flip it to an even bigger fool.
 
 And that's why we haven't hit bottom yet. The crypto and NFT scam worlds are not hurting - they are flourishing. The bottom will come after everyone will have maxed out their credit cards on this shit.
 
