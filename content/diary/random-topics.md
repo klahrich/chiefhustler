@@ -1,5 +1,5 @@
 ---
-title: "Random Topics"
+title: "Random Thoughts"
 date: 2022-02-15T14:14:10-05:00
 draft: false
 categories: ["random"]
