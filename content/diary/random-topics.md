@@ -52,7 +52,7 @@ The other well-known indicator of a future recession is the Treasury yield curve
 
 ![yield-curve](/images/yield-curve.png)
 
-Every one of the last eight or so recessions was preceded by a yield curve inversion, but not every yield curve reversion is followed by a recession (there are some false positives). If you don't know, a yield curve recession means that investors think shit is about to hit the fan and they start hoarding cash because they think they'll need it soon, pushing up the short-term yields.
+Every one of the last eight or so recessions was preceded by a yield curve inversion, but not every yield curve inversion is followed by a recession (there are some false positives). If you don't know, a yield curve recession means that investors think shit is about to hit the fan and they start hoarding cash because they think they'll need it soon, pushing up the short-term yields.
 
 ## We haven't hit the bottom yet
 
