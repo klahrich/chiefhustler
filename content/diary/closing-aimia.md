@@ -2,7 +2,7 @@
 title: "Closing the loop on Aimia and Energy"
 date: 2022-01-08T22:53:34-05:00
 draft: false
-categories: ["AIM.TO"]
+categories: ["random"]
 type: "diary"
 summary: "Short and sweet"
 ---
