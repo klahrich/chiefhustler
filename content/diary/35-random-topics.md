@@ -3,7 +3,7 @@ title: "#35 - Random Thoughts"
 date: 2022-02-15T14:14:10-05:00
 draft: false
 categories: ["random"]
-summary: "Some random thoughts about value vs growth, NFTs, and Canadian politics."
+summary: "Thoughts on value vs growth, NFTs, and Canadian politics."
 ---
 
 Some random thoughts about value vs growth, NFTs, and Canadian politics.
