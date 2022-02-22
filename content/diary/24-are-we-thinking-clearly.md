@@ -1,5 +1,5 @@
 ---
-title: "#24 - Are We Thinking Clearly"
+title: "#24 - Are We Thinking Clearly?"
 date: 2022-01-27T14:47:23-05:00
 draft: false
 categories: ["investing"]

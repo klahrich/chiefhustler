@@ -268,3 +268,41 @@ The first guideline, then, is simple: pick a sell point when you buy a stock. If
 Another question is how long you should hold a stock that has not worked out. Investors all too often fall in love with their holdings. I have seen portfolios loaded with dozens of companies that look good on paper but have been dogs in the market, resulting in poor returns. Again, there are many partial answers to this problem, but I think two and a half to three years is an adequate waiting period. If after that time the stock still disappoints, sell it.
 
 Another important rule is to sell a stock immediately if its long-term fundamentals deteriorate significantly. I'm talking not about a poor quarter or a temporary surprise that a stock will snap back from but about major changes that weaken a company's prospects. Under these conditions, I have found that taking your lumps immediately and moving on usually results in the smallest loss.
+
+## Ch 14: Toward a Better Theory of Risk
+
+Huxley on creationist thinking: "The great tragedy of Science [is] ?- the slaying of a beautiful hypothesis by an ugly fact".
+
+The damage we are primarily concerned with in this section occurs in periods of abundant monetary availability.
+
+Their endings have all been remarkably similar: At some point, the band and other financial institutions woke up to the fact that projects would not be nearly as profitable as originally projected.
+
+...there is [...] a good deal of evidence that in periods of severe strain, liquidity dries up, in the face of sharp drops in price.
+
+In the past, we did not focus on inflation, as rising prices have been pretty much a nonevent for centuries...Inflation was a minuscule 0.1% from 1802 to 1870 and 0.6% from 1871 to 1925.
+
+Inflation caught investors [...] flatfooted after World War II. 
+
+When we adjust for inflation, supposedly risky assets such as stocks become far safer [than T-Bills]. 
+
+Inflation and taxes sharply reduce your risk of owning stocks over longer periods of time. 
+
+## Ch 15: They're Gambling with Your Money
+
+Greenspan at this pinnacle was widely considered to be the most able central banker who ever walked the face of the earth.
+
+If his speeches were opaque, his actions as Fed chairman for almost twenty years certainly were not. And it was those actions that played an important role in the worst financial crisis in history.
+
+He had an unshakable belief that companies, regardless of their size, industry, or circumstances, would, in their own self-interest, regulate themselves well.
+
+Greenspan was also the "leading proponent of the deregulation of derivatives."
+
+During the 2008 crash, in a speech at George-town University, Greenspan said that the problem was not the derivatives but the people using them - who got "greedy".
+
+As obstinate as Chairman Greenspan was about derivatives, he was even more so about not taking any action to curb the excesses of the housing bubble.
+
+By the time the Fed realized the enormity of the problem, it was far too late. In 2007, even after the bubble was already imploding, both Greenspan and Bernanke continued to issue reassuring statements that all was well. Bernanke said in late March 2007, "At this juncture...the impact on the broader economy and financial markets of the problems in the subprime market seems to be contained." Three months before the collapse of Lehman  Brothers, he stated, "The danger that the economy has fallen into a substantial downturn appears to have waned."
+
+He [Greenspan] expected and believed that the financial firms would protect their interests because they are rational companies ...so they would not take risks that would threaten their very existence. Where he went wrong, according to Kahneman, was that there was a huge gulf in the goals between the firms and their managers' (their agents') interests. The firm takes the long view of profitability over time. The agents take a much shorter-term  view, basing decisions on possible promotions, large salaries, and bonuses...the executives did not commit suicide by taking such risks. They walked away unscathed. It was the corporations they managed that were crippled or committed suicide.
+
+The three top credit-rating agencies became enormously prosperous, not unlike the mortgage lenders...The ratings were a very lucrative business for the credit-raring agencies, costing upward of $50,000 for plain-vanilla slices to $1 million or more for supercomplex, multilayered collateralized debt obligations.

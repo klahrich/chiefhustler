@@ -199,6 +199,8 @@ This list is by no means intended to be comprehensive, and it will most likely g
 
 - [https://fknol.com/](https://fknol.com/)
 
+- [finviz](https://finviz.com/)
+
 #### Canada
 
 - [Cantech](https://www.cantechletter.com/)

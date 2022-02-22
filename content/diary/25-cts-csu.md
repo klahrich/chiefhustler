@@ -1,5 +1,5 @@
 ---
-title: "#25 - Thoughts on CTS.TO, CSU.TO, and good businesses"
+title: "#25 - CTS.TO, CSU.TO, and good businesses"
 date: 2022-01-29T12:09:08-05:00
 draft: false
 categories: ["investing"]

@@ -8,7 +8,7 @@ summary: "Notes from a Doc Jones interview"
 
 Notes from a [Doc Jones interview](https://www.youtube.com/watch?v=RhFo9YK20kA). There's much more to the interview than my notes here. I believe most if not all of his insights can be applied to investing at large.
 
-If you don't know who Doc Jones, here's his [website](https://drjonesresourceinvestor.wordpress.com/).
+If you don't know who Doc Jones is, here's his [website](https://drjonesresourceinvestor.wordpress.com/). 
 
 ![docjones-1](/images/docjones-1.png)
 
