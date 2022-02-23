@@ -85,7 +85,7 @@ I want to be a Camel 🐪.
 
 It made me think of Connor Haley's latest endeavour with Hasbro [$HAS](https://finance.yahoo.com/quote/HAS?p=HAS&.tsrc=fin-srch). You can learn more about it on his twitter timeline, [here](https://twitter.com/AltaFoxCapital/status/1494275523668852736) or here: [Part 1](https://twitter.com/AltaFoxCapital/status/1494701889023365129), [Part 2](https://twitter.com/AltaFoxCapital/status/1494701973580484614). AltaFox's target price on the stock is $200, a double from here, and they even created a website called [freethewizards](https://freethewizards.com/) and created a [100-page presentation](https://freethewizards.com/wp-content/uploads/2022/02/Alta-Fox-HAS-Presentation-Final.pdf) to support their thesis.
 
-While I know that Connor has a great track record, and I don't doubt this will ultimately be a successful investment, it really is not a Camel-like approach. All this for a double? I can find plenty of as-likely doubles in the market right now, without all the fuss.
+While I know that Connor has a great track record, and I don't doubt this will ultimately be a successful investment, it seems like an un-Camel-like effort. All this for a double? I can find plenty of as-likely doubles in the market right now, without all the fuss.
 
 ## Pabrai on Facebook
 
