@@ -14,7 +14,7 @@ summary: "The Chinese Mother, Munger on the Chinese, The Story of Li Lu, The Def
 
 Oups, I did it again. I fell in love.
 
-This time it's with Naspers, Bob van Dijk, and Koos Bekker. Motherfucking Jacobus Petrus Koos Bekker. What a gangster.
+This time it's with Naspers, Bob van Dijk, and Koos Bekker. Motherfucking Jacobus Petrus Koos Bekker. What a gangster (a bit of backstory on Koos Bekker from Mohnish Pabrai [here](https://www.youtube.com/watch?v=_7UfqjD3IEg&t=1891s), who describes Koos Bekker as "Nick Sleep on steroids").
 
 As I was binging on everything I could find on them, I stumbled on a video where Koos Bekker talks about the Chinese mother and compares her to the European mother.
 
@@ -86,6 +86,8 @@ I want to be a Camel 🐪.
 It made me think of Connor Haley's latest endeavour with Hasbro [$HAS](https://finance.yahoo.com/quote/HAS?p=HAS&.tsrc=fin-srch). You can learn more about it on his twitter timeline, [here](https://twitter.com/AltaFoxCapital/status/1494275523668852736) or here: [Part 1](https://twitter.com/AltaFoxCapital/status/1494701889023365129), [Part 2](https://twitter.com/AltaFoxCapital/status/1494701973580484614). AltaFox's target price on the stock is $200, a double from here, and they even created a website called [freethewizards](https://freethewizards.com/) and created a [100-page presentation](https://freethewizards.com/wp-content/uploads/2022/02/Alta-Fox-HAS-Presentation-Final.pdf) to support their thesis.
 
 While I know that Connor has a great track record, and I don't doubt this will ultimately be a successful investment, it seems like an un-Camel-like effort. All this for a double? I can find plenty of as-likely doubles in the market right now, without all the fuss.
+
+That being said, more power to AltaFox - what they're doing benefits the Hasbro, their shareholders and their customers.
 
 ## Pabrai on Facebook
 
