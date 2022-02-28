@@ -56,6 +56,6 @@ I hate being in this mindset and I need to snap out of it and move forward.
 
 Hence why I decided to write this. It's time I focus on what matters and do well by family.
 
-May the power of Li Lu and Charlie Munger be with me!!!
+May the power of Li Lu and Charlie Munger be with me! One day, my time will come.
 
 
