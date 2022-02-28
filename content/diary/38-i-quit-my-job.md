@@ -1,10 +1,12 @@
 ---
-title: "38 I Quit My Job"
+title: "#38 - I Quit My Job"
 date: 2022-02-28T15:49:08-05:00
 draft: false
 categories: ["personal"]
 summary: "I quit my job. This is a 'me' post."
 ---
+
+![iquit](/images/iquit.png)
 
 ## What happened
 
