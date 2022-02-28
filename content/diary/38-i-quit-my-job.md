@@ -6,7 +6,7 @@ categories: ["personal"]
 summary: "I quit my job. This is a 'me' post."
 ---
 
-![iquit](/images/iquit.png)
+![iquit](/images/iquit.jpg)
 
 ## What happened
 
