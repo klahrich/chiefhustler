@@ -16,7 +16,7 @@ In 2001, Koos Bekker, CEO of Naspers at the time, invested $32M to acquire a 33%
 
 Pabrai says that according to Koos Bekker, Tencent's management is the best on the planet! I searched in Naspers' 10Ks and in the earnings transcripts, I wasn't able to find where Koos Bekker talks in depth about Tencent, so I have some more work to do to retrace Pabrai's steps. But what I find interesting is the way Mohnish managed to find an angle through which he could understand and _see_ Tencent's incredible business model.
 
-Here's the full video where he describes it:
+Here's the full video where he describes it (starting at 6m18s):
 
 {{<youtube _7UfqjD3IEg>}}
 
@@ -41,7 +41,39 @@ But then, the Ronnie O’Sullivan story makes little logical sense. Young, gifte
 But O’Sullivan is currently dominant in a way he never was in his twenties.
 </blockquote>
 
-## CSU
+## Oil stocks
+
+A few weeks ago, I pussied out of most my oil stocks. 
+
+At the time, the thesis seemed so obvious that I couldn't understand who would be stupid enough to sell me their shares. Therefore I must be wrong somehow, I concluded. 
+
+I now realize that I was simply not prepared enough. I lacked confidence, because I lacked conviction. I did not put in the work to sustain my position as the momentum was just getting started.
+
+My problem in this specific case was not that I couldn't bear to go against the crowd. My problem was that I suddenly found myself in an overcrowded room! 
+
+_This_ is how money is made:
+
+{{<tweet 1498030274961031169>}}
+
+Marius Skonieczny has a video on this topic:
+
+{{<youtube uQ_sWEOlYU>}}
+
+A thesis should be based on numbers (valuations). Mine was only based on intuition, and I got shaken out when I felt the optimism was getting too high.
+
+## Ukraine
+
+What's worse than a psycho with a thousand nuclear heads?
+
+A psycho with a thousand nuclear heads backed into a corner.
+
+The cuteness and cheering going around on twitter will quickly evaporate once entire cities are obliterated out of existence (God forbid).
+
+The imbecility of these video-game war fans is unbearable.
+
+Do not fucking mess with Putin. There's a balance of power, it must be respected, whether we like it or not.
+
+{{<youtube JrMiSQAGOS4>}}
 
 
 
