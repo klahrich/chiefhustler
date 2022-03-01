@@ -6,7 +6,16 @@
     <description>Recent content in Categories on The Chief&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Feb 2022 15:49:08 -0500</lastBuildDate><atom:link href="https://chiefhustler.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 10:36:21 -0500</lastBuildDate><atom:link href="https://chiefhustler.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>portfolio</title>
+      <link>https://chiefhustler.com/categories/portfolio/</link>
+      <pubDate>Tue, 01 Mar 2022 10:36:21 -0500</pubDate>
+      
+      <guid>https://chiefhustler.com/categories/portfolio/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>personal</title>
       <link>https://chiefhustler.com/categories/personal/</link>
@@ -67,15 +76,6 @@
       <pubDate>Fri, 04 Feb 2022 19:40:12 -0500</pubDate>
       
       <guid>https://chiefhustler.com/categories/aim.to/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>portfolio</title>
-      <link>https://chiefhustler.com/categories/portfolio/</link>
-      <pubDate>Mon, 31 Jan 2022 18:51:19 -0500</pubDate>
-      
-      <guid>https://chiefhustler.com/categories/portfolio/</guid>
       <description></description>
     </item>
     
