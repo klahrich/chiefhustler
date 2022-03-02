@@ -1,38 +1,38 @@
 ---
-title: "#40 -  $SMLR and Ensemble Investing"
+title: "#40 -  Semler Scientific"
 date: 2022-03-01T16:26:09-05:00
-draft: true
+draft: false
+categories: ["stocks", "SMLR"]
+summary: "SMLR dropping like a rock. I'm buying."
 ---
 
 ## SMLR
 
-[$SMLR] Semler Scientific reported earnings yesterday and the stock took a 25% hit. This is not a "write-up" on the company, but I'll be using this stock to illustrate the broader point.
+[$SMLR](https://finance.yahoo.com/quote/SMLR?p=SMLR) Semler Scientific reported earnings yesterday and the stock took a 25% hit. This is not a "write-up", I'm just sharing how I'm thinking about the company and investing in general.
 
 I've been following the company since Yen Liow pitched it on Equity Mates here (the pitch starts around 25m38s):
 
 {{<youtube Ei03z7-aIJg>}}
 
-At the time, back in November 2021, the stock was looking a bit expensive for me, in the 30x-ish EV/EBIT(ltm).
+"Following" is probably an understatement here. I was watching it like a hawk, is more like it. From their Q3 earnings call, I got the sense that they might be facing short-term headwinds, which transpired in the stock price. But it was still too expensive for me. So I decided to wait, hoping Q4 would be bad as well.
 
-I still kept a close eye on it because Q3 2021 was not easy quarter for them, due to Covid. It was the first time in a while (excluding 2020Q1) where their variable fees did not increase QoQ. 
+Now I don't remember where I got this from, it might have been from researching [$ISR](https://finance.yahoo.com/quote/ISR?p=ISR&.tsrc=fin-srch) Isoray, a cancer treatment medtech, but I remember that even cancer treatments were being postponed in the Q3 2021 due to Covid.
 
-Now I don't remember where I got this from, it might have been from researching [$ISR](https://finance.yahoo.com/quote/ISR?p=ISR&.tsrc=fin-srch) Isoray, a cancer treatment medtech, but I remember that even cancer treatments had been postponed in 2021 due to Covid.
-
-I thought, hey, if life-threatening illnesses are taking the back-seat, surely there's a chance that Q4 will be less than stellar for Semler, especially given the outbreak of Omicron.
+I thought: hey, if life-threatening illnesses are taking the back-seat, surely there's a chance that Q4 will be less than stellar for Semler, especially given the outbreak of Omicron.
 
 So I waited, and indeed, it was a rough quarter. Variable fees were down QoQ and YoY, and cost of revenues were up, significantly.
 
-The stock now trades for ~19x EV/EBIT(ltm), and that's a good enough entry point for me, so I took a small bite.
+The stock now trades for ~13x EV/EBIT(ltm), and that's a good enough entry point for me, so I took a bite.
 
-## Ensemble Investing
+## General Investing Thoughts
 
-SMLR is the first real-life application of an investing approach I've been thinking about. After watching the interview of Yen Liow above (and many others from him), I remember thinking: this guys knows how to evaluate businesses. If he has a position on a stock, I know **for sure** he and his team have spent massive amounts of time and energy dissecting it. And guess what: since he bought the stock. I have access to the result of all these efforts, for free.
+This purchase was surprinsgly easy for me. Probably because I had decided on the course of action before hand, should the stock price drop. The other reason might be the last book that I read (summarized [here](/diary/19-contrarian-investment-strategies/)), which describes how the market ALWAYS overreacts to bad news.
 
-On the other hand, I was not so convinced of his ability to pick stocks. Remember, picking a stock means picking two things: a business, and a price. And given some other tickers he mentioned (GitLab for example), I could tell Yen was not scared of paying a premium for what he considered a great business. But I am. I want great businesses at reasonable prices.
+Of course, I don't know what the the future holds and this could turned out a bad investment. There are some significant risks, such as customer concentration. But people tend to overcomplicate things and read too much into quarterly numbers. I don't think the company is suddently facing some new competition or dealing with fundamental business problems.
 
-The idea of Ensemble Investing is to follow several sophisticated investors such as Yen, and not only add their stock picks to my watch list, but try and understand why they like them. And then wait for something bad to happen and for the price to come within my strike range. Only when that happens do I pull the trigger.
+Rather, I think it was simply hard to do business as usual when Omicron was the number one concern on everybody's mind. Simple as that.
 
-The name "Ensemble Investing" comes from the realm of machine-learning, where _ensemble learning_ means combining multiple independent predictive models into one final decision. The advantage of this approach is that it's highly unlikely that the models will have the same strengths and weaknesses, therefore where one model is wek, the others will compensate.
+Of course, I'll monitor and adapt in the coming quarters, but right now it seems like a no-brainer bet to me.
 
 ## Links on $SMLR
 
@@ -41,6 +41,8 @@ The name "Ensemble Investing" comes from the realm of machine-learning, where _e
 - [VIC writeup](https://www.valueinvestorsclub.com/idea/SEMLER_SCIENTIFIC_INC/5318827032)
 
 - [YouTube episode from "Investment for Beginners"](https://www.youtube.com/watch?v=hDU5A7NNpE0&t=12s)
+
+- [Brian Feroldi's podcast on SMLR](https://www.fool.com/podcasts/industry-focus/2021-01-13-wildcard-3-top-healthcare-stocks)
 
 
 
