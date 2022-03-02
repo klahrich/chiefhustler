@@ -8,7 +8,7 @@ summary: "SMLR dropping like a rock. I'm buying."
 
 ## SMLR
 
-[$SMLR](https://finance.yahoo.com/quote/SMLR?p=SMLR) Semler Scientific has just reported earnings and the stock took a 25% hit. This is not a "write-up", I'm just sharing how I'm thinking about the company and investing in general.
+[$SMLR](https://finance.yahoo.com/quote/SMLR?p=SMLR) Semler Scientific has just reported earnings and the stock took a 25% hit. This is not a "write-up", I'm just sharing how I'm thinking about the situation and investing in general.
 
 I've been following the company since Yen Liow pitched it on Equity Mates here (the pitch starts around 25m38s):
 
