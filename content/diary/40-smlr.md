@@ -28,7 +28,7 @@ The stock now trades for ~13x EV/EBIT(ltm), and that's a good enough entry point
 
 This purchase was surprinsgly easy for me. Probably because I had decided on the course of action before hand, should the stock price drop. The other reason might be the last book that I read (summarized [here](/diary/19-contrarian-investment-strategies/)), which describes how the market ALWAYS overreacts to bad news.
 
-Of course, I don't know what the future holds and this could turn out to be a bad investment. There are some significant risks, such as customer concentration. But people tend to overcomplicate things and read too much into quarterly numbers. I don't think the company is suddently facing some new competition or dealing with fundamental business problems.
+Of course, I don't know what the future holds and this could turn out to be a bad investment. There are some significant risks, such as customer concentration. So **this is not investment advice**. But people tend to overcomplicate things and read too much into quarterly numbers. I don't think the company is suddently facing some new competition or dealing with fundamental business problems.
 
 Rather, I think it was simply hard to do business as usual when Omicron was the number one concern on everybody's mind. Simple as that.
 
