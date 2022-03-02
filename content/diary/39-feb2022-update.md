@@ -8,19 +8,21 @@ summary: "Shitty start of the year."
 
 ## Learnings
 
-- It doesn't matter whether you're right or wrong. It matters how much you win or lose when you're right or wrong. 
+- It doesn't matter whether you're right or wrong. It matters how much you win or lose when you're right or wrong, which will be related to how much you bet, in turn dependent on your conviction, and related to the underlying torque.
 
 Case in point:
 
 {{<tweet 1497991376549597190>}}
 
-- The money is made when you buy: **buy low**. Don't chase ANY particular stock. Be very patient and detached, wait for the price to come to you.
+- The money is made when you buy: **buy low**. Don't chase ANY particular stock. Be extremely patient and detached, wait for the price to come to you.
+
+- While it's OK to binge on famous super-investors' content about general investing principles, DO NOT overxpose yourself to any particular opinons about stocks or groups of stocks (I made the mistake of listening to too many energy-related twitter Spaces, which turned me bearish too son).
 
 ## Performance update
 
 ![perf-update-202202](/images/perf-update-202202.png)
 
-Shitty start of the year, what are you gonna do...
+![cagr-202202](/images/cagr-202202.png)
 
 ## Positions
 
