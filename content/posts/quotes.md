@@ -239,3 +239,12 @@ _There are few edges available in hypercompetitive global markets. Controlling y
 
 _Sounds great in theory, but, unlike our academic friends, we're going to ask a rude question: does it work?_<br/>
 [Contrarian Investment Strategies](https://www.amazon.ca/Contrarian-Investment-Strategies-David-Dreman/dp/0684813505)
+<br/><br/>
+
+_The 2008 squeeze was highly beneficial for me. I had both the cash and the courage to take advantage of a circumstance where the market lacked both. In a liquidity squeeze, he who has liquidity, as long as he's prepared to exercise it, comes out to be King._<br/>
+[Rick Rule on liquidity](https://www.youtube.com/watch?v=QyGdXY2fCdo) 
+<br/><br/>
+
+_Much of this game comes down to sheer conviction in the thesis. And conviction comes through understanding. The difference between “just buying a ticker” and understanding the big macro right down to the micro company picture is night and day._<br/>
+[@trader_ferg in one of his weekly emails](https://twitter.com/trader_ferg)
+<br/><br/>

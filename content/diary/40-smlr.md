@@ -44,6 +44,8 @@ Of course, I'll monitor and adapt in the coming quarters, but right now it seems
 
 - [Brian Feroldi's podcast on SMLR](https://www.fool.com/podcasts/industry-focus/2021-01-13-wildcard-3-top-healthcare-stocks)
 
+### Update (2022-03-03)
 
+{{<tweet 1499413845806301186>}}>}}
 
 

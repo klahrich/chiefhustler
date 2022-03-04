@@ -14,7 +14,7 @@ Case in point:
 
 {{<tweet 1497991376549597190>}}
 
-- The money is made when you buy: **buy low**. Don't chase ANY particular stock. Be extremely patient and detached, wait for the price to come to you.
+- The money is created when you buy: **buy low**. Don't chase ANY particular stock. Be extremely patient and detached, wait for the price to come to you. And then get out of the way and let the money compound.
 
 - While it's OK to binge on famous super-investors' content about general investing principles, DO NOT overxpose yourself to any particular opinons about stocks or groups of stocks (I made the mistake of listening to too many energy-related twitter Spaces, which turned me bearish too son).
 
