@@ -1,5 +1,5 @@
 ---
-title: "#41 - the Pain Is Real"
+title: "#41 - The Pain Is Real"
 date: 2022-03-03T19:47:55-05:00
 draft: false
 categories: ["investing"]
