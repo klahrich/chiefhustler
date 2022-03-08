@@ -64,3 +64,7 @@ Unfortunately, it seems this market has had its toll on me. I'm being overactive
 
 One of the reasons I'm looking for companies with a very long expected life is so that I can coffee-can them and update my views on the business once a quarter or so. I just don't have the wiring of a good trader, and I find the psychological toll too high.
 
+---- 
+
+_P.S. I should have made it clearer: I am absolutely not worried about the stock in the short-term. I believe their 2nd product will be a hit. It's also evident that this business is recession-proof, and once the market is reminded of that, it'll be hot again. I'm just lookingfor something I can set and forget._ 
+
