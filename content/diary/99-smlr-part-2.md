@@ -26,7 +26,7 @@ My conviction about the company has changed.
 
 As I explained in my [previous post](/diary/40-smlr.md) on Semler, I initially decided to trust Yen Liow's business analysis skills and save myself the trouble.
 
-But I ended up doing the work myself to understand the business at a deeper level (after I bought...)
+But I ended up doing the work myself to understand the business at a deeper level (_after_ I bought... 🤦)
 
 I found myself going down a rabbit hole about Medicare, Medicare Advantage, and big insurance companies in the US such as UnitedHealth (which is a customer of Semler's).
 
