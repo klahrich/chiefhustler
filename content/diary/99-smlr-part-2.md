@@ -1,5 +1,5 @@
 ---
-title: "#42 - Why I sold SMLR"
+title: "#42 - I sold SMLR"
 date: 2022-03-06T22:24:19-05:00
 draft: false
 categories: ["stocks", "SMLR"]
