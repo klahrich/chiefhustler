@@ -54,7 +54,7 @@ Finally, I was reminded of this quote from Warren Buffet: "The price is my due d
 
 And in this case, while the price is good, it's not good enough for me to look past my hesitancy on the fundamentals. I think I can find other investments at similar IRRs that I would have a higher conviction on.
 
-So I sold, at a loss. Which I would have avoided if I had done the work prior instead of blindly cloning someone else. I'm OK with it though, I learned my lesson. As they say: conviction can't be borrowed.
+So I sold, at a loss. Which I would have avoided if I had done the work prior instead of blindly cloning someone else. I'm OK with it though, I learned my lesson. As they say: conviction can't be borrowed. I also learned that scaling in works better for me psychologically speaking, as opposed to buying a full position quickly.
 
 ## The meta game
 
@@ -62,7 +62,7 @@ As Buffet also says, this game is more about temperament than it is about intell
 
 Unfortunately, it seems this market has had its toll on me. I'm being overactive, changing my mind too often, and accumulating small losses along the way.
 
-One of the reasons I'm looking for companies with a very long expected life is so that I can coffee-can them and update my views on the business once a quarter or so. I just don't have the wiring of a good trader, and I find the psychological toll too high.
+One of the reasons I'm looking for companies with a very long expected life is so that I can coffeehhhhhhm  hhj-can them and update my views on the business once a quarter or so. I just don't have the wiring of a good trader, and I find the psychological toll too high.
 
 ---- 
 
