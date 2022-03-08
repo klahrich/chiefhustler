@@ -22,7 +22,7 @@ In a nutshell, I now think that I was keeping it _too_ simple.
 
 ## Why I sold
 
-My conviction about the longevity of the company has changed.
+My conviction about the company has changed.
 
 As I explained in my [previous post](/diary/40-smlr.md) on Semler, I initially decided to trust Yen Liow's business analysis skills and save myself the trouble.
 
