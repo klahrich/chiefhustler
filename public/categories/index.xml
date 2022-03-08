@@ -6,20 +6,11 @@
     <description>Recent content in Categories on The Chief&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Mar 2022 19:47:55 -0500</lastBuildDate><atom:link href="https://chiefhustler.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>investing</title>
-      <link>https://chiefhustler.com/categories/investing/</link>
-      <pubDate>Thu, 03 Mar 2022 19:47:55 -0500</pubDate>
-      
-      <guid>https://chiefhustler.com/categories/investing/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sun, 06 Mar 2022 22:24:19 -0500</lastBuildDate><atom:link href="https://chiefhustler.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SMLR</title>
       <link>https://chiefhustler.com/categories/smlr/</link>
-      <pubDate>Tue, 01 Mar 2022 16:26:09 -0500</pubDate>
+      <pubDate>Sun, 06 Mar 2022 22:24:19 -0500</pubDate>
       
       <guid>https://chiefhustler.com/categories/smlr/</guid>
       <description></description>
@@ -28,9 +19,18 @@
     <item>
       <title>stocks</title>
       <link>https://chiefhustler.com/categories/stocks/</link>
-      <pubDate>Tue, 01 Mar 2022 16:26:09 -0500</pubDate>
+      <pubDate>Sun, 06 Mar 2022 22:24:19 -0500</pubDate>
       
       <guid>https://chiefhustler.com/categories/stocks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>investing</title>
+      <link>https://chiefhustler.com/categories/investing/</link>
+      <pubDate>Thu, 03 Mar 2022 19:47:55 -0500</pubDate>
+      
+      <guid>https://chiefhustler.com/categories/investing/</guid>
       <description></description>
     </item>
     
