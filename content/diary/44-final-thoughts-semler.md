@@ -20,6 +20,8 @@ I guess what I'm taking away is the importance of asking the following questions
 
 3. How is the TAM growing?
 
+These questions allow us to think about opportunities for reinvestment, which is the second most important criteria for an amazing business - the first one being a high return on reinvestment.
+
 To answer the first question, Adu in the clip above considers that the core TAM for Semler is comprised of people enrolled in Medicare Advantage and at risk of PAD. Currently there are 25M people in the Medicare Advantage program, and out of those about 6M are at risk of PAD. Multiply by the cost per test ($40), that gives us an immediate TAM of about $240M.
 
 You could argue that the _total_ addressable market is bigger if you want to include everyone who might be at risk, which is 80M people in the US according to Adu, but I won't go there.
