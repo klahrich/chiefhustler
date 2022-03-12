@@ -10,9 +10,9 @@ Yesterday evening I was listening to this interview of Adu on Semler Scientific 
 
 {{<youtube fvka5QBFGss>}}
 
-I was glad to stumble on it because it helped clarify some of my disconfort with the business and the stock.
+I was glad to stumble on it because it helped clarify some of my discomfort with the business and the stock.
 
-I guess by far the most important points I want to take away is the importance of asking:
+I guess what I'm taking away is the importance of asking the following questions:
 
 1. How big is the TAM (total addressable market)?
 
