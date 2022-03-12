@@ -2,7 +2,7 @@
 title: "#44 - Final Thoughts Semler"
 date: 2022-03-11T19:00:25-05:00
 draft: false
-categories: ["investment", "stocks", "$SMLR", $SWBI"]
+categories: ["investing", "stocks", "SMLR", "SWBI"]
 summary: "I could live to regret it, but I'm passing on $SMLR."
 ---
 
