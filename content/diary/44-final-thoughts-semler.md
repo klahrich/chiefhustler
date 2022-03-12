@@ -30,7 +30,7 @@ Semler's revenues for the trailing twelve months are $53M, so they're about 20% 
 
 For me, that's not an interesting investment, and it could explain some of the recent slowdown in growth, which I previously attributed entirely to Covid.
 
-You see as we start to grow into our target market, the incremental user becomes harder and harder to acquire. Furthermore, while the TAM itself is probably growing with the aging population, that growth is probably not spectacular. And finally, I don't know whether Semler would be able to export their model outside of the US, given how important the relationships with the insurers are and how regulated this industry is overall.
+As the company grows into its target market, the incremental user becomes harder and harder to acquire. Furthermore, while the TAM itself is probably growing with the aging population, that growth is probably not spectacular. And finally, I don't know whether Semler would be able to export their model outside of the US, given how important the relationships with the insurers are and how regulated this industry is overall.
 
 I realized that another stock I had on my watchlist, Smith & Wesson $SWBI, suffered from a similar problem. I don't know what % of people are potential gun owners in the US, but not only do I think it's far from 100%, I imagine that it's also at most one purchase every few years for most people.
 
