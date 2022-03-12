@@ -36,6 +36,8 @@ I realized that another stock I had on my watchlist, Smith & Wesson $SWBI, suffe
 
 When the TAM is limited like this, the company either has to innovateby introducing new products or by going international, neither of which is risk-free.
 
+So in a nutshell, I see the high ROIC for Semler, but I find it harder to feel confident about the opportunities for reinvestment.
+
 
 
 
