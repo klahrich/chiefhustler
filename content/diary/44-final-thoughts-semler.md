@@ -1,5 +1,5 @@
 ---
-title: "#44 - Final Thoughts Semler"
+title: "#44 - Final Thoughts on Semler"
 date: 2022-03-11T19:00:25-05:00
 draft: false
 categories: ["investing", "stocks", "SMLR", "SWBI"]
