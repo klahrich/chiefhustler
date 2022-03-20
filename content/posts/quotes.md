@@ -256,3 +256,7 @@ _I never could have done what I have done without the habits of punctuality, ord
 _If you start a new job tomorrow and someone gives you $100M to invest, what do you do?_<br/>
 [George Nobel on thinking forward with your decisions](https://twitter.com/gnoble79)
 <br/><br/>
+
+_Good investing come from buying well, not from buying good things._<br/>
+[Howard Marks](https://www.youtube.com/watch?v=YZh70ox7Pvg)
+<br/><br/>
