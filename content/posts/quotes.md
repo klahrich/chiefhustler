@@ -260,3 +260,7 @@ _If you start a new job tomorrow and someone gives you $100M to invest, what do 
 _Good investing come from buying things well, not from buying good things._<br/>
 [Howard Marks](https://www.youtube.com/watch?v=YZh70ox7Pvg)
 <br/><br/>
+
+_In the first 10 years, I never had a response. Not one. Not only did nobody every say "that was a good memo", nobody ever said they got it!_<br/>
+[Howard Marks, talking about his memos](https://www.youtube.com/watch?v=yj624ukWg0Y)
+<br/><br/>
