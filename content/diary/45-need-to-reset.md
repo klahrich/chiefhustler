@@ -1,7 +1,9 @@
 ---
-title: "Time to Reset"
+title: "Portfolio Update 2022-03"
 date: 2022-03-27T16:31:06-04:00
-draft: true
+draft: false
+categories: ["portfolio", "investing"]
+summary: "Change is afoot."
 ---
 
 ## Performance Update
