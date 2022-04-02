@@ -10,6 +10,10 @@ summary: "Change is afoot."
 
 ![portfolio-update-202203](/images/portfolio-update-202203.png)
 
+Just chugging along, but hey - it could be worse 😅
+
+![tiger](/images/tiger.png)
+
 ## Childishly Overactive
 
 I am disgusted with myself.
@@ -131,6 +135,12 @@ This is the tricky part. While I will not get fomo'ed into any investment "oppor
 </span>
 
 I will be patient. Crazy patient. I will wait for the price to come to me. It's crazy how much alpha there is in just waiting for a good enough entry point, as well as waiting for a good enough exit point. Patience is probably 80% of this game.
+
+<span style="color: red; font-weight:bold">
+5. "A rising tide lifts all boats"
+</span>
+
+I've seen it for tele-medecine stocks, meme stocks, oil stocks, you name it. This game is just so much easier to play with the wind in our sails. Find the easy path. There's no point in fighting an uphill battle. If I can find them at or near the inflection point, even better!
 
 ## A special Situation
 
