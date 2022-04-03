@@ -1,5 +1,5 @@
 ---
-title: "#95 - Current mood"
+title: "#45 - Current mood"
 date: 2022-03-14T22:02:45-04:00
 draft: false
 categories: ["stocks"]

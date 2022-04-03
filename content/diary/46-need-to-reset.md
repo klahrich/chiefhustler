@@ -1,5 +1,5 @@
 ---
-title: "$46 - Portfolio Update - Mar 2022"
+title: "#46 - Portfolio Update - Mar 2022"
 date: 2022-03-27T16:31:06-04:00
 draft: false
 categories: ["portfolio", "investing"]
