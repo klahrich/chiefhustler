@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Update 2022-03"
+title: "$46 - Portfolio Update - Mar 2022"
 date: 2022-03-27T16:31:06-04:00
 draft: false
 categories: ["portfolio", "investing"]
@@ -140,7 +140,7 @@ I will be patient. Crazy patient. I will wait for the price to come to me. It's 
 5. "A rising tide lifts all boats"
 </span>
 
-I've seen it for tele-medecine stocks, meme stocks, oil stocks, you name it. This game is just so much easier to play with the wind in our sails. Find the easy path. There's no point in fighting an uphill battle. If I can find them at or near the inflection point, even better!
+I've seen it in tele-medecine stocks, meme stocks, oil stocks, you name it. This game is just so much easier to play with the wind in your sails. Find the easy path. There's no point in fighting an uphill battle. If I can find them at or near the inflection point, even better!
 
 ## A special Situation
 
@@ -178,7 +178,6 @@ Based on the most recent filings (as of Dec 31, 2021):
 
 ==> EV/EBITDA(ttm) = 5.1x
 
-Now usually, I would jump on this, based on the market reaction and the involvement of Fairfax (which by the way converted their debs at $1.56 allowing them to block the initial deal).
+Now usually, I would have already jumped on this, based on the market reaction and the involvement of Fairfax (which by the way converted their debs at $1.56 allowing them to block the initial deal).
 
-But, "I don't need to own this piece of shit". If it comes down to where I want it (around $0.85), and if the 2022Q1 report is good enough, I'll take it. Otherwise, if it slips away from me, that's fine. Plenty of fish in the sea.
-
+But, "I don't need to own this piece of shit". I'll be thinking it over and watching the price movement. The next catalyst will be the 2022Q1 earnings report and I might wait for that before making my decision.

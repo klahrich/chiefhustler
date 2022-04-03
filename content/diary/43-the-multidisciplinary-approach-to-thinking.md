@@ -1,5 +1,5 @@
 ---
-title: "#42 - The Multidisciplinary Approach to Thinking"
+title: "#43 - The Multidisciplinary Approach to Thinking"
 date: 2022-03-10T18:00:54-05:00
 draft: false
 categories: ["investing"]
