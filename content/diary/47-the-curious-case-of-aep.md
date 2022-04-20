@@ -24,7 +24,7 @@ Here are my reasons.
 
 ### What I like most about AEP
 
-1. This is a business I could see myself owning for a long-time because I see two strong tailwinds behind it. 
+1. <u>This is a business I could see myself owning for a long-time because I see two strong tailwinds behind it.</u>
 
 **A]** The first one is that Canada, is underbuilt. [Here](https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.housing.housing-note.housing-note--may-12-2021-.html) is an article from ScotiaBank that estimates the structural housing shortage in Canada. Suffice it to say that we have the lowest number of housing units per 1,000 residents of any G7 country (we are at 424 housing units per 1000 population). The article concludes with: **"Solving our country’s housing challenge should be a national priority."**
 
@@ -38,11 +38,11 @@ Also worth keeping in mind: according to the [Canada's Immigration Levels Plan](
 
 **B]** The second tailwind is the construction labor shortage. According to [this article](https://www.abc.org/News-Media/News-Releases/entryid/19255/abc-construction-industry-faces-workforce-shortage-of-650-000-in-2022), the construction industry is facing a workforce shortage of 650,000 in 2022. This is a tailwind for AEP because they bring pre-built modules to the construction site, easing some of the workforce needs of the builders. 
 
-2. I like the CEO, Hadi Abassi.
+2. <u>I like the CEO, Hadi Abassi.</u>
 
 He's an owner-operator and I believe he owns more than 10% of the company. Listening to his interviews on YouTube, he seems shareholder-friendly and focused on the bottom-line. The company has been buying back shares - not much, but it's a start. Most importantly, I like the way the company navigated the pandemic as well as the crazy high lumber prices. I'm curious to see what Hadi will do on a downcycle. What I'd like him to do is to get aggressive on the M&A front and buy distressed operations. I'm not 100% sure he'll do it but let's see how it goes.
 
-3. Even if there's a downcycle, I'm not sure it would be bad for AEP long-term
+3. <u>Even if there's a downcycle, I'm not sure it would be bad for AEP long-term</u>
 
 This is related to the last point of the previous paragraph. Because this is a roll-up story, a downcycle might end up being favorable long-term for the business, in terms of available acquisition opportunities. Looking 5 or even 10 years ahead, I'm not sure it matters. The business clearly provides value to its customers and I don't see this value diminishing over time.
 
