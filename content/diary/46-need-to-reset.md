@@ -181,3 +181,7 @@ Based on the most recent filings (as of Dec 31, 2021):
 Now usually, I would have already jumped on this, based on the market reaction and the involvement of Fairfax (which by the way converted their debs at $1.56 allowing them to block the initial deal).
 
 But, "I don't need to own this piece of shit". I'll be thinking it over and watching the price movement. The next catalyst will be the 2022Q1 earnings report and I might wait for that before making my decision.
+
+## Update 2022-04-09
+
+EV / EBITDA(ttm) @ sp=$0.87 = 4.1x

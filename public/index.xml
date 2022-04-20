@@ -6,7 +6,7 @@
     <description>Recent content on The Chief&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Mar 2022 16:31:06 -0400</lastBuildDate><atom:link href="https://chiefhustler.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Apr 2022 12:07:51 -0400</lastBuildDate><atom:link href="https://chiefhustler.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://chiefhustler.com/about/</link>
@@ -24,6 +24,15 @@
       <guid>https://chiefhustler.com/subscribe/</guid>
       <description>Thank you for reading my blog!
 Sign up for my email newsletter or use this RSS feed to get notified of new blog posts.</description>
+    </item>
+    
+    <item>
+      <title>#47 - The Curious Case of Atlas Engineered Products</title>
+      <link>https://chiefhustler.com/diary/47-the-curious-case-of-aep/</link>
+      <pubDate>Sun, 17 Apr 2022 12:07:51 -0400</pubDate>
+      
+      <guid>https://chiefhustler.com/diary/47-the-curious-case-of-aep/</guid>
+      <description>Should I sell or should I not?</description>
     </item>
     
     <item>
@@ -198,7 +207,7 @@ Sign up for my email newsletter or use this RSS feed to get notified of new blog
     </item>
     
     <item>
-      <title>#27 - Portfolio Update Jan2022</title>
+      <title>#27 - Portfolio Update - Jan 2022</title>
       <link>https://chiefhustler.com/diary/27-portfolio-update-jan2022/</link>
       <pubDate>Mon, 31 Jan 2022 18:51:19 -0500</pubDate>
       
