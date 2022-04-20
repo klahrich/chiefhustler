@@ -54,7 +54,7 @@ This is related to the last point of the previous paragraph. Because this is a r
 
 3. The share buyback so far has been fairly timid so far. I would have liked them to be more aggressive about it, especially under $0.60.
 
-### The bottom-lines
+### The bottom-line
 
 Irrespective of what I like or don't like about $AEP, the main reason I don't want to sell _now_ is that I don't want to sell because of macroeconomic reasons. I will trust far more intelligent people than me on that one: I am unlikely to get it right. 
 
