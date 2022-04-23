@@ -264,3 +264,7 @@ _Good investing come from buying things well, not from buying good things._<br/>
 _In the first 10 years, I never had a response. Not one. Not only did nobody every say "that was a good memo", nobody ever said they got it!_<br/>
 [Howard Marks, talking about his memos](https://www.youtube.com/watch?v=yj624ukWg0Y)
 <br/><br/>
+
+_They're only as good as the world allows them to be. When the chips are down, these civilized people...they'll eat each other._<br/>
+[The Joker, in The Dark Knight](https://www.youtube.com/watch?v=jane6C4rIwc)
+<br/><br/>
