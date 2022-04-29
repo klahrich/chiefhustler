@@ -32,10 +32,10 @@ Currently the business is cashflowing nicely (~$9M of adjusted EBITDA in Q4, whe
 
 The cashflow run rate _should_ approximately double by the end of next year thanks to an expansion in Las Conchitas. The expansion program is planned to cost a bit less than $20M (I rounded up).
 
-Annualized, that should bring us to a round $80M/year of run rate EBITDA. Current market cap is ~$220M. Quick look at the 2021 annual statements, net debt is about $20M or so.
+Annualized, that should bring us to a round $80M/year of run rate EBITDA. Current market cap is ~$220M. The 2021 annual statements show net debt around $20M or so but it's less now as they've been reapying it aggressively in 2022Q1.
 
 I mentioned that Akiba was shareholder friendly. At the current cashflow levels, there will be no dilution. Debt will repaid. After that, shares will be repurchased. After that, a dividend will be considered (a few years from now).
 
-I think the stock should be somewhere between x2 and x3 in the next 5 years (assuming nothing crazy happens with gold prices).
+I usually don't venture into stock price predictions but in this case why not, I think the stock should be somewhere between x2 and x3 in the next 5 years (assuming nothing crazy happens with gold prices).
 
 _Special shoutout to Akiba "over here" Leisman, CEO of Mako mining and a decent guitar player._
