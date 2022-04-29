@@ -36,6 +36,6 @@ Annualized, that should bring us to a round $80M/year of run rate EBITDA. Curren
 
 I mentioned that Akiba was shareholder friendly. At the current cashflow levels, there will be no dilution. Debt will repaid. After that, shares will be repurchased. After that, a dividend will be considered (a few years from now).
 
-I usually don't venture into stock price predictions but in this case why not, I think the stock should be somewhere between x2 and x3 in the next 5 years (assuming nothing crazy happens with gold prices).
+I usually don't venture into stock price predictions but in this case why not, I think the stock is likely to be somewhere between x2 and x3 in the next 5 years, barring...well barring a lot of stuff to be honest, but that's just how she goes!
 
 _Special shoutout to Akiba "over here" Leisman, CEO of Mako mining and a decent guitar player._
