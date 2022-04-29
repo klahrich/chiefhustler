@@ -32,7 +32,7 @@ Currently the business is cashflowing nicely (~$9M of adjusted EBITDA in Q4, whe
 
 The cashflow run rate _should_ approximately double by the end of next year thanks to an expansion in Las Conchitas. The expansion program is planned to cost a bit less than $20M (I rounded up).
 
-Annualized, that should bring us to a round $80M/year of run rate EBITDA. Current market cap is ~$220M. The 2021 annual statements show net debt around $20M or so but it's less now as they've been reapying it aggressively in 2022Q1.
+Annualized, that should bring us to a round $80M/year of run rate EBITDA. Current market cap is ~$220M. The 2021 annual statements show net debt around $20M or so but it's less now as they've been repaying it aggressively in 2022Q1.
 
 I mentioned that Akiba was shareholder friendly. At the current cashflow levels, there will be no dilution. Debt will repaid. After that, shares will be repurchased. After that, a dividend will be considered (a few years from now).
 
