@@ -268,3 +268,7 @@ _In the first 10 years, I never had a response. Not one. Not only did nobody eve
 _They're only as good as the world allows them to be. When the chips are down, these civilized people...they'll eat each other._<br/>
 [The Joker, in The Dark Knight](https://www.youtube.com/watch?v=jane6C4rIwc)
 <br/><br/>
+
+_I screwed up. What elements of my approach caused me to fail? Let's fix that next time around. If you survive it, failure is often more productive than modest success._<br/>
+[Jacobus Petrus "Koos" Bekker, on his early investments in China](https://www.youtube.com/watch?v=epMvBAMTDjk&t=29s)
+<br/><br/>

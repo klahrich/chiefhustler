@@ -12,6 +12,8 @@ Here's a screenshot below. The worksheet can be found [here](https://docs.google
 
 ![aep-valuation](/images/aep-valuation.png)
 
+_Note: I considered 100% of the deferred tax liability as debt (conservative assumption)._
+
 The business is probably not as undervalued as it seems here, given the concerns I shared before and more importantly, given how "particular" 2021 was.
 
 The following chart shows this (pay attention to the gross profit margin):
