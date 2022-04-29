@@ -26,7 +26,7 @@ Finally, I detected that he was not the most popular CEO in this particular indu
 
 I was not encumbered by knowledge about how a mining operation should run and more importantly, be marketed. Apparently, it is customary in this space to spend money (a lot of it) defining the resource before you start mining it. It's like the polite thing to do or something.
 
-Akiba did NOT do that, for a simple reason: it would have cost too much, due to the geology of the land package. Basically, my very limited and amateurish understanding of the situation is that the veins they're dealing with over there are too shallow and "horizontal", meaning if you wanted to estimate the total resource, you'd have to drill all over the entire thing! You might as well just mine the fucking thing, which is what they're doing.
+Akiba did NOT do that, for a simple reason: it would have cost too much, due to the geology of the land package. Basically, my very limited and amateurish understanding of the situation is that the veins they're dealing with over there are too shallow and "horizontal", meaning if you wanted to estimate the total resource, you'd have to drill all over the entire land! You might as well just mine the fucking thing, which is what they're doing.
 
 Currently the business is cashflowing nicely (~$9M of adjusted EBITDA in Q4, where adjusted means excluding exploration costs) from the San Albino mine. 
 
