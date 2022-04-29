@@ -38,4 +38,4 @@ I mentioned that Akiba was shareholder friendly. At the current cashflow levels,
 
 I usually don't venture into stock price predictions but in this case why not, I think the stock is likely to be somewhere between x2 and x3 in the next 5 years, barring...well barring a lot of stuff to be honest, but that's just how she goes!
 
-_Special shoutout to Akiba "over here" Leisman, CEO of Mako mining and a decent guitar player._
+_Special shoutout to Akiba "over here" Leisman, CEO of Mako Mining and semi-decent guitar player._
