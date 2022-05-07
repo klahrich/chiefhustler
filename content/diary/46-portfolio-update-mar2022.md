@@ -14,7 +14,7 @@ Just chugging along, but hey - it could be worse 😅
 
 ![tiger](/images/tiger.png)
 
-## Childishly Overactive
+## Commentary
 
 I am disgusted with myself.
 
@@ -104,7 +104,7 @@ With projected 2022 revenues of $25M and 15% gross margin, it currently trades a
 
 In the spirit of going deeper into the topics I'm interested in, I've picked up this book (in French) about agricultural science from the local library: [Fertilisation et environnement. - La science agricole](https://www.decitre.fr/livres/fertilisation-et-environnement-9782921416177.html).
 
-## Strategy Going Forward
+## Strategy Going Forward {#principles}
 
 I've tried to come up with some personal investing principles in the past, unssucessfully. But I think I'm better poised to do it now. 
 
