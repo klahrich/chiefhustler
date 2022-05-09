@@ -39,3 +39,19 @@ I mentioned that Akiba was shareholder friendly. At the current cashflow levels,
 I usually don't venture into stock price predictions but in this case why not, I think the stock is likely to be somewhere between x2 and x3 in the next 5 years, barring...well barring a lot of stuff to be honest, but that's just how she goes!
 
 _Special shoutout to Akiba "over here" Leisman, CEO of Mako Mining and semi-decent guitar player._
+
+### Update 2022-05-08
+
+Here is a [link](https://makominingcorp.com/_resources/presentations/corporate-presentation.pdf?v=0.658) to Mako's investor presentation, it's worth a look!
+
+I like slide 16 in particular:
+
+![mako](/images/mako-slide-16.png)
+
+This slide tells me that the company has generated 9.4 [mine OCF] - 0.7 [royalties & taxes] - 2.7 [Capex] = $6M of unlevered (before interest payments) free cashflow. 
+
+With an EV of ~$220M, that's an annualized FCF yield of about 11% **as of the end of 2021Q4**.
+
+The company is currently using this cash flow to finance exploration and (quickly) repay debt. Once the mine throughput is doubled, the yield will be too high to ignore and I also expect Akiba to boost the share repurchases to give us some additional torque.
+
+Fingers crossed, good days ahead.
