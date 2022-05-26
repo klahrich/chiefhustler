@@ -246,7 +246,7 @@ _The 2008 squeeze was highly beneficial for me. I had both the cash and the cour
 <br/><br/>
 
 _Much of this game comes down to sheer conviction in the thesis. And conviction comes through understanding. The difference between “just buying a ticker” and understanding the big macro right down to the micro company picture is night and day._<br/>
-[@trader_ferg in one of his weekly emails](https://twitter.com/trader_ferg)
+[Trader Ferg in one of his weekly emails](https://twitter.com/trader_ferg)
 <br/><br/>
 
 _I never could have done what I have done without the habits of punctuality, order, and diligence, without the determination to concentrate myself on one subject at a time._<br/>
