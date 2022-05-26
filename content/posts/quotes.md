@@ -272,3 +272,10 @@ _They're only as good as the world allows them to be. When the chips are down, t
 _I screwed up. What elements of my approach caused me to fail? Let's fix that next time around. If you survive it, failure is often more productive than modest success._<br/>
 [Jacobus Petrus "Koos" Bekker, on his early investments in China](https://www.youtube.com/watch?v=epMvBAMTDjk&t=29s)
 <br/><br/>
+
+_Hi Andrew, While I'm not expert at such things, I suspect that our stock at $125 no longuer qualifies as a "long-term value oriented investment" for anyone but the most fervent believers._
+[Mark Leonard, CEO of Constellation Software, in 2013](https://twitter.com/dre1012/status/1494809323892924417)
+
+_I now take a long-term view on people. When I see something not being done right, my first reacttion isn't to go fix it. It's so say: "We're building a team here, and we're gonna do great stuff for the next decade, not just the next year. What do I need to do to help so that the person who's screwing up learns, versus how do I fix the problem?"_<br/>
+[Steve Jobs, when asked the most important thing he learned during his time at Apple](https://youtu.be/GRHHOI-WvVc?t=3079)
+<br/><br/>
