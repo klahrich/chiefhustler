@@ -1,7 +1,7 @@
 ---
 title: "#51 - I Trimmed $AEP.V"
 date: 2022-05-22T17:22:56-04:00
-draft: false
+draft: true
 summary: "Confirmation bias is a bitch!"
 categories: ["stocks", "AEP.V"]
 ---

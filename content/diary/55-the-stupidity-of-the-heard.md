@@ -1,5 +1,5 @@
 ---
-title: "#51 - The Stupidity of the Herd"
+title: "#55 - The Stupidity of the Herd"
 date: 2022-05-15T14:05:49-04:00
 draft: true
 ---

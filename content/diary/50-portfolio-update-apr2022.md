@@ -1,7 +1,8 @@
 ---
 title: "#51 - Portfolio Update - Apr 2022"
 date: 2022-04-30T23:18:12-04:00
-draft: true
+draft: false
+categories: ["portfolio"]
 summary: "Bad month on paper, good month psychologically."
 ---
 
@@ -11,7 +12,7 @@ summary: "Bad month on paper, good month psychologically."
 
 Worst month in a while, maybe since I started investing.
 
-## High-level Commentary {#commentary}
+## Commentary {#commentary}
 
 While this was a particularly bad month performance-wise, it strangely didn't feel like it, at all. And I've had less brutal months feel weigh much heavier on my morale.
 
@@ -27,7 +28,7 @@ I've also started and finished reading Chris Mayer's book, [100 Baggers](https:/
 
 I'm not feeling twitchy, worried, or stressed. Quite the opposite, my excitement has been creeping up lately as I've been watching some good businesses get decimated on the public markets. There are a few that I intend to dive deeper into during the month of May, such as [$IAC](https://finance.yahoo.com/quote/IAC) on the US side and [$PBL.TO](https://finance.yahoo.com/quote/PBL.TO) in Canada. I also have a backlog of Fund letters to read from 2022Q1.
 
-## Specific Ideas
+## Moves
 
 I've been dabbling in fertilizers this past month. I've bought two tickers: [$IFOS.V](https://finance.yahoo.com/quote/IFOS.V) and [$ERTH.CN], but I was only able to get excited about the latter business, so it's the one that stayed in the portfolio. I might have mentioned it before, but I feel that the runway here is decent. There is a short-term catalyst (big expansion) and an underlying trend that I like (regenerative ag) in a favorable macro setting (high fertilizer supply due to multiple factors). Management seems competent, and the price seems OK to me. So I'm willing to sit on this one and see what happens. I must say, I loved learning about fertilizers and how important they are for our ability to feed ourselves.
 
