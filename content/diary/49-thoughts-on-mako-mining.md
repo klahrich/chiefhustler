@@ -32,7 +32,7 @@ Currently the business is cashflowing nicely (~$9M of adjusted EBITDA in Q4, whe
 
 The cashflow run rate _should_ approximately double by the end of next year thanks to an expansion in Las Conchitas. The expansion program is planned to cost a bit less than $20M (I rounded up).
 
-Annualized, that should bring us to a round $80M/year of run rate EBITDA. Current market cap is ~$220M. The 2021 annual statements show net debt around $20M or so but it's less now as they've been repaying it aggressively in 2022Q1.
+Annualized, that should bring us to a round $80M/year of run rate EBITDA. Current market cap is ~$200M. The 2021 annual statements show net debt around $20M or so but it's less now as they've been repaying it aggressively in 2022Q1. Not much cash. So EV is about $220M.
 
 I mentioned that Akiba was shareholder friendly. At the current cashflow levels, there will be no dilution. Debt will repaid. After that, shares will be repurchased. After that, a dividend will be considered (a few years from now).
 
@@ -40,7 +40,7 @@ I usually don't venture into stock price predictions but in this case why not, I
 
 _Special shoutout to Akiba "over here" Leisman, CEO of Mako Mining and semi-decent guitar player._
 
-### Update 2022-05-08
+### Update (2022-05-08)
 
 Here is a [link](https://makominingcorp.com/_resources/presentations/corporate-presentation.pdf?v=0.658) to Mako's investor presentation, it's worth a look!
 
@@ -48,10 +48,17 @@ I like slide 16 in particular:
 
 ![mako](/images/mako-slide-16.png)
 
-This slide tells me that the company has generated 9.4 [mine OCF] - 0.7 [royalties & taxes] - 2.7 [Capex] = $6M of unlevered (before interest payments) free cashflow. 
+This slide tells me that the company has generated 9.4 [mine OCF] - 0.7 [royalties & taxes] - 2.7 [Capex] = $6M of unlevered (before interest payments) free cashflow.
 
-With an EV of ~$220M, that's an annualized FCF yield of about 11% **as of the end of 2021Q4**.
+With an EV of ~$220M, that's an annualized unlevered FCF yield of about 11% **as of the end of 2021Q4**. 
 
 The company is currently using this cash flow to finance exploration and (quickly) repay debt. Once the mine throughput is doubled, the yield will be too high to ignore and I also expect Akiba to boost the share repurchases to give us some additional torque.
 
 Fingers crossed, good days ahead.
+
+### Update (2022-06-01)
+
+For the [first quarter of 2022](https://ceo.ca/content/sedar/MKO-20220531-News-release-English-f0e1.pdf), the company generated: 8.7 [mine OCF] - 1.1 [royalties & taxes] - 3.1 [Capex] = $4.5M of unlevered (before interest payments) free cashflow. Taking the average of the last two quarters, that's $5.25M of FCF per quarter, or $21M per year.
+
+The new debt is $16M after repayments to Sailfish and Wexford. Current market cap is $198M. So EV is about $214M, so the business is yielding me 9.8%.
+
