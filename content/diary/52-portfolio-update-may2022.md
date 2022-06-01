@@ -2,7 +2,7 @@
 title: "#52 - Portfolio Update May - 2022"
 date: 2022-06-01T11:33:40-04:00
 draft: false
-category: ["portfolio"]
+categories: ["portfolio"]
 summary: "Portfolio update, May 2022"
 ---
 
