@@ -20,5 +20,5 @@ I've been thinking a lot about my (lack of) performance in the last 1.5 years. I
 
 No more.
 
-I'm looking at Copart and Evolution Gaming in particular. There's a high likelihood that I'll start buying these soon...and holding fast.
+I'm looking for amazing businesses I can hold for a very, very long time. Currently looking at Copart and Evolution Gaming in particular. There's a high likelihood that I'll start buying these soon...and holding fast.
 
