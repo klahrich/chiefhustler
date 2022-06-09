@@ -7,7 +7,7 @@ categories: ["investing"]
 
 This is a curated list of resources I can always come back to.
 
-I sometimes suffer from the cold start problem. I get in front of the computer and don't know what to do. Hopefully this will help.
+I sometimes suffer from the cold start problem. Hopefully this will help.
 
 
 ## Generate Ideas
