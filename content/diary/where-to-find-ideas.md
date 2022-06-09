@@ -1,12 +1,12 @@
 ---
-title: "Where to Find Ideas"
+title: "#53 - Where to Find Ideas"
 date: 2022-06-09T12:35:37-04:00
 draft: false
 ---
 
-I sometimes suffer from the cold start problem, where I get in front of the computer and don't know what to do.
-
 This is a curated list of resources I can always come back to.
+
+I sometimes suffer from the cold start problem. I get in front of the computer and don't know what to do. Hopefully this will help.
 
 
 ## Generate Ideas
