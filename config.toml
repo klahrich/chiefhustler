@@ -33,7 +33,7 @@ summaryLength = 15
   
 
 [params]
-mainSections = ["diary", "weekly-recap"]
+mainSections = ["posts", "diary", "weekly-recap"]
 allSections = ["posts", "diary", "weekly-recap", "personal"]
 
 headTitle = "Chief Hustler"
@@ -43,8 +43,8 @@ graphcomment = true
 extraHead = "<!-- Global site tag (gtag.js) - Google Analytics --> <script async src='https://www.googletagmanager.com/gtag/js?id=G-4R1BEBSNLV'></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-4R1BEBSNLV');</script>"
 
 [[params.socials]]
-name = "| Investing Diary "
-link = "/diary/"
+name = "| Where to find ideas "
+link = "/posts/where-to"
 
 [[params.socials]]
 name = "| Resources "
