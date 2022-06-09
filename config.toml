@@ -33,7 +33,7 @@ summaryLength = 15
   
 
 [params]
-mainSections = ["posts", "diary", "weekly-recap"]
+mainSections = ["diary", "weekly-recap"]
 allSections = ["posts", "diary", "weekly-recap", "personal"]
 
 headTitle = "Chief Hustler"

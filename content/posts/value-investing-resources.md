@@ -25,7 +25,7 @@ This list is by no means intended to be comprehensive, and it will most likely g
 
 #### Canada
 
-- [TSX Insider](https://www.tsxinsider.com/)
+- [Marketbeat](https://www.marketbeat.com/insider-trades/canada/)
 
 - [Canadian Insider](https://www.canadianinsider.com/)
 
