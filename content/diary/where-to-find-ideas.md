@@ -2,6 +2,7 @@
 title: "#53 - Where to Find Ideas"
 date: 2022-06-09T12:35:37-04:00
 draft: false
+categories: ["investing"]
 ---
 
 This is a curated list of resources I can always come back to.
