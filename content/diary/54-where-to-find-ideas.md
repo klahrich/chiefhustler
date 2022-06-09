@@ -1,5 +1,5 @@
 ---
-title: "#53 - Where to Find Ideas"
+title: "#54 - Where to Find Ideas"
 date: 2022-06-09T12:35:37-04:00
 draft: false
 categories: ["investing"]
