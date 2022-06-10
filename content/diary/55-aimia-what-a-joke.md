@@ -26,7 +26,7 @@ trading period.
 
 Let's unpack that.
 
-They paid CA$6.3 in cash plus 4.1M shares of Aimia, worth CA$10.6M using the share price as of end of April 2020 (CA$2.6/sh). So CA$17M in total.
+They paid (to themselves) CA$6.3 in cash plus 4.1M shares of Aimia, worth CA$10.6M using the share price as of end of April 2020 (CA$2.6/sh). So CA$17M in total.
 
 What did they get in exchange?
 
