@@ -8,7 +8,7 @@ summary: "_Intelligence, energy, and integrity. And if they don’t have the las
 
 I wrote previously about Aimia, [here](diary/6-aimia/) and [here](diary/31-aimia-ec-2021q3/). This is a holdco that trades at a discount. They own one business in particular (Trade X) that is growing like crazy and seems to have some unique competitive advantage.
 
-Unfortunately, after acquiring a starter position, I did some more work on this stock and I have decided to dump. I explain why below.
+After acquiring a starter position, I did some more additional work on this stock and I have decided to dump it. I explain why below.
 
 ----
 
