@@ -57,4 +57,5 @@ _Higher quality:_
 - [My YouTube investing playlist](https://www.youtube.com/playlist?list=PLV9o6hLi1wBzed3fzEjR4vQidrcO6Pcl1)
 - [r/ScurityAnalysis](https://www.reddit.com/r/SecurityAnalysis/)
 - [DIY Investing](https://www.youtube.com/c/DIYInvesting/videos)
+- [The Business Brew podcast](https://www.youtube.com/channel/UCBywIfdQy7Nyb2RfRb_Z0eg)
 
