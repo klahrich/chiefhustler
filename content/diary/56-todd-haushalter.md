@@ -1,5 +1,5 @@
 ---
-title: "56 Todd Haushalter"
+title: "#56 - Conversation with Todd Haushalter"
 date: 2022-06-10T17:00:02-04:00
 draft: false
 categories: ["random", "EVO"]
