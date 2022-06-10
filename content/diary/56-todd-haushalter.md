@@ -3,12 +3,12 @@ title: "#56 - Conversation with Todd Haushalter"
 date: 2022-06-10T17:00:02-04:00
 draft: false
 categories: ["random", "EVO"]
-summary: "Notes from a conversation with Todd Haushalter, CPO of EVO."
+summary: "Unstructured notes from a conversation with Todd Haushalter, CPO of EVO."
 ---
 
 {{<youtube MJSqqzyLjkw>}}
 
-A writeup of the podcast on igamingnext [here](https://igamingnext.com/news/cultivating-curiosity-igaming-nexts-pierre-lindh-celebrates-100-podcast-episodes-in-fireside-chat-with-evolution-cpo-todd-haushalter/).
+A writeup of the podcast on iGamingnNext can be found [here](https://igamingnext.com/news/cultivating-curiosity-igaming-nexts-pierre-lindh-celebrates-100-podcast-episodes-in-fireside-chat-with-evolution-cpo-todd-haushalter/).
 
 Todd Haushalter is the CPO of Evolution Gaming (7 years in).
 
