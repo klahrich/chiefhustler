@@ -44,7 +44,7 @@ extraHead = "<!-- Global site tag (gtag.js) - Google Analytics --> <script async
 
 [[params.socials]]
 name = "| Where to find ideas "
-link = "/posts/where-to"
+link = "/diary/54-where-to-find-ideas"
 
 [[params.socials]]
 name = "| Resources "

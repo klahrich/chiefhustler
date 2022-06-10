@@ -5,9 +5,9 @@ draft: false
 categories: ["investing"]
 ---
 
-This is a curated list of resources I can always come back to.
+I sometimes suffer from the cold start problem.
 
-I sometimes suffer from the cold start problem. Hopefully this will help.
+This is a curated list of resources that will help, hopefully.
 
 
 ## Generate Ideas
@@ -58,4 +58,5 @@ _Higher quality:_
 - [r/ScurityAnalysis](https://www.reddit.com/r/SecurityAnalysis/)
 - [DIY Investing](https://www.youtube.com/c/DIYInvesting/videos)
 - [The Business Brew podcast](https://www.youtube.com/channel/UCBywIfdQy7Nyb2RfRb_Z0eg)
+- [Value Hive podcast](https://open.spotify.com/show/4jyB3twNAgXlcWJOFP2ObN)
 
