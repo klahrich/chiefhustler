@@ -50,7 +50,7 @@ As part of the company's continued process of investing excess capital to genera
 
 Precog is a fund managed by MIM. This means they can increase the AUM of MIM until the condition to unlock the remaining earnout shares is met.
 
-If you are invested here, I wish you good luck. It may ended up being a great investment.
+If you are invested here, I wish you good luck. It may end up being a great investment.
 
 As for me, even though I was initially enticed by their stake in Trade X (which looks like a truly fabulous business), the discount to NAV, and the share buybacks, these are not people I want to give my money to.
 

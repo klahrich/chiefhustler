@@ -36,7 +36,7 @@ _Higher quality:_
 - [JustValue substack](https://justvalue.substack.com/)
 - [49 Sixteen Research](https://49sixteenresearch.substack.com/)
 - [Letters and Reviews](https://lettersandreviews.blogspot.com/)
-
+- [Tikr screener](https://app.tikr.com/screener)
 
 
 ## Generate Wisdom
@@ -59,4 +59,5 @@ _Higher quality:_
 - [DIY Investing](https://www.youtube.com/c/DIYInvesting/videos)
 - [The Business Brew podcast](https://www.youtube.com/channel/UCBywIfdQy7Nyb2RfRb_Z0eg)
 - [Value Hive podcast](https://open.spotify.com/show/4jyB3twNAgXlcWJOFP2ObN)
+- [TIP podcast](https://open.spotify.com/show/28RHOkXkuHuotUrkCdvlOP)
 
