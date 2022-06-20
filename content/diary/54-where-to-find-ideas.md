@@ -38,7 +38,7 @@ _Higher quality:_
 - [Letters and Reviews](https://lettersandreviews.blogspot.com/)
 - [Tikr screener](https://app.tikr.com/screener)
 - [InPractise - free content available](https://inpractise.com/)
-
+- [Smallcap Discoveries](https://www.youtube.com/user/trevtrew/videos)
 
 ## Generate Wisdom
 
@@ -55,7 +55,6 @@ _Higher quality:_
 - [Damodaran: the little book of valuation](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/littlebook.htm)
 - [Graham and Doddsville Newsletter](https://www8.gsb.columbia.edu/valueinvesting/resources/newsletters)
 - [SNN Network](https://www.youtube.com/user/SNNWire)
-- [My YouTube investing playlist](https://www.youtube.com/playlist?list=PLV9o6hLi1wBzed3fzEjR4vQidrcO6Pcl1)
 - [r/ScurityAnalysis](https://www.reddit.com/r/SecurityAnalysis/)
 - [DIY Investing](https://www.youtube.com/c/DIYInvesting/videos)
 - [The Business Brew podcast](https://www.youtube.com/channel/UCBywIfdQy7Nyb2RfRb_Z0eg)
@@ -66,4 +65,3 @@ _Higher quality:_
 - [MOI Global YouTube channel](https://www.youtube.com/c/manualofideas/videos)
 - [Focused Compounding](https://www.youtube.com/c/FocusedCompounding/videos)
 - [The value investing channel](https://www.youtube.com/channel/UCkQUXe4jHshvsvrvjJMWEhg/videos)
-- [Smallcap Discoveries](https://www.youtube.com/user/trevtrew/videos)
