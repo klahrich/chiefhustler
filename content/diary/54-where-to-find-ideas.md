@@ -55,7 +55,7 @@ _Higher quality:_
 - [Damodaran: the little book of valuation](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/littlebook.htm)
 - [Graham and Doddsville Newsletter](https://www8.gsb.columbia.edu/valueinvesting/resources/newsletters)
 - [SNN Network](https://www.youtube.com/user/SNNWire)
-- [r/ScurityAnalysis](https://www.reddit.com/r/SecurityAnalysis/)
+- [r/SecurityAnalysis](https://www.reddit.com/r/SecurityAnalysis/)
 - [DIY Investing](https://www.youtube.com/c/DIYInvesting/videos)
 - [The Business Brew podcast](https://www.youtube.com/channel/UCBywIfdQy7Nyb2RfRb_Z0eg)
 - [Value Hive podcast](https://open.spotify.com/show/4jyB3twNAgXlcWJOFP2ObN)
