@@ -1,7 +1,7 @@
 ---
 title: "#58 - Currency Exchange International"
 date: 2022-06-16T12:07:36-04:00
-draft: true
+draft: false
 categories: ["stocks", "CXI.TO"]
 summary: "What I like / What I don't like / What I don't know"
 ---
