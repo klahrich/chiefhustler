@@ -50,4 +50,8 @@ And while both businesses are buying back shares, let's just say...not all buyba
 
 So I cut $AEP.V in half and put the cash into Knight. 
 
+## Update (2022-06-10)
 
+I completely exited $AEP.V after the CEO announced he would be selling a fifth of his holdings or 2% of the outstanding. Not that he's not allowed to, but the timing is just God awful and I'm not sure there's enough liquidity here to support the price. 
+
+I'm out.

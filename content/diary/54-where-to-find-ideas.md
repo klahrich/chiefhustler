@@ -37,6 +37,7 @@ _Higher quality:_
 - [49 Sixteen Research](https://49sixteenresearch.substack.com/)
 - [Letters and Reviews](https://lettersandreviews.blogspot.com/)
 - [Tikr screener](https://app.tikr.com/screener)
+- [InPractise - free content available](https://inpractise.com/)
 
 
 ## Generate Wisdom
@@ -60,4 +61,9 @@ _Higher quality:_
 - [The Business Brew podcast](https://www.youtube.com/channel/UCBywIfdQy7Nyb2RfRb_Z0eg)
 - [Value Hive podcast](https://open.spotify.com/show/4jyB3twNAgXlcWJOFP2ObN)
 - [TIP podcast](https://open.spotify.com/show/28RHOkXkuHuotUrkCdvlOP)
-
+- [Farnam Street Investment Letters](https://orphanira.com/writings/)
+- [Buffet FAQ](http://www.buffettfaq.com/)
+- [MOI Global YouTube channel](https://www.youtube.com/c/manualofideas/videos)
+- [Focused Compounding](https://www.youtube.com/c/FocusedCompounding/videos)
+- [The value investing channel](https://www.youtube.com/channel/UCkQUXe4jHshvsvrvjJMWEhg/videos)
+- [Smallcap Discoveries](https://www.youtube.com/user/trevtrew/videos)
