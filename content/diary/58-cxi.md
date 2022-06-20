@@ -14,7 +14,7 @@ As usual, my timing was wrong. Their Q2 was good, but the banknotes segment grow
 
 I like that:
 
-- their biggest competitor ([Travelex](https://www.travelex.co.uk/)) completely [exited North America](https://www.teamyyc.com/WhatsGoingOn/TabId/84/ArtMID/769/ArticleID/544/Travelex-ceases-operations-across-North-America.aspx)
+- their biggest competitor in the banknotes segment ([Travelex](https://www.travelex.co.uk/)) completely [exited North America](https://www.teamyyc.com/WhatsGoingOn/TabId/84/ArtMID/769/ArticleID/544/Travelex-ceases-operations-across-North-America.aspx)
 
 - they are small enough to provide personalized services to corporations but big enough to have operating leverage
 
