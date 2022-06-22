@@ -1,5 +1,5 @@
 ---
-title: "#99 - Personal Checkpoint"
+title: "#59 - Personal Checkpoint"
 date: 2022-06-22T10:12:22-04:00
 draft: false
 categories: ["personal"]
