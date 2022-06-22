@@ -6,7 +6,16 @@
     <description>Recent content in Categories on The Chief&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jun 2022 12:07:36 -0400</lastBuildDate><atom:link href="https://chiefhustler.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jun 2022 10:12:22 -0400</lastBuildDate><atom:link href="https://chiefhustler.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>personal</title>
+      <link>https://chiefhustler.com/categories/personal/</link>
+      <pubDate>Wed, 22 Jun 2022 10:12:22 -0400</pubDate>
+      
+      <guid>https://chiefhustler.com/categories/personal/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>CXI.TO</title>
       <link>https://chiefhustler.com/categories/cxi.to/</link>
@@ -85,15 +94,6 @@
       <pubDate>Sun, 22 May 2022 17:22:56 -0400</pubDate>
       
       <guid>https://chiefhustler.com/categories/aep.v/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>personal</title>
-      <link>https://chiefhustler.com/categories/personal/</link>
-      <pubDate>Sat, 07 May 2022 15:30:28 -0400</pubDate>
-      
-      <guid>https://chiefhustler.com/categories/personal/</guid>
       <description></description>
     </item>
     
