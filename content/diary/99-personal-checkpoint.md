@@ -14,6 +14,8 @@ I left the startup about 2 months ago and have been employed by this big corpora
 
 I don't hate the job, I don't love it either. It's work. Bunch of meetings, a little bit of analysis, a lot of hunting down people to get the information I need.
 
+What I like most about the job is that it starts late. I work with West Coast people mostly and they're 3 hours behind, so I can have some time in the AM to relax, check the news, the market, etc.
+
 The cash salary is nothing amazing, but there's a stock-based compensation and that's the main appeal. Except that in this shitty market...it's going down in value consistently.
 
 I have to stay motivated and perform, at least until I can take my paternity leave.
