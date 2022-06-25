@@ -279,3 +279,7 @@ _Hi Andrew, While I'm not expert at such things, I suspect that our stock at $12
 _I now take a long-term view on people. When I see something not being done right, my first reacttion isn't to go fix it. It's so say: "We're building a team here, and we're gonna do great stuff for the next decade, not just the next year. What do I need to do to help so that the person who's screwing up learns, versus how do I fix the problem?"_<br/>
 [Steve Jobs, when asked the most important thing he learned during his time at Apple](https://youtu.be/GRHHOI-WvVc?t=3079)
 <br/><br/>
+
+_Leave things alone. Especially when the sea is stirred up._<br/>
+[Baltasar Gracian, read on Chris Mayer's blog](https://www.woodlockhousefamilycapital.com/post/make-haste-slowly)
+<br/><br/>

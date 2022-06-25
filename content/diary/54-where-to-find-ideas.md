@@ -39,6 +39,8 @@ _Higher quality:_
 - [Tikr screener](https://app.tikr.com/screener)
 - [InPractise - free content available](https://inpractise.com/)
 - [Smallcap Discoveries](https://www.youtube.com/user/trevtrew/videos)
+- [Clark Street Value blog](http://clarkstreetvalue.blogspot.com/)
+- [ABG Sundal Collier](https://cr.abgsc.com/)
 
 ## Generate Wisdom
 
@@ -65,3 +67,4 @@ _Higher quality:_
 - [MOI Global YouTube channel](https://www.youtube.com/c/manualofideas/videos)
 - [Focused Compounding](https://www.youtube.com/c/FocusedCompounding/videos)
 - [The value investing channel](https://www.youtube.com/channel/UCkQUXe4jHshvsvrvjJMWEhg/videos)
+
