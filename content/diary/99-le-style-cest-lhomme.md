@@ -146,7 +146,7 @@ Here's Warren Buffet emphasizing this point.
 
 {{<tweet 1540938668382179333>}}
 
-I saved the audio file [here](1540938668382179333) in case the tweet goes down at some point.
+I saved the audio file [here](https://drive.google.com/file/d/1wXu9_YeAoqhxc2oKjknxfeHAecr4UXfY/view?usp=sharing) in case the tweet goes down at some point.
 
 ## Reversion to the mean is not a thing
 
@@ -292,7 +292,7 @@ In closing, we want to buy:
 - whose management has a solid track record we can check and a shareholder-friendly mindset
 - at an attractive price
 
-On the second point, I recently stumbled on a very nice illustration:
+On the second point, I recently stumbled on this very nice illustration with $BABA:
 
 ![roic](/images/roic-ex.png)
 
