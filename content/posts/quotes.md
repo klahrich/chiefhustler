@@ -283,3 +283,7 @@ _I now take a long-term view on people. When I see something not being done righ
 _Leave things alone. Especially when the sea is stirred up._<br/>
 [Baltasar Gracian, read on Chris Mayer's blog](https://www.woodlockhousefamilycapital.com/post/make-haste-slowly)
 <br/><br/>
+
+_What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact._<br/>
+[Warren Buffet]
+<br/><br/>

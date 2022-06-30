@@ -41,6 +41,12 @@ _Higher quality:_
 - [Smallcap Discoveries](https://www.youtube.com/user/trevtrew/videos)
 - [Clark Street Value blog](http://clarkstreetvalue.blogspot.com/)
 - [ABG Sundal Collier](https://cr.abgsc.com/)
+- [SNN Network](https://www.youtube.com/user/SNNWire)
+- [Google Alerts](https://www.google.com/alerts/) (I use keywords like "tender offer", "ncib", "spin-off", "new CEO", etc.)
+- [Capital Literature](https://open.spotify.com/show/1RA6qsXmmkiXgK9yhnKQYg)
+- [Invest like the best](https://open.spotify.com/playlist/57zSWuK6Fy1LehnYF3YA7j)
+- [CO/nversations](https://open.spotify.com/show/3cfeneJaV9P3ngWUxb6PLD)
+- [Superinvestors and the Art of Worldly Wisdom](https://open.spotify.com/show/3cfeneJaV9P3ngWUxb6PLD)
 
 ## Generate Wisdom
 
@@ -56,7 +62,6 @@ _Higher quality:_
 - [Horizon Kinetics Libray](https://horizonkinetics.com/insights/library/)
 - [Damodaran: the little book of valuation](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/littlebook.htm)
 - [Graham and Doddsville Newsletter](https://www8.gsb.columbia.edu/valueinvesting/resources/newsletters)
-- [SNN Network](https://www.youtube.com/user/SNNWire)
 - [r/SecurityAnalysis](https://www.reddit.com/r/SecurityAnalysis/)
 - [DIY Investing](https://www.youtube.com/c/DIYInvesting/videos)
 - [The Business Brew podcast](https://www.youtube.com/channel/UCBywIfdQy7Nyb2RfRb_Z0eg)
@@ -67,4 +72,7 @@ _Higher quality:_
 - [MOI Global YouTube channel](https://www.youtube.com/c/manualofideas/videos)
 - [Focused Compounding](https://www.youtube.com/c/FocusedCompounding/videos)
 - [The value investing channel](https://www.youtube.com/channel/UCkQUXe4jHshvsvrvjJMWEhg/videos)
+- [MastersInvest.com](http://mastersinvest.com/)
+- [After Dinner Investor](https://open.spotify.com/show/0CNgrWDBJYvFoayTAhYQtJ)
+- [Stratechery](https://stratechery.com/)
 
