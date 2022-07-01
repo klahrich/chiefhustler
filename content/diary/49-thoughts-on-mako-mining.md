@@ -57,7 +57,7 @@ The company is currently using this cash flow to finance exploration and (quickl
 Fingers crossed, good days ahead.
 
 ### Update (2022-06-01)
-
+shemsy******+-+-+-./././
 For the [first quarter of 2022](https://ceo.ca/content/sedar/MKO-20220531-News-release-English-f0e1.pdf), the company generated: 8.7 [mine OCF] - 1.1 [royalties & taxes] - 3.1 [Capex] = $4.5M of unlevered (before interest payments) free cashflow. Taking the average of the last two quarters, that's $5.25M of FCF per quarter, or $21M per year.
 
 The new debt is $16M after repayments to Sailfish and Wexford. Current market cap is $198M. So EV is about $214M, so the business is yielding me 9.8%.
