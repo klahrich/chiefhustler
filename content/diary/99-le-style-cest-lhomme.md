@@ -1,5 +1,5 @@
 ---
-title: "#99 - Le style cest l'homme!"
+title: "#60 - Le style cest l'homme!"
 date: 2022-06-25T23:23:54-04:00
 draft: false
 categories: ["investing"]
