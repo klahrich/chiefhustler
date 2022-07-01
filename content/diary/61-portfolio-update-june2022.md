@@ -24,6 +24,8 @@ Enough said. At this point either the lessons have been learned (and I hope that
 
 Onward. But please for fucks sake...calm and steady.
 
+Nothing matter except the work we put in. Work => Profit.
+
 ## Moves
 
 Drastically reduced $BABA and $PROSY (yes, just days before the run-up. Fuck me.)
