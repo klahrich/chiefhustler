@@ -128,6 +128,8 @@ Nothing in this description tells me what the end state is and why it's inevitab
 
 Again, I know that certainties don't exist. But that's my point. There are so many uncertainties, so many variables, that if we don't start from a place of ultra-high conviction driven by a simple yet profound thesis...we don't stand a chance.
 
+Leatt might be a great success, or not. I can't tell. I can't "see it" and it feels like a gamble.
+
 Joel Greenblatt said it best: 
 
 <blockquote>
