@@ -63,7 +63,7 @@ By constrained, I mean that they have to trade in sub-optimal conditions. For ex
 
 By unbalanced, I mean that their emotions are taking over and fogging their minds. This can happen when the market goes into panic mode.
 
-In exploring further the consequences of my fundamental assumption, I will consider the two types of businesses I'm interested in buying. The first is the wonderful business at a fair price (Munger), the second is a shitty business at a deeply discounted price (Buffet). 
+In exploring further the consequences of my fundamental assumption, I will consider the two types of businesses I'm interested in buying. The first is the wonderful business at a fair price (Munger), the second is a shitty business at a deeply discounted price (Buffett). 
 
 #### A fair price for a wonderful business
 
@@ -91,7 +91,7 @@ This means that the overused adage "Time in the market > Timing the market" is u
 
 #### My edge
 
-When it comes to investing, I'm not trying to reinvent the wheel. Everything I've said above is just a rehashed version of Buffet's and others' wisdom. The same is true for what I believe to be my edge. 
+When it comes to investing, I'm not trying to reinvent the wheel. Everything I've said above is just a rehashed version of Buffett's and others' wisdom. The same is true for what I believe to be my edge. 
 
 My main edge is that I am unconstrained. I'm not using any leverage, and I don't have anyone I am accountable to other than myself. Even my wife doesn't have a clue how much our portfolio is worth, for this exact reason. I manage my own little capital, and as long as I don't get too scared or too greedy, there is really is no reason for me to buy or sell at an inopportune time. I can wait as long as it takes.
 
@@ -111,6 +111,6 @@ By following this approach religiously, in time, I will be very rich.
 
 #### The other side of the coin
 
-The problem with being stupid is that my level of conviction can rarely be ultra-high. Which means that despite Buffet and Munger's advice, I don't see my portfolio being concentrated into 3 companies or less. Diversification is the cost I have to pay for my ignorance. Maybe it'll change one day, but as of right now, I feel that I could be wrong on any of the bets I'm making. 
+The problem with being stupid is that my level of conviction can rarely be ultra-high. Which means that despite Buffett and Munger's advice, I don't see my portfolio being concentrated into 3 companies or less. Diversification is the cost I have to pay for my ignorance. Maybe it'll change one day, but as of right now, I feel that I could be wrong on any of the bets I'm making. 
 
 There's also another dilemna that is bothering me. I see some wonderful companies selling at a high or even a fair price, but I don't know that the market is wrong about them. I'm not seeing anything that would indicate that the market is being irrational about them, and so I don't buy them - but they keep executing brilliantly and outperforming. There are many examples but two examples at both extremes of the valuation range would be $DOO.TO and $CSU.TO. Both are companies I admire, but I didn't buy them because I never thought I had an edge over the market. I feel like this suggests that there's something wrong with my current framework, but I don't know what it is. Time will tell...

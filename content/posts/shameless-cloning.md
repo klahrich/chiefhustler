@@ -5,7 +5,7 @@ draft: false
 categories: ["investing"]
 ---
 
-The concept of _circle of competence_ is well known in the investing community. I believe it was popularized by Warren Buffet, at least that's how I first came accross it. Both Buffet and Munger have emphasized endless times to invest only in what you understand. And they're not the only ones, other super investors like Peter Lynch have hammered the idea of leveraging whatever expertise you possess to make good investment by remaining within your circle of competence.
+The concept of _circle of competence_ is well known in the investing community. I believe it was popularized by Warren Buffett, at least that's how I first came accross it. Both Buffett and Munger have emphasized endless times to invest only in what you understand. And they're not the only ones, other super investors like Peter Lynch have hammered the idea of leveraging whatever expertise you possess to make good investment by remaining within your circle of competence.
 
 ### Shameless cloning
 
@@ -13,7 +13,7 @@ The idea of _shameless cloning_, as far as I can tell, is not as established. Cl
 
 This is squarely in contradiction with the circle of competence precept. How can one invest in something without knowing why?
 
-Mohnish Pabrai is a super investor that encourages cloning (even shameless cloning). He said that if one had simply cloned Warren Buffet, even with a 45 day delay, they would've gotten great results. Mohnish views cloning as an extra-layer of security. He describes it as "bowling with bumpers".
+Mohnish Pabrai is a super investor that encourages cloning (even shameless cloning). He said that if one had simply cloned Warren Buffett, even with a 45 day delay, they would've gotten great results. Mohnish views cloning as an extra-layer of security. He describes it as "bowling with bumpers".
 
 I am a huge fan of almost-shameless-cloning. I added the _almost_ part, because ideally, I'd prefer to understand and like something about the business I'm buying. I don't have to understand all of it or in depth, and I don't have to like everything about it. A little bit is enough, I just need to get a feel, an intuition for why this could be a great investment. And I don't just clone super investors: anybody who is succesful at they do is fair game. The more succesful and knowledgeable they are, the easier it is for me to clone them.
 

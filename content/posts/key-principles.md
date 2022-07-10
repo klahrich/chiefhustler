@@ -31,11 +31,11 @@ When you discover a profound truth like cloning, you want to go a 1000% on it.
 
 Caveat: when you're cloning, you have to do it in a way that suits your temperament and personality (e.g. you could need to diversify more).
 
-When Guy Spier started asking "What would Warren Buffet do in my shoes?", good things started happening for him in a way he didn't expect.
+When Guy Spier started asking "What would Warren Buffett do in my shoes?", good things started happening for him in a way he didn't expect.
 
-Bcs he did NOT clone the partnership structure of Buffet's partnership, it cost him.
+Bcs he did NOT clone the partnership structure of Buffett's partnership, it cost him.
 
-Mohnish on Buffet's partnership structure: "I don't know exactly why Buffet did it this way, but I don't have a compelling reason not to copy it"
+Mohnish on Buffett's partnership structure: "I don't know exactly why Buffett did it this way, but I don't have a compelling reason not to copy it"
 
 Cloning requires humility: I don't need to assert myself and show that I'm the smartest/wisest etc.
 

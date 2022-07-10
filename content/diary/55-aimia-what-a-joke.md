@@ -3,7 +3,7 @@ title: "#55 - Aimia: too bad, so sad"
 date: 2022-06-09T19:28:19-04:00
 draft: false
 categories: ["stocks", "AIM.TO"]
-summary: "_Intelligence, energy, and integrity. And if they don’t have the last one, don’t even bother with the first two._ [[W. Buffet]](https://fs.blog/warren-buffett-the-three-things-i-look-for-in-a-person/)"
+summary: "_Intelligence, energy, and integrity. And if they don’t have the last one, don’t even bother with the first two._ [[W. Buffett]](https://fs.blog/warren-Buffettt-the-three-things-i-look-for-in-a-person/)"
 ---
 
 I wrote previously about Aimia, [here](diary/6-aimia/) and [here](diary/31-aimia-ec-2021q3/). This is a holdco that trades at a discount. They own one business in particular (Trade X) that is growing like crazy and seems to have some unique competitive advantage.

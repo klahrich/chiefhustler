@@ -36,7 +36,7 @@ Going back to the investing world, imagine you pay a fund manager 2% to invest y
 
 ## The Retail Investor's Advantage
 
-Buffet (and Greenblatt) talked about this ad-nauseam, but hopefully, the poker analogy helped distill the idea. 
+Buffett (and Greenblatt) talked about this ad-nauseam, but hopefully, the poker analogy helped distill the idea. 
 
 As an individual retail investor, you get to play the game **without playing any blinds.**
 

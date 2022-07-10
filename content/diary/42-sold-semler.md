@@ -50,7 +50,7 @@ Of course, I didn't even mention that the insurers would probably save money by 
 
 Because of this tight dependency, if you were to ask me now whether Semler will exist 20 years from now, I would hesitate. And to be honest, my answer would be a not-very-confident "maybe". Because I'm not 100% confident that Medicare Advantage is a win-win-win: I know it's a win for insurances companies and for diagnosis providers like Semler, but whether it's a win for the patients is unclear to me.
 
-Finally, I was reminded of this quote from Warren Buffet: "The price is my due diligence."
+Finally, I was reminded of this quote from Warren Buffett: "The price is my due diligence."
 
 And in this case, while the price is good, it's not good enough for me to look past my hesitancy on the fundamentals. I think I can find other investments at similar IRRs that I would have a higher conviction on.
 
@@ -58,7 +58,7 @@ So I sold, at a loss. Which I would have avoided if I had done the work prior in
 
 ## The meta game
 
-As Buffet also says, this game is more about temperament than it is about intelligence. Unfortunately I'm not that intelligent to begin with, so I really need to work on control my temperament.
+As Buffett also says, this game is more about temperament than it is about intelligence. Unfortunately I'm not that intelligent to begin with, so I really need to work on control my temperament.
 
 Unfortunately, it seems this market has had its toll on me. I'm being overactive, changing my mind too often, and accumulating small losses along the way.
 

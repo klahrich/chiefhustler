@@ -84,11 +84,11 @@ I remember finding this idea fascinating, and not all that crazy. Based on a com
 
 It's like there is this structural shift happening that nothing can stop - and everything else is just random noise.
 
-It reminds me of this tweet describing how Buffet became one of $AAPL's biggest shareholders:
+It reminds me of this tweet describing how Buffett became one of $AAPL's biggest shareholders:
 
 {{<tweet 1541066361614618629>}}
 
-Buffet recognized an unstoppable trend - one that, ironically enough, Bruce Greenwald missed, because he didn't understand how Apple captured their customers' life and soul through that little electronic gadget!
+Buffett recognized an unstoppable trend - one that, ironically enough, Bruce Greenwald missed, because he didn't understand how Apple captured their customers' life and soul through that little electronic gadget!
 
 On top of it, the stock was dirt cheap; so he went all-in. 
 
@@ -144,7 +144,7 @@ There's another reason why we need a strong, simple yet profound thesis.
 
 It's because if we don't, and if we merely follow other people into an investment idea, we will be at the mercy of the wind - and chances are, we will be shaken out.
 
-Here's Warren Buffet emphasizing this point. 
+Here's Warren Buffett emphasizing this point. 
 
 {{<tweet 1540938668382179333>}}
 

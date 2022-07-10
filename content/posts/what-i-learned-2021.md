@@ -35,7 +35,7 @@ categories: ["investing"]
 
 - Listen to [The Psychology of Human Misjudgement by Charlie Munger](https://www.youtube.com/watch?v=pqzcCfUglws) about 12 times (not easy to digest).
 
-- Watch your emotions, especially greed and envy. Warren Buffet: "_Investing is not a game where the guy with the 160 IQ beats the guy with the 130 IQ. Once you have ordinary intelligence, what you need is the temperament to control the urges that get other people into trouble_."
+- Watch your emotions, especially greed and envy. Warren Buffett: "_Investing is not a game where the guy with the 160 IQ beats the guy with the 130 IQ. Once you have ordinary intelligence, what you need is the temperament to control the urges that get other people into trouble_."
 
 - Most of all, watch out for lollapaloozas. The impact of multiple destabilizing events is not additive, it is multiplicative. When in doubt, stand still and do FUCKING NOTHING.
 
@@ -64,7 +64,7 @@ categories: ["investing"]
 
 - Some very rare people play the infinite game (Mohnish Pabrai and [Guy Spier](https://www.youtube.com/watch?v=KUZ9vw1yWvo&t=2117s) are famous examples; another, more accessible one, is [@IgnoreNarrative](https://twitter.com/IgnoreNarrative), imho). Pay extra attention to what they say.
 
-- CEOs of companies also play their own game. Some of them play the infinite one (e.g. Warren Buffet, Mark Leonard). Find more of those. As an investor, understanding the CEO's game is part of your job.
+- CEOs of companies also play their own game. Some of them play the infinite one (e.g. Warren Buffett, Mark Leonard). Find more of those. As an investor, understanding the CEO's game is part of your job.
 
 - Think about the game you want to play (hint: long-term games are more interesting and rewarding). Use a relevant metric to track your progress (hint #2: the best metric for you depends on the game you choose to play).
 

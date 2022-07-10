@@ -19,11 +19,11 @@ Two concepts I'd like to explore:
 
 ## Circle of Competence
 
-Buffet has popularized the importance of staying within our circle of competence when it comes to investing. If you look closely at his own investment record, excluding Apple, he never got it wrong when he invested in financials or insurance companies. On the other hand, he made plenty of mistakes elsewhere (airlines and retail furniture for example).
+Buffett has popularized the importance of staying within our circle of competence when it comes to investing. If you look closely at his own investment record, excluding Apple, he never got it wrong when he invested in financials or insurance companies. On the other hand, he made plenty of mistakes elsewhere (airlines and retail furniture for example).
 
 But funny enough, Apple, a technology stock, was the best investment of his life. Was Apple within his circle of competence? 
 
-You could argue that Buffet is a life-long learning machine and that he relentlessly kept pushing the boundaries of his circle until it included something like Apple. While that is probably true, I think the simpler explanation is that he understood the moat of Apple; how the business was making money and fending off competition. And at some point, Apple's stock price fell low enough for him to consider it cheap and scoop it up.
+You could argue that Buffett is a life-long learning machine and that he relentlessly kept pushing the boundaries of his circle until it included something like Apple. While that is probably true, I think the simpler explanation is that he understood the moat of Apple; how the business was making money and fending off competition. And at some point, Apple's stock price fell low enough for him to consider it cheap and scoop it up.
 
 Here's another, more personal, example. 
 
@@ -89,7 +89,7 @@ To me, the answer is a mix of herd behavior and psychological rigidity, on the p
 
 The mental models say: renewable energy is preferable to fossil fuels, and we should make the transition as quickly as possible.
 
-The reality is: things take time. And renewables are just not efficient enough, yet. As Warren Buffet (him again!) said:
+The reality is: things take time. And renewables are just not efficient enough, yet. As Warren Buffett (him again!) said:
 
 <blockquote>
 

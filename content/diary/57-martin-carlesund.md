@@ -26,10 +26,34 @@ Direct quotes:
 
 Now, just because a CEO says he wants to build the greatest company in the world doesn't mean we should believe him. 
 
-BUT, one thing I know for sure, is that to build a great company, you really, really have to want it. There's just too much entropy out there for this sort of thing to happen on its own. 
+BUT, one thing I know for sure, is that to build a great company, you really, really have to want it. There's too much entropy out there for this sort of thing to happen on its own. 
 
 So the the ambition is necessary, but not sufficient.
 
 And I think this CEO has it. 
+
+## Update (2022-07-01)
+
+I found a nice (non-corpo) bio of this dude [here](https://www.gamblinginsider.com/in-depth/8493/ceo-special-2020-evolution-gaming-staying-humble).
+
+The guy was a programmer, a CTO, oversaw mergers & acquisitions, then became the youngest CEO of a public company in Sweden.
+
+Quote:
+
+<blockquote>
+
+But you have to put a team together, a company together and my aim is to build the best company in the world. I really mean that. It should be better than Spotify, Facebook, Google; it should be the best one.
+
+</blockquote>
+
+And he goes on:
+
+<blockquote>
+
+Sometimes, I think when companies earn money, instead of focusing on doing that [becoming the best company in the world], they buy expensive furniture and offices. That won’t work – that’s not what drives people. It’s nice for a week or two, but you get used to it. I’m not saying you should sit in a basement with no paint on the walls. Our offices are fantastic – but they are efficient. They are just a tool to get what we want.
+
+</blockquote>
+
+This mofo might be the real deal.
 
 

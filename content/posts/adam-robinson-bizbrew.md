@@ -35,7 +35,7 @@ They all have a very distinctive hammer, one that they know very well because th
 
 You have to know what kind of situations are you optimal in. And don't deviate from it. For example, whether you are a day trader, a swing trader or a long-term investor, be careful about switching your timeframe. Just do what you do best.
 
-Stay in your sandbox, develop a thesis and limit your thinking to just a few things. While it's good to study Warren Buffet, understand that you're not him. What's good for him might not be good for you. Are you really prepared to sit on an investment for 20 years? After a year or two, you might discover that you weren't.
+Stay in your sandbox, develop a thesis and limit your thinking to just a few things. While it's good to study Warren Buffett, understand that you're not him. What's good for him might not be good for you. Are you really prepared to sit on an investment for 20 years? After a year or two, you might discover that you weren't.
 
 So steal from your heroes what works for you and build your own hammer.
 
@@ -43,7 +43,7 @@ You need to be disciplined. No matter what the domain, to make it to the top, yo
 
 Charlie Munger has one of the best quotes: "Pick a simple idea and take it seriously". 
 
-The discipline is to stick to your strengths. You will be tempted many times - "Oh it's too sweet I can't let it go!". But Buffet and Munger have let go of any number of opportunities. For example, they would have made 5x more money if they used leverage. But they stuck to their discipline, and that's why they did so good over such a long time.
+The discipline is to stick to your strengths. You will be tempted many times - "Oh it's too sweet I can't let it go!". But Buffett and Munger have let go of any number of opportunities. For example, they would have made 5x more money if they used leverage. But they stuck to their discipline, and that's why they did so good over such a long time.
 
 But that doesn't mean that your strategy should never change. That you should double down on it and just go harder no matter the results you get. Not at all. If you don't like the outcome, you need to change what you're doing.
 
@@ -85,13 +85,13 @@ Notice that in this example, it could very well be that when you calibrated your
 
 In certain domains, such as Chess, the very best always play to win (Magnus Carlsen, Bobby Fisher, Gary Kasparov).
 
-But Warren Buffet - arguably one of the investing GOATS, plays not to lose.
+But Warren Buffett - arguably one of the investing GOATS, plays not to lose.
 
 How do we reconcile that?
 
 If Bobby Fisher plays a game and loses, he can play another one. He has the same brain power. In fact he'll probably have learned something from the loss and be a stronger player.
 
-On the other hand, when you make a mistake in investing, you lose capital. You're smarter...and poorer. The game of investing is unique in that when you lose, you have less to go forward with. That's why Buffet's only rule is "Don't lose money". 
+On the other hand, when you make a mistake in investing, you lose capital. You're smarter...and poorer. The game of investing is unique in that when you lose, you have less to go forward with. That's why Buffett's only rule is "Don't lose money". 
 
 And while it sounds obvious and noone is actively trying to lose money, they don't trade like that. They trade to win. Whereas if your sole gole is not to lose money, it forces you to do certain things, have discipline and a system that you can apply ruthlessly and consistently. 
 

@@ -122,7 +122,7 @@ I want to treat stocks like cattle. By default stance should be "No". Most busin
 2. "The rule of 4/5/6"
 </span>
 
-My golden metrics are EV/GP, EV/EBITDA, and EV/EBIT and I'm looking for values of 4/5/6 on the trailing twelve months financials. This is what Buffet paid for Apple in 2016 and it's the golden standard against which everything will be compared.
+My golden metrics are EV/GP, EV/EBITDA, and EV/EBIT and I'm looking for values of 4/5/6 on the trailing twelve months financials. This is what Buffett paid for Apple in 2016 and it's the golden standard against which everything will be compared.
 
 <span style="color: red; font-weight:bold">
 3. "Knowledge = wealth, ignorance = poverty"

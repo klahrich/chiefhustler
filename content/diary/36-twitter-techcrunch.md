@@ -18,7 +18,7 @@ Here they disagree on whether the current large neural networks display any kind
 
 Yann is basically arguing that consciousness, the way we experience it as human beings, is not a qualitative improvement away from the current neural network architectures. Rather, it require a paradigm shift.
 
-It reminded me of Buffet saying that "You either get value investing instantly, or you never will" - I'm paraphrasing. The current neural networks we have will never display consciousness, no matter how big they get, at least according to Yann Lecun. 
+It reminded me of Buffett saying that "You either get value investing instantly, or you never will" - I'm paraphrasing. The current neural networks we have will never display consciousness, no matter how big they get, at least according to Yann Lecun. 
 
 ## Moderating Conversations
 

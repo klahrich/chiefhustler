@@ -47,11 +47,12 @@ _Higher quality:_
 - [Invest like the best](https://open.spotify.com/playlist/57zSWuK6Fy1LehnYF3YA7j)
 - [CO/nversations](https://open.spotify.com/show/3cfeneJaV9P3ngWUxb6PLD)
 - [Superinvestors and the Art of Worldly Wisdom](https://open.spotify.com/show/3cfeneJaV9P3ngWUxb6PLD)
+- [Petty Cash](https://pettycash.substack.com/)
 
 ## Generate Wisdom
 
 - [Nomad letters, full collection](https://drive.google.com/file/d/1Y7F9VEgmFxVhLvIe1uZLtkHBY6xfCxee/view?usp=sharing)
-- [Buffet partnership letters](https://drive.google.com/drive/folders/1uk_cJWoUT8XwKVfbtkxbIWutKhEBHkRV?usp=sharing)
+- [Buffett partnership letters](https://drive.google.com/drive/folders/1uk_cJWoUT8XwKVfbtkxbIWutKhEBHkRV?usp=sharing)
 - [Bekshire letters](https://www.berkshirehathaway.com/letters/letters.html)
 - [Berkshire letters, 1977 to 2019, one pdf](https://drive.google.com/file/d/1rfi-dvdOg62e4LMMyF2bKTGK5g1C51Pv/view?usp=sharing)
 - [Mark Leonard letters to shareholders](https://www.csisoftware.com/category/pres-letters)
@@ -68,11 +69,12 @@ _Higher quality:_
 - [Value Hive podcast](https://open.spotify.com/show/4jyB3twNAgXlcWJOFP2ObN)
 - [TIP podcast](https://open.spotify.com/show/28RHOkXkuHuotUrkCdvlOP)
 - [Farnam Street Investment Letters](https://orphanira.com/writings/)
-- [Buffet FAQ](http://www.buffettfaq.com/)
+- [Buffett FAQ](http://www.Buffetttfaq.com/)
 - [MOI Global YouTube channel](https://www.youtube.com/c/manualofideas/videos)
 - [Focused Compounding](https://www.youtube.com/c/FocusedCompounding/videos)
 - [The value investing channel](https://www.youtube.com/channel/UCkQUXe4jHshvsvrvjJMWEhg/videos)
 - [MastersInvest.com](http://mastersinvest.com/)
 - [After Dinner Investor](https://open.spotify.com/show/0CNgrWDBJYvFoayTAhYQtJ)
 - [Stratechery](https://stratechery.com/)
+- [JoinColossus](https://www.joincolossus.com/)
 

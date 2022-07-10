@@ -104,7 +104,7 @@ Some investors put more weight and focus on the business quality and some others
 
 But if I had to choose between the two extremes, I'd rather go for super cheap valuations and look for limited downside rather than unlimited upside.
 
-In 2016, when Buffet started buying Apple shares, it was trading for ~8x EV/EBITDA, 10x P/EBT, and 12x P/E. Maybe the best investment of all time.
+In 2016, when Buffett started buying Apple shares, it was trading for ~8x EV/EBITDA, 10x P/EBT, and 12x P/E. Maybe the best investment of all time.
 
 ### Update (2022-01-16)
 

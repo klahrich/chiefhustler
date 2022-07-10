@@ -12,9 +12,9 @@ What makes a great investment idea? Simplicity of though. Can they boil the thes
 
 What makes a great investment? A combination of the above and passion. Some people are in it for the money and some people like solving puzzles and figuring things out and figuring wht's gonna happen next. You can kindof tell the passion of those people, that they're just in it for the combination of challenge and interest. Those are the people that tend to be the most successful long-term.
 
-As Warren Buffet would say, if I have to get to page 40 of a spreadsheet to figure out if this is a good investment, that's not really where I find it. It's more like you can drive a truck between what I think it's worth and where it's priced. It's so obvious if you think about it the right way, it's that big a deal.
+As Warren Buffett would say, if I have to get to page 40 of a spreadsheet to figure out if this is a good investment, that's not really where I find it. It's more like you can drive a truck between what I think it's worth and where it's priced. It's so obvious if you think about it the right way, it's that big a deal.
 
-As Warren Buffet would say (again :p), you don't have to swing at every pitch. You can swing at one of twenty pitches, but as long as you do a good job with that one, it all works out. It doesn't matter that you missed on the others.
+As Warren Buffett would say (again :p), you don't have to swing at every pitch. You can swing at one of twenty pitches, but as long as you do a good job with that one, it all works out. It doesn't matter that you missed on the others.
 
 I just waited for easy simple pitches to hit. Something in my sweet spoty. I just waited for the easy ones.
 

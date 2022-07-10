@@ -18,7 +18,7 @@ There's no need to sugar coat it and no need to dwell on it. Mistakes were made.
 
 I flip-flopped, I tried to tie to the market, and I got punished for it. 
 
-It's one thing to hear Buffet talk about it, it's another to do it and experience it ourselves.
+It's one thing to hear Buffett talk about it, it's another to do it and experience it ourselves.
 
 Enough said. At this point either the lessons have been learned (and I hope that is the case) or they'll never be.
 

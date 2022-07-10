@@ -194,7 +194,7 @@ _Many shall be restored that now are fallen & many shall fall that now are in ho
 <br/><br/>
 
 _Predicting rain doesn't count; building arks does._<br/>
-[Warren Buffet, 2001 annual shareholder report](https://www.berkshirehathaway.com/2001ar/2001ar.pdf)
+[Warren Buffett, 2001 annual shareholder report](https://www.berkshirehathaway.com/2001ar/2001ar.pdf)
 <br/><br/>
 
 _Wonderful businesses do not trade for great prices when the headlines are positive and Wall Street is cheery; they get cheap when the news is bad and investors overreact. You'll have to buy when everyone else is selling, which is not easy._<br/>
@@ -285,5 +285,5 @@ _Leave things alone. Especially when the sea is stirred up._<br/>
 <br/><br/>
 
 _What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact._<br/>
-[Warren Buffet]
+[Warren Buffett]
 <br/><br/>
