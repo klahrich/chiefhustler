@@ -33,8 +33,8 @@ summaryLength = 15
   
 
 [params]
-mainSections = ["posts", "diary", "weekly-recap"]
-allSections = ["posts", "diary", "weekly-recap", "personal"]
+mainSections = ["posts", "diary", "weekly-recap", "categories"]
+allSections = ["posts", "diary", "weekly-recap", "personal", "categories"]
 
 headTitle = "Chief Hustler"
 #disqusShortname = 'https-chiefhustler-com'

@@ -287,3 +287,15 @@ _Leave things alone. Especially when the sea is stirred up._<br/>
 _What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact._<br/>
 [Warren Buffett]
 <br/><br/>
+
+_Nothing sedates rationality like large doses of effortless money._<br/>
+[Warren Buffett]
+<br/><br/>
+
+_Obviously, then, by definition, it is at least sometimes necessary for the good to suffer and the wicked to thrive. Anything less would eliminate free choice._<br/>
+[I'm not the boss (Ch 7) - Howard Jonas](https://www.amazon.ca/Not-Boss-Just-Work-Here/dp/1932443053)
+<br/><br/>
+
+_Success is not a reward. Sometimes it's just a sign of having tried hard and often_<br/>
+[I'm not the boss (Ch 10) - Howard Jonas](https://www.amazon.ca/Not-Boss-Just-Work-Here/dp/1932443053)
+<br/><br/>

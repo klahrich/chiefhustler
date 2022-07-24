@@ -7,10 +7,10 @@ categories: ["investing"]
 
 I sometimes suffer from the cold start problem.
 
-This is a curated list of resources that will help, hopefully.
+This is a curated list of resources that I can have at my fingertips when I'm not sure what to do.
 
 
-## Generate Ideas
+## Specific Ideas
 
 _Low quality:_
 
@@ -49,7 +49,7 @@ _Higher quality:_
 - [Superinvestors and the Art of Worldly Wisdom](https://open.spotify.com/show/3cfeneJaV9P3ngWUxb6PLD)
 - [Petty Cash](https://pettycash.substack.com/)
 
-## Generate Wisdom
+## Food for Thought
 
 - [Nomad letters, full collection](https://drive.google.com/file/d/1Y7F9VEgmFxVhLvIe1uZLtkHBY6xfCxee/view?usp=sharing)
 - [Buffett partnership letters](https://drive.google.com/drive/folders/1uk_cJWoUT8XwKVfbtkxbIWutKhEBHkRV?usp=sharing)
@@ -71,7 +71,7 @@ _Higher quality:_
 - [Farnam Street Investment Letters](https://orphanira.com/writings/)
 - [Buffett FAQ](http://www.Buffetttfaq.com/)
 - [MOI Global YouTube channel](https://www.youtube.com/c/manualofideas/videos)
-- [Focused Compounding](https://www.youtube.com/c/FocusedCompounding/videos)
+- Focused Compounding [YouTube](https://www.youtube.com/c/FocusedCompounding/videos) [Blog](https://focusedcompounding.com/)
 - [The value investing channel](https://www.youtube.com/channel/UCkQUXe4jHshvsvrvjJMWEhg/videos)
 - [MastersInvest.com](http://mastersinvest.com/)
 - [After Dinner Investor](https://open.spotify.com/show/0CNgrWDBJYvFoayTAhYQtJ)
