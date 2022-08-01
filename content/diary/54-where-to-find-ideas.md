@@ -77,4 +77,6 @@ _Higher quality:_
 - [After Dinner Investor](https://open.spotify.com/show/0CNgrWDBJYvFoayTAhYQtJ)
 - [Stratechery](https://stratechery.com/)
 - [JoinColossus](https://www.joincolossus.com/)
-
+- [Saber Capital Management](https://sabercapitalmgt.com/)
+- [Vineyard Holdings](https://vineyardholdings.net/notes/)
+- [50x podcast](https://www.50xpodcast.com/)

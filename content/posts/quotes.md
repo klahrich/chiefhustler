@@ -299,3 +299,8 @@ _Obviously, then, by definition, it is at least sometimes necessary for the good
 _Success is not a reward. Sometimes it's just a sign of having tried hard and often_<br/>
 [I'm not the boss (Ch 10) - Howard Jonas](https://www.amazon.ca/Not-Boss-Just-Work-Here/dp/1932443053)
 <br/><br/>
+
+_I am proud to note that we hire and promote on merit only, and because of that we have a team of exceptional Canadians who happen to have diverse backgrounds._<br/>
+[Ken Rotman, Chief Executive Officer of Clairvest, Annual Report 2022](https://www.clairvest.com/wp-content/uploads/Annual-Report-2022-FINAL.pdf)
+<br/><br/>
+

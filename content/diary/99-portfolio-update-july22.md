@@ -1,17 +1,21 @@
 ---
-title: "99 July Update"
+title: "#63 - Portfolio Update, July 2022"
 date: 2022-07-28T11:04:31-04:00
-draft: true
+draft: false
+categories: ["portfolio"]
+summary: "Light at the end of the tunnel?"
 ---
 
 
 ## Performance update
 
-![portfolio](/images/portfolio-update-202206.png)
+![portfolio](/images/portfolio-update-202207.png)
 
-![portfolio2](/images/portfolio-update-202206(2).png)
+![portfolio2](/images/portfolio-update-202207(2).png)
 
 ## Commentary
+
+_Note: I wrote my commentary in the morning of Friday the 29th, expecting a loss for the month. But Mr market was in a good mood that day (especially with Emerita up 9%) and brought my monthly return back into the green._
 
 This is my third consecutive month of negative returns.
 
@@ -61,7 +65,19 @@ Here's the spotify [link](https://open.spotify.com/episode/6IW6h71AFZChX8Fs1EVn7
 
 ## Moves
 
+Not too many moves this month.
 
+I bought some shares of Vermillion Energy [$VET.TO](https://finance.yahoo.com/quote/VET.TO) for the exposure to natural gas, and some of Cipher Pharmaceuticals [$CPH.TO](https://finance.yahoo.com/quote/CPH.TO) (1.8x EV/EBIT ttm).
+
+I completely sold out of $AEP.V. It's a good business and maybe it'll do fantastically, but I've been turned off by a few subtle things here and there.
 
 ## Outlook
 
+Suppose you have one decision left to make before you die.
+
+One purchase; one business. Whatever you buy will be coffee-canned and passed on to your children, but they'll only be told many years from now, when they're 21.
+
+What do you buy?
+
+{{<youtube Fk0GQCZbF0k>}}
+(backup [link](https://drive.google.com/file/d/1O4unAdlqF95epTR1jAYQHAhz7FPjbYS7/view?usp=sharing))
