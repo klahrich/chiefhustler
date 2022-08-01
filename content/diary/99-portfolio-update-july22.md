@@ -17,7 +17,7 @@ summary: "Light at the end of the tunnel?"
 
 _Note: I wrote my commentary on the morning of Friday the 29th, expecting a loss for the month. But Mr market was in a good mood that day (especially with Emerita up 9%) and brought my monthly return back into the green._
 
-This is my third consecutive month of negative returns.
+This is my fourth consecutive month of negative returns.
 
 Three explanations are possible:
 
