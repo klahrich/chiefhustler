@@ -25,9 +25,9 @@ Three explanations are possible:
 2. I've been unlucky
 3. I have no clue what I'm doing
 
-Intuitively, I would weigh these 3 explanations 35%, 5%, and 60% respectively. I can only do something about 3. so it's good that it has the biggest weight.
+Intuitively, I would weigh these 3 explanations 35%, 5%, and 60% respectively. I can only do something about 3. so it's good that it has the largest weight.
 
-In this [Lex Fridman podcast](https://www.youtube.com/watch?v=X5EynjBZRZo) about genetic differences in average IQ between races, the guest mentioned that it would be a GOOD THING if the observed average differences had a biological source (as opposed to societal), because it's a science. When we think rationally, we can solve problems and make concrete progress.
+In this [Lex Fridman podcast](https://www.youtube.com/watch?v=X5EynjBZRZo) about genetic differences in average IQ between races, the guest mentioned that it would be a GOOD THING if the observed average differences had a biological source (as opposed to societal), because biology is a rational science. When we think rationally, we can solve problems and make concrete progress.
 
 Similarly, I do believe that my future self will be less clueless than I am right now. While the changes might take some time to manifest themselves into my investing performance, that is bound to happen ultimately.
 
