@@ -42,7 +42,7 @@ I'm gonna link directly to the conclusion of his talk, which is the section that
 
 {{<youtube O38I7QIc_eQ>}}
 
-I'm reminded of the late King of Morocco, Hassan 2. When asked about how he thinks about his succession, he says (in French): "Le style, c'est l'homme". Style is everything.
+I'm reminded of the late King of Morocco, Hassan 2. When asked about how he thinks about his succession, he says (in French): "Le style, c'est l'homme". Style is everything. I think what he meant is that whoever his succesor is, they should strive to find their own style and go with it.
 
 {{<youtube DyYN4-yJMOo>}}
 
@@ -54,15 +54,15 @@ Terry only invests in quality businesses, which he defines as such:
 
 ![fundsmith](/images/fundsmith.png)
 
-Notice the overlap with Chuck Akre? Hopefully, it means that I'm consistent and that may have found the building blocks of my own style.
+Notice the overlap with Chuck Akre? Hopefully, it means that I'm consistent and that I may have found the building blocks of my own style.
 
-When it comes to investors I admire, Chris Mayer is one of my favorites. Here's a quote from [his blog](https://www.woodlockhousefamilycapital.com/post/invisible-moats):
+When it comes to investors I admire, Chris Mayer is also one of my favorites. Here's a quote from [his blog](https://www.woodlockhousefamilycapital.com/post/invisible-moats):
 
 ![chrismayer](/images/chrismayer1.png)
 
 Again, high return on capital - but with a strong emphasis on **competitive advantage**.
 
-Now, when it comes to competitive advantages, I like Bruce Greenwald's framework:
+Bruce Greenwald's has written a fair deal about competitive advantages:
 
 ![comp-adv](/images/comp-adv.png)
 
@@ -70,7 +70,7 @@ The screenshot above was taken from the following clip, which summarizes well th
 
 {{<youtube l0gB19stVIM>}}
 
-If you don't mind listening to Greenwald's nasal voice, this one is a pretty good clip on what makes a good business (i.e. what allows a business to generate high returns on capital for long periods of time, as per Smith and Mayer's definition):
+If you don't mind listening to Greenwald's nasal voice, this one is a pretty good clip on what makes a good business (i.e. a business that generates high returns on capital for long periods of time, as per Smith and Mayer's definition):
 
 {{<youtube w166d7hnMqA>}}
 
@@ -82,7 +82,7 @@ In the book series, Hari Seldon developed "an algorithmic science that allowed h
 
 I remember finding this idea fascinating, and not all that crazy. Based on a combination of irreversible secular trends, the mathematician was able to derive a probabilistically almost-inevitable end state of the system, whatever the actions of any individual or groups of individuals.
 
-It's like there is this structural shift happening that nothing can stop - and everything else is just random noise.
+It's as if there was a structural shift happening that nothing can stop - and everything else is just random noise.
 
 It reminds me of this tweet describing how Buffet became one of $AAPL's biggest shareholders:
 
@@ -108,7 +108,7 @@ It's a way to depict not only how much resolution we lose between reality and ou
 
 I've recently become aware of how little I know about the companies I follow. It occurs to me that pretty much everyone knows very little about the companies they invest in.
 
-Take $LEAT as an example. This is a company that designs and sells personal protective equipment for motorsports. 
+Take [$LEAT](https://finance.yahoo.com/quote/LEAT) as an example. This is a company that designs and sells personal protective equipment for motorsports. 
 
 The company has been highly successful in growing its revenue by broadening its product offering and using a DTC (online) channel:
 
