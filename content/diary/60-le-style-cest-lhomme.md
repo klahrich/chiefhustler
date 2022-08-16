@@ -22,7 +22,7 @@ What if we shouldn't _choose_ a style (based on expected performance) but instea
 
 What I mean is: maybe our style exists already; it's out there. And our job is to find it, to recognize it. 
 
-Maybe the purpose of life (and investing) is to understand who we are, have our actions be aligned with who we are, and unlock our flywheel of personal growth.
+Maybe the purpose of investing (and life) is to understand who we are, have our actions be aligned with who we are, and unlock our flywheel of personal growth.
 
 Viewed this way, all of sudden, I see the appeal, not having _a_ style, but of finding my style. It's the appeal of the magic of long-term compounding. 
 
