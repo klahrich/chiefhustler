@@ -4,62 +4,95 @@ date: 2022-07-04T18:05:23-04:00
 draft: true
 ---
 
-Valuation:
-US$3.1M adj EBITDA in 2022Q1
-US$21.8M in cash
-price: CA$2.45 or $1.78
-MC: US$45.5M (non-diluted)
-EV = US$23.7M
-EV/EBITDA(runrate) = 23.7/(3.1*4) = 1.9x
-----
+# The Business
 
-From: https://finance.yahoo.com/news/cipher-pharmaceuticals-reports-fourth-quarter-210000914.html
+Cipher Pharmaceuticals is a very small (~ US$45M market cap) specialty pharma company that sells its products in Canada and out-licenses in the US.
 
-In February 2021, we entered into a co-promotion agreement with Verity Pharmaceuticals for the marketing, sales & co-promotion of Brinavess and Aggrastat
+The flagship product is isotretinoin for the treatment of acnea, branded as Epuris in Canada and Absorica in the US. The competitive advantage of this product is that it doesn't require to take food at the same time, which is most convenient for the target population (teens).
 
-In September 2021, Cipher entered into a distribution and supply agreement with ANI Pharmaceuticals, Inc. Under the ANI Agreement, ANI was granted the exclusive right to market, sell and distribute Lipofen and fenofibrate in the United States. The ANI Agreement is for a period of five years and ANI has the right to extend the term for two additional two-year periods.
+Absorica is priced higher than Epuris but is facing competition from generics, and its sales are declining.
 
-Furthermore, in the second quarter we launched Absorica AG with our marketing partner Sun Pharmaceutical Industries, Inc. ("Sun Pharma") in order to broaden Cipher's isotretinoin portfolio and maximize its value. Subsequent to year-end, we were pleased to announce an extension of the distribution and supply agreement with Sun Pharma through December 31, 2026
+Epuris sales are more resilient. In fact they're growing.
 
-Overall, 2021 was a transformational year for Cipher. The Company fortified its balance sheet, improved distribution agreements and is generating substantial cash flow from operations.
+In the US, the company also licenses Lipofen, a product for the treatment of high cholesterol.
 
-Our key priorities for 2022 include continuing to allocate our capital efficiently with the goal of driving shareholder value.
+In the Canada, the company sells a bunch of other products, but they don't amount to much revenue-wise.
 
---- from Yahoo comments
+# Why it's interesting: the price
 
-Decent Phase III COMFORT™ study results from Can-Fite (CANF) were released this week. Cipher holds the Canadian distribution rights for CF-101.
+The company has US$24M in cash, no debt.
 
-The US$21.9M in cash, $0 debt, and consistent earnings make it low risk. The potential catalysts with MOB-015, CF-101, share buybacks, and/or acquisitions are the only reasons I continue holding.
+TTM revenue is $21M, TTM Net income is $8M.
 
-Potential Catalysts:
--Favorable phase 3 study topline results for CF-101 (for plaque psoriasis)
--Positive update on the second phase 3 study for MOB-015 (for nail fungus)
--A product acquisition using some of the $20.5M cash
--More aggressive monthly share buybacks via the NCIB
+Backing out the cash from market cap gives a P/E of ~2.6.
 
-Potential Risks:
--CF-101 results show inferiority to Otezla®
--MOB-015 results show visible nail whitening (again)
--Licensing revenue from Absorica continues to decline
--The cash stockpile is used in an imprudent manner
+The company also has a tax loss asset from a previous acquisition, probably worth around ~$6M. So it's not paying taxes right now, even though those taxes are still getting accrued on its financial statements and reducing the net income.
 
-CF101 Phase 3 study topline results were expected in Q1 2022 according to Cipher's most recent MD&A and Can-Fite BioPharma's own website. We should be seeing this news any day now. Over one million Canadians suffer from psoriasis. Strong study results should serve as a catalyst since Cipher holds the Canadian distribution rights for CF101.
+# Revenue quality
 
-A massive buyback of 196,300 shares was just released on SEDI this evening April 11, 2022. This is Cipher's biggest share buyback yet on this latest NCIB which runs from Sept 10, 2021 to Sept 9, 2022 and allows them to buyback & cancel up to 1,541,445 shares (or 10%) of the public float. This brings the total number of shares bought back under the current NCIB to 1,029,600 (or 67% of the total allowed).
+The revenues from the main product (Absorica) are declining due to competition from generics (introduced in 2021Q2):
 
-In my opinion, this is the optimum use of the $20.5M cash on the balance sheet while we await results of the second Phase 3 study for MOB-015. Share buybacks are superior to special dividends or a risky product acquisition. I know management is keeping their eyes open for a potential legacy product to buy in an effort to bolster revenue as Absorica declines, but I hope they err on the side of prudence. After all, the first Phase 3 study for MOB-015 already showed safety and efficacy - it just needed reformulation to prevent nail discoloration. The total Rx market for Onychomycosis in Canada is USD $60+ million, and hopefully MOB-015 will be able to take a big chunk of that.
+![absorica](/images/absorica.png)
 
-The nail fungus phase 3 looks interesting from a potential addition to the pipeline perspective.
-And potentially a huge revenue generator in a short time frame (as far as pharmaceutical pipelines are concerned). The US market for onychomycosis is $2.9 billion. MOB-015 is a patented and proprietary formulation of terbinafine, so it's based on a compound that's already proven effective, which means it's a low risk from an investor standpoint. Moberg Pharma will start enrolling patients in Q2 2022 for the 52 week phase 3 study. And they're projecting to launch MOB-015 in 2023. Great news, especially since Absorica revenue will begin drying up due to generic isotretinoin products on the market.
+On the other hand, revenues from the Canadian version are surpsingly strong and pretty much make up for the decline of Absorica:
 
-@RJ Epuris product revenue continued to grow in Q4 ($2.9M vs $2.1M), but they're going to need to compensate for the decreasing Absorica licensing revenue in Q4 ($1.6M vs $3.0M) in future quarters in order to maintain total revenue levels. So far management has been able to accomplish this, but it's a potential risk going forward. Hopefully solidifying their distribution agreements throughout 2021 will bode well for Cipher in the fiscal years ahead.
+![isotretinoin](/images/isotretinoin.png)
+
+The only other product worth mentioning is Lipofen (TTM revenue $3.2M).
+
+The rest of the currently commercialized portfolio is not worth mentioning.
+
+{{<highlightme-orange "To be attractive to investors, the company needs a way to grow its revenues.">}}
+
+# The tricky part
+
+In the last earnings call of 2022Q2, the interim CEO has emphasized that the focus of the company is to use its cash to make an acquisition soon.
+
+The issue is...the company does NOT have a stellar track record when it comes to acquisitions. In fact, it's a shitty track record, whether it is acquiring product rights or portfolios/companies.
+
+See for example the acquisition of the Canadian marketing rights for Eskata ([link](https://www.cantechletter.com/2018/04/cipher-pharmaceuticals-has-a-big-upside-says-echelon-wealth/#)) or the acquisition of Cardiome Pharma Corp. for $25.5M, both in 2018, and both have amounted to nothing.
+
+The current CEO is Craig Mull, the son of the founder (John Mull, MD). Craig is the *interim* CEO, as he has other business to attend to (a real-estate development firm for example).
+
+In a recent interview with Smallcap Discoveries ([link](https://www.youtube.com/watch?v=KaMcG2ZO1Sc)), he does not strike me as a super high energy, high ambition type of guy.
+
+# So why am I long?
+
+1. I'd like to think that they have learned from their past mistakes and that their next acquisition won't be as bad as the previous ones.
+
+2. One of the products they're currently testing, MOB-015 (nail fungus treatment), is interesting. It's developed by Moberg Pharma AB and Cipher has the exclusive Canadian rights. The TAM in Canada is ~$75M, dominated by on existing product. The advantage of MOB-015 is that it's a topical treatment, as opposed to an oral pill that can cause liver problems. It is currently in a second phase 3 study in the US, after which Cipher can apply to Health Canada. The 1st phase 3 study showed safety and efficacy - it just needed reformulation to prevent nail discoloration. The product probably can't be commercialized before 2024 though.
+
+3. Worthy of note but slightly less exciting is CF-101, developed by Can-Fite for the treatment of psoriasis, for which Cipher also holds the Canadian distribution rights. The recent Phase 3 study showed good (not great) results, compared to the existing product Otezla®. I.e. it seems to be slightly less efficient but safer to use.
+
+4. I expect sales of Epuris to continue to be strong. In QC and BC, some of their competitors benefit from public reimbursement whereas Epuris does not, yet - but that might change, which would help gain even more market share. Epuris has also been approved in Mexico, and the company has a licensing arrangement in place there (and the company they're working with also has branches in other latin american countries including Chile and Peru).
+
+5. They've been aggressively buying back shares as of late, which is a sign of intelligence in my book, and they expect to renew the NCIB.
+
+6. Insider ownership is 40%+.
+
+7. The current CEO has been quite good at slashing SG&A costs, another sign of intelligence.
+
+<figure>
+  <img src="/images/cipher-sga.png">
+  <figcaption>source: <a href=https://pettycash.substack.com/p/cipher-pharmaceuticals-inc-update>Petty Cash</a></figcaption>
+</figure>
 
 ## Links
 
-https://pettycash.substack.com/p/cipher-pharmaceuticals-inc-update
-https://pettycash.substack.com/p/cipher-update-cphto?r=7zdst&s=w&utm_campaign=post&utm_medium=web
-https://twitter.com/TheCapitalist24/status/1506989560546349072
-https://twitter.com/TrentBlair19/status/1514399884270608391
-https://ir.canfite.com/news-events/press-releases/detail/993/can-fite-announces-positive-top-line-results-from
+[April 2018 - Acquisition of the Canadian marketing rights for Eskata](https://www.cantechletter.com/2018/04/cipher-pharmaceuticals-has-a-big-upside-says-echelon-wealth/#)
+
+[May 2018 - Acquisition of Cardiome Pharma Corp](https://cipher.investorroom.com/2018-05-16-Cipher-Pharmaceuticals-Inc-Completes-Acquisition-of-100-of-Cardiome-Pharma-Corp)
+
+[CF-101 Phase 3 study results](https://seekingalpha.com/news/3852810-can-fite-stock-rises-23-as-psoriasis-drug-beats-placebo-but-lags-behind-otezla-in-phase-3-trial)
+
+[Can-Fite news release on phase 3 results](https://ir.canfite.com/news-events/press-releases/detail/993/can-fite-announces-positive-top-line-results-from)
+
+[Research on PASI-75 vs PASI-90](https://pubmed.ncbi.nlm.nih.gov/28042711/#:~:text=PASI%2075%20indicates%20a%2075,indicative%20of%20excellent%20disease%20improvement)
+
+[Petty Cash update (May 2022)](https://pettycash.substack.com/p/cipher-pharmaceuticals-inc-update)
+
+[Petty Cash update (Mar 2022)](https://pettycash.substack.com/p/cipher-update-cphto?r=7zdst&s=w&utm_campaign=post&utm_medium=web)
+
+[Twitter thread from @TheCapitalist24](https://twitter.com/TheCapitalist24/status/1506989560546349072)
 
 

@@ -48,6 +48,7 @@ _Higher quality:_
 - [CO/nversations](https://open.spotify.com/show/3cfeneJaV9P3ngWUxb6PLD)
 - [Superinvestors and the Art of Worldly Wisdom](https://open.spotify.com/show/3cfeneJaV9P3ngWUxb6PLD)
 - [Petty Cash](https://pettycash.substack.com/)
+- [AlphaStreet YouTube channel](https://www.youtube.com/c/AlphaStreetStudio/videos)
 
 ## Food for Thought
 
@@ -80,3 +81,4 @@ _Higher quality:_
 - [Saber Capital Management](https://sabercapitalmgt.com/)
 - [Vineyard Holdings](https://vineyardholdings.net/notes/)
 - [50x podcast](https://www.50xpodcast.com/)
+- [Fund Letters](https://seekingalpha.com/author/fund-letters)

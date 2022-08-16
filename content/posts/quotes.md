@@ -304,3 +304,6 @@ _I am proud to note that we hire and promote on merit only, and because of that 
 [Ken Rotman, Chief Executive Officer of Clairvest, Annual Report 2022](https://www.clairvest.com/wp-content/uploads/Annual-Report-2022-FINAL.pdf)
 <br/><br/>
 
+_Even if we had a crystal ball, the investment implications of future events and conditions are unknowable._<br/>
+[Michael O’Higgins, cited by Chris Mayer](https://www.woodlockhousefamilycapital.com/post/dare-to-be-na%C3%AFve)
+<br/><br/>
