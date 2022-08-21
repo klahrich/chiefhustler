@@ -36,7 +36,7 @@ But I've never put any effort into understanding the company because of two reas
 
 On point 1., the reality is that Carvana is also in the auto lending business. Maybe that's a good thing, maybe that makes it even worse. I don't know.
 
-On point 2., my gold standard is people like Warren Buffett or Leonard Cohen. Go ahead and try to find something bad said about them or their actions anywhere. Good luck.
+On point 2., my gold standard is people like Warren Buffett or Leonard Cohen. Go ahead and try finding something bad said about them or their actions anywhere. Good luck.
 
 So I thought I had good reason to dismiss this investing "opportunity". And after thinking about it some more, I still do. It's just not for me. I don't understand this business well enough and I don't have a high enough interest to understand it.
 
