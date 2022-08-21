@@ -82,3 +82,5 @@ _Higher quality:_
 - [Vineyard Holdings](https://vineyardholdings.net/notes/)
 - [50x podcast](https://www.50xpodcast.com/)
 - [Fund Letters](https://seekingalpha.com/author/fund-letters)
+- [Fund Letters (2)](https://finmasters.com/hedge-fund-letters-to-investors/)
+- [Spree Capital Advisers](https://www.spreecap.com/research)

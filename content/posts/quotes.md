@@ -307,3 +307,7 @@ _I am proud to note that we hire and promote on merit only, and because of that 
 _Even if we had a crystal ball, the investment implications of future events and conditions are unknowable._<br/>
 [Michael O’Higgins, cited by Chris Mayer](https://www.woodlockhousefamilycapital.com/post/dare-to-be-na%C3%AFve)
 <br/><br/>
+
+_The goal isn't to buy the good businesses. The goal is to buy the good businesses that other people don't think are the good businesses._<br/>
+[Clifford Sosin, on Yet Another Value Podcast](https://youtu.be/mX0shUT5iwQ?t=890)
+<br/><br/>
