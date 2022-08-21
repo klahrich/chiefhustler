@@ -1,6 +1,6 @@
 ---
 title: "#65 - Mako Mining 2022Q2"
-date: 2022-08-16T16:48:00-04:00
+date: 2022-08-21T12:46:20-04:00
 draft: false
 summary: [Update on cashflow and valuation.]
 categories: ["stocks", "MKO.V"]
