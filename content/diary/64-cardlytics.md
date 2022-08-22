@@ -6,6 +6,12 @@ summary: 'I get why this is a good opportunity...but is it a great business?'
 categories: ["stocks", "CDLX"]
 ---
 
+<blockquote>
+It is wise to be rational, but unwise to expect others to be.
+
+Especially when your livelihood depends on it.
+</blockquote>
+
 As of today, I haven't decided to put money into Cardlytics yet, and I want to explain why - in case I want to look back at it later.
 
 But before I get to Cardlytics, I want to make a quick detour through Carvana and Cliff Sosin - because that's how I got introduced to the name. 

@@ -8,7 +8,7 @@ categories: ["stocks", "MKO.V"]
 
 2022Q2 results are out ([link](https://ceo.ca/@newswire/mako-mining-provides-q2-2022-financial-results)).
 
-FCF breakdown: 7.5 [mine OCF] - 1.0 [royalties & taxes] - 1.9 [capex] = US$4.6M or CA$5.9.
+FCF breakdown: 7.5 [mine OCF] - 1.0 [royalties & taxes] - 1.9 [capex] = US$4.6M or CA$5.9M.
 
 The stock price has taken a beating as of late, currently sitting at CA$0.23. Market cap = $151.4M.
 
@@ -28,11 +28,11 @@ The CEO left this comment on ceo.ca which I found interesting:
 
 The current run-rate OCF is ~US30M. 
 
-x6 => fair price at the current production (500tpd) is ~US$180M or CA$234.
+x6 => fair price at the current production (500tpd) is ~US$180M or CA$234M.
 
-So according to the CEO, the current EV of CA$172 represents a 26% discount. 
+So according to the CEO, the current EV of CA$172M represents a 26% discount. 
 
-And if/when production doubles, let's say (after synergies) yielding OCF of US$70M, we should be able to get a market cap of US$420M or CA$545. With 657M shares outstanding, that's a stock price of CA$0.83 or a 3.6x.
+And if/when production doubles, let's say yielding OCF of US$70M (after synergies), we should be able to get a market cap of US$420M or CA$545M. With 657M shares outstanding, that's a stock price of CA$0.83 or 3.6x from here.
 
 Just to be clear, this is the opinion of the CEO so take it with a grain of salt, and it relies on doubling the production capacity as well as a proven long-enough mine life.
 
