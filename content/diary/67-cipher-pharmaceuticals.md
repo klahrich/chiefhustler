@@ -1,7 +1,7 @@
 ---
 title: "#67 - Cipher Pharmaceuticals $CPH.TO"
 summary: ["Very cheap. Bad history. Value trap?"]
-date: 2022-07-04T18:05:23-04:00
+date: 2022-09-02T18:05:23-04:00
 draft: false
 cateogories: ["stocks", "CPH.TO"]
 ---
