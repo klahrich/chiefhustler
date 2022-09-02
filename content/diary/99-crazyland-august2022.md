@@ -1,6 +1,6 @@
 ---
-title: "#99 - Stuff Happened"
-date: 2022-08-08T11:00:02-04:00
+title: "#66 - Stuff Happened"
+date: 2022-09-01T11:00:02-04:00
 summary: "August 2022"
 draft: false
 categories: ["crazyland"]
