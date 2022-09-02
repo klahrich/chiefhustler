@@ -4,6 +4,16 @@ date: 2022-07-04T18:05:23-04:00
 draft: true
 ---
 
+Every thesis out there starts with why the investment is compelling, and ends with a bullet point list of potential risks.
+
+Let me do the opposite here and start with what I think is the obvious risk here: this could be a value trap.
+
+I say _could_ because there are some potential avenues for growth, but none of them is confirmed yet. 
+
+While I already have a small position here, I am waiting to see what management will do with their cash and for more visibility into future product launches before I deploy more capital.
+
+With that out of the way, here's some context about the company.
+
 # The Business
 
 Cipher Pharmaceuticals is a very small (~ US$45M market cap) specialty pharma company that sells its products in Canada and out-licenses in the US.

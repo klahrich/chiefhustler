@@ -1,8 +1,12 @@
 ---
-title: "99 Crazyland August2022"
+title: "#99 - Stuff Happened"
 date: 2022-08-08T11:00:02-04:00
-draft: true
+summary: "August 2022"
+draft: false
+categories: ["crazyland"]
 ---
+
+# August 2022
 
 {{<headline "Tax cuts, Truss said, will help rein in runaway prices and boost growth.">}}
 [Liz Truss, frontrunner to replace Boris Johnson, on her plan to fight inflation](https://www.cnn.com/2022/08/08/economy/liz-truss-economic-plan-flaws/index.html)
@@ -74,3 +78,32 @@ draft: true
 
 ![fixed-rate-pizza](/images/fixed-rate-pizza.png)
 
+----
+{{<headline "Joe Biden announces $10,000 in student loan forgiveness" >}}
+[The move would wipe clean up to $10,000 in debt from borrowers making less than $125,000 per year.](https://www.youtube.com/watch?v=TqtJusgdOPk)
+
+![biden-student-debt](/images/biden-student-debt.png)
+
+----
+{{<headline "F.B.I. Searches Trump’s Mar-a-Lago Residence in Florida">}}
+[The former president called the search an “assault”](https://www.nytimes.com/live/2022/08/08/us/trump-fbi-raid)
+
+![trump-123](/images/trump-123.png)
+
+----
+{{<headline "Powell warns of ‘some pain’ ahead as the Fed fights to bring down inflation">}}
+[Fed Pivot My A*S](https://themacrocompass.substack.com/p/jackson-hole#details)
+
+![powell-hawkish](/images/powell-hawkish.png)
+
+----
+{{<headline "Japan considering development of new nuclear reactors">}}
+[Japanese Prime Minister has instructed his government to consider developing safer, smaller nuclear reactors](https://www.salemnews.com/news/business/japan-considering-development-of-new-nuclear-reactors/article_1fa2b3e6-6f96-5f2c-9f7c-680312607885.html)
+
+![japan-pm](/images/japan-pm.png)
+
+----
+{{<headline "Macron warns of ‘end of abundance’ as France faces difficult winter">}}
+[“What we are currently living through is a kind of major tipping point or a great upheaval…”](https://www.theguardian.com/world/2022/aug/24/macron-warns-of-end-of-abundance-as-france-faces-difficult-winter)
+
+![macron-a](/images/macron-a.png)

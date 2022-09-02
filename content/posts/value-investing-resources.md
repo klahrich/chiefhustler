@@ -15,6 +15,8 @@ This list is by no means intended to be comprehensive, and it will most likely g
 
 #### US
 
+- [Insider Monkey](https://www.insidermonkey.com/insider-trading/purchases/)
+
 - [Bezinga](https://www.benzinga.com/sec/insider-trades/?utm_campaign=partner_feed&utm_source=yahooFinance&utm_medium=partner_feed&utm_content=site)
 
 - [Tipranks](https://www.tipranks.com/inside-trading)

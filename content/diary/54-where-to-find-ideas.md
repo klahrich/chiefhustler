@@ -58,6 +58,7 @@ _Higher quality:_
 - [Berkshire letters, 1977 to 2019, one pdf](https://drive.google.com/file/d/1rfi-dvdOg62e4LMMyF2bKTGK5g1C51Pv/view?usp=sharing)
 - [Mark Leonard letters to shareholders](https://www.csisoftware.com/category/pres-letters)
 - [Mark Leonard letters to shareholders, one pdf](https://drive.google.com/file/d/1nTGBuikH1Y8ZPFAA4WBcFfkmCQ8lUxSi/view?usp=sharing)
+- [Constellation Software Q&A](https://www.csisoftware.com/investor-relations/shareholder-q-and-a)
 - [Canterburry Tollgate letters](https://www.canterburytg.com/letters)
 - [Chris Mayer's blog](https://www.woodlockhousefamilycapital.com/blog)
 - [Akre Capital blog](https://www.akrecapital.com/our-thinking/)
@@ -84,3 +85,4 @@ _Higher quality:_
 - [Fund Letters](https://seekingalpha.com/author/fund-letters)
 - [Fund Letters (2)](https://finmasters.com/hedge-fund-letters-to-investors/)
 - [Spree Capital Advisers](https://www.spreecap.com/research)
+- [Insider Monkey - Hedge Fund Investor Letters](https://www.insidermonkey.com/blog/category/hedge-funds/hedge-fund-investor-letters/)
