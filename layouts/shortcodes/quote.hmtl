@@ -1,0 +1,7 @@
+<blockquote>
+
+<div>{{index .Params 0}}</div><br/>
+
+<footer>— <a href="{{index .Params 2}}">{{index .Params 1}}</a></footer>
+
+</blockquote>
