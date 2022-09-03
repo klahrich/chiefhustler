@@ -8,7 +8,10 @@ summary: "Another rough month."
 
 {{<quote "We really did have everything, didn't we?" 
         "Don't Look Up!" 
-        "https://www.youtube.com/watch?v=W58fZ-p_jfk">}}
+        "https://www.youtube.com/watch?v=4-zv5Cvg6pM">}}
+
+
+_In my opinion, it doesn't do much good today to try to explain what just happened in any detail. There is nothing to be gained. I'm focused on what's ahead, not behind._ [Chris Mayer - blog post of Sep 2022](https://www.woodlockhousefamilycapital.com/post/_ouch)
 
 ## Performance update
 
@@ -22,7 +25,7 @@ It's that time of the month again...
 
 Another rough month. I'm still paying for the mistakes I made earlier this year.
 
-The biggest one was buying **and holding** a junior mining exploration company _after it quickly doubled up_.
+The biggest one was buying **and holding** a junior mining exploration company _after it quickly doubled up_ (I'm now down 50% on it 🤦🏻‍♂️).
 
 You know why I didn't sell it?
 
