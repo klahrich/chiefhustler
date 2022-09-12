@@ -311,3 +311,11 @@ _Even if we had a crystal ball, the investment implications of future events and
 _The goal isn't to buy the good businesses. The goal is to buy the good businesses that other people don't think are the good businesses._<br/>
 [Clifford Sosin, on Yet Another Value Podcast](https://youtu.be/mX0shUT5iwQ?t=890)
 <br/><br/>
+
+_Ideas are 5%, execution is 95%._<br/>
+[Spotify founder Daniel Ek, 2012](https://twitter.com/JonErlichman/status/1566788980846333953)
+<br/><br/>
+
+_You can only bet on the end of the world once — so you better be right! And even if you are right it won’t matter!_<br/>
+[Adam D. Wyden on long-term investing](https://twitter.com/Adam_Wyden/status/1569446852638183424)
+<br/><br/>

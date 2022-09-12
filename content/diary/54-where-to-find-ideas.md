@@ -49,6 +49,7 @@ _Higher quality:_
 - [Superinvestors and the Art of Worldly Wisdom](https://open.spotify.com/show/3cfeneJaV9P3ngWUxb6PLD)
 - [Petty Cash](https://pettycash.substack.com/)
 - [AlphaStreet YouTube channel](https://www.youtube.com/c/AlphaStreetStudio/videos)
+- [rally.co](https://www.rally-co.ca/)
 
 ## Food for Thought
 
