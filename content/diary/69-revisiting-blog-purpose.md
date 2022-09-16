@@ -1,12 +1,12 @@
 ---
 title: "#69 - Revisiting the purpose of journaling"
-summary: "Why I write, and I why I want to own fewer stocks"
+summary: "Why I write, and I why I want to own fewer stocks."
 date: 2022-09-16T14:07:27-04:00
 draft: false
 categories: ['investing']
 ---
 
-# Revisiting the question: why do I write?
+# Why do I write?
 
 A long, long time ago I tried to justify the existence of this "blog" if you want to call it that. I wrote about it [here](/posts/why-write/).
 
@@ -38,7 +38,7 @@ Also a perfectly valid point.
 
 So we now have two solid reasons not to go over 20.
 
-# Why a focused portfolio is better: the real reason
+# Why a focused portfolio is better
 
 I read somewhere about how Mark Leonard found out that when they reduced their hurdle rate on _some_ of their investments, the IRR on _ALL_ of their investments decreased. 
 
@@ -54,4 +54,4 @@ If the rock is our hurdle rate, we should protect it from less-than-great ideas 
 
 This is why I want to start thinking about reducing the number of stocks I own so that I am forced to keep the very best. 
 
-Diversification implies making compromises, hence diworsification. I prefer a no-compromise mindset.
+Diversification implies making compromises, hence diworsification. I'd rather aim for a no-compromise mindset.
