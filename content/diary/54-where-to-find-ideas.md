@@ -50,6 +50,7 @@ _Higher quality:_
 - [Petty Cash](https://pettycash.substack.com/)
 - [AlphaStreet YouTube channel](https://www.youtube.com/c/AlphaStreetStudio/videos)
 - [rally.co](https://www.rally-co.ca/)
+- [InsiderArbitrage](https://www.insidearbitrage.com/)
 
 ## Food for Thought
 

@@ -319,3 +319,7 @@ _Ideas are 5%, execution is 95%._<br/>
 _You can only bet on the end of the world once — so you better be right! And even if you are right it won’t matter!_<br/>
 [Adam D. Wyden on long-term investing](https://twitter.com/Adam_Wyden/status/1569446852638183424)
 <br/><br/>
+
+_There's something in our culture where we undervalue time, and we behave as if we had access to parallel worlds._<br/>
+[A lecture by Dr Ole Peters](https://www.youtube.com/watch?v=f1vXAHGIpfc)
+<br/><br/>

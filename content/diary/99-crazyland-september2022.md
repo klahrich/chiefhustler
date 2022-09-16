@@ -30,3 +30,8 @@ Queen elizabeth dies
 Switzerland forbids thermostat above 19
 
 ----
+
+https://nationalpost.com/news/politics/misgendering-incident-plunges-green-party-into-renewed-turmoil
+----
+
+https://twitter.com/GarlamWON/status/1569928178411642880
