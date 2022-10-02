@@ -35,3 +35,20 @@ https://nationalpost.com/news/politics/misgendering-incident-plunges-green-party
 ----
 
 https://twitter.com/GarlamWON/status/1569928178411642880
+
+----
+
+chamath unwinds spacs
+----
+
+asteroid satellite impact
+----
+
+federer quits tennis
+----
+
+Powell tanks the market
+----
+
+guy argues that $OPEN is profitable
+----

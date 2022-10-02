@@ -88,3 +88,4 @@ _Higher quality:_
 - [Fund Letters (2)](https://finmasters.com/hedge-fund-letters-to-investors/)
 - [Spree Capital Advisers](https://www.spreecap.com/research)
 - [Insider Monkey - Hedge Fund Investor Letters](https://www.insidermonkey.com/blog/category/hedge-funds/hedge-fund-investor-letters/)
+- [Walter Schloss Archive](https://www.walterschloss.com/)
