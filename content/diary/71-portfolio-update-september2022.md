@@ -36,13 +36,11 @@ I've been thinking a lot about these two. Beyond admitting when a mistake was ma
 
 But mistakes were made all right.
 
-On one hand, the intention was good: I did not want my portfolio to be a one-factor bet, like Richard here:
+On one hand, the intention was good. I did not want my portfolio to be a one-factor bet.
 
-{{<tweet 1576312174401945601>}}
+So I give myself 8/10 as far as avoiding the crowded hyped "growth" stocks.
 
-I give myself 8/10 as far as avoiding the crowded hyped "growth" stocks.
-
-But on the implementation, I give myself 0/10. By trying to avoid the truck in front of me, I crashed my car into a tree.
+But on the implementation front, I give myself 1/10. By trying to avoid the truck in front of me, I crashed my vehicle into a tree.
 
 While this scoring is harsh, there's good news. The error stems from a lack of knowledge and experience, which can be rectified with time. 
 
@@ -93,7 +91,7 @@ I've also noticed that I seem to have a particular affinity for businesses that 
 
 ## UPDATE (2022-10-04)
 
-On Mako: it looks like I'm not the only one being nervous
+On Mako: it looks like I'm not the only one being nervous.
 
 ![mako-wtf](/images/mako-wtf.png)
 
