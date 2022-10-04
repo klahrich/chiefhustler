@@ -323,3 +323,13 @@ _You can only bet on the end of the world once — so you better be right! And e
 _There's something in our culture where we undervalue time, and we behave as if we had access to parallel worlds._<br/>
 [A lecture by Dr Ole Peters](https://www.youtube.com/watch?v=f1vXAHGIpfc)
 <br/><br/>
+
+_People make their mistakes as they stumble uphill._<br/>
+[Jordan Peterson Gets Emotional in interview with Piers Morgan](https://www.youtube.com/watch?v=M1612L2FMHo)
+<br/><br/>
+
+_Teacher asks her young students how many sheep they would have if they started with 10 and one ran away. All said 9, except one who said there would be none left._ 
+_Teacher: "Obviously, you don't understand math."_
+_Student: "No, you don't understand sheep."_<br/>
+[Tweet by Chris Mayer](https://twitter.com/chriswmayer/status/1577268333275406338)
+<br/><br/>

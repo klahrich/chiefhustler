@@ -91,5 +91,13 @@ Similar to what Magnus Andersson shares in this interview on Evolution, I want t
 
 I've also noticed that I seem to have a particular affinity for businesses that sit in the middle of an ecosystem or in between the participants. of an ecosystem (e.g. Evolution sits in between the casino operators and the players). Many great companies fit this description.
 
+## UPDATE (2022-10-04)
 
+On Mako: it looks like I'm not the only one being nervous
+
+![mako-wtf](/images/mako-wtf.png)
+
+At this price, it doesn't make much sense to sell. So I'm kinda stuck here for the time being.
+
+Maybe I should give Akiba the benefit of the doubt. Maybe it'll all be fine. Or maybe I'll just get rekt. Time will tell.
 
