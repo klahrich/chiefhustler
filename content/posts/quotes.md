@@ -333,3 +333,7 @@ _Teacher: "Obviously, you don't understand math."_
 _Student: "No, you don't understand sheep."_<br/>
 [Tweet by Chris Mayer](https://twitter.com/chriswmayer/status/1577268333275406338)
 <br/><br/>
+
+_It's not about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward._<br/>
+[Sylvester Stallone as Rocky Balboa](https://www.youtube.com/watch?v=kyQrl7AWeXg)
+<br/><br/>
