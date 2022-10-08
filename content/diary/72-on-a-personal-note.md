@@ -28,7 +28,7 @@ This slow process _should_ position me better for the future.
 
 I own some good businesses, led by leaders that I admire. There are many more spectacular companies that I would love to own. 
 
-# All is relative
+# It's all relative
 
 At the same time, I feel grateful. For my health, for having a job and a rook over my head, and for the family that God gave me. 
 
