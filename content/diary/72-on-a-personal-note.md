@@ -38,7 +38,7 @@ I'm happy to have a good wife and three beautiful daughters. Money or no money, 
 
 I mainly want the money to be able to give them a good living environment, protect them from the vicissitudes of life, and spend more free time with them.
 
-Still, I am extremely lucky already. I'm having a blast.
+Still, I am extremely lucky already. I'm having a blast. 
 
 # What I've learned
 
