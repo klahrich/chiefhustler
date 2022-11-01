@@ -337,3 +337,11 @@ _Student: "No, you don't understand sheep."_<br/>
 _It's not about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward._<br/>
 [Sylvester Stallone as Rocky Balboa](https://www.youtube.com/watch?v=kyQrl7AWeXg)
 <br/><br/>
+
+_There are decades where nothing happens; and there are weeks where decades happen._<br/>
+Vladimir Ilyich Lenin
+<br/><br/>
+
+_Chesterton's fence: The principle that reforms should not be made until the reasoning behind the existing state of affairs is understood._<br/>
+[Elon Musk might remove the character limit from twitter](https://twitter.com/dvassallo/status/1586605923573059585)
+<br/><br/>
