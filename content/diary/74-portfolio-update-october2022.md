@@ -1,5 +1,5 @@
 ---
-title: "#72 - Portfolio Update, October 2022"
+title: "#74 - Portfolio Update, October 2022"
 date: 2022-11-01T10:58:40-04:00
 draft: false
 categories: ["portfolio"]
